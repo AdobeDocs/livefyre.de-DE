@@ -7,7 +7,7 @@ seo-title: Einrichten von Social Sharing
 title: Einrichten von Social Sharing
 uuid: e 1940 e 30-9 fbb -41 e 8-b 5 bb -497 a 5 b 06643 f
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 

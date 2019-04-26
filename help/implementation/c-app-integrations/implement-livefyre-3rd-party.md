@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Livefyre in ein CMS integrieren
 uuid: 5 a 3 e 18 e 8-8568-45 bb -9070-d 0 fa 43 dd 819 b
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 40cd8c2c89c17134bfcda510527dd6fff41400b5
 
 ---
 

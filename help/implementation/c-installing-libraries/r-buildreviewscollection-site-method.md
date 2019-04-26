@@ -10,7 +10,7 @@ solution: Experience Manager
 title: Buildreviewscollection-Site-Methode
 uuid: 88 af 4 c 88-57 de -4 ae 9-9394-550 c 94 off 48 f
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

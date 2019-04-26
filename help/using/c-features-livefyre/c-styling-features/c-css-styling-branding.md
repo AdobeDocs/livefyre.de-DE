@@ -5,7 +5,7 @@ seo-title: CSS-Stile und Branding
 title: CSS-Stile und Branding
 uuid: 729 a 2780-f 757-4 c 54-b 446-ff 832 cecf 620
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 

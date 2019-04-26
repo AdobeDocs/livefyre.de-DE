@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Inhalt hervorheben
 uuid: 89876 b 89-3 ee 2-40 cd -9431-377 e 43 ea 1 e 89
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

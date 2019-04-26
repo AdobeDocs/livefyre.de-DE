@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Studio-Berechtigungen für Benutzer verwalten
 uuid: 15 c 395 c 8-a 9 bb -4 b 0 b -9586-61 ac 36810730
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

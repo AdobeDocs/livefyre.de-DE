@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Übersetzungssätze erstellen und ändern
 uuid: 4 ed 559 a 3-d 2 f 2-4977-9172-c 9 e 0448 dec 74
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

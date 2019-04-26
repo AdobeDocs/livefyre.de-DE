@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Klassen und Methoden
 uuid: 2 e 7327 d 8-0 f 92-485 c-b 607-a 566894 b 3561
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

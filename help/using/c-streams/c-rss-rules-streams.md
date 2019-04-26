@@ -6,7 +6,7 @@ solution: Experience Manager
 title: RSS-Regeln
 uuid: 3 c 9 e 2069-bb 5-41 dc -8 b 35-6237642 a 538 a
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

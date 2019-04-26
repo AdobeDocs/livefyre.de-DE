@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Mit Livefyre mit Ping für Pull synchronisieren
 uuid: 7 b 059064-1 cca -46 d 7-8055-dfe 59 f 493 ac 1
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
 
 ---
 

@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Konfigurationsoptionen
 uuid: 4 a 7 f 03 b 3-6 d 97-46 e 9-8832-81 e 665 f 06 d 3 a
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

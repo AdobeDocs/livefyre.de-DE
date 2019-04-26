@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Kommentarfunktionen
 uuid: ec 00 fcc 9-1 b 5 e -4 d 0 b-b 1 da -95 f 9 f 26 b 4 cc 1
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 

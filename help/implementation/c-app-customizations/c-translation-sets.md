@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Übersetzungssätze
 uuid: 8 ba 66 a 61-5520-482 a-bc 0 b-e 4 f 6 b 57 f 1744
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 366b7248c2f3b6994fa10419599e66fa1c8e5e48
 
 ---
 

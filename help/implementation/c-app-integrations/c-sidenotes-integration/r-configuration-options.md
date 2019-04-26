@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Optionen für die Konfiguration von Gruppen
 uuid: 067 e 51 e 6-9720-4226-a 805-c 7 a 07 c 8 cdaa 0
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Veröffentlichen einer Meldung
 uuid: 2 fbf 0 ab 3-ae 59-4 dac -8 a 4 d-e 076 bb 5 e 477 a
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

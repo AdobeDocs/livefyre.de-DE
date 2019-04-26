@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Kommentarapp einbetten
 uuid: e 4982 ad 3-cab 1-4805-a 55 c -594 cca 3 b 7203
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 268dc91369d346a254b7120706264eb91da8257e
 
 ---
 

@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Mosaik
 uuid: 331 c 5 f 80-7440-4 b 91-8 ac 6-4 f 56 a 8 a 5 befe
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

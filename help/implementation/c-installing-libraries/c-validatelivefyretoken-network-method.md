@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Validatelivefyretoken Network-Methode
 uuid: 2 bac 11 de-d 6 c 4-419 f -9 c 7 b -92 cfb 541 d 07 e
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

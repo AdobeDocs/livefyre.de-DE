@@ -5,7 +5,7 @@ seo-title: Verwenden von Livefyre mit Adobe Analytics und Dynamischem Tag-Manage
   (DTM) lk xavvn vefyre mit Adobe Analytics und Dynamischer Tag-Manager (DTM)
 uuid: 9 a 1 c 25 c 0-c 474-46 ff -82 ac-e 89357007 c 7 f
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 55bfc0a545bb4a1093c29bd11e764c9799135324
 
 ---
 

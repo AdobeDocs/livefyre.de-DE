@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Reviews
 uuid: 5386 fc 74-7 a 3 b -4 b 2 a -91 fd-cfe 5300 e 602 d
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

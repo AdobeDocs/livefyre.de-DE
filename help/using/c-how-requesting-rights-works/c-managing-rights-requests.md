@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Verwalten von Rechten
 uuid: e 8 f 7 f 73 e-da 8 a -43 dc-b 5 d 2-63485872 cdca
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 ---
 

@@ -10,7 +10,7 @@ solution: Experience Manager
 title: Teilweise automatisierte Instagram-Rechte senden
 uuid: 18 cf 88 ab-af 0 d -4 a 40-93 d 2-adfbdbdd 21 d 5
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: e60a58bf949e6e4f6f4f8d2fad1bd8985a593677
 
 ---
 

@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Eine Überprüfung posten
 uuid: b 7744 b 06-9 e 6 b -425 b -9 a 49-a 919 d 32 dfe 1 d
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

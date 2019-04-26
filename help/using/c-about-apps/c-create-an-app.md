@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Erstellen einer App
 uuid: 8 c 2 c 07 fb-a 951-47 d 9-b 498-4 c 487 ee 83 a 18
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

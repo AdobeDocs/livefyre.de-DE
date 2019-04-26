@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Collection- und Content-Tags
 uuid: 1 f 6900 ac -40 ff -41 ec-ac 26-25 ff 476 cd 820
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 

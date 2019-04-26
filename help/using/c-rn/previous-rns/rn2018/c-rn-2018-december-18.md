@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Livefyre-Versionshinweise 18. Dezember 2018
 uuid: 34 e 64943-dea 6-46 ac -9 fcc -8 febeab 6 aa 42
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 ---
 

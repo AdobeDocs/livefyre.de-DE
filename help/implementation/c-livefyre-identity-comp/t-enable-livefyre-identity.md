@@ -10,7 +10,7 @@ solution: Experience Manager
 title: Livefyre-Identität aktivieren
 uuid: 9 bb 5 e 168-4596-42 a 7-9105-e 09 c 65 c 5 e 3 ae
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

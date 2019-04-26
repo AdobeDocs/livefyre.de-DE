@@ -7,7 +7,7 @@ solution: Experience Manager
 title: Youtube-Regeln
 uuid: ec 6 a 3780-7119-45 c 3-8 ab 2-fb 0 f 9803 d 161
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 30aa5cce5e7567208362cc35caeb7b7260c42f3b
 
 ---
 

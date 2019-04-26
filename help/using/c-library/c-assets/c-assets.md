@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Assets
 uuid: 21 ab 781 a -3 a 5-4725-b 77 d -92 decc 2 d 2 e 1 f
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

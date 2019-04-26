@@ -5,7 +5,7 @@ seo-title: Benutzerdefinierte Zeichenfolgen
 title: Benutzerdefinierte Zeichenfolgen
 uuid: 73745273-d 3 fb -4569-8910-d 149 fb 37 a 7 b 4
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
 
 ---
 

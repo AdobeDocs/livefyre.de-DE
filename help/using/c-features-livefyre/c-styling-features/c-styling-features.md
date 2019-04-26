@@ -9,7 +9,7 @@ seo-title: Formatierungsfunktionen
 title: Formatierungsfunktionen
 uuid: 72 a 3843 d -692 a -43 ff-b 72 b -6 bd 840 de 87 d 6
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 

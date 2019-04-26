@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Verschiedene Funktionen
 uuid: 76 ac 2102-622 d -48 d 3-8 b 1 d -6 ca 6 c 90 c 806 a
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

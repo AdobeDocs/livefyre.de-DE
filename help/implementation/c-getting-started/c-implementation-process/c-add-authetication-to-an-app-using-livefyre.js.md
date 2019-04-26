@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Authentifizierung zu einer App mit Livefyre. js hinzufügen
 uuid: b 7 c 61 e 07-e 341-45 d 7-9112-c 50155 e 38 f 1 d
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: a6aebcc14325632cab0415e4aa4a24fda8a19bfc
 
 ---
 

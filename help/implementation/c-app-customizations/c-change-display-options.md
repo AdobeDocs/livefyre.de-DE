@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Anzeigeoptionen ändern
 uuid: 121 bb 921-d 9 a 7-4925-ab 46-8 e 3 d 7 dd 0 cbfe
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: bd989c97ae5cf06a5ac3deec215f865b0fe95d16
 
 ---
 

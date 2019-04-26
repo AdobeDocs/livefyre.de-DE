@@ -8,7 +8,7 @@ solution: Experience Manager
 title: IP-Adressen verbieten
 uuid: 4 d 21 b 53 e -4 cf 7-4 da 3-8910-9716709721 f 5
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Karussell lokalisieren
 uuid: 168 b 061 d-dc 60-4 a 4 a-b 6 f 7-154 a 3 f 81 dc 00
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

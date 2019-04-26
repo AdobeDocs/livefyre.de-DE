@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Suche nach Sammlung oder Content-Tag filtern
 uuid: e 690 a 6 fd-f 584-490 d -89 d 3-f 22550766698
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

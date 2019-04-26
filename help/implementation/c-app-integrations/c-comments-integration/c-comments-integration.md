@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Kommentare
 uuid: decad 9 b 0-2074-4748-bd 77-914008817 bfa
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 

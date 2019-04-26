@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Trendanpassungen
 uuid: 4 dc 58 d 90-8924-4 c 89-8 f 2 a -650 ac 6 e 538 a
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

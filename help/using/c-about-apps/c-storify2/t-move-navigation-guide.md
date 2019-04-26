@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Navigationsleitfaden verschieben
 uuid: 124 cfda 1-ef 58-4 b 41-97 e 2-7 a 4 fcf 08210 e
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

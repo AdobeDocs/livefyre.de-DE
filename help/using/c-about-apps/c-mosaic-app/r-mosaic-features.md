@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Mosaikfunktionen
 uuid: 95129 d 56-a 4 c 4-42 d 5-8 c 68-c 5 fc 159017 e 6
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 

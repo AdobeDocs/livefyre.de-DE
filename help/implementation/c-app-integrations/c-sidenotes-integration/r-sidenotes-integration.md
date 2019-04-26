@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Integration von Sidenotes
 uuid: 4 aa 14 ada -402 a -482 d-b 43 e -96 f 37 afa 6 c 53
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: fcee9dc152e7f8284e64248fdcc5bf81d39618ff
 
 ---
 

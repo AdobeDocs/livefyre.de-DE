@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Karussellfunktionen
 uuid: c 5 c 95675-d 7 ca -4677-b 293-16 de 5 ccf 0022
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 

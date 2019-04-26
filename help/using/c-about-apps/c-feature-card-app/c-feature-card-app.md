@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Feature Card
 uuid: 8 c 44 edad-d 8 a 5-452 e -952 c -5 d 6818 e 5 c 0 b 0
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

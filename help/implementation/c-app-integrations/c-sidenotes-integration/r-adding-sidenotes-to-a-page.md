@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Hinzufügen von Zielgruppen zu einer Seite
 uuid: 6499 c 45 a -3773-4 adb-a 6 c 7-22 a 628309 afd
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: bd989c97ae5cf06a5ac3deec215f865b0fe95d16
 
 ---
 

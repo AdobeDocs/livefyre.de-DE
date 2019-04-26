@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Google AMP mit Storify 2 verwenden
 uuid: 40 c 9 f 083-7284-43 ba-ae 27-53 b 1 ff 9 e 3954
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

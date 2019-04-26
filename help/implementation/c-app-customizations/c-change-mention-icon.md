@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Symbol @mention ändern
 uuid: a 395 f 4 ff-a 774-454 a -8 d 94-4 a 3371 d 8 cc 2 c
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 0d2ff61b1db6100de1d59e6e20c1175f015a78c5
 
 ---
 

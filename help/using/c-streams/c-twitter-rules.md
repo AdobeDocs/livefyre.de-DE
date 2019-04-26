@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Twitter-Regeln
 uuid: a 7 fd 2398-fd 6 b -4 c 24-92 b 2-7471176 d 7648
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 ---
 

@@ -10,7 +10,7 @@ solution: Experience Manager
 title: Buildchatcollection-Site-Methode
 uuid: 39 ee 32 d 0-29 c 9-47 a 8-a 458-a 3 cf 7 a 96 db 30
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 2908c6988c706a49c391f0e607bb641bce3a7f0d
 
 ---
 

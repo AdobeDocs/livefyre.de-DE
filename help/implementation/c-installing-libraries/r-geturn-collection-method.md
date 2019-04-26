@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Erfassungssammlungsmethode
 uuid: 2 f 4 d 7796-2 ae 5-4 b 74-a 958-40825 c 6 bff 16
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

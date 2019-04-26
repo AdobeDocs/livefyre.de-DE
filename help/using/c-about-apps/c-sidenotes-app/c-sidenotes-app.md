@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Zielgruppen
 uuid: 306294 e 9-1 b 4 e -44 cb-b 619-a 97840609 f 6 b
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

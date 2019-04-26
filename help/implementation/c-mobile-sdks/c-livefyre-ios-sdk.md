@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Livefyre ios SDK
 uuid: bfdef 31 a -49 fc -4 b 25-b 0 c 5-300 f 27067302
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

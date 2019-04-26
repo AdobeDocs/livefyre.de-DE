@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Einstellungen storify
 uuid: 030936 fb -7 c 8 b -487 e-b 468-7128 b 641 c 8 ed
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

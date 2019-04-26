@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Benutzerdefinierte Schaltflächenanpassungen
 uuid: d 820 bbec -8 c 76-4864-9 e 70-55394010 c 35 d
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

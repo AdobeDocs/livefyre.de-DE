@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Verwenden des Gewinnspielfilters
 uuid: b 0 b 1 fbae-c 88 c -403 c -9 b 91-df 6620675 f 39
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

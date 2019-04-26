@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Twitter-Anzeigeanforderungen
 uuid: 705 c 25 b 8-4 a 25-4640-9843-074 f 50 ebae 4 f
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

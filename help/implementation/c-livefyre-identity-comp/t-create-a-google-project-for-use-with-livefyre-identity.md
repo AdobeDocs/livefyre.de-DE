@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Erstellen eines Google Project für die Verwendung mit Livefyre Identity
 uuid: b 0 a 6 bb 8 a-abea -4 f 5 c -92 ed -26 e 60183 e 1 d
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

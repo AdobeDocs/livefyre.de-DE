@@ -7,7 +7,7 @@ seo-title: Inhalt in Asset-Bibliothek speichern
 title: Inhalt in Asset-Bibliothek speichern
 uuid: 5 f 076 a 55-4358-4 ee 5-866 e -5 b 6 c 0199 b 580
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

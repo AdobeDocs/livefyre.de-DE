@@ -5,7 +5,7 @@ seo-title: Integrieren von Livefyre in AEM
 title: Integrieren von Livefyre in AEM
 uuid: 59 e 34327-abad -43 cd -99 a 4-be 151 c 7 a 8 e 25
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
 
 ---
 

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Livefyre-Versionshinweise für den 14. März 2019
 uuid: 34 e 64943-dea 6-46 ac -9 fcc -8 febeab 6 aa 42
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 9246343b64915af07feb8952060c1e3af5aada56
 
 ---
 

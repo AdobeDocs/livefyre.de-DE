@@ -5,7 +5,7 @@ seo-title: 20. Juli 2017
 title: 20. Juli 2017
 uuid: 550815 a 9-a 6 e 2-4 e 98-b 5 d 6-7 f 4897373716
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 ---
 

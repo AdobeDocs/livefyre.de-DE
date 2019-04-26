@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Veröffentlichen von Benutzerberechtigungen für externe Systeme (optional)
 uuid: 9 c 18 b 20 d -3 b 93-4666-b 7 de -1 ec 60318 cf 88
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

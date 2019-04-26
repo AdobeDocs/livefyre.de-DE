@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Hot Threads
 uuid: 0011 f 769-6712-48 e 9-bb 10-a 43610 fef 595
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

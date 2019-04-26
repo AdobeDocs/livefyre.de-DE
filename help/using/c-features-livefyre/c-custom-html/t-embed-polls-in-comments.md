@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Umfragen in Kommentare einbetten
 uuid: 56 f 83743-352 a -4 ade -9 a 62-aeb 46004 b 5 db
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Rights Management einrichten
 uuid: 3 ffcbc 95-484 f -4 eba-b 817-658 c 1 d 658 bf 8
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 ---
 

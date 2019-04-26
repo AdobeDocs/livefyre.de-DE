@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Mobile sdks
 uuid: 84 c 7 ca 1 c -4401-492 a-bfa 5-62 b 996947 a 44
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

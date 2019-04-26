@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Stream-Regeloptionen für alle Stream-Regeln
 uuid: 4072 ee 83-31 e 7-4 de 6-918 c -134 b 8 b 8032 e 1
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 8bdb537b38d78dba033d6671b710c2a61934d6b2
 
 ---
 

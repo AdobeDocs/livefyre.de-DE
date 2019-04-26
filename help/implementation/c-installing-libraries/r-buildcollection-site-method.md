@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Buildcollection-Site-Methode
 uuid: 52 abc 42 a -9506-4492-b 219-f 2 e 05 eb 79 c 5 f
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

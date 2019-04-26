@@ -9,7 +9,7 @@ seo-title: Buildcountingcollection-Site-Methode
 title: Buildcountingcollection-Site-Methode
 uuid: e 293 d 66 a -0025-4230-997 e -295 ce 4625713
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

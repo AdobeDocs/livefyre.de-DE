@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Überprüfungsverlauf
 uuid: c 2 f 8 a 45 b -54 c 1-4667-893 a-b 3 bd 4 be 4546 a
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

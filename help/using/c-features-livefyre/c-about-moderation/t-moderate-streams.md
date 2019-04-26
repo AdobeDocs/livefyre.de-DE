@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Inhalte von Twitter-Benutzern einschränken
 uuid: 692 dd 9 c 0-487 d -4 ea 8-b 87 e -58 bea 22522 db
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Hinzufügen einer Umfrage zu einer Kommentare oder Live-Blog-App
 uuid: eedb 63 c 1-7 d 31-40 d 9-ab 3 e-b 15765 cbe 804
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

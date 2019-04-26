@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Anpassung von Funktionskarten
 uuid: dd 43 c 076-027 f -42 c 8-be 2 e -7 d 663 d 4 e 3976
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: a014b5cd618672934843f1adf20d6b2cc504e2d8
 
 ---
 

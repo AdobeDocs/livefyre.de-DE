@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Medien beschränken
 uuid: c 470 c 985-d 221-4 f 39-8 bd 4-4 e 44 ec 14 db 95
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

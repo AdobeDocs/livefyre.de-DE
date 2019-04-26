@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Aktivieren von Social Sharing
 uuid: f 584 a 0 ae -46 c 7-48 c 1-aea 4-36 da 9 f 1 e 259 b
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: d77b633b9892e3ea4aaec860317887f1fdf66830
 
 ---
 

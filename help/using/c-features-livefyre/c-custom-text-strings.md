@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Übersetzung und benutzerdefinierte Textzeichenfolgen
 uuid: 3 c 79 b 8 ea -37 a 0-465 d -8 fb 0-30 e 13 e 0 cd 7 f 7
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

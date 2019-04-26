@@ -5,7 +5,7 @@ seo-title: Top-Kommentare
 title: Top-Kommentare
 uuid: 23 c 4 a 766-b 3 e 8-4 fab-a 7 f 9-78 cdb 601652 a
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

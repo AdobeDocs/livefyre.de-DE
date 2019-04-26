@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Text hinzufügen
 uuid: 01 dba 567-daf 9-4 cfa -9671-b 85 f 3 d 132 ddc
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

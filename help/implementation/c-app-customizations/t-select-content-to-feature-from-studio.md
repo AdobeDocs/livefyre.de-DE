@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Wählen Sie Inhalt für Funktion aus Studio
 uuid: d 2983 d 44-e 388-4324-a 9 a 4-be 0 b 30 f 7 ceea
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

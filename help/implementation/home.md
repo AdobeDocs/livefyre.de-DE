@@ -4,7 +4,7 @@ solution: Experience Manager
 title: Livefyre-Implementierungshilfe
 uuid: ccdede 9 b -88 d 3-4 e 6 e -9105-662 e 984002 d 5
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: bf49abcfe0d29a1fa332161179d37ea14e7efb09
 
 ---
 

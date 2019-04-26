@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Zuordnungsfunktionen
 uuid: fdad 5 f 0 c -8292-4 f 59-bac 1-c 96 c 01 e 96 ff 5
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

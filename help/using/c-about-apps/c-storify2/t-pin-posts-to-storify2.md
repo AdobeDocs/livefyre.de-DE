@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Veröffentlichen eines Beitrags an Storify 2
 uuid: c 4043 ea 6-8763-4 afb-bc 1 b-d 69 e 1 c 8 eca 61
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

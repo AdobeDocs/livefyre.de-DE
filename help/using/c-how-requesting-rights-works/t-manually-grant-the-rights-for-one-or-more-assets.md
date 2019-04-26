@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Rechte für Assets manuell über die Asset-Bibliothek erteilen oder sperren
 uuid: 1 f 70 ab 9 a -239 d -4 a 9 c-a 17 c-d 2 bc 54 ff 3859
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

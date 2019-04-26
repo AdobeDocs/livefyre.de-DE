@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Registerkarte "App-Inhalt «
 uuid: 65 b 23085-2 b 79-4 a 6 f -96 c 9-44 b 421805312
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 ---
 

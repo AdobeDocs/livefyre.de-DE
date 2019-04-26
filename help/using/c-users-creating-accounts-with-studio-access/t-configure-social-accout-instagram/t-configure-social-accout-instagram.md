@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Social-Konto hinzufügen
 uuid: c 53 cbc 77-7394-499 c -80 ee -7 fe 22 cbafec 9
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 

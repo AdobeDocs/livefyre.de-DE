@@ -8,7 +8,7 @@ solution: Experience Manager
 title: E-Mail-Benachrichtigungen
 uuid: 27 dad 133-bd 8 d -4949-8146-1254 c 160 d 3 af
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 

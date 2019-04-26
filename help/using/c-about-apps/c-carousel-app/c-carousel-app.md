@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Karussell
 uuid: c 0704 fba -6119-44 ca -9 ad 1-1 e 2 cb 692 ebda
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

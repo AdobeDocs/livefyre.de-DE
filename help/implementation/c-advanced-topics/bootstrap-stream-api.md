@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Ansicht von Kontodetails
 uuid: bace 558 f-ade 8-49 d 6-abda -9 ee 754 ce 4 ac 0
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: d615705ccf5e4511cc735ce91d95c3e15d0c0160
 
 ---
 

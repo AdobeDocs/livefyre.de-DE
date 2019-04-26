@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Funktionen von Sidenotes
 uuid: f 175 c 1 a 7-2 ccb -43 f 9-bc 21-cc 418 dbbeb 48
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

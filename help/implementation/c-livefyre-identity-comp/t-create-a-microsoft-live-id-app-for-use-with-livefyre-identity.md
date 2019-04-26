@@ -10,7 +10,7 @@ solution: Experience Manager
 title: Erstellen einer Microsoft Live Identity App zur Verwendung mit Livefyre-Identität
 uuid: 0 c 13 e 1 bc -817 f -43 ed -85 d 5-09 c 9 e 95 b 6234
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

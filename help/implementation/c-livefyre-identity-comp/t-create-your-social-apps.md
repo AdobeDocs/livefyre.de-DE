@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Erstellen von Social-Apps
 uuid: b 3698 e 44-19 ba -489 f-a 4 d 2-072 ba 5430974
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

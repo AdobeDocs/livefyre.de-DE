@@ -10,7 +10,7 @@ solution: Experience Manager
 title: Navigationsleitfaden zu einem Storify 2 hinzufügen
 uuid: 2 db 131 b 2-54 b 8-4409-a 947-b 66169656 cad
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

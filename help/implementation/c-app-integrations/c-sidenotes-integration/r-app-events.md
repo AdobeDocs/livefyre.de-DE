@@ -6,7 +6,7 @@ solution: Experience Manager
 title: App-Ereignisse für Wettbewerbe
 uuid: afca 4 b 03-c 370-41 ca-aa 12-45 bc 357517 ca
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 987e682f9c7cd94543fd269f386fd2a971ee9934
 
 ---
 

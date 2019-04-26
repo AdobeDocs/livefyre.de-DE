@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Mitteilungen
 uuid: c 5963 db -4 d 96-494 e-bdb 3-da 3570 a 14 dfe
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 2e2c1a018e5ec58a3649bc27679d53390ffcc8ca
 
 ---
 

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Abstimmung von Abstimmungen
 uuid: 788 a 4 fa 7-aafb -4508-b 9 c 0-cd 54 e 4 cd 9 b 86
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

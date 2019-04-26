@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Bootstrap-HTML
 uuid: 137 e 4382-4 e 7 b -4124-9 d 35-1 d 872 a 497 bc 7
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

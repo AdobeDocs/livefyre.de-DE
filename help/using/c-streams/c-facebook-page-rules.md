@@ -7,7 +7,7 @@ solution: Experience Manager
 title: Facebook-Seitenregeln
 uuid: 2 be be be 63476-1 a 92-409 d-a 22 f-e 1 ec 66 b 6 dcc 8
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Javascript-Ereignisse für Unterhaltungsapps
 uuid: cce 112 b 5-7 c 3 a -4721-9854-fc 8471 f 3 d 5 d 0
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

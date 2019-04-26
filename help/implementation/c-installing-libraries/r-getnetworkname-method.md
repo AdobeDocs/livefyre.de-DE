@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Getnetworkname-Netzwerkmethode
 uuid: 3523 e 5 a 4-11 f 4-458 d -91 e 7-a 149 d 3 afe 5 e 9
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

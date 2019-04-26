@@ -5,7 +5,7 @@ seo-title: Benutzerdefinierte Aktionsaufruf-Schaltfläche
 title: Benutzerdefinierte Aktionsaufruf-Schaltfläche
 uuid: 8 c 653799-1602-4 e 38-a 2 bc -6 de 0 f 99 c 40 ff
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

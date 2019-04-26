@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Aktualisieren eines Tokens für ein Social-Konto
 uuid: 8 a 25305 c-aaa 3-460 f-b 782-404 a 55 b 491 cd
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

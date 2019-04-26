@@ -4,7 +4,7 @@ seo-description: Aktuelle Versionshinweise für Adobe Livefyre.
 seo-title: Aktuelle Versionshinweise für Adobe Livefyre
 title: Aktuelle Versionshinweise für Livefyre
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 5fce2796795e855504cfbaf18328704484d89fa6
 
 ---
 

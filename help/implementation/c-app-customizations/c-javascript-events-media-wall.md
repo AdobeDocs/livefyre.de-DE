@@ -9,7 +9,7 @@ solution: Experience Manager
 title: Javascript-Ereignisse für Medienpinnwand
 uuid: 8 afc 0529-4640-476 a-b 207-91 b 2 c 70101 f 0
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

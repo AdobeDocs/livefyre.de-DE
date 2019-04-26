@@ -5,7 +5,7 @@ seo-title: Hoverkarten
 title: Hoverkarten
 uuid: a 7336 a 4 d-b 92 f -4 b 3 b-a 3 de -713 aa 388 b 58 a
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 

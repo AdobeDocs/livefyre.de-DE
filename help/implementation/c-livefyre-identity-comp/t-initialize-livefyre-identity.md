@@ -7,7 +7,7 @@ seo-title: Livefyre-Identität initialisieren
 title: Livefyre-Identität initialisieren
 uuid: 9365 d 827-2734-4 a 84-bfe 7-9 be 573 b 2 b 03 e
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

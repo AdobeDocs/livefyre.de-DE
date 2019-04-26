@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Anzahl der Kommentare anzeigen
 uuid: 0 f 39 b 25 e -11 e 0-4945-be 71-55 fb 4798 b 6 c 7
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: c287e7a880f956f0444af746adee682571fe5a72
 
 ---
 

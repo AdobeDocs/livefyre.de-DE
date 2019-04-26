@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Site-Klassenmethoden
 uuid: cf 1 e 641 a-d 4 ef -4 c 92-a 7 d 1-985380434 fc 2
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

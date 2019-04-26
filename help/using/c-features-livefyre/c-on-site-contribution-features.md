@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Onsite-Beitragsfunktionen
 uuid: 1 f 441490-28 eb -4 fc 4-9 fe 8-0879 c 62 c 4 b 4 a
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 ---
 

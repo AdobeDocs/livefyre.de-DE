@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Sammlung ändern
 uuid: 81 c 8 a 554-375 f -4659-9 e 25-5 b 3618824633
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
 
 ---
 

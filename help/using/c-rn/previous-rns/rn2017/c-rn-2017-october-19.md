@@ -5,7 +5,7 @@ seo-title: 19. Oktober 2017
 title: 19. Oktober 2017
 uuid: 7 f 5 fba 9 e-bd 07-4 d 85-b 67 c -7 a 5577055447
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 ---
 

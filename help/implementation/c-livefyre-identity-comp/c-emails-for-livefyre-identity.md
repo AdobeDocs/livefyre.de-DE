@@ -6,7 +6,7 @@ solution: Experience Manager
 title: E-Mails für Livefyre-Identität
 uuid: 4 e 807803-687 e -4 df 0-94 d 1-b 18 a 48 d 024 e 8
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
 
 ---
 

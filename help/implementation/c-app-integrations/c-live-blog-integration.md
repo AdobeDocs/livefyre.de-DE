@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Live-Blog
 uuid: 5 ca 373 f 1-2008-45 ab -9 ec 2-1 e 295 af 4 e 368
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 987e682f9c7cd94543fd269f386fd2a971ee9934
 
 ---
 

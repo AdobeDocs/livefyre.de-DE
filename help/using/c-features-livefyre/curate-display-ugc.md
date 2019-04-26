@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Kuratieren und Anzeigen von UGC
 uuid: null
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: c5fd168c0ed74dada9fb85423c92cf6955c4b8c9
 
 ---
 
