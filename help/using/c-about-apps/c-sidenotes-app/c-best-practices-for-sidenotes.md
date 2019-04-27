@@ -1,8 +1,6 @@
 ---
-description: Wandeln Sie jede einzelne Seite auf Ihrer Website in eine kollaborative
-  und interaktive Arbeitsfläche um.
-seo-description: Wandeln Sie jede einzelne Seite auf Ihrer Website in eine kollaborative
-  und interaktive Arbeitsfläche um.
+description: Wandeln Sie jede einzelne Seite auf Ihrer Website in eine kollaborative und interaktive Arbeitsfläche um.
+seo-description: Wandeln Sie jede einzelne Seite auf Ihrer Website in eine kollaborative und interaktive Arbeitsfläche um.
 seo-title: Best Practices für Autoren
 solution: Experience Manager
 title: Best Practices für Autoren
@@ -25,7 +23,7 @@ Viele Kunden fragen Livefyre, wie sie in ihren Kommentaren die Ebene des bürger
 
 ## Interaktion erhöhen {#section_dzr_pc4_sy}
 
-Da Autotes eine neue Art der Kommentierung präsentieren, haben die Produkt- und Design-Teams hier unter Livefyre eine umfangreiche Benutzerforschung durchgeführt, während sie das Produkt entwickeln. Während dieser Sitzungen haben wir bemerkt, dass Benutzer Artikel zusammen mit ihrer Maus lesen. Durch das Tippen auf das Symbol "Sidenotes" unter allen Absätzen des Hover bietet das Produkt einen subtilen, aber konsistenten Aktionsaufruf für Benutzer in ihrem gesamten Leseerlebnis, wodurch die Interaktion und die Besuchszeit Ihrer Site gesteigert werden.
+Da Autotes eine neue Art der Kommentierung präsentieren, haben die Produkt- und Design-Teams hier unter Livefyre eine umfangreiche Benutzerforschung durchgeführt, während sie das Produkt entwickeln. Während dieser Sitzungen haben wir bemerkt, dass Benutzer Artikel zusammen mit ihrer Maus lesen. Durch das Tippen auf das Symbol &quot;Sidenotes&quot; unter allen Absätzen des Hover bietet das Produkt einen subtilen, aber konsistenten Aktionsaufruf für Benutzer in ihrem gesamten Leseerlebnis, wodurch die Interaktion und die Besuchszeit Ihrer Site gesteigert werden.
 
 ## Reichweite erweitern {#section_w1c_rc4_sy}
 
@@ -41,7 +39,7 @@ Obwohl wir Ihr Personal immer dazu ermutigen, an der Unterhaltung teilzunehmen, 
 
 ## Verwenden von Autoren zusammen mit Kommentaren {#section_lxv_1d4_sy}
 
-Einige Kunden fragen uns, ob sie zwischen "Sidenotes" und" Comments" wählen müssen. Daher ist es empfehlenswert, dass Autoren als Ergänzung zu den darauffolgenden Kommentarerfahrungen entworfen werden. Der traditionelle Kommentar-Abschnitt bietet immer noch einen großartigen Einblick, indem er den Benutzern einen einzigen eindringlichen Ort zur Diskussion des gesamten Artikels bietet, der Unterhaltungen mit mehreren Threads und erweiterten Medien anspricht.
+Einige Kunden fragen uns, ob sie zwischen &quot;Sidenotes&quot; und&quot; Comments&quot; wählen müssen. Daher ist es empfehlenswert, dass Autoren als Ergänzung zu den darauffolgenden Kommentarerfahrungen entworfen werden. Der traditionelle Kommentar-Abschnitt bietet immer noch einen großartigen Einblick, indem er den Benutzern einen einzigen eindringlichen Ort zur Diskussion des gesamten Artikels bietet, der Unterhaltungen mit mehreren Threads und erweiterten Medien anspricht.
 
 ## Kreative Elemente {#section_jxz_bd4_sy}
 

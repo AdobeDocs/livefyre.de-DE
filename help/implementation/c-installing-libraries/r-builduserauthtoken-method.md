@@ -1,8 +1,6 @@
 ---
-description: Gibt ein verschlüsseltes benutzerauthentifiziertes Token für das Netzwerk
-  zurück, von dem es aufgerufen wird.
-seo-description: Gibt ein verschlüsseltes benutzerauthentifiziertes Token für das
-  Netzwerk zurück, von dem es aufgerufen wird.
+description: Gibt ein verschlüsseltes benutzerauthentifiziertes Token für das Netzwerk zurück, von dem es aufgerufen wird.
+seo-description: Gibt ein verschlüsseltes benutzerauthentifiziertes Token für das Netzwerk zurück, von dem es aufgerufen wird.
 seo-title: Builduserauthtoken Network-Methode
 solution: Experience Manager
 title: Builduserauthtoken Network-Methode

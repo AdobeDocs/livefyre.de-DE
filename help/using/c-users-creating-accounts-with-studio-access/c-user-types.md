@@ -49,7 +49,7 @@ In Studio stehen die folgenden Benutzerrollen und aufgeführten Zugriffsberechti
    * Assets direkt in Apps mit Social-Suche hinzufügen
 
 * **Content Manager:**
-   * Anzeigen und Moderieren von Inhalten über die Seite "App-Inhalt «
+   * Anzeigen und Moderieren von Inhalten über die Seite &quot;App-Inhalt «
    * Tags, Flags, Hinweise und Rechte für Rechte hinzufügen und bearbeiten
 
 * **Moderator:**

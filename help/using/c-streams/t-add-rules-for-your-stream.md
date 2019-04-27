@@ -1,8 +1,6 @@
 ---
-description: Fügen Sie Regeln in Streams hinzu, damit Inhalte automatisch eine App
-  oder einen Ordner basierend auf diesen Regeln füllen können.
-seo-description: Fügen Sie Regeln in Streams hinzu, damit Inhalte automatisch eine
-  App oder einen Ordner basierend auf diesen Regeln füllen können.
+description: Fügen Sie Regeln in Streams hinzu, damit Inhalte automatisch eine App oder einen Ordner basierend auf diesen Regeln füllen können.
+seo-description: Fügen Sie Regeln in Streams hinzu, damit Inhalte automatisch eine App oder einen Ordner basierend auf diesen Regeln füllen können.
 seo-title: Regeln für Ihren Stream hinzufügen
 solution: Experience Manager
 title: Regeln für Ihren Stream hinzufügen

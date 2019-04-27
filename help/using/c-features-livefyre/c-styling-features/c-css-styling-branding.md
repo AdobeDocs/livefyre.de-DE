@@ -20,9 +20,9 @@ Zu den Formatierungsoptionen gehören:
 
 * **[!UICONTROL Styling the Stream:]** Livefyre-Streams können formatiert und angepasst werden, um Ihre Marke und den Rest Ihrer Site anzupassen. Weitere Informationen finden Sie unter CSS-Anpassungen.
 * **[!UICONTROL Styling the Comment Editor:]** Der Kommentareditor kann angepasst werden, indem Sie die Farbe, Größe und Familie für Ihre Schriftart ändern oder die Hintergrundfarbe für das Kommentarfeld ändern. Weitere Informationen finden Sie unter Editor CSS.
-* **[!UICONTROL Moving the Livefyre Logo:]** Obwohl sich der Standardspeicherort für das Livefyre-Logo oben im Stream befindet, kann dieses Bild entfernt und durch ein kleiner "Powered by Livefyre" unten im Stream ersetzt werden. Weitere Informationen finden Sie unter Verschieben des Livefyre-Logos.
+* **[!UICONTROL Moving the Livefyre Logo:]** Obwohl sich der Standardspeicherort für das Livefyre-Logo oben im Stream befindet, kann dieses Bild entfernt und durch ein kleiner &quot;Powered by Livefyre&quot; unten im Stream ersetzt werden. Weitere Informationen finden Sie unter Verschieben des Livefyre-Logos.
 * **[!UICONTROL Hiding elements of the stream:]** Elemente des Streams können ausgeblendet werden, wenn sie für Ihre Community nicht relevant sind. Zu den Elementen, die entfernt werden können, gehören die Antwortschaltfläche, das Profil-Menü, das Abmelden-Menü, die Benachrichtigung über Kommentare und Benutzeravatare. Weitere Informationen zum Entfernen dieser Elemente finden Sie unter Ausblenden von App-Elementen.
-* **[!UICONTROL Customizing the Friend Tagging Logo:]** Standardmäßig wird das Livefyre-Logo in der Dropdown-Liste "Freundestagging" für alle Benutzer angezeigt, die im Stream auf der Seite kommentiert wurden. Um dieses Bild durch Ihr eigenes Logo zu ersetzen, lesen Sie Branding in Studio.
+* **[!UICONTROL Customizing the Friend Tagging Logo:]** Standardmäßig wird das Livefyre-Logo in der Dropdown-Liste &quot;Freundestagging&quot; für alle Benutzer angezeigt, die im Stream auf der Seite kommentiert wurden. Um dieses Bild durch Ihr eigenes Logo zu ersetzen, lesen Sie Branding in Studio.
 
 Apps, die diese Funktion verwenden:
 

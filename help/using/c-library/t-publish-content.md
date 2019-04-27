@@ -21,4 +21,4 @@ Inhalte, die direkt in einer App veröffentlicht werden, werden nicht in Ihrer A
 1. **[!UICONTROL View Details]** für ein Asset.
 1. Aktivieren Sie das **[!UICONTROL Publish]** Kontrollkästchen im **[!UICONTROL Advanced Options]** Dialogfeld.
 1. Wählen Sie die App aus, auf der das Element veröffentlicht werden soll.
-1. Klicken **[!UICONTROL Let’s do it]**Sie auf.
+1. Klicken **[!UICONTROL Let’s do it]** Sie auf.

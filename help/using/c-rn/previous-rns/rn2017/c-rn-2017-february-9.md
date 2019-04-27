@@ -30,9 +30,9 @@ Socialsync für Twitter ist seit mehreren Jahren Teil unserer Kernfunktion. Da u
 | Verbesserung | Storify 2 | Verbesserte Storify 2 zur Unterstützung der kostenlosen Inhaltssuche. Kostenlose Suchen in Flickr, Noun Project, Kuler, Pixabay und Unsplash für kostenlose Bilder. |
 | Bug | Streams | Es wurde ein Fehler behoben, durch den Tumblr-Stream-Regeln nicht gespeichert wurden. |
 | Bug | Streams | Es wurde ein Fehler behoben, durch den in der Collection JSON für RSS Feeds falsche Generator-Ids erzeugt wurden. |
-| Verbesserung | Streams | Es wurde eine Anpassung an der Einstellung "Nur bestätigte Konten" vorgenommen, die standardmäßig deaktiviert werden soll. |
+| Verbesserung | Streams | Es wurde eine Anpassung an der Einstellung &quot;Nur bestätigte Konten&quot; vorgenommen, die standardmäßig deaktiviert werden soll. |
 | Verbesserung | Streams | Es wurde eine neue Funktion hinzugefügt, mit der Inhaltskategorien (über eine Stream-Regel) zugelassen und die Moderation umgehen können. |
-| Bug | Streams | Es wurde ein Fehler behoben, durch den die Einstellungen "Premoderation" und" Media Premoderation" in eine neu erstellte Stream-Regel übernommen wurden. |
+| Bug | Streams | Es wurde ein Fehler behoben, durch den die Einstellungen &quot;Premoderation&quot; und&quot; Media Premoderation&quot; in eine neu erstellte Stream-Regel übernommen wurden. |
 
 ## UAT-Version {#section_dyx_yl2_wy}
 
@@ -40,13 +40,13 @@ Socialsync für Twitter ist seit mehreren Jahren Teil unserer Kernfunktion. Da u
 |--- |--- |--- |
 | Bug | Unterhaltungsapps | Verbesserte Unterhaltungsapps, um immer mit Benutzerprofilen zu verknüpfen, selbst ohne eine vollständige Authentifizierung. |
 | Bug | Mosaik | Es wurde ein Fehler behoben, der jetzt alle Twitter-Bilder über HTTPS bereitstellt. |
-| Bug | Social Search | Es wurde ein Fehler behoben, durch den das grüne "gespeicherte" Häkchen nicht angezeigt wurde, wenn Assets in Social Search gespeichert und Assets in der Bibliothek angezeigt wurden. |
-| Bug | Social Search | Es wurde ein Fehler behoben, durch den die Option "Explizite Bilder verkleinern" nicht ordnungsgemäß funktionierte. |
-| Verbesserung | Storify 2 | Verbesserte Storify 2, um Permalinks zu unterstützen, die ein Modal öffnen (zuvor würde die App zum Post-Ort auf der Seite führen). In Designer von Storify 2 haben wir eine Konfiguration hinzugefügt, um zwischen dem Verhalten "Scroll" und" Modal" zu wechseln. Das Verhalten von modalen Permalink ist ein Standardverhalten. |
+| Bug | Social Search | Es wurde ein Fehler behoben, durch den das grüne &quot;gespeicherte&quot; Häkchen nicht angezeigt wurde, wenn Assets in Social Search gespeichert und Assets in der Bibliothek angezeigt wurden. |
+| Bug | Social Search | Es wurde ein Fehler behoben, durch den die Option &quot;Explizite Bilder verkleinern&quot; nicht ordnungsgemäß funktionierte. |
+| Verbesserung | Storify 2 | Verbesserte Storify 2, um Permalinks zu unterstützen, die ein Modal öffnen (zuvor würde die App zum Post-Ort auf der Seite führen). In Designer von Storify 2 haben wir eine Konfiguration hinzugefügt, um zwischen dem Verhalten &quot;Scroll&quot; und&quot; Modal&quot; zu wechseln. Das Verhalten von modalen Permalink ist ein Standardverhalten. |
 | Verbesserung | Storify 2 | Die Storify 2 Google AMP-Integration wurde verbessert, um eine kleinere CSS-Datei zu erstellen. |
 | Bug | Streams | Verbesserte Inhalte (Bilder und Videos) aus E-Mail-Stream-Regeln, die über HTTPS verfügbar sein können. |
 | Bug | Streams | Es wurde eine Beschriftung für den Meilensteinwert in Maps in den Twitter Stream-Regeln hinzugefügt. |
 | Bug | Streams | Es wurde ein Fehler mit den Facebook- und Facebook-Seitenbibliotheksregeln behoben, mit dem Beiträge mit mehreren Medienanlagen ordnungsgemäß abgerufen werden konnten. |
-| Bug | Studio | Es wurde ein Fehler behoben, durch den mehrere & s an die URL angehängt wurden, wenn Filter in Studio verwendet wurden. |
+| Bug | Studio | Es wurde ein Fehler behoben, durch den mehrere &amp; s an die URL angehängt wurden, wenn Filter in Studio verwendet wurden. |
 | Bug | Studio | Es wurde ein Fehler behoben, durch den bestimmte Kontrollkästchen in Studio-Filtern nicht aktiviert werden konnten. |
 

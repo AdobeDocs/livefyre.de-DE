@@ -25,5 +25,5 @@ Versionshinweise für die Version vom 28. September 2017.
 
 | **Ausgabentyp** | **Komponente** | **Versionshinweise** |
 |---|---|---|
-| Verbesserung | Bibliothek | Dateien, die von einem Kunden in die Bibliothek hochgeladen wurden, werden automatisch gewährt. Dies ist eine nützliche Funktion, wenn die Benutzer den Filter "Berechtigung erforderlich" in ihren Apps aktiviert haben. |
+| Verbesserung | Bibliothek | Dateien, die von einem Kunden in die Bibliothek hochgeladen wurden, werden automatisch gewährt. Dies ist eine nützliche Funktion, wenn die Benutzer den Filter &quot;Berechtigung erforderlich&quot; in ihren Apps aktiviert haben. |
 

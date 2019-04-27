@@ -1,10 +1,6 @@
 ---
-description: Durch das Filtern von UGC nach Produkt-ID können Sie die exakte App auf
-  mehreren Seiten einbetten und gleichzeitig verschiedene produktspezifische UGC für
-  jede Seite anzeigen.
-seo-description: Durch das Filtern von UGC nach Produkt-ID können Sie die exakte App
-  auf mehreren Seiten einbetten und gleichzeitig verschiedene produktspezifische UGC
-  für jede Seite anzeigen.
+description: Durch das Filtern von UGC nach Produkt-ID können Sie die exakte App auf mehreren Seiten einbetten und gleichzeitig verschiedene produktspezifische UGC für jede Seite anzeigen.
+seo-description: Durch das Filtern von UGC nach Produkt-ID können Sie die exakte App auf mehreren Seiten einbetten und gleichzeitig verschiedene produktspezifische UGC für jede Seite anzeigen.
 seo-title: FILC nach Produkt-ID filtern
 title: FILC nach Produkt-ID filtern
 uuid: 98108 ddb -5710-4331-891 b -7 e 1 bbb 106059
@@ -24,7 +20,7 @@ Gehen Sie wie folgt vor, um UGC nach Produkt-ID zu filtern:
 
 1. Wählen Sie die App aus, die Sie ändern möchten.
 
-1. Wählen Sie in der linken Leiste die Registerkarte "Designer" aus.
+1. Wählen Sie in der linken Leiste die Registerkarte &quot;Designer&quot; aus.
 
 1. Enable **[!UICONTROL Filter UGC by Product ID]**.
 
@@ -36,13 +32,13 @@ Verwenden Sie Strg/Befehl + Klicken, um mehrere Ordner auszuwählen.
 1. Disable **[!UICONTROL Show related content]**.
 Wenn diese Option aktiviert ist, wird der mit dem `data-lf-attr-product` Attribut gefilterte Inhalt zuerst angezeigt, gefolgt von allen anderen Inhalten in der App.
 
-1. Klicken **[!UICONTROL Publish]**Sie auf.
+1. Klicken **[!UICONTROL Publish]** Sie auf.
 
 1. Fügen Sie die Produkt-IDs, die Sie filtern möchten, in den resultierenden Code ein.
 
 >[!NOTE]
 >
->Navigieren Sie zum Suchen nach Produkt-IDs **[!UICONTROL Settings > Products]**zu. Suchen Sie das gewünschte Produkt und wählen Sie es aus und die ID wird angezeigt.
+>Navigieren Sie zum Suchen nach Produkt-IDs **[!UICONTROL Settings > Products]** zu. Suchen Sie das gewünschte Produkt und wählen Sie es aus und die ID wird angezeigt.
 
 Der folgende Code wird beispielsweise für eine Media Wall-App generiert:
 

@@ -31,6 +31,6 @@ Versionshinweise für die Version vom 1. Februar 2018.
 |---|---|---|
 | Verbesserung | App-Inhalt | Es wurde die Möglichkeit hinzugefügt, mehrere Inhaltselemente gleichzeitig in App-Inhalten zu taggen. |
 | Verbesserung | Apps | Es wurde ein neuer Designer-Umschalter hinzugefügt, um eine benutzerdefinierte Aktionsaktionsschaltfläche in Mosaic, Filmstreifen, Medienpinnwand, Feature Card und Karussell zu aktivieren/deaktivieren. |
-| Verbesserung | Kommentare | Es wurde die Möglichkeit hinzugefügt, neue Audiodateiformate in Kommentare zu platzieren und eine Schaltfläche "Hochladen" zu verwenden. |
+| Verbesserung | Kommentare | Es wurde die Möglichkeit hinzugefügt, neue Audiodateiformate in Kommentare zu platzieren und eine Schaltfläche &quot;Hochladen&quot; zu verwenden. |
 | Bug | Streams | Es wurde ein Fehler behoben, durch den Kontrollkästchen für geschützte Regeln nicht ordnungsgemäß überprüft/deaktiviert wurden. |
 

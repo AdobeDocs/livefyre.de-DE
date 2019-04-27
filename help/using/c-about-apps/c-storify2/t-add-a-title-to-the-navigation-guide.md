@@ -1,8 +1,6 @@
 ---
-description: Geben Sie Ihrem Navigationsleitfaden einen Titel, um den Besuchern Ihrer
-  Site klar zu machen.
-seo-description: Geben Sie Ihrem Navigationsleitfaden einen Titel, um den Besuchern
-  Ihrer Site klar zu machen.
+description: Geben Sie Ihrem Navigationsleitfaden einen Titel, um den Besuchern Ihrer Site klar zu machen.
+seo-description: Geben Sie Ihrem Navigationsleitfaden einen Titel, um den Besuchern Ihrer Site klar zu machen.
 seo-title: Hinzufügen eines Titels zum Navigationsleitfaden
 solution: Experience Manager
 title: Hinzufügen eines Titels zum Navigationsleitfaden
@@ -19,4 +17,4 @@ Geben Sie Ihrem Navigationsleitfaden einen Titel, um den Besuchern Ihrer Site kl
 
 1. Öffnen Sie eine Storify 2-Geschichte.
 1. Schalten Sie im Storify 2 App Designer den **[!UICONTROL Navigation Guide]** Umschalter ein.
-1. Geben Sie einen Titel in das Feld ein, in dem die Wörter "Titel hinzufügen" enthalten sind. »
+1. Geben Sie einen Titel in das Feld ein, in dem die Wörter &quot;Titel hinzufügen&quot; enthalten sind. »

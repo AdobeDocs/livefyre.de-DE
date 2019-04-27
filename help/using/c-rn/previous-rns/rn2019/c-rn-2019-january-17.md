@@ -20,6 +20,6 @@ Versionshinweise für die Version vom 17. Januar 2019.
 * Es wurde ein Problem behoben, durch das die Benutzerstreifen-UGC-Commerce-Optionen in Designer nicht abgeschnitten wurden.
 * Es wurde ein Problem behoben, durch das das Importieren von Instagram-Inhalten in mehrere Ordner nicht wie beabsichtigt angezeigt wurde.
 * Es wurde ein Problem behoben, bei dem Instagram-Videos manchmal kein Bildobjekt haben.
-* Es wurde ein Problem behoben, durch das einige hochgeladene Inhalte, die in Filmstrip & Mosaic veröffentlicht wurden, in der App-Einbettung unempfindliche Verhaltensweisen verursachten.
+* Es wurde ein Problem behoben, durch das einige hochgeladene Inhalte, die in Filmstrip &amp; Mosaic veröffentlicht wurden, in der App-Einbettung unempfindliche Verhaltensweisen verursachten.
 * Es wurde ein Fehler behoben, durch den beim Erstellen mehrerer Facebook-Social-Konten Fehler ausgegeben wurden.
 * Korrektur des Fehlers und des Instagram-Problems, bei dem einige Fotos, die über die URL-Suche gezogen wurden, falsch mit den nativen IG-Einbettungen und dem Abspielen-Schaltflächensymbol dargestellt wurden.

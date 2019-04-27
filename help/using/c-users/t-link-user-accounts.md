@@ -1,10 +1,6 @@
 ---
-description: Verknüpfen Sie Ihr Studio-Konto mit Ihrem Livefyre-Konto, um alle Ihre
-  Livefyre-Sites oder -netzwerke von einem einzelnen Standort aus moderieren oder
-  verwalten zu können.
-seo-description: Verknüpfen Sie Ihr Studio-Konto mit Ihrem Livefyre-Konto, um alle
-  Ihre Livefyre-Sites oder -netzwerke von einem einzelnen Standort aus moderieren
-  oder verwalten zu können.
+description: Verknüpfen Sie Ihr Studio-Konto mit Ihrem Livefyre-Konto, um alle Ihre Livefyre-Sites oder -netzwerke von einem einzelnen Standort aus moderieren oder verwalten zu können.
+seo-description: Verknüpfen Sie Ihr Studio-Konto mit Ihrem Livefyre-Konto, um alle Ihre Livefyre-Sites oder -netzwerke von einem einzelnen Standort aus moderieren oder verwalten zu können.
 seo-title: Verknüpfen von Benutzerkonten
 solution: Experience Manager
 title: Verknüpfen von Benutzerkonten
@@ -26,8 +22,8 @@ Verknüpfen Sie Ihr Studio-Konto mit Ihrem Livefyre-Konto, um alle Ihre Livefyre
 So verknüpfen Sie Konten:
 
 1. Melden Sie sich bei Studio an, nachdem Sie ein Livefyre-Benutzerprofil in Ihrem Netzwerk erstellt haben.
-1. Navigieren Sie zu **[!UICONTROL Users]**Ihrem Benutzerprofil und doppelklicken Sie, um Details anzuzeigen.
-1. Klicken **[!UICONTROL Connect account]**Sie auf.
+1. Navigieren Sie zu **[!UICONTROL Users]** Ihrem Benutzerprofil und doppelklicken Sie, um Details anzuzeigen.
+1. Klicken **[!UICONTROL Connect account]** Sie auf.
 1. Wählen Sie im daraufhin geöffneten Fenster das Benutzerkonto aus, das mit diesem Konto verknüpft werden soll.
-1. Bestätigen Sie die **[!UICONTROL Link Profile]** Informationen und klicken **[!UICONTROL Link]**Sie auf. ![](assets/UsersConnectAccount-1024x311.png)
+1. Bestätigen Sie die **[!UICONTROL Link Profile]** Informationen und klicken **[!UICONTROL Link]** Sie auf. ![](assets/UsersConnectAccount-1024x311.png)
 

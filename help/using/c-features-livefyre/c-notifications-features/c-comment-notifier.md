@@ -1,8 +1,6 @@
 ---
-description: Ermöglicht es Ihnen, ein kleines Popup auf der Seite zu aktivieren, um
-  Benutzer zu benachrichtigen, wenn ein Kommentar hinzugefügt wurde.
-seo-description: Ermöglicht es Ihnen, ein kleines Popup auf der Seite zu aktivieren,
-  um Benutzer zu benachrichtigen, wenn ein Kommentar hinzugefügt wurde.
+description: Ermöglicht es Ihnen, ein kleines Popup auf der Seite zu aktivieren, um Benutzer zu benachrichtigen, wenn ein Kommentar hinzugefügt wurde.
+seo-description: Ermöglicht es Ihnen, ein kleines Popup auf der Seite zu aktivieren, um Benutzer zu benachrichtigen, wenn ein Kommentar hinzugefügt wurde.
 seo-title: Kommentar-Benachrichtigung
 solution: Experience Manager
 title: Kommentar-Benachrichtigung

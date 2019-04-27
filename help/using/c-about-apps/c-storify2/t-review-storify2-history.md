@@ -1,8 +1,6 @@
 ---
-description: Studio speichert automatisch alle Änderungen, die alle Editoren vorgenommen
-  haben, und generiert für jede Änderung, die Sie sehen können, eine neue Version.
-seo-description: Studio speichert automatisch alle Änderungen, die alle Editoren vorgenommen
-  haben, und generiert für jede Änderung, die Sie sehen können, eine neue Version.
+description: Studio speichert automatisch alle Änderungen, die alle Editoren vorgenommen haben, und generiert für jede Änderung, die Sie sehen können, eine neue Version.
+seo-description: Studio speichert automatisch alle Änderungen, die alle Editoren vorgenommen haben, und generiert für jede Änderung, die Sie sehen können, eine neue Version.
 seo-title: Überprüfungsverlauf
 solution: Experience Manager
 title: Überprüfungsverlauf
@@ -24,5 +22,5 @@ Studio speichert automatisch alle Änderungen, die alle Editoren vorgenommen hab
 1. Klicken **[!UICONTROL History]** Sie auf, um ein Bedienfeld zu öffnen, in dem alle Versionen Ihrer App aufgelistet sind. In den aufgeführten Versionen werden der Editor der einzelnen Versionen sowie deren Alter angezeigt.
 1. Klicken Sie auf eine Version, um sie auszuwählen, und aktualisieren Sie die Vorschau im rechten Bereich.
 1. Klicken **[!UICONTROL Restore Version]** Sie auf, wenn Sie die ausgewählte Version klonen möchten, und beginnen Sie mit der Arbeit daran.
-1. Klicken Sie im **[!UICONTROL Version History]** Bereich auf die Schaltfläche "Zurück" , um zu Ihrem Arbeitsentwurf zurückzukehren.
+1. Klicken Sie im **[!UICONTROL Version History]** Bereich auf die Schaltfläche &quot;Zurück&quot; , um zu Ihrem Arbeitsentwurf zurückzukehren.
 1. Klicken **[!UICONTROL Share]** Sie auf, um eine URL für die Vorschau zu generieren, die an Kollegen oder Freunde zur Überprüfung gesendet werden kann.

@@ -1,8 +1,6 @@
 ---
-description: Storify 2 bietet verschiedene Inhaltsquellen zum Hinzufügen von sozialen
-  Inhalten.
-seo-description: Storify 2 bietet verschiedene Inhaltsquellen zum Hinzufügen von sozialen
-  Inhalten.
+description: Storify 2 bietet verschiedene Inhaltsquellen zum Hinzufügen von sozialen Inhalten.
+seo-description: Storify 2 bietet verschiedene Inhaltsquellen zum Hinzufügen von sozialen Inhalten.
 seo-title: Social-Content hinzufügen
 solution: Experience Manager
 title: Social-Content hinzufügen
@@ -17,7 +15,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Storify 2 bietet verschiedene Inhaltsquellen zum Hinzufügen von sozialen Inhalten.
 
-Auf der Registerkarte "Suchen" können Sie soziale Netzwerke suchen, allgemeine Web- und Bildsuchen anbieten.
+Auf der Registerkarte &quot;Suchen&quot; können Sie soziale Netzwerke suchen, allgemeine Web- und Bildsuchen anbieten.
 
 >[!NOTE]
 >
@@ -31,5 +29,5 @@ So fügen Sie Ihrer Story Inhalte hinzu:
 
 1. Klicken Sie auf der **[!UICONTROL Search]** Registerkarte auf ein Symbol, um die Quelle auszuwählen.
 1. Storify zeigt Suchoptionen an, die speziell für die Quelle gelten.
-1. Geben Sie Ihre Suchparameter ein und klicken Sie auf das Suchsymbol (Lupe) oder klicken Sie auf "Zurück zur Suche" .
+1. Geben Sie Ihre Suchparameter ein und klicken Sie auf das Suchsymbol (Lupe) oder klicken Sie auf &quot;Zurück zur Suche&quot; .
 1. Nachdem Sie Elemente gefunden haben, die Sie einbeziehen möchten, ziehen Sie sie einfach aus der Liste in einen beliebigen Abschnitt Ihrer Story.

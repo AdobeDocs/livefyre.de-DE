@@ -1,8 +1,6 @@
 ---
-description: Verwenden Sie Map, um interaktive Maps für Inhaltsstreaming in der App
-  zu generieren.
-seo-description: Verwenden Sie Map, um interaktive Maps für Inhaltsstreaming in der
-  App zu generieren.
+description: Verwenden Sie Map, um interaktive Maps für Inhaltsstreaming in der App zu generieren.
+seo-description: Verwenden Sie Map, um interaktive Maps für Inhaltsstreaming in der App zu generieren.
 seo-title: Map
 solution: Experience Manager
 title: Map

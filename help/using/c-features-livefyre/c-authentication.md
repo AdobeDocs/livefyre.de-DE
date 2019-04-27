@@ -1,8 +1,6 @@
 ---
-description: Sie können auswählen, ob und wie Ihre Site-Besucher sich bei Ihren Apps
-  anmelden.
-seo-description: Sie können auswählen, ob und wie Ihre Site-Besucher sich bei Ihren
-  Apps anmelden.
+description: Sie können auswählen, ob und wie Ihre Site-Besucher sich bei Ihren Apps anmelden.
+seo-description: Sie können auswählen, ob und wie Ihre Site-Besucher sich bei Ihren Apps anmelden.
 seo-title: Authentifizierungsfunktionen
 solution: Experience Manager
 title: Authentifizierungsfunktionen

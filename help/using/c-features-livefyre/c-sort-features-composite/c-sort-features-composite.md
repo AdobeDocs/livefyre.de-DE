@@ -1,8 +1,6 @@
 ---
-description: Je nach App und dem, was Site-Besucher tun können, können Sie verschiedene
-  Sortieroptionen auswählen.
-seo-description: Je nach App und dem, was Site-Besucher tun können, können Sie verschiedene
-  Sortieroptionen auswählen.
+description: Je nach App und dem, was Site-Besucher tun können, können Sie verschiedene Sortieroptionen auswählen.
+seo-description: Je nach App und dem, was Site-Besucher tun können, können Sie verschiedene Sortieroptionen auswählen.
 seo-title: Sortierfunktionen
 solution: Experience Manager
 title: Sortierfunktionen

@@ -1,8 +1,6 @@
 ---
-description: Hier lernen Sie die Regeln und Anforderungen für Instagram kennen, die
-  sich von anderen sozialen Konten unterscheiden.
-seo-description: Hier lernen Sie die Regeln und Anforderungen für Instagram kennen,
-  die sich von anderen sozialen Konten unterscheiden.
+description: Hier lernen Sie die Regeln und Anforderungen für Instagram kennen, die sich von anderen sozialen Konten unterscheiden.
+seo-description: Hier lernen Sie die Regeln und Anforderungen für Instagram kennen, die sich von anderen sozialen Konten unterscheiden.
 seo-title: Instagram-Konten
 solution: Experience Manager
 title: Instagram-Konten

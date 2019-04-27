@@ -33,6 +33,6 @@ Reviews bieten verschiedene Funktionen, die spezifisch für diese App sind.
 * Anpassbare Bewertungsschnittstelle, einschließlich der Anzahl der Sterne und ihres Bildes, Bewertungsunterteilungen (z. B. Pros und Nachteile) und mehrerer Bewertungskategorien.
 * Fassen Sie Reviews mithilfe einer grafischen Visualisierung der durchschnittlichen Benutzerbewertung und der Bewertung der Bewertung für die Umfragesammlung zusammen.
 * Warteschlangenüberprüfungen für die Anzeige, wobei die Überprüfung des Benutzers am oberen Rand der Liste für ihre Ansicht beibehalten wird.
-* Erlauben Sie Benutzern, über die Helligkeit von Reviews abzustimmen und anschließend nach "Am meisten hilfreich" und/oder" Höchste Bewertung" zu sortieren.
+* Erlauben Sie Benutzern, über die Helligkeit von Reviews abzustimmen und anschließend nach &quot;Am meisten hilfreich&quot; und/oder&quot; Höchste Bewertung&quot; zu sortieren.
 * Benutzerfreundliche Benutzeroberfläche.
 

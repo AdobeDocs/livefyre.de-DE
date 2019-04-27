@@ -1,9 +1,9 @@
 ---
-description: Erfahren Sie, wie Sie mithilfe der Sprache "C
-seo-description: Erfahren Sie, wie Sie mithilfe der Sprache "C
-seo-title: Erstellen von Livefyre Tokens'C
+description: 'Erfahren Sie, wie Sie mithilfe der Sprache "C #" Livefyre-Token erstellen.'
+seo-description: 'Erfahren Sie, wie Sie mithilfe der Sprache "C #" Livefyre-Token erstellen.'
+seo-title: 'Erstellen von Livefyre Tokens''C #'''
 solution: Experience Manager
-title: Erstellen von Livefyre Tokens'C
+title: 'Erstellen von Livefyre Tokens''C #'''
 uuid: c 5 e 05625-8550-4 b 51-9211-134600 e 20 ec 7
 translation-type: tm+mt
 source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
@@ -55,7 +55,7 @@ Siehe auch:
    ```
 
    * **Titel** *erforderlich*: Der Titel der Sammlung, normalerweise der Titel des Artikels. Die maximale Länge beträgt 255 Zeichen. Unterstützt keine HTML-Entitäten. Bitte Sonderzeichen mit UTF -8 kodieren.
-   * **URL** *erforderlich*: Die kanonische URL Ihres Artikels. Dies wird von den Funktionen für Kommentare und Social-Synchronisierung sowie von Links zu Ihrem Artikel vom Admin-Dashboard verwendet. Wenn Sie lokal testen, beachten Sie, dass Livefyre "localhost" nicht als Domäne akzeptiert.
+   * **URL** *erforderlich*: Die kanonische URL Ihres Artikels. Dies wird von den Funktionen für Kommentare und Social-Synchronisierung sowie von Links zu Ihrem Artikel vom Admin-Dashboard verwendet. Wenn Sie lokal testen, beachten Sie, dass Livefyre &quot;localhost&quot; nicht als Domäne akzeptiert.
    * **Tags** *optional*: Eine kommagetrennte Liste von Tags, die Sie der Sammlung im Livefyre-Dashboard hinzufügen möchten. Tags dürfen keine Leerzeichen enthalten. Verwenden Sie Unterstriche, wenn im Admin-Dashboard ein Leerzeichen angezeigt werden soll.
    * **type** *optional*: Eine Zeichenfolge, die angibt, welche Art von Sammlung erstellt werden soll. Gültige Werte sind:
 

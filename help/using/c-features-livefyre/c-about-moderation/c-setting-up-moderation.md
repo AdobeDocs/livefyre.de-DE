@@ -1,10 +1,6 @@
 ---
-description: Auf der Registerkarte "Moderation" können Sie Vormoderationsregeln für
-  eingehende Inhalte festlegen, einschließlich Abruf-Listen, Kennzeichnungsregeln
-  und eingeschränkte IP-Adressen.
-seo-description: Auf der Registerkarte "Moderation" können Sie Vormoderationsregeln
-  für eingehende Inhalte festlegen, einschließlich Abruf-Listen, Kennzeichnungsregeln
-  und eingeschränkte IP-Adressen.
+description: Auf der Registerkarte "Moderation" können Sie Vormoderationsregeln für eingehende Inhalte festlegen, einschließlich Abruf-Listen, Kennzeichnungsregeln und eingeschränkte IP-Adressen.
+seo-description: Auf der Registerkarte "Moderation" können Sie Vormoderationsregeln für eingehende Inhalte festlegen, einschließlich Abruf-Listen, Kennzeichnungsregeln und eingeschränkte IP-Adressen.
 seo-title: Einrichten der Moderation
 solution: Experience Manager
 title: Einrichten der Moderation
@@ -17,7 +13,7 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 # Einrichten der Moderation{#setting-up-moderation}
 
-Auf der Registerkarte "Moderation" können Sie Vormoderationsregeln für eingehende Inhalte festlegen, einschließlich Abruf-Listen, Kennzeichnungsregeln und eingeschränkte IP-Adressen.
+Auf der Registerkarte &quot;Moderation&quot; können Sie Vormoderationsregeln für eingehende Inhalte festlegen, einschließlich Abruf-Listen, Kennzeichnungsregeln und eingeschränkte IP-Adressen.
 
 ## Funktionsweise von Moderation {#section_kyf_gvc_t1b}
 
@@ -43,7 +39,7 @@ Sie können Inhalte auf folgende Weise automatisch vorab moderieren:
 
 Nachdem Sie Ihre Gewinnspiellisten, SAFE-Filter und Regeln eingerichtet haben, können Sie festlegen, ob Sie Inhalte vorab moderieren und die SAFE Filter in Streams anwenden möchten. Weitere Informationen finden Sie unter [Stream-Regeloptionen für alle Stream-Regeln](/help/using/c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).
 
-Livefyre markiert Inhalte als **[!UICONTROL Approved]****[!UICONTROL Pending]**, **[!UICONTROL Junk]**usw. abhängig davon, woher der Inhalt kommt, wo er veröffentlicht wird und welche Regeln Sie in Ihrem System eingerichtet haben. In der folgenden Tabelle werden die Aktionen, die Livefyre ausführt, im Detail beschrieben.
+Livefyre markiert Inhalte als **[!UICONTROL Approved]****[!UICONTROL Pending]**, **[!UICONTROL Junk]** usw. abhängig davon, woher der Inhalt kommt, wo er veröffentlicht wird und welche Regeln Sie in Ihrem System eingerichtet haben. In der folgenden Tabelle werden die Aktionen, die Livefyre ausführt, im Detail beschrieben.
 
 ## Funktionsweise von Moderation
 
@@ -51,11 +47,11 @@ Livefyre markiert Inhalte als **[!UICONTROL Approved]****[!UICONTROL Pending]**,
 |--- |--- |--- |
 | Bibliothek | App | Inhalt genehmigt |
 | Social Search | App | Inhalt genehmigt |
-| Stream-Regel | App | Ist der als "Unk" markierte Inhalt nach dem Filter" SAFE" gekennzeichnet? <br><ul><li>Nein - Stream-to-App-Moderationsarbeitsablauf</li><li>Ja - Inhalt umgebrochen</li></ul> |
+| Stream-Regel | App | Ist der als &quot;Unk&quot; markierte Inhalt nach dem Filter&quot; SAFE&quot; gekennzeichnet? <br><ul><li>Nein - Stream-to-App-Moderationsarbeitsablauf</li><li>Ja - Inhalt umgebrochen</li></ul> |
 | Bibliothek | Ordner | Kein Status (im Ordner, nicht veröffentlicht, nicht beschädigt) |
 | Social Search | Ordner | Kein Status (im Ordner, nicht veröffentlicht, nicht beschädigt) |
-| Stream-Regel | Ordner | Ist der als "Unk" markierte Inhalt nach dem Filter" SAFE" gekennzeichnet? <br><ul><li>Nein - Kein Status (im Ordner, nicht veröffentlicht, nicht umgebrochen)</li><li>Ja - Inhalt umgebrochen</li></ul> |
-| App-Beitrag | App | Ist der als "Unk" markierte Inhalt nach dem Filter" SAFE" gekennzeichnet? <br><ul><li>Nein - Post-to-App-Moderationsarbeitsablauf</li><li>Ja - Inhalt umgebrochen</li></ul> |
+| Stream-Regel | Ordner | Ist der als &quot;Unk&quot; markierte Inhalt nach dem Filter&quot; SAFE&quot; gekennzeichnet? <br><ul><li>Nein - Kein Status (im Ordner, nicht veröffentlicht, nicht umgebrochen)</li><li>Ja - Inhalt umgebrochen</li></ul> |
+| App-Beitrag | App | Ist der als &quot;Unk&quot; markierte Inhalt nach dem Filter&quot; SAFE&quot; gekennzeichnet? <br><ul><li>Nein - Post-to-App-Moderationsarbeitsablauf</li><li>Ja - Inhalt umgebrochen</li></ul> |
 
 ## Stream-to-App-Moderationsarbeitsablauf {#section_z5z_w4d_t1b}
 
@@ -86,7 +82,7 @@ Bevor der Inhalt eines App-Beitrags in einer App veröffentlicht wird, führt Li
 
 ## Massenfilter {#section_lyk_ktx_vy}
 
-Der Massenfilter sucht nach wiederholten Inhalten, die in allen Livefyre-Netzwerken innerhalb eines kurzen Zeitrahmens gepostet werden. Wenn dieser Inhalt erkannt wird, wird er als Massen gekennzeichnet und standardmäßig abgeschnitten. Während Masseninhalte vom Benutzer generiert werden können (z. B. "Touchdown! » wiederholt in einem Chat während eines beliebten Football-Spiels veröffentlicht werden), werden die meisten mit Spam-Kampagnen gefüllt. Dieser Filter ist sprachunabhängig und funktioniert mit jeder Sprache. Um den Massenfilter anzupassen, müssen Sie sich an den Livefyre-Support wenden.
+Der Massenfilter sucht nach wiederholten Inhalten, die in allen Livefyre-Netzwerken innerhalb eines kurzen Zeitrahmens gepostet werden. Wenn dieser Inhalt erkannt wird, wird er als Massen gekennzeichnet und standardmäßig abgeschnitten. Während Masseninhalte vom Benutzer generiert werden können (z. B. &quot;Touchdown! » wiederholt in einem Chat während eines beliebten Football-Spiels veröffentlicht werden), werden die meisten mit Spam-Kampagnen gefüllt. Dieser Filter ist sprachunabhängig und funktioniert mit jeder Sprache. Um den Massenfilter anzupassen, müssen Sie sich an den Livefyre-Support wenden.
 
 ## Regeln {#section_gqz_ksk_f1b}
 
@@ -95,7 +91,7 @@ Verwenden Sie den Abschnitt Regeln, um Vorab-Moderationsregeln basierend auf SAF
 * **[!UICONTROL Flag Rules:]** Geben Sie eine Aktion an, die bei einem von Benutzern festgelegten Kommentar für eine festgelegte Anzahl von Malen durchgeführt werden soll.
 * ****[!UICONTROL SAFE Rules:]Kombinieren Sie SAFE-Flags mit Aktionen, die für den gekennzeichneten Inhalt ausgeführt werden sollen.
 
-Um Kennzeichnungsregeln zu erstellen, markieren Sie das Flag ("Beleidigend" ," Aus Thema" , "Nicht zustimmen" oder" Spam" ), geben Sie an, wie oft es auf einen Inhalt angewendet werden soll, und wählen Sie die gewünschte Aktion aus. Sie können eine Flag-Regel für jede Flag-Option festlegen (Beleidigend, Aus-Thema, Nicht zustimmen oder Spam).
+Um Kennzeichnungsregeln zu erstellen, markieren Sie das Flag (&quot;Beleidigend&quot; ,&quot; Aus Thema&quot; , &quot;Nicht zustimmen&quot; oder&quot; Spam&quot; ), geben Sie an, wie oft es auf einen Inhalt angewendet werden soll, und wählen Sie die gewünschte Aktion aus. Sie können eine Flag-Regel für jede Flag-Option festlegen (Beleidigend, Aus-Thema, Nicht zustimmen oder Spam).
 
 Sie können Regeln auf Netzwerk-, Site- und Stream-Ebenen erstellen. Regeln auf Site-Ebene übernehmen Netzwerkregeln, es sei denn, Sie konfigurieren Site-Regeln unterschiedlich. Stream-Regeln übernehmen Site-Regeln, es sei denn, Sie konfigurieren sie unterschiedlich.
 
@@ -103,7 +99,7 @@ Verfügbare Aktionen:
 
 * ****[!UICONTROL Trash it:]sendet den gekennzeichneten Kommentar an den Papierkorb.
 * **[!UICONTROL Bozo it:]** verbirgt den markierten Kommentar von allen Benutzern mit Ausnahme des Autors, der sichtbar bleibt.
-* **[!UICONTROL Pending:]** legt den Inhalt als ausstehend fest. Wenn Sie die Option "Premoderation" unter aktivieren, **[!UICONTROL Settings > ModQ]**wird sie im modq angezeigt. Andernfalls wird es nur in App-Inhalten angezeigt.
+* **[!UICONTROL Pending:]** legt den Inhalt als ausstehend fest. Wenn Sie die Option &quot;Premoderation&quot; unter aktivieren, **[!UICONTROL Settings > ModQ]** wird sie im modq angezeigt. Andernfalls wird es nur in App-Inhalten angezeigt.
 
 >[!NOTE]
 >
@@ -124,7 +120,7 @@ Sie können Moderationsempfehlungen verwenden, um zu bestimmen, wie Sie Inhalte 
 
    ![](assets/modreco4.png)
 
-1. Verwenden Sie das **[!UICONTROL Moderation Recommendation Indicator]** Modul "modq" oder" App-Inhalt" , um Inhalte zu filtern, die die Moderationsempfehlung so häufig vertrastet.
+1. Verwenden Sie das **[!UICONTROL Moderation Recommendation Indicator]** Modul &quot;modq&quot; oder&quot; App-Inhalt&quot; , um Inhalte zu filtern, die die Moderationsempfehlung so häufig vertrastet.
 
    In modq sieht der Indikator wie folgt aus: ![](assets/mod_reco1.png)
 

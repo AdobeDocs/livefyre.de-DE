@@ -1,8 +1,6 @@
 ---
-description: Mit der Registerkarte "App-Inhalt" in Ihrer Bibliothek können Sie Inhalte
-  moderieren, die in Ihren Apps veröffentlicht wurden.
-seo-description: Mit der Registerkarte "App-Inhalt" in Ihrer Bibliothek können Sie
-  Inhalte moderieren, die in Ihren Apps veröffentlicht wurden.
+description: Mit der Registerkarte "App-Inhalt" in Ihrer Bibliothek können Sie Inhalte moderieren, die in Ihren Apps veröffentlicht wurden.
+seo-description: Mit der Registerkarte "App-Inhalt" in Ihrer Bibliothek können Sie Inhalte moderieren, die in Ihren Apps veröffentlicht wurden.
 seo-title: Moderieren von Inhalten mit App-Inhalten
 title: Moderieren von Inhalten mit App-Inhalten
 uuid: 1 c 648128-e 7 ef -4836-afe 5-ond 52 de 30 e 7 e
@@ -14,7 +12,7 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 # Moderieren von Inhalten mit App-Inhalten{#moderate-content-using-app-content}
 
-Mit der Registerkarte "App-Inhalt" in Ihrer Bibliothek können Sie Inhalte moderieren, die in Ihren Apps veröffentlicht wurden.
+Mit der Registerkarte &quot;App-Inhalt&quot; in Ihrer Bibliothek können Sie Inhalte moderieren, die in Ihren Apps veröffentlicht wurden.
 
 ## Moderieren von Inhalten {#section_md5_sqm_zz}
 
@@ -39,7 +37,7 @@ In App-Inhalten können Sie Folgendes tun:
    | Papierkorb | Genehmigt, Ausstehend, Bozo, Löschen |
    | Ausstehend | Genehmigt, Papierkorb, Bozo |
 
-* **[!UICONTROL Save as Assets]**. Wählen Sie diese **[!UICONTROL Save as Assets]** Option, um das Dialogfeld "Erweiterte Optionen" zu öffnen, aus dem Sie die ausgewählten Elemente in Ihrer Asset-Bibliothek speichern, sie in einer App veröffentlichen oder die Wiederverwendungsrechte von ihrem Autor abrufen können.
+* **[!UICONTROL Save as Assets]**. Wählen Sie diese **[!UICONTROL Save as Assets]** Option, um das Dialogfeld &quot;Erweiterte Optionen&quot; zu öffnen, aus dem Sie die ausgewählten Elemente in Ihrer Asset-Bibliothek speichern, sie in einer App veröffentlichen oder die Wiederverwendungsrechte von ihrem Autor abrufen können.
 
 * Moderieren basierend auf Empfehlungen. Verwenden Sie den **[!UICONTROL Moderation Recommendation Indicator]** In-App-Inhalt, um Inhalte zu filtern, die die Moderationsempfehlung so gut wie trashed erkennt.
 
@@ -49,8 +47,8 @@ In App-Inhalten können Sie Folgendes tun:
 
 Die Arbeit mit Zielgruppen im Inhaltsbereich unterscheidet sich von der Arbeit mit anderen Inhaltstypen auf verschiedene Arten:
 
-* Die Registerkarten "Weitere Informationen" ," Antworten" , "Flags und Berichte" und" Notizen hinzufügen" sind nicht verfügbar.
-* Sie können keine Inhalte für den Tag "Inhalt" taggen oder sie wie gewünscht markieren.
+* Die Registerkarten &quot;Weitere Informationen&quot; ,&quot; Antworten&quot; , &quot;Flags und Berichte&quot; und&quot; Notizen hinzufügen&quot; sind nicht verfügbar.
+* Sie können keine Inhalte für den Tag &quot;Inhalt&quot; taggen oder sie wie gewünscht markieren.
 
 Er unterscheidet sich auch insofern, als er nicht nur den moderierten Inhalt anzeigt; Er zeigt auch den Text an, der ausgewählt wurde, wenn die Sidenote hinzugefügt wurde, sodass Sie den Inhalt im Kontext bewerten können.
 
@@ -62,6 +60,6 @@ Die Moderation von Sidentites ermöglicht sowohl Massenänderungen als auch indi
 
 ## Moderieren von Livefyre-Benutzern {#section_grw_mqm_zz}
 
-Bewegen Sie den Mauszeiger über den Benutzernamen eines Livefyre-Benutzers, um ein Pulldown-Menü zu öffnen, mit dem Sie eine Liste ihrer Inhalte abrufen **[!UICONTROL Ban the User]**, abrufen **[!UICONTROL More Info]**oder anzeigen können **[!UICONTROL Comments]**. Durch Klicken auf dieses Menü wird die Info-Karte des Benutzers in der Studio **[!UICONTROL Users]** -Seite geöffnet.
+Bewegen Sie den Mauszeiger über den Benutzernamen eines Livefyre-Benutzers, um ein Pulldown-Menü zu öffnen, mit dem Sie eine Liste ihrer Inhalte abrufen **[!UICONTROL Ban the User]**, abrufen **[!UICONTROL More Info]** oder anzeigen können **[!UICONTROL Comments]**. Durch Klicken auf dieses Menü wird die Info-Karte des Benutzers in der Studio **[!UICONTROL Users]** -Seite geöffnet.
 
 Weitere Informationen zum Moderieren von Benutzern auf der **[!UICONTROL Users]** Seite finden Sie unter [Moderieren von Benutzerprofilen](/help/using/c-features-livefyre/c-about-moderation/t-moderate-users-modq.md#t_moderate_users_modq).

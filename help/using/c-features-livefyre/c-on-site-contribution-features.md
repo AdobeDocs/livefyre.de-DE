@@ -1,8 +1,6 @@
 ---
-description: Legen Sie fest, wie die Site-Besucher mit Apps interagieren und wie sie
-  mit dem Inhalt interagieren können.
-seo-description: Legen Sie fest, wie die Site-Besucher mit Apps interagieren und wie
-  sie mit dem Inhalt interagieren können.
+description: Legen Sie fest, wie die Site-Besucher mit Apps interagieren und wie sie mit dem Inhalt interagieren können.
+seo-description: Legen Sie fest, wie die Site-Besucher mit Apps interagieren und wie sie mit dem Inhalt interagieren können.
 seo-title: Onsite-Beitragsfunktionen
 solution: Experience Manager
 title: Onsite-Beitragsfunktionen
@@ -29,7 +27,7 @@ Apps, die diese Funktion verwenden:
 
 ## Text hochladen {#section_pwy_m2s_d1b}
 
-Site-Besucher können durch Schreiben von Textbeiträgen zur App beitragen. Dies kann mithilfe von Unterhaltungen oder der Schaltfläche "Hochladen" für Visualisierungsapps erfolgen.
+Site-Besucher können durch Schreiben von Textbeiträgen zur App beitragen. Dies kann mithilfe von Unterhaltungen oder der Schaltfläche &quot;Hochladen&quot; für Visualisierungsapps erfolgen.
 
 Sie müssen die Authentifizierung einrichten, um diese Funktion zu verwenden.
 
@@ -45,7 +43,7 @@ Apps, die diese Funktion verwenden:
 
 ## Video-Upload {#section_mlm_42s_d1b}
 
-Site-Besucher können durch Hochladen von Videos zur App beitragen. Dies kann mithilfe von Unterhaltungen oder der "Upload-Schaltfläche" für Visualisierungsapps erfolgen. Weitere Informationen dazu, ob eine App diese Funktion unterstützt, finden Sie in der Dokumentation zu den einzelnen Apps. erfordert Authentifizierung
+Site-Besucher können durch Hochladen von Videos zur App beitragen. Dies kann mithilfe von Unterhaltungen oder der &quot;Upload-Schaltfläche&quot; für Visualisierungsapps erfolgen. Weitere Informationen dazu, ob eine App diese Funktion unterstützt, finden Sie in der Dokumentation zu den einzelnen Apps. erfordert Authentifizierung
 
 Sie müssen die Authentifizierung einrichten, um diese Funktion zu verwenden.
 
@@ -55,9 +53,9 @@ Apps, die diese Funktion verwenden:
 
 ## Kompatibel mit Upload-Schaltfläche {#section_vzs_t2s_d1b}
 
-Sie können eine Schaltfläche "Hochladen" in Ihrer App anzeigen, über die Site-Besucher Text oder Medien in eine App oder in Ihre Bibliothek hochladen können.
+Sie können eine Schaltfläche &quot;Hochladen&quot; in Ihrer App anzeigen, über die Site-Besucher Text oder Medien in eine App oder in Ihre Bibliothek hochladen können.
 
-Trends, Umfragen und Storify 2 sind nicht mit der Schaltfläche "Hochladen" kompatibel.
+Trends, Umfragen und Storify 2 sind nicht mit der Schaltfläche &quot;Hochladen&quot; kompatibel.
 
 Sie müssen die Authentifizierung einrichten, um diese Funktion zu verwenden.
 

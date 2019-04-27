@@ -1,8 +1,6 @@
 ---
-description: Binden Sie Ihre Site-Besucher mit Funktionen ein, die Ihre Site wieder
-  aufrufen, wenn sie Ihren Inhalt entdecken.
-seo-description: Binden Sie Ihre Site-Besucher mit Funktionen ein, die Ihre Site wieder
-  aufrufen, wenn sie Ihren Inhalt entdecken.
+description: Binden Sie Ihre Site-Besucher mit Funktionen ein, die Ihre Site wieder aufrufen, wenn sie Ihren Inhalt entdecken.
+seo-description: Binden Sie Ihre Site-Besucher mit Funktionen ein, die Ihre Site wieder aufrufen, wenn sie Ihren Inhalt entdecken.
 seo-title: Enagement-Funktionen
 solution: Experience Manager
 title: Enagement-Funktionen

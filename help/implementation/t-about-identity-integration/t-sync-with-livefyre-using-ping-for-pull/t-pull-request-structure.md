@@ -1,8 +1,6 @@
 ---
-description: Erstellen Sie die Struktur für die Pull-Anforderung, um Anforderungen
-  für den Zugriff auf Ihr Benutzeridentitätssystem zu erhalten und zu beantworten.
-seo-description: Erstellen Sie die Struktur für die Pull-Anforderung, um Anforderungen
-  für den Zugriff auf Ihr Benutzeridentitätssystem zu erhalten und zu beantworten.
+description: Erstellen Sie die Struktur für die Pull-Anforderung, um Anforderungen für den Zugriff auf Ihr Benutzeridentitätssystem zu erhalten und zu beantworten.
+seo-description: Erstellen Sie die Struktur für die Pull-Anforderung, um Anforderungen für den Zugriff auf Ihr Benutzeridentitätssystem zu erhalten und zu beantworten.
 seo-title: Abfrageanforderungsstruktur
 solution: Experience Manager
 title: Abfrageanforderungsstruktur
@@ -41,5 +39,5 @@ Dabei `lftoken` ist ein JSON-Webtoken mit Ihrem Netzwerkschlüssel signiert und 
 
    * Wenn nicht `lftoken` vorhanden ist oder die Überprüfung fehlschlägt, darf Ihr Endpunkt nicht mit Profilinformationen antworten. Beantworten Sie stattdessen den Status 403 (Forbidden) und keinen Antwortkörper.
 
-1. `userAuthToken` wird durch die Livefyre `buildUserAuthToken` -Methode für den Benutzer mit der Benutzer-ID "system" generiert. Dieser Benutzer ist der erste Benutzer, der für jedes neue Netzwerk erstellt wurde.
+1. `userAuthToken` wird durch die Livefyre `buildUserAuthToken` -Methode für den Benutzer mit der Benutzer-ID &quot;system&quot; generiert. Dieser Benutzer ist der erste Benutzer, der für jedes neue Netzwerk erstellt wurde.
 1. Um Ihre Seite zu testen, verwenden Sie unser [Ping für Pull](https://livefyre-p4p-wizard.herokuapp.com/home) -Tester, um zu bestätigen, dass alles wie erwartet funktioniert.

@@ -1,8 +1,6 @@
 ---
-description: Verwenden Sie Livefyre. js, um für Ihre Livefyre-Apps seitenweite Authentifizierung
-  hinzuzufügen.
-seo-description: Verwenden Sie Livefyre. js, um für Ihre Livefyre-Apps seitenweite
-  Authentifizierung hinzuzufügen.
+description: Verwenden Sie Livefyre. js, um für Ihre Livefyre-Apps seitenweite Authentifizierung hinzuzufügen.
+seo-description: Verwenden Sie Livefyre. js, um für Ihre Livefyre-Apps seitenweite Authentifizierung hinzuzufügen.
 seo-title: Authentifizierung zu einer App mit Livefyre. js hinzufügen
 solution: Experience Manager
 title: Authentifizierung zu einer App mit Livefyre. js hinzufügen
@@ -23,7 +21,7 @@ Verwenden Sie Livefyre. js, um für Ihre Livefyre-Apps seitenweite Authentifizie
 
 Verwenden `Livefyre.js` Sie diese Option, um die Authentifizierung für eine Seite zu aktivieren, damit Benutzer sich anmelden und mit Apps mit Ihrem bestehenden Authentifizierungssystem interagieren können.
 
-1. Um die Authentifizierung auf einer Seite zu aktivieren, fügen `Livefyre.js`*Sie dem < head >* -Element Ihrer Webseite oder Website-Vorlage hinzu.
+1. Um die Authentifizierung auf einer Seite zu aktivieren, fügen `Livefyre.js`*Sie dem &lt; head &gt;* -Element Ihrer Webseite oder Website-Vorlage hinzu.
 
    ```
    <script src="//cdn.livefyre.com/Livefyre.js"></script>

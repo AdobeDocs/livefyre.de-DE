@@ -1,8 +1,6 @@
 ---
-description: Geben Sie den Speicherort des Navigationsleitfadens auf dem Bildschirm
-  an.
-seo-description: Geben Sie den Speicherort des Navigationsleitfadens auf dem Bildschirm
-  an.
+description: Geben Sie den Speicherort des Navigationsleitfadens auf dem Bildschirm an.
+seo-description: Geben Sie den Speicherort des Navigationsleitfadens auf dem Bildschirm an.
 seo-title: Navigationsleitfaden verschieben
 solution: Experience Manager
 title: Navigationsleitfaden verschieben

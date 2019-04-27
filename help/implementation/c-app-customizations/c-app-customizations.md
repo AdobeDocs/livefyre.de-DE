@@ -1,8 +1,6 @@
 ---
-description: Passen Sie App-Anzeigeoptionen an Ihr Branding und Ihren Stil an und
-  fügen Sie benutzerdefinierte Funktionen hinzu.
-seo-description: Passen Sie App-Anzeigeoptionen an Ihr Branding und Ihren Stil an
-  und fügen Sie benutzerdefinierte Funktionen hinzu.
+description: Passen Sie App-Anzeigeoptionen an Ihr Branding und Ihren Stil an und fügen Sie benutzerdefinierte Funktionen hinzu.
+seo-description: Passen Sie App-Anzeigeoptionen an Ihr Branding und Ihren Stil an und fügen Sie benutzerdefinierte Funktionen hinzu.
 seo-title: App-Anpassungen
 solution: Experience Manager
 title: App-Anpassungen

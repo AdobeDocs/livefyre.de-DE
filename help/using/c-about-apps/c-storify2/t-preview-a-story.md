@@ -1,8 +1,6 @@
 ---
-description: Mit dem App Designer können Sie eine Vorschau Ihrer App in verschiedenen
-  Auslieferungsformaten und mit Ihren eigenen oder Musterdaten anzeigen.
-seo-description: Mit dem App Designer können Sie eine Vorschau Ihrer App in verschiedenen
-  Auslieferungsformaten und mit Ihren eigenen oder Musterdaten anzeigen.
+description: Mit dem App Designer können Sie eine Vorschau Ihrer App in verschiedenen Auslieferungsformaten und mit Ihren eigenen oder Musterdaten anzeigen.
+seo-description: Mit dem App Designer können Sie eine Vorschau Ihrer App in verschiedenen Auslieferungsformaten und mit Ihren eigenen oder Musterdaten anzeigen.
 seo-title: Vorschau einer Meldung
 solution: Experience Manager
 title: Vorschau einer Meldung

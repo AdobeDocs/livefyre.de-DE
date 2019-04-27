@@ -5,7 +5,7 @@ seo-title: Bookotes Bookmarklet
 title: Bookotes Bookmarklet
 uuid: b 6 f 6263 e -85 b 1-4 e 49-ba 3 c -7 f 12746 a 4 f 59
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
 
 ---
 

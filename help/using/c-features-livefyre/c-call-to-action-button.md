@@ -1,6 +1,6 @@
 ---
-description: null
-seo-description: null
+description: 'null '
+seo-description: 'null '
 seo-title: Benutzerdefinierte Aktionsaufruf-Schaltfläche
 title: Benutzerdefinierte Aktionsaufruf-Schaltfläche
 uuid: 8 c 653799-1602-4 e 38-a 2 bc -6 de 0 f 99 c 40 ff
@@ -27,15 +27,15 @@ Mit benutzerdefinierten ctas können Sie:
 
 Aufgabenkontext
 
-1. Klicken **[!UICONTROL Settings]**Sie in Livefyre Studio auf.
-1. Klicken **[!UICONTROL CTAs]**Sie in der linken Leiste auf.
+1. Klicken **[!UICONTROL Settings]** Sie in Livefyre Studio auf.
+1. Klicken **[!UICONTROL CTAs]** Sie in der linken Leiste auf.
 
-   Die CTA-Bibliothek wird angezeigt, wo ctas in Ordnern erstellt und organisiert werden können. 1. Klicken **[!UICONTROL Create CTA]**Sie auf.
+   Die CTA-Bibliothek wird angezeigt, wo ctas in Ordnern erstellt und organisiert werden können. 1. Klicken **[!UICONTROL Create CTA]** Sie auf.
 1. Füllen Sie die Felder mit den gewünschten Anpassungen aus und eine Schaltflächenvorschau wird am unteren Rand des CTA-Bildschirms gerendert.
 
    ![](assets/cta-button-create.png)
 
-1. Klicken **[!UICONTROL Create]**Sie auf.
+1. Klicken **[!UICONTROL Create]** Sie auf.
 
    Die CTA-Schaltfläche steht nun jedem Asset zur Verfügung.
 
@@ -43,13 +43,13 @@ Aufgabenkontext
 
 Fügen Sie einer beliebigen Inhaltseinheit in Livefyre Studio eine CTA-Schaltfläche hinzu.
 
-1. Navigieren Sie in Livefyre Studio zu **[!UICONTROL Library]** > **[!UICONTROL All Assets]**.
+1. Navigieren Sie in Livefyre Studio zu **[!UICONTROL Library]** &gt; **[!UICONTROL All Assets]**.
 1. Wählen Sie ein oder mehrere Assets aus, in denen eine CTA-Schaltfläche hinzugefügt werden soll.
-1. Klicken **[!UICONTROL CTAs]**Sie auf.
+1. Klicken **[!UICONTROL CTAs]** Sie auf.
 
    ![](assets/cta-button-create2.png)
 
-1. Wählen Sie die gewünschte CTA-Schaltfläche aus der Liste aus und klicken **[!UICONTROL Add]**Sie dann auf.
+1. Wählen Sie die gewünschte CTA-Schaltfläche aus der Liste aus und klicken **[!UICONTROL Add]** Sie dann auf.
 
    Die CTA-Schaltfläche wird jetzt für das ausgewählte Asset angezeigt.
 

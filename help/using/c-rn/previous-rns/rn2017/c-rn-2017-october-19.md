@@ -18,8 +18,8 @@ Versionshinweise für die Version vom 19. Oktober 2017.
 
 | **Ausgabentyp** | **Komponente** | **Versionshinweise** |
 |---|---|---|
-| Bug | Einstellungen | Die Änderung der Farbe in der Einstellung "Markenfarbe" in Studio-Einstellungen funktioniert jetzt wie vorgesehen. |
-| Bug | Rights Management | Es wurde ein Fehler behoben, durch den lange Benutzernamen auf der Registerkarte "Rechte" angezeigt wurden. |
+| Bug | Einstellungen | Die Änderung der Farbe in der Einstellung &quot;Markenfarbe&quot; in Studio-Einstellungen funktioniert jetzt wie vorgesehen. |
+| Bug | Rights Management | Es wurde ein Fehler behoben, durch den lange Benutzernamen auf der Registerkarte &quot;Rechte&quot; angezeigt wurden. |
 
 ## UAT-Version
 
@@ -29,5 +29,5 @@ Versionshinweise für die Version vom 19. Oktober 2017.
 | Verbesserung | App-Inhalt | Kunden können jetzt Audiodateien über die Hochladen-API hochladen, die über App-Inhalte angezeigt und heruntergeladen werden können. |
 | Verbesserung | App-Inhalt | Es wurde die Möglichkeit hinzugefügt, eine Audiodatei aus App-Inhalten herunterzuladen. |
 | Bug | Rights Management | Es wurde ein Fehler behoben, der keine korrekte Fehlermeldung anzeigte, wenn ein Benutzer versucht, Inhalte in Social Search zu speichern, nachdem er aus Twitter oder Instagram gelöscht wurde. |
-| Verbesserung | SAFE | Studio-Administratoren können jetzt in den Einstellungen "Smart Mod-Ablehnung" eine neue SAFE-Regel hinzufügen, die die Funktion" Smart Mod" aktiviert. |
+| Verbesserung | SAFE | Studio-Administratoren können jetzt in den Einstellungen &quot;Smart Mod-Ablehnung&quot; eine neue SAFE-Regel hinzufügen, die die Funktion&quot; Smart Mod&quot; aktiviert. |
 

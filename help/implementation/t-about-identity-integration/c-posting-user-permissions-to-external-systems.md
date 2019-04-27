@@ -1,8 +1,6 @@
 ---
-description: Livefyre verwendet eine PUSH-Schnittstelle, um externe Systeminformationen
-  über Änderungen an Benutzerberechtigungen zu senden.
-seo-description: Livefyre verwendet eine PUSH-Schnittstelle, um externe Systeminformationen
-  über Änderungen an Benutzerberechtigungen zu senden.
+description: Livefyre verwendet eine PUSH-Schnittstelle, um externe Systeminformationen über Änderungen an Benutzerberechtigungen zu senden.
+seo-description: Livefyre verwendet eine PUSH-Schnittstelle, um externe Systeminformationen über Änderungen an Benutzerberechtigungen zu senden.
 seo-title: Veröffentlichen von Benutzerberechtigungen für externe Systeme (optional)
 solution: Experience Manager
 title: Veröffentlichen von Benutzerberechtigungen für externe Systeme (optional)

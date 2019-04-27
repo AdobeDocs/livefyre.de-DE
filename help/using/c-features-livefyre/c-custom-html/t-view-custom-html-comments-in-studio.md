@@ -1,8 +1,6 @@
 ---
-description: Siehe Kommentare, die von benutzerdefinierten HTML mithilfe dieses Verfahrens
-  hinzugefügt wurden.
-seo-description: Siehe Kommentare, die von benutzerdefinierten HTML mithilfe dieses
-  Verfahrens hinzugefügt wurden.
+description: Siehe Kommentare, die von benutzerdefinierten HTML mithilfe dieses Verfahrens hinzugefügt wurden.
+seo-description: Siehe Kommentare, die von benutzerdefinierten HTML mithilfe dieses Verfahrens hinzugefügt wurden.
 seo-title: Benutzerdefinierte HTML-Kommentare in Studio anzeigen
 solution: Experience Manager
 title: Benutzerdefinierte HTML-Kommentare in Studio anzeigen

@@ -1,6 +1,6 @@
 ---
-description: null
-seo-description: null
+description: 'null '
+seo-description: 'null '
 seo-title: Einen Übersetzungssatz auf ein Netzwerk anwenden
 solution: Experience Manager
 title: Einen Übersetzungssatz auf ein Netzwerk anwenden
@@ -16,6 +16,6 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 1. Navigieren Sie zu Einstellungen in Studio. Stellen Sie sicher, dass Sie auf Netzwerkebene und nicht auf Site-Ebene arbeiten.
 1. Wählen Sie Netzwerkeinstellungen.
 1. Wählen Sie App-Einstellungen.
-1. Navigieren Sie zu Standardeinstellungen > Übersetzungsset.
+1. Navigieren Sie zu Standardeinstellungen &gt; Übersetzungsset.
 1. Wählen Sie einen Übersetzungssatz aus dem Dropdown-Menü.
 

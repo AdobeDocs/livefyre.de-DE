@@ -1,8 +1,6 @@
 ---
-description: Verwenden Sie Ping für Pull, um Livefyre mit Ihrem Benutzerverwaltungssystem
-  synchron zu halten.
-seo-description: Verwenden Sie Ping für Pull, um Livefyre mit Ihrem Benutzerverwaltungssystem
-  synchron zu halten.
+description: Verwenden Sie Ping für Pull, um Livefyre mit Ihrem Benutzerverwaltungssystem synchron zu halten.
+seo-description: Verwenden Sie Ping für Pull, um Livefyre mit Ihrem Benutzerverwaltungssystem synchron zu halten.
 seo-title: Mit Livefyre mit Ping für Pull synchronisieren
 solution: Experience Manager
 title: Mit Livefyre mit Ping für Pull synchronisieren
@@ -31,7 +29,7 @@ Ping für Pull-Sequenz:
 1. Der Kunde erhält die Pull-Antwort und überprüft.
 1. Livefyre aktualisiert Remote Profile mit den externen Profilinformationen, die im Pull-Endpunkt enthalten sind.
 
-Ping von Livefyre, wenn ein Benutzer seine Profilinformationen aktualisiert. Während Ping für Pull-Abschlusszeiten je nach Netzwerklast variieren kann, werden die Benutzerinformationen zwischen 1 und 10 Minuten aktualisiert. Aktualisierte Profiländerungen werden zuerst in Livefyre Studio > Benutzer angezeigt.
+Ping von Livefyre, wenn ein Benutzer seine Profilinformationen aktualisiert. Während Ping für Pull-Abschlusszeiten je nach Netzwerklast variieren kann, werden die Benutzerinformationen zwischen 1 und 10 Minuten aktualisiert. Aktualisierte Profiländerungen werden zuerst in Livefyre Studio &gt; Benutzer angezeigt.
 
 Aktualisierte Profilinformationen werden in Ihren Livefyre-Apps nach zwei Ereignissen angezeigt:
 

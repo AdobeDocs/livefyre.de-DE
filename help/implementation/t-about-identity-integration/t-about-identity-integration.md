@@ -1,8 +1,6 @@
 ---
-description: Beschreibt Optionen zum Hinzufügen von Benutzerauthentifizierung zu Livefyre-Apps,
-  einschließlich Janregen Capture oder Ihrem eigenen Identitätsdienst.
-seo-description: Beschreibt Optionen zum Hinzufügen von Benutzerauthentifizierung
-  zu Livefyre-Apps, einschließlich Janregen Capture oder Ihrem eigenen Identitätsdienst.
+description: Beschreibt Optionen zum Hinzufügen von Benutzerauthentifizierung zu Livefyre-Apps, einschließlich Janregen Capture oder Ihrem eigenen Identitätsdienst.
+seo-description: Beschreibt Optionen zum Hinzufügen von Benutzerauthentifizierung zu Livefyre-Apps, einschließlich Janregen Capture oder Ihrem eigenen Identitätsdienst.
 seo-title: Identitätsintegration
 solution: Experience Manager
 title: Identitätsintegration

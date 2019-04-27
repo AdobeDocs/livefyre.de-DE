@@ -1,9 +1,6 @@
 ---
-description: Reviews bieten eine umfassende Palette an Anpassungen, mit deren Hilfe
-  Sie eine Review-App erstellen können, die Ihren Anforderungen und Branding entspricht.
-seo-description: Reviews bieten eine umfassende Palette an Anpassungen, mit deren
-  Hilfe Sie eine Review-App erstellen können, die Ihren Anforderungen und Branding
-  entspricht.
+description: Reviews bieten eine umfassende Palette an Anpassungen, mit deren Hilfe Sie eine Review-App erstellen können, die Ihren Anforderungen und Branding entspricht.
+seo-description: Reviews bieten eine umfassende Palette an Anpassungen, mit deren Hilfe Sie eine Review-App erstellen können, die Ihren Anforderungen und Branding entspricht.
 seo-title: Erstellen einer Review-App
 solution: Experience Manager
 title: Erstellen einer Review-App
@@ -37,15 +34,15 @@ Weitere Informationen finden Sie **[!UICONTROL Configure Star Ratings]** unter R
 
 ## Bewertungsdimensionen {#section_cnx_snh_21b}
 
-Bewertungsdimensionen sind die Kategorien, in denen Ihre Überprüfer Ihr Produkt oder Ihren Dienst bewerten. Beispiele für Bewertungsdimensionen sind "Leistung" ," Entwurf" , "Kosten" ," Gesamt" oder eine andere Kategorie, die Sie auswählen.
+Bewertungsdimensionen sind die Kategorien, in denen Ihre Überprüfer Ihr Produkt oder Ihren Dienst bewerten. Beispiele für Bewertungsdimensionen sind &quot;Leistung&quot; ,&quot; Entwurf&quot; , &quot;Kosten&quot; ,&quot; Gesamt&quot; oder eine andere Kategorie, die Sie auswählen.
 
-Der Standardwert ist die Anzeige einer "Gesamt" -Bewertungsdimension, Sie können jedoch mehrere Bewertungsdimensionen definieren und implementieren, wie im Beispiel unten dargestellt.
+Der Standardwert ist die Anzeige einer &quot;Gesamt&quot; -Bewertungsdimension, Sie können jedoch mehrere Bewertungsdimensionen definieren und implementieren, wie im Beispiel unten dargestellt.
 
-Weitere Informationen finden Sie im Feld variabdimensions unter "Review Collection Metadata" .
+Weitere Informationen finden Sie im Feld variabdimensions unter &quot;Review Collection Metadata&quot; .
 
 ## Textfelder überprüfen {#section_xcm_4nh_21b}
 
-Sie können auch zusätzliche Textfelder in das betreffende Produkt oder Erlebnis einfügen. (Textfelder können beispielsweise "Pros" und" Cons" oder "Nicht Miss" lauten.) Die Anzahl, der Titel und der Standardtext für das Feld sind anpassbar. Benutzer müssen alle Textfelder sowie den Prüfungstitel, den Haupttext und die Bewertung abschließen, um ihre Überprüfung zu veröffentlichen. Optionale Textfelder sind nicht möglich.
+Sie können auch zusätzliche Textfelder in das betreffende Produkt oder Erlebnis einfügen. (Textfelder können beispielsweise &quot;Pros&quot; und&quot; Cons&quot; oder &quot;Nicht Miss&quot; lauten.) Die Anzahl, der Titel und der Standardtext für das Feld sind anpassbar. Benutzer müssen alle Textfelder sowie den Prüfungstitel, den Haupttext und die Bewertung abschließen, um ihre Überprüfung zu veröffentlichen. Optionale Textfelder sind nicht möglich.
 
 Weitere Informationen finden Sie im Feld variabdimensions für die Überprüfungssammlung-Metadaten.
 

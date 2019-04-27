@@ -1,8 +1,6 @@
 ---
-description: Diese Methode gibt die URN für diese Sammlung zurück. Sie müssen createorupdate
-  () ausführen, bevor Sie diese Methode ausführen.
-seo-description: Diese Methode gibt die URN für diese Sammlung zurück. Sie müssen
-  createorupdate () ausführen, bevor Sie diese Methode ausführen.
+description: Diese Methode gibt die URN für diese Sammlung zurück. Sie müssen createorupdate () ausführen, bevor Sie diese Methode ausführen.
+seo-description: Diese Methode gibt die URN für diese Sammlung zurück. Sie müssen createorupdate () ausführen, bevor Sie diese Methode ausführen.
 seo-title: Erfassungssammlungsmethode
 solution: Experience Manager
 title: Erfassungssammlungsmethode

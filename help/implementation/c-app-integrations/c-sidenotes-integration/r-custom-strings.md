@@ -1,6 +1,6 @@
 ---
-description: null
-seo-description: null
+description: 'null '
+seo-description: 'null '
 seo-title: Benutzerdefinierte Zeichenfolgen
 title: Benutzerdefinierte Zeichenfolgen
 uuid: 73745273-d 3 fb -4569-8910-d 149 fb 37 a 7 b 4
@@ -46,7 +46,7 @@ new Livefyre.Sidenotes({
 | Errorduplicate | Wir haben auch Ihre Notiz, aber Sie können sie nicht zweimal posten. |
 | Errorgeneral | Es ist ein Fehler aufgetreten. Bitte erneut versuchen. |
 | Errorserver | Bei unserem Server ist etwas falsch. Versuchen Sie es erneut? |
-| Facebooksharecaption | Sidenotes für " {title} « |
+| Facebooksharecaption | Sidenotes für &quot; {title} « |
 | Menuauthsignedinmsg | Sie müssen bei {action} angemeldet sein. |
 | Menuauthsigninbtn | Anmelden |
 | Menubackbtn | Zurück |
@@ -81,8 +81,8 @@ new Livefyre.Sidenotes({
 | Notificationflag | Gekennzeichnet |
 | Permalinkbackbtn | Alle |
 | Permalinktitle | Permalink |
-| Questionexplain | Sie können Kommentare jetzt direkt in Sätzen, Absätzen, Bildern und Anführungszeichen lesen und schreiben.<br><br>Markieren Sie Text und klicken Sie auf das Symbol "fycon-write" oder klicken Sie am Ende jedes Absatzes auf das Symbol" fycon-action-view" . |
-| Questionmocktext | Was genau bekannt ist, wird nicht korrekt bekannt, sondern nur aus dem Grund, aus dem sie "bekannt" ist. |
+| Questionexplain | Sie können Kommentare jetzt direkt in Sätzen, Absätzen, Bildern und Anführungszeichen lesen und schreiben.<br><br>Markieren Sie Text und klicken Sie auf das Symbol &quot;fycon-write&quot; oder klicken Sie am Ende jedes Absatzes auf das Symbol&quot; fycon-action-view&quot; . |
+| Questionmocktext | Was genau bekannt ist, wird nicht korrekt bekannt, sondern nur aus dem Grund, aus dem sie &quot;bekannt&quot; ist. |
 | Questiontitle | Was ist eine Sidenote? |
 | Queuedcommentsplural | {number} Neue Zielgruppen |
 | Queuedcommentssingular | 1 Neue Sidenote |

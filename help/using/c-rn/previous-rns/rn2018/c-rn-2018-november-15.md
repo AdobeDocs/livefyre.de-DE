@@ -43,7 +43,7 @@ Die Probleme in den folgenden Tabellen wurden in dieser Version behoben.
 
 | Ausgabentyp | Komponente | Versionshinweise |
 |--- |--- |--- |
-| Ausgabe | Appservice: Livefyre-Identität | Es wurde ein Problem behoben, durch das Klicks [auf! UICONTROL Zurücksetzen auf Standard] wurde das Logo unter "Login Modal" unter Studio > Integrationseinstellungen > Livefyre Identity to the default image nicht zurückgesetzt. |
+| Ausgabe | Appservice: Livefyre-Identität | Es wurde ein Problem behoben, durch das Klicks [auf! UICONTROL Zurücksetzen auf Standard] wurde das Logo unter &quot;Login Modal&quot; unter Studio &gt; Integrationseinstellungen &gt; Livefyre Identity to the default image nicht zurückgesetzt. |
 | Ausgabe | Bibliothek | Es wurde ein Problem behoben, durch das ein in die Bibliothek hochgeladenes Video, das dann in der Asset-Details angezeigt wurde, nicht richtig angezeigt wurde. |
 | Ausgabe | Streams | Es wurde ein Fehler behoben, der verhinderte, dass Produkte in einer Stream-Regel angezeigt wurden. |
 | Ausgabe | Streams | Es wurde ein Problem behoben, durch das Produkt-Tags für eine Stream-Regel nicht verfügbar waren. |
@@ -54,4 +54,4 @@ Die Probleme in den folgenden Tabellen wurden in dieser Version behoben.
 
 | **Ausgabentyp** | **Komponente** | **Versionshinweise** |
 |---|---|---|
-| Ausgabe | Social-Komponente: Karussell | Es wurde ein Problem behoben, durch das der Link "Freigeben" nicht in IE 11 und Mozilla Firefox angezeigt und die URL wie erwartet kopiert wurde. |
+| Ausgabe | Social-Komponente: Karussell | Es wurde ein Problem behoben, durch das der Link &quot;Freigeben&quot; nicht in IE 11 und Mozilla Firefox angezeigt und die URL wie erwartet kopiert wurde. |

@@ -1,8 +1,6 @@
 ---
-description: Erfassen Sie die Gezählungs- und Kommentarzahlen für bestimmte Sammlungen,
-  die auf Ihren Indexseiten angezeigt werden sollen.
-seo-description: Erfassen Sie die Gezählungs- und Kommentarzahlen für bestimmte Sammlungen,
-  die auf Ihren Indexseiten angezeigt werden sollen.
+description: Erfassen Sie die Gezählungs- und Kommentarzahlen für bestimmte Sammlungen, die auf Ihren Indexseiten angezeigt werden sollen.
+seo-description: Erfassen Sie die Gezählungs- und Kommentarzahlen für bestimmte Sammlungen, die auf Ihren Indexseiten angezeigt werden sollen.
 seo-title: Anzahl der Kommentare anzeigen
 solution: Experience Manager
 title: Anzahl der Kommentare anzeigen
@@ -43,7 +41,7 @@ Mit Livefyre `CommentCount.js` können Sie die Inhaltszählungen für Sammlungen
    </span>
    ```
 
-   >[!NOTE] {important = "high"}
+   >[!NOTE] {important = &quot;high&quot;}
    >
    >Der `CommentCount.js` Code prüft, ob ein numerischer Wert mit der tatsächlichen Anzahl aktualisiert wird. Achten Sie darauf, einen numerischen Wert zwischen den Tags einzufügen.
 

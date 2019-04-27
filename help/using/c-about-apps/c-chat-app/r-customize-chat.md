@@ -1,10 +1,6 @@
 ---
-description: Passen Sie Chat-Apps an, um Inhalte als fortlaufender Stream unverketteter
-  Chat anzuzeigen. So können Ihre Zielgruppen in Echtzeit mit Live-Ereignissen oder
-  Mitteilungen interagieren.
-seo-description: Passen Sie Chat-Apps an, um Inhalte als fortlaufender Stream unverketteter
-  Chat anzuzeigen. So können Ihre Zielgruppen in Echtzeit mit Live-Ereignissen oder
-  Mitteilungen interagieren.
+description: Passen Sie Chat-Apps an, um Inhalte als fortlaufender Stream unverketteter Chat anzuzeigen. So können Ihre Zielgruppen in Echtzeit mit Live-Ereignissen oder Mitteilungen interagieren.
+seo-description: Passen Sie Chat-Apps an, um Inhalte als fortlaufender Stream unverketteter Chat anzuzeigen. So können Ihre Zielgruppen in Echtzeit mit Live-Ereignissen oder Mitteilungen interagieren.
 seo-title: Chat-Anpassungen
 solution: Experience Manager
 title: Chat-Anpassungen
@@ -49,7 +45,7 @@ Diese Optionen sind über die Chat-App verfügbar:
 
 * **[!UICONTROL Users may share comments]**
 
-   Wenn diese Option aktiviert ist, können Benutzer gepostete Kommentare an Twitter, Facebook oder linkedin freigeben. Weitere Informationen zur Aktivierung der Freigabe finden Sie unter Einstellungen > Integrationseinstellungen > Social Sharing.
+   Wenn diese Option aktiviert ist, können Benutzer gepostete Kommentare an Twitter, Facebook oder linkedin freigeben. Weitere Informationen zur Aktivierung der Freigabe finden Sie unter Einstellungen &gt; Integrationseinstellungen &gt; Social Sharing.
 
 * **[!UICONTROL Additional sort option]**
 
@@ -57,7 +53,7 @@ Diese Optionen sind über die Chat-App verfügbar:
 
 Sie können Chat mithilfe von:
 
-* **[!UICONTROL Style]** und **[!UICONTROL Config]** Optionen für alle Apps im **[!UICONTROL App Designer]**. Weitere Informationen zum Standard **[!UICONTROL Style]** und den **[!UICONTROL Config]** Optionen für alle Apps im **[!UICONTROL App Designer]**Abschnitt finden Sie unter Anpassen von Apps.
+* **[!UICONTROL Style]** und **[!UICONTROL Config]** Optionen für alle Apps im **[!UICONTROL App Designer]**. Weitere Informationen zum Standard **[!UICONTROL Style]** und den **[!UICONTROL Config]** Optionen für alle Apps im **[!UICONTROL App Designer]** Abschnitt finden Sie unter Anpassen von Apps.
 
 * Integrationswerkzeuge. Weitere Informationen zum Anpassen von Chat mit Integrationswerkzeugen finden Sie unter Chat.
 

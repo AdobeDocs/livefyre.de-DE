@@ -1,8 +1,6 @@
 ---
-description: Die führende soziale Tiefenplattform mit den Tools, die Sie benötigen,
-  um Zielgruppen mit Stimmen zu interagieren, die sie selbst vertrauen.
-seo-description: Die führende soziale Tiefenplattform mit den Tools, die Sie benötigen,
-  um Zielgruppen mit Stimmen zu interagieren, die sie selbst vertrauen.
+description: Die führende soziale Tiefenplattform mit den Tools, die Sie benötigen, um Zielgruppen mit Stimmen zu interagieren, die sie selbst vertrauen.
+seo-description: Die führende soziale Tiefenplattform mit den Tools, die Sie benötigen, um Zielgruppen mit Stimmen zu interagieren, die sie selbst vertrauen.
 seo-title: Info zu Livefyre
 solution: Experience Manager
 title: Info zu Livefyre

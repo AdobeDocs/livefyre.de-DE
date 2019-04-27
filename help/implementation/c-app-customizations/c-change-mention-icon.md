@@ -1,8 +1,6 @@
 ---
-description: Ändern Sie das für Livefyre-Benutzer angezeigte Symbol im Pull-down-Menü
-  @mention.
-seo-description: Ändern Sie das für Livefyre-Benutzer angezeigte Symbol im Pull-down-Menü
-  @mention.
+description: Ändern Sie das für Livefyre-Benutzer angezeigte Symbol im Pull-down-Menü @mention.
+seo-description: Ändern Sie das für Livefyre-Benutzer angezeigte Symbol im Pull-down-Menü @mention.
 seo-title: Symbol @mention ändern
 solution: Experience Manager
 title: Symbol @mention ändern
@@ -13,7 +11,7 @@ source-git-commit: 0d2ff61b1db6100de1d59e6e20c1175f015a78c5
 ---
 
 
-# `@mention` Symbol ändern {#change-mention-icon}
+# Change `@mention` Icon {#change-mention-icon}
 
 Ändern Sie das für Livefyre-Benutzer angezeigte Symbol im `@mention` Pulldown-Menü.
 
@@ -21,7 +19,7 @@ source-git-commit: 0d2ff61b1db6100de1d59e6e20c1175f015a78c5
 
 ## Beispiel 
 
-Um dieses Symbol zu ändern, fügen Sie dem Stylesheet die folgende CSS hinzu. Ersetzen Sie <*Ihre Ressource*> url durch die URL des ausgewählten Bilds, um das standardmäßige Livefyre-Zeichen zu ersetzen.
+Um dieses Symbol zu ändern, fügen Sie dem Stylesheet die folgende CSS hinzu. Ersetzen Sie &lt;*Ihre Ressource*&gt; url durch die URL des ausgewählten Bilds, um das standardmäßige Livefyre-Zeichen zu ersetzen.
 
 ```
 .fyre-editor-container .fyre-editor-toolbar > .fyre-mention-menu .fyre-mention-item .fyre-mention-item-livefyre { 

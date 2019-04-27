@@ -1,8 +1,6 @@
 ---
-description: Erfassen, organisieren und verwalten Sie ausgewählte Inhalte zur Verwendung
-  in Ihren Livefyre-Apps.
-seo-description: Erfassen, organisieren und verwalten Sie ausgewählte Inhalte zur
-  Verwendung in Ihren Livefyre-Apps.
+description: Erfassen, organisieren und verwalten Sie ausgewählte Inhalte zur Verwendung in Ihren Livefyre-Apps.
+seo-description: Erfassen, organisieren und verwalten Sie ausgewählte Inhalte zur Verwendung in Ihren Livefyre-Apps.
 seo-title: Assets
 solution: Experience Manager
 title: Assets

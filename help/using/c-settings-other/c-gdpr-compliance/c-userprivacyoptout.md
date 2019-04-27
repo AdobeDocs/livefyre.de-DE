@@ -1,13 +1,11 @@
 ---
-description: Fügen Sie der Seite das Flag userprivacyoptout hinzu, damit ein Site-Besucher
-  diese Verfolgung abwählen kann.
-seo-description: Fügen Sie der Seite das Flag userprivacyoptout hinzu, damit ein Site-Besucher
-  diese Verfolgung abwählen kann.
+description: Fügen Sie der Seite das Flag userprivacyoptout hinzu, damit ein Site-Besucher diese Verfolgung abwählen kann.
+seo-description: Fügen Sie der Seite das Flag userprivacyoptout hinzu, damit ein Site-Besucher diese Verfolgung abwählen kann.
 seo-title: Userprivacyoptout
 title: Userprivacyoptout
 uuid: a 043 c 50 e -0 a 02-4 c 83-bbce -54 b 9 b 51316 a 5
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
 
 ---
 
@@ -48,4 +46,4 @@ Anweisungen:
    >
    >Ändern Sie nicht den Wert von `userPrivacyOptOut` Livefyre-Apps, die geladen wurden.
 
-Stellen Sie sicher, dass Ihr Arbeitsablauf für die Genehmigung den `userPrivacyOptOut` Wert "true" festlegt, wenn sich ein Site-Besucher auswählt.
+Stellen Sie sicher, dass Ihr Arbeitsablauf für die Genehmigung den `userPrivacyOptOut` Wert &quot;true&quot; festlegt, wenn sich ein Site-Besucher auswählt.

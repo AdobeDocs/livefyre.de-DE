@@ -1,8 +1,6 @@
 ---
-description: Fügen Sie mit einer Mosaic-App eine dynamische, dynamische Pinnwand,
-  Fotos und Videos zu Ihrer Site hinzu.
-seo-description: Fügen Sie mit einer Mosaic-App eine dynamische, dynamische Pinnwand,
-  Fotos und Videos zu Ihrer Site hinzu.
+description: Fügen Sie mit einer Mosaic-App eine dynamische, dynamische Pinnwand, Fotos und Videos zu Ihrer Site hinzu.
+seo-description: Fügen Sie mit einer Mosaic-App eine dynamische, dynamische Pinnwand, Fotos und Videos zu Ihrer Site hinzu.
 seo-title: Mosaik
 solution: Experience Manager
 title: Mosaik
@@ -72,7 +70,7 @@ Inhalt zu Mosaic hinzufügen durch:
 
 * Manuelles Veröffentlichen aus der Bibliothek.
 * Einrichten eines Streams, der automatisch veröffentlicht werden soll.
-* Verwenden der Schaltfläche "Hochladen" , falls aktiviert.
+* Verwenden der Schaltfläche &quot;Hochladen&quot; , falls aktiviert.
 
 ## Wie werden nur Text in der App angezeigt? {#section_h31_klj_yy}
 
@@ -88,7 +86,7 @@ Mosaic zeigt Inhalte in einem perfekten Raster an. Wenn Sie 25 Inhaltselemente h
 
 Wenn die Containerbreite nur vier zum perfekten Raster passt, aber 25 Inhaltselemente, klassifiziert Mosaic die zusätzliche Inhaltseinheit als Ausreißer und zeigt sie nicht in der App an. Der ausreißende Inhalt wird nicht gedreht, da er technisch gesehen in der App ist, aber nicht angezeigt wird. Wenn die Containerbreite sieben beträgt, wird nur 21 angezeigt, da vier Ausreißer sind und nicht das perfekte Raster bilden.
 
-Manchmal wird Inhalt nicht angezeigt, da Sie sich eingeschaltet **[!UICONTROL Require rights]**haben. Wenn Sie dies aktivieren, müssen Sie über Rechte für alle Inhalte in der App verfügen. Wenn der Rechte-Status für ein Inhaltselement nicht "gewährt" wird, wird es nicht in der App angezeigt.
+Manchmal wird Inhalt nicht angezeigt, da Sie sich eingeschaltet **[!UICONTROL Require rights]** haben. Wenn Sie dies aktivieren, müssen Sie über Rechte für alle Inhalte in der App verfügen. Wenn der Rechte-Status für ein Inhaltselement nicht &quot;gewährt&quot; wird, wird es nicht in der App angezeigt.
 
 ## Mosaic mit Studio erstellen {#section_dwb_glj_yy}
 

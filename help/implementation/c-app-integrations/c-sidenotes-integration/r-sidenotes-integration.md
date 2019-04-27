@@ -1,8 +1,6 @@
 ---
-description: Integrieren Sie eine App für ein Blog-App, indem Sie einen ähnlichen
-  Prozess wie Core Applications befolgen.
-seo-description: Integrieren Sie eine App für ein Blog-App, indem Sie einen ähnlichen
-  Prozess wie Core Applications befolgen.
+description: Integrieren Sie eine App für ein Blog-App, indem Sie einen ähnlichen Prozess wie Core Applications befolgen.
+seo-description: Integrieren Sie eine App für ein Blog-App, indem Sie einen ähnlichen Prozess wie Core Applications befolgen.
 seo-title: Integration von Sidenotes
 solution: Experience Manager
 title: Integration von Sidenotes
@@ -55,7 +53,7 @@ Livefyre.require(['sidenotes#1', 'auth'], function (Sidenotes, Auth) {
 </html>
 ```
 
-Wie im Abschnitt "Erstellen `collectionMeta` « `collectionMeta` angegeben, ist ein kodiertes JSON-Objekt. Im obigen Beispiel akzeptiert das JSON-Objekt das folgende Format, bevor es JWT-kodiert ist.
+Wie im Abschnitt &quot;Erstellen `collectionMeta` « `collectionMeta` angegeben, ist ein kodiertes JSON-Objekt. Im obigen Beispiel akzeptiert das JSON-Objekt das folgende Format, bevor es JWT-kodiert ist.
 
 ```
 { 

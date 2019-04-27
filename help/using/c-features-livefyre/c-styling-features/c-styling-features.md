@@ -1,10 +1,6 @@
 ---
-description: Sie können Ihre Livefyre-Apps so gestalten, dass sie sich auf verschiedene
-  Weisen verhalten oder sie ändern, um wie der Rest Ihrer Markenkampagne aussehen
-  zu können.
-seo-description: Sie können Ihre Livefyre-Apps so gestalten, dass sie sich auf verschiedene
-  Weisen verhalten oder sie ändern, um wie der Rest Ihrer Markenkampagne aussehen
-  zu können.
+description: Sie können Ihre Livefyre-Apps so gestalten, dass sie sich auf verschiedene Weisen verhalten oder sie ändern, um wie der Rest Ihrer Markenkampagne aussehen zu können.
+seo-description: Sie können Ihre Livefyre-Apps so gestalten, dass sie sich auf verschiedene Weisen verhalten oder sie ändern, um wie der Rest Ihrer Markenkampagne aussehen zu können.
 seo-title: Formatierungsfunktionen
 title: Formatierungsfunktionen
 uuid: 72 a 3843 d -692 a -43 ff-b 72 b -6 bd 840 de 87 d 6

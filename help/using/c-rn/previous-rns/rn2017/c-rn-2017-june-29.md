@@ -28,7 +28,7 @@ Versionshinweise für die Version vom 29. Juni 2017.
 | Ausgabentyp | Komponente | Versionshinweise |
 |--- |--- |--- |
 | Verbesserung | Alle | Einführung in die neue UGC Commerce-Initiative von Livefyre. Dies beinhaltet die Möglichkeit: <br><ul><li>Hinzufügen einer Konversionsschaltfläche zu Mosaic und Medienpinnwand</li><li> Verbesserungen an der Benutzeroberfläche für Mosaic, Medienpinnwand und Inhaltsmodale für beide Apps</li><li>Möglichkeit zum Hochladen von Produkten in Studio in Netzwerkeinstellungen</li><li>Möglichkeit zur Verknüpfung von Inhalten mit Produkten in Studio-Bibliothek, App Content und modq</li><li>Möglichkeit zum Verknüpfen von Produkten mit Stream-Regeln für das automatische Tagging</li></ul> |
-| Verbesserung | Kommentare | Es wurde eine Erweiterung hinzugefügt, sodass die Registerkarten "Sortierreihenfolge" auf ADA-kompatibel sind. |
+| Verbesserung | Kommentare | Es wurde eine Erweiterung hinzugefügt, sodass die Registerkarten &quot;Sortierreihenfolge&quot; auf ADA-kompatibel sind. |
 | Verbesserung | Kommentare | Es wurde eine Verbesserung der Barrierefreiheit hinzugefügt, sodass Avatars in Kommentaren ADA-kompatibel sind. |
 | Verbesserung | Instagram-Suche | Unterstützung für das Speichern und Veröffentlichen von Multibild-/Video-Instagram-Beiträgen hinzugefügt. |
 | Bug | Bibliothek | Es wurde eine Verbesserung bei Suchvorgängen in der Bibliothek hinzugefügt, die Apostrophe enthält. |

@@ -28,7 +28,7 @@ In den folgenden Tabellen sind die Versionshinweise zu Produktion und UAT für d
 |--- |--- |--- |
 | Verbesserung | Alle | Einführung in die neue UGC Commerce-Initiative von Livefyre. Dies beinhaltet die Möglichkeit: <br><ul><li>Fügen Sie eine Konversionsschaltfläche zu Mosaic und Medienwall hinzu. </li><li>Verbesserungen an der Benutzeroberfläche für Mosaic, Medienpinnwand und Inhaltsmodale für beide Apps. </li><li>Möglichkeit, Produkte in den Netzwerkeinstellungen in Studio hochzuladen.</li><li> Möglichkeit, Inhalte mit Produkten in Studio-Bibliothek, App Content und modq zu verknüpfen.</li><li> Möglichkeit, Produkte mit Stream-Regeln für das automatische Tagging zu verknüpfen.</li></ul> |
 | Bug | Authentifizierung | Es wurde ein Fehler beim Dekodieren von JSON-Web Tokens bei der Authentifizierung in Livefyre-Apps behoben. |
-| Verbesserung | Kommentare | Es wurde eine Erweiterung hinzugefügt, sodass die Registerkarten "Sortierreihenfolge" auf ADA-kompatibel sind. |
+| Verbesserung | Kommentare | Es wurde eine Erweiterung hinzugefügt, sodass die Registerkarten &quot;Sortierreihenfolge&quot; auf ADA-kompatibel sind. |
 | Bug | Medienpinnwand | Es wurde ein Fehler in der Medienwall behoben, durch den die Freigabe-Schaltfläche in Firefox nicht richtig funktionierte. |
 | Verbesserung | Mosaik | Das Erscheinungsbild der Details auf Mosaic-Karten wurde aktualisiert. |
 | Verbesserung | Social Search | Es wurde Text hinzugefügt, der erklärt, warum Berechtigungsanforderungen in einer sozialen Suche nicht angefordert werden können, wenn mehrere Assets ausgewählt sind. Der Anbieter sozialer Dienste wird nicht für Rechte für Rechte unterstützt oder es gibt keine aktivierten Rechte für Rechte für einen Anbieter sozialer Dienste im Netzwerk. |

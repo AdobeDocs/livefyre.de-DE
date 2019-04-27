@@ -1,8 +1,6 @@
 ---
-description: Beim Einbetten der Kommentarapp wird der Vorgang zum Einbetten einer
-  Core-App ausgeführt.
-seo-description: Beim Einbetten der Kommentarapp wird der Vorgang zum Einbetten einer
-  Core-App ausgeführt.
+description: Beim Einbetten der Kommentarapp wird der Vorgang zum Einbetten einer Core-App ausgeführt.
+seo-description: Beim Einbetten der Kommentarapp wird der Vorgang zum Einbetten einer Core-App ausgeführt.
 seo-title: Kommentarapp einbetten
 solution: Experience Manager
 title: Kommentarapp einbetten
@@ -17,7 +15,7 @@ source-git-commit: 268dc91369d346a254b7120706264eb91da8257e
 
 Beim Einbetten der Kommentarapp wird der Vorgang zum Einbetten einer Core-App ausgeführt.
 
-Einbetten der Kommentarapp folgt dem Einbetten einer Core-App, die unter "App [einbetten" beschrieben wird.](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md)
+Einbetten der Kommentarapp folgt dem Einbetten einer Core-App, die unter &quot;App [einbetten&quot; beschrieben wird.](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md)
 
 ## Beispiel 
 
@@ -56,7 +54,7 @@ Einbetten der Kommentarapp folgt dem Einbetten einer Core-App, die unter "App [e
 </html>
 ```
 
-Wie im Abschnitt "Erstellen von collectionmeta" vermerkt, ist collectionmeta ein kodiertes JSON-Objekt. Im obigen Beispiel akzeptiert das JSON-Objekt das folgende Format, bevor es JWT-kodiert ist:
+Wie im Abschnitt &quot;Erstellen von collectionmeta&quot; vermerkt, ist collectionmeta ein kodiertes JSON-Objekt. Im obigen Beispiel akzeptiert das JSON-Objekt das folgende Format, bevor es JWT-kodiert ist:
 
 ```
 { 

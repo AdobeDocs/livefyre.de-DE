@@ -1,10 +1,6 @@
 ---
-description: Sie können das Recht anfordern, ein Instagram-Asset wiederzuverwenden,
-  das Sie von einer Suche oder einem Stream vom Autor (Geschäftskonto) mit einem teilweise
-  automatisierten Arbeitsablauf erhalten haben.
-seo-description: Sie können das Recht anfordern, ein Instagram-Asset wiederzuverwenden,
-  das Sie von einer Suche oder einem Stream vom Autor (Geschäftskonto) mit einem teilweise
-  automatisierten Arbeitsablauf erhalten haben.
+description: Sie können das Recht anfordern, ein Instagram-Asset wiederzuverwenden, das Sie von einer Suche oder einem Stream vom Autor (Geschäftskonto) mit einem teilweise automatisierten Arbeitsablauf erhalten haben.
+seo-description: Sie können das Recht anfordern, ein Instagram-Asset wiederzuverwenden, das Sie von einer Suche oder einem Stream vom Autor (Geschäftskonto) mit einem teilweise automatisierten Arbeitsablauf erhalten haben.
 seo-title: Teilweise automatisierte Instagram-Rechte senden
 solution: Experience Manager
 title: Teilweise automatisierte Instagram-Rechte senden

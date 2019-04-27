@@ -11,13 +11,13 @@ source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 ---
 
 
-# Registerkarte "App-Inhalt «{#app-content-tab}
+# Registerkarte &quot;App-Inhalt «{#app-content-tab}
 
 Verwalten von Inhalten über Ihr Livefyre-Netzwerk.
 
-Über die Registerkarte "App-Inhalt" in Ihrer Bibliothek können Sie Inhalte durchsuchen und moderieren, die in Ihren Apps veröffentlicht wurden. Auf der **[!UICONTROL App Content]** Registerkarte werden mehrere Suchfilter mit Platzhaltersuche aktiviert, damit Sie Ihre Suchparameter schneller und einfacher definieren können.
+Über die Registerkarte &quot;App-Inhalt&quot; in Ihrer Bibliothek können Sie Inhalte durchsuchen und moderieren, die in Ihren Apps veröffentlicht wurden. Auf der **[!UICONTROL App Content]** Registerkarte werden mehrere Suchfilter mit Platzhaltersuche aktiviert, damit Sie Ihre Suchparameter schneller und einfacher definieren können.
 
-Auf der Registerkarte "App-Inhalt" können Sie Folgendes verwenden:
+Auf der Registerkarte &quot;App-Inhalt&quot; können Sie Folgendes verwenden:
 
 * Suche nach Inhalten
 * Inhaltsverlauf anzeigen
@@ -26,7 +26,7 @@ Auf der Registerkarte "App-Inhalt" können Sie Folgendes verwenden:
 * Funktionsinhalt
 * Verknüpfen von Inhalten mit Produkten aus dem Produktkatalog
 
-Weitere Informationen zum Moderieren von Inhalten über die Registerkarte "App-Inhalt [](../c-features-livefyre/c-about-moderation/c-moderate-content-using-app-content.md#c_moderate_content_using_app_content)«finden Sie unter.
+Weitere Informationen zum Moderieren von Inhalten über die Registerkarte &quot;App-Inhalt [](../c-features-livefyre/c-about-moderation/c-moderate-content-using-app-content.md#c_moderate_content_using_app_content)«finden Sie unter.
 
 ## Platzhaltersuche {#section_jvr_ntm_zz}
 
@@ -45,35 +45,35 @@ Mit dem App Content-Bedienfeld können Sie Ihre Suche mit verschiedenen Filterop
 
 ![](assets/PublishedState-1024x367.png)
 
-Verwenden Sie den **[!UICONTROL Quick Filters]** Pulldown, um zurückgegebene Inhalte auf **[!UICONTROL All Content]****[!UICONTROL All Sidenotes]****[!UICONTROL Approved]****[!UICONTROL Approved & Flagged]**, **[!UICONTROL Pending]**oder **[!UICONTROL Rights Requests]** den Status einzuschränken. Wählen Sie dann eine **[!UICONTROL Filter by]** Option aus und verwenden Sie die Kontrollkästchen oder Eingabefelder, um die Suche einzuschränken.
+Verwenden Sie den **[!UICONTROL Quick Filters]** Pulldown, um zurückgegebene Inhalte auf **[!UICONTROL All Content]****[!UICONTROL All Sidenotes]****[!UICONTROL Approved]****[!UICONTROL Approved & Flagged]**, **[!UICONTROL Pending]** oder **[!UICONTROL Rights Requests]** den Status einzuschränken. Wählen Sie dann eine **[!UICONTROL Filter by]** Option aus und verwenden Sie die Kontrollkästchen oder Eingabefelder, um die Suche einzuschränken.
 
-Verwenden Sie das Pulldown-Menü, um den Inhalt in der Liste nach **[!UICONTROL Newest]****[!UICONTROL Oldest]****[!UICONTROL Recently updated]**, oder **[!UICONTROL Most flags]****[!UICONTROL Most liked]**zu sortieren.
+Verwenden Sie das Pulldown-Menü, um den Inhalt in der Liste nach **[!UICONTROL Newest]****[!UICONTROL Oldest]****[!UICONTROL Recently updated]**, oder **[!UICONTROL Most flags]****[!UICONTROL Most liked]** zu sortieren.
 
 ## Filtern nach Optionen {#section_aqn_xqm_zz}
 
 Verwenden Sie die **[!UICONTROL Filter by]** Leiste, um nach folgenden Optionen zu filtern:
 
-* **Status** Ermöglicht es Ihnen, nach dem aktuellen Moderationsstatus des Inhalts zu filtern: ** [!UICONTROL All Content]** **[!UICONTROL Approved]**, **[!UICONTROL Pending]**oder **[!UICONTROL Bozo]**.
+* **Status** Ermöglicht es Ihnen, nach dem aktuellen Moderationsstatus des Inhalts zu filtern: ** [!UICONTROL All Content]** **[!UICONTROL Approved]**, **[!UICONTROL Pending]** oder **[!UICONTROL Bozo]**.
 
-* **Quelle** Ermöglicht Ihnen, nach der Quelle des Inhalts zu filtern. Wählen **[!UICONTROL Livefyre]** Sie diese Option, um benutzergenerierte Inhalte aufzulisten, die direkt in den Stream gepostet wurden. Wählen Sie **[!UICONTROL Facebook]**aus diesen Quellen Inhalte aus, **[!UICONTROL Twitter]****[!UICONTROL RSS]** die in Ihre Apps gezogen werden, oder fügen Sie sie hinzu.
+* **Quelle** Ermöglicht Ihnen, nach der Quelle des Inhalts zu filtern. Wählen **[!UICONTROL Livefyre]** Sie diese Option, um benutzergenerierte Inhalte aufzulisten, die direkt in den Stream gepostet wurden. Wählen Sie **[!UICONTROL Facebook]** aus diesen Quellen Inhalte aus, **[!UICONTROL Twitter]****[!UICONTROL RSS]** die in Ihre Apps gezogen werden, oder fügen Sie sie hinzu.
 
 * **Flags** , die Markierungen auswählen, ermöglichen die Filterung nach **[!UICONTROL User Flags]** (Spam, aus-Thema, Beleidigend oder Nicht zustimmen), **[!UICONTROL System Flags]** von SAFE (Profit, Spam oder Magally Moderated) oder **[!UICONTROL Moderation Recommendations]**. ![](assets/appcontentfilter.png)
 
 * **Datum/Uhrzeit** Der Einblick in den Inhalt ermöglicht den Einblick in den Zeitpunkt des ursprünglichen **[!UICONTROL Created]** Inhalts (oder in die App über socialsync oder Stream gezogen) oder schließlich **[!UICONTROL Modified]** (bearbeitet, gekennzeichnet oder den Status geändert).
 
-* **Autor** Ermöglicht Ihnen das Filtern nach der **[!UICONTROL IP]** Adresse des Autors ( **[!UICONTROL Display Name]** im Bedienfeld "Benutzer" oder über dem vom Autor veröffentlichten Inhalt) oder **[!UICONTROL User ID]**(im Bedienfeld" Benutzer" ).
+* **Autor** Ermöglicht Ihnen das Filtern nach der **[!UICONTROL IP]** Adresse des Autors ( **[!UICONTROL Display Name]** im Bedienfeld &quot;Benutzer&quot; oder über dem vom Autor veröffentlichten Inhalt) oder **[!UICONTROL User ID]**(im Bedienfeld&quot; Benutzer&quot; ).
 
-* **Enthält** Ermöglicht es Ihnen, die letzten 90 Tage des Inhalts nach **[!UICONTROL Keyword]** oder **[!UICONTROL Content Tag]**zu filtern. Aktivieren Sie das **[!UICONTROL Media]** Kontrollkästchen, um nur Inhalte mit Medien zurückzugeben. (Um nach allen Inhalten zu suchen, blättern Sie nach unten durch den gesamten Inhalt der Liste und klicken **[!UICONTROL Search full data]**Sie dann auf.)
+* **Enthält** Ermöglicht es Ihnen, die letzten 90 Tage des Inhalts nach **[!UICONTROL Keyword]** oder **[!UICONTROL Content Tag]** zu filtern. Aktivieren Sie das **[!UICONTROL Media]** Kontrollkästchen, um nur Inhalte mit Medien zurückzugeben. (Um nach allen Inhalten zu suchen, blättern Sie nach unten durch den gesamten Inhalt der Liste und klicken **[!UICONTROL Search full data]** Sie dann auf.)
 
    **Hinweis:** Die Suche nach mehreren Suchbegriffen und Inhalten wird nicht unterstützt. Wenn mehrere Suchbegriffe oder Tags eingegeben werden, wird das letzte Wort für die Suche verwendet.
 
    Bei der Suche nach Content Tag werden vorgeschlagene Tags automatisch gefüllt, während Sie in das Suchfeld eingeben. Die Suchergebnisse geben den gesamten Inhalt zurück, dem das Tag zugewiesen wurde. (Verwenden Sie dieses Feld, um nach speziellen Inhalten zu suchen, oder klicken Sie in einem beliebigen speziellen Inhalt in Studio auf die **[!UICONTROL Featured]** Beschriftung.)
 
-   **Hinweis:** Verwenden Sie ein Minuszeichen (-) vor einem Tag-Namen, um nach Inhalten zu suchen, die dieses Tag nicht enthalten. Beispiel: Suchen Sie nach "-Miley" , um nach allen Inhalten zu suchen, die kein" Miley" -Tag enthalten.
+   **Hinweis:** Verwenden Sie ein Minuszeichen (-) vor einem Tag-Namen, um nach Inhalten zu suchen, die dieses Tag nicht enthalten. Beispiel: Suchen Sie nach &quot;-Miley&quot; , um nach allen Inhalten zu suchen, die kein&quot; Miley&quot; -Tag enthalten.
 
-* **App** Ermöglicht Ihnen das Filtern nach **[!UICONTROL Collection ID]**oder **[!UICONTROL App Tag]****über die übergeordnete ID**. Beim Filtern nach übergeordneter ID werden alle Inhalte zurückgegeben, die eine Antwort auf die Eingabeinhalts-ID sind. (Filtern Sie nach mehreren Tags, indem Sie durch ein Komma getrennte Tags eingeben.)
+* **App** Ermöglicht Ihnen das Filtern nach **[!UICONTROL Collection ID]** oder **[!UICONTROL App Tag]****über die übergeordnete ID**. Beim Filtern nach übergeordneter ID werden alle Inhalte zurückgegeben, die eine Antwort auf die Eingabeinhalts-ID sind. (Filtern Sie nach mehreren Tags, indem Sie durch ein Komma getrennte Tags eingeben.)
 
-* **Rights** Allows You to filtern nach Rights Request status: ** [!UICONTROL Requested]** **[!UICONTROL Granted]**, **[!UICONTROL Replied]**oder **[!UICONTROL Expired]**.
+* **Rights** Allows You to filtern nach Rights Request status: ** [!UICONTROL Requested]** **[!UICONTROL Granted]**, **[!UICONTROL Replied]** oder **[!UICONTROL Expired]**.
 
 ## Bozo Content {#section_afl_vqm_zz}
 
@@ -81,12 +81,12 @@ In Apps wird **[!UICONTROL Bozo]** der Inhalt nur dem Autor des Inhalts angezeig
 
 >[!NOTE]
 >
->Social-Inhalte, die mit socialsync oder Streams arbeiten, **[!UICONTROL cannot]** werden auf "Bozo" gesetzt.
+>Social-Inhalte, die mit socialsync oder Streams arbeiten, **[!UICONTROL cannot]** werden auf &quot;Bozo&quot; gesetzt.
 
 Sie können aus folgenden Gründen Bozo-Inhalte verwenden:
 
 * Als Spam identifizierter Inhalt wird automatisch auf den Bozo-Status gesetzt.
-* Der gesamte Inhalt von verbotenen Benutzern wird automatisch auf "Bozo" eingestellt.
+* Der gesamte Inhalt von verbotenen Benutzern wird automatisch auf &quot;Bozo&quot; eingestellt.
 * Inhalte können als Bozo aus Studio markiert werden.
 * Moderatoren können Bozo-Inhalte direkt im Stream verwenden.
 
@@ -119,7 +119,7 @@ Um Tags hinzuzufügen, klicken Sie einfach unter dem Inhalt auf das Pluszeichen 
 
 Nachdem Sie den Inhalt der Bibliothek hinzugefügt haben, können Sie den Inhalt nach Smart-Tags durchsuchen.
 
-In der Bibliothek unter "Alle Assets" können Sie vorhandene Bilder durchsuchen, indem **[!UICONTROL Show Filters]** Sie auf
+In der Bibliothek unter &quot;Alle Assets&quot; können Sie vorhandene Bilder durchsuchen, indem **[!UICONTROL Show Filters]** Sie auf
 
 * Eingeben von Text in das Suchfeld
 * Sortieren nach Relevanz
@@ -135,7 +135,7 @@ Wählen Sie das Standard **[!UICONTROL Featured]** -Tag aus, um den Inhalt wie g
 
 * Klicken Sie zum Aufheben der Funktion auf das **[!UICONTROL x]****[!UICONTROL Featured]** auf dem Inhaltselement angezeigte Tag.
 
-* Bewegen Sie den Mauszeiger über einen Kommentar, Live Blog oder Review-App über den Inhalt, den Sie Funktion möchten, und klicken **[!UICONTROL Feature]**Sie auf. Halten Sie zum Aufheben der Funktion einfach den Mauszeiger über den Inhalt und klicken **[!UICONTROL Unfeature]**Sie auf.
+* Bewegen Sie den Mauszeiger über einen Kommentar, Live Blog oder Review-App über den Inhalt, den Sie Funktion möchten, und klicken **[!UICONTROL Feature]** Sie auf. Halten Sie zum Aufheben der Funktion einfach den Mauszeiger über den Inhalt und klicken **[!UICONTROL Unfeature]** Sie auf.
 
 >[!NOTE]
 >

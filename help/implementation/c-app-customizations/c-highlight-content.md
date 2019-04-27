@@ -1,8 +1,6 @@
 ---
-description: Verwenden Sie die Formatierung, um ausgewählte Inhalte oder Benutzergruppen
-  zu nutzen und zu bewerben.
-seo-description: Verwenden Sie die Formatierung, um ausgewählte Inhalte oder Benutzergruppen
-  zu nutzen und zu bewerben.
+description: Verwenden Sie die Formatierung, um ausgewählte Inhalte oder Benutzergruppen zu nutzen und zu bewerben.
+seo-description: Verwenden Sie die Formatierung, um ausgewählte Inhalte oder Benutzergruppen zu nutzen und zu bewerben.
 seo-title: Inhalt hervorheben
 solution: Experience Manager
 title: Inhalt hervorheben

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Userprivacyvideowhitelist
 uuid: adfead 18-b 73 b -4 ac 4-97 a 0-d 39 f 528 b 7606
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
 
 ---
 

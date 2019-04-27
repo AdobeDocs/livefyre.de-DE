@@ -30,7 +30,7 @@ In diesem Abschnitt wird die Codestruktur beschrieben, die Sie in Ihre Seitenvor
    </html>
    ```
 
-1. Schließen Sie die Bibliothek "Livefyre. js" ein.
+1. Schließen Sie die Bibliothek &quot;Livefyre. js&quot; ein.
 
    Schließen Sie dann die Livefyre JS-Bibliothek ein. Platzieren Sie die folgende Referenz in ein `<script>` Element in Ihrem `<head>` Element. Öffnen Sie dann Ihre Seite in einem Browser und verwenden Sie den Webinspektor Ihres Browsers, um zu bestätigen, dass Livefyre geladen wird.
 

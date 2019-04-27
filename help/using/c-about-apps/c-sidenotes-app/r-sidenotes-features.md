@@ -18,8 +18,8 @@ Die Sidenotes-App bietet diese Funktionen für Ihre Site.
 
 
 * Antworten Sie auf einen beliebigen Teil eines Absatzes, indem Sie den Text hervorheben, zu dem sie Kommentare abgeben möchten, und dann auf das Stiftsymbol klicken, um ihre Sidenote zu schreiben.
-* Fügen Sie einem Absatz Mitwirkende hinzu, indem Sie auf das Symbol "Sidenotes" klicken, das am Ende des Absatzes erscheint, und ihren Kommentar hinzufügen.
-* Kommentare zu einem Bild, indem Sie auf das Symbol "Sidenotes" in der Ecke des Bilds klicken und ihren Kommentar hinzufügen.
+* Fügen Sie einem Absatz Mitwirkende hinzu, indem Sie auf das Symbol &quot;Sidenotes&quot; klicken, das am Ende des Absatzes erscheint, und ihren Kommentar hinzufügen.
+* Kommentare zu einem Bild, indem Sie auf das Symbol &quot;Sidenotes&quot; in der Ecke des Bilds klicken und ihren Kommentar hinzufügen.
 * Geben Sie Text auf Facebook oder Twitter frei, indem Sie Text auswählen und auf Facebook teilen oder Auf Twitter teilen klicken. Durch Freigeben von hervorgehobenen Inhalten können Benutzer den freigegebenen Text bearbeiten und mit der Freigabe einen Link zum ursprünglichen Inhalt senden.
 * Kommentare anderer lesen, indem Sie auf die Livefyre-Gedankenblase klicken, die die Anzahl der Kommentare für einen beliebigen Teil der Seite anzeigt.
 * Antworten Sie auf bestehende Zielgruppen.

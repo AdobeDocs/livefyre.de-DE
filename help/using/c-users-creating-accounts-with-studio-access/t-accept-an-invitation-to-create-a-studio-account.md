@@ -1,8 +1,6 @@
 ---
-description: Wenn ein Benutzer zum Zugriff auf Livefyre eingeladen wird, verwendet
-  der Benutzer den Link in der E-Email, um ihre Anmeldung und Ihr Konto zu erstellen.
-seo-description: Wenn ein Benutzer zum Zugriff auf Livefyre eingeladen wird, verwendet
-  der Benutzer den Link in der E-Email, um ihre Anmeldung und Ihr Konto zu erstellen.
+description: Wenn ein Benutzer zum Zugriff auf Livefyre eingeladen wird, verwendet der Benutzer den Link in der E-Email, um ihre Anmeldung und Ihr Konto zu erstellen.
+seo-description: Wenn ein Benutzer zum Zugriff auf Livefyre eingeladen wird, verwendet der Benutzer den Link in der E-Email, um ihre Anmeldung und Ihr Konto zu erstellen.
 seo-title: Einladung zum Erstellen eines Studio-Kontos annehmen
 solution: Experience Manager
 title: Einladung zum Erstellen eines Studio-Kontos annehmen

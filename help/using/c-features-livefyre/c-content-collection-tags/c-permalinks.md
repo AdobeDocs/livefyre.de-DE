@@ -27,7 +27,7 @@ Wenn Benutzer auf einen Permalink aus einem sozialen Netzwerk zu einer Livefyre-
 
 Wenn Sie benutzerdefinierte Permalinks für Kommentare beim Freigeben von Unterhaltungen erstellen möchten, verwenden Sie Ihr Bitly-Konto anstelle der standardmäßigen Livefyre-verkürzte URL (fyre. it). Mithilfe Ihres Bitly-Kontos wird Benutzer daran erinnert, dass sie Inhalte auf Ihrer Site besuchen, wenn sie auf einen Permalink klicken.
 
-Um diese Funktion zu implementieren, rufen Sie den **[!UICONTROL Studio > Settings > Integration Settings > Social Sharing]**Bitly-API-Schlüssel und den Benutzernamen auf und geben Sie diesen ein.
+Um diese Funktion zu implementieren, rufen Sie den **[!UICONTROL Studio > Settings > Integration Settings > Social Sharing]** Bitly-API-Schlüssel und den Benutzernamen auf und geben Sie diesen ein.
 
 >[!NOTE]
 >

@@ -1,8 +1,6 @@
 ---
-description: Führen Sie die folgenden Schritte aus, um benutzerdefinierte HTML auf
-  Ihrer Site einzubetten.
-seo-description: Führen Sie die folgenden Schritte aus, um benutzerdefinierte HTML
-  auf Ihrer Site einzubetten.
+description: Führen Sie die folgenden Schritte aus, um benutzerdefinierte HTML auf Ihrer Site einzubetten.
+seo-description: Führen Sie die folgenden Schritte aus, um benutzerdefinierte HTML auf Ihrer Site einzubetten.
 seo-title: Benutzerdefinierte HTML in Kommentare einbetten
 solution: Experience Manager
 title: Benutzerdefinierte HTML in Kommentare einbetten
@@ -18,12 +16,12 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 Führen Sie die folgenden Schritte aus, um benutzerdefinierte HTML auf Ihrer Site einzubetten.
 
 So betten Sie benutzerdefinierte HTML ein:
-1. Klicken Sie im Kommentareditor auf die Schaltfläche "HTML-Einbettung" (</>), um das Feld" HTML-Editor" zu starten.
+1. Klicken Sie im Kommentareditor auf die Schaltfläche &quot;HTML-Einbettung&quot; (&lt;/&gt;), um das Feld&quot; HTML-Editor&quot; zu starten.
 
    >[!NOTE]
    >
    >Diese Schaltfläche ist nur für Moderatoren und Inhaber sichtbar.
 
-1. Fügen Sie Ihren HTML-Code in den Editor ein und klicken **[!UICONTROL OK]**Sie auf. (Es wird eine Meldung für alle HTML-Prüfungsfehler angezeigt.)
+1. Fügen Sie Ihren HTML-Code in den Editor ein und klicken **[!UICONTROL OK]** Sie auf. (Es wird eine Meldung für alle HTML-Prüfungsfehler angezeigt.)
 1. Eine Vorschau der Ausgabe wird unter dem Kommentareditor angezeigt.
 1. Klicken **[!UICONTROL Post Comment]** Sie auf, um die Ausgabe im Stream anzuzeigen.

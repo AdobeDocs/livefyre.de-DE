@@ -18,20 +18,20 @@ Versionshinweise für die Version vom 13. April 2017.
 
 | **Ausgabentyp** | **Komponente** | **Versionshinweise** |
 |---|---|---|
-| Bug | Apis | Es wurde ein Fehler behoben, durch den große Dateien über die API "Beiträge zur Sammlung" hochgeladen werden können. |
+| Bug | Apis | Es wurde ein Fehler behoben, durch den große Dateien über die API &quot;Beiträge zur Sammlung&quot; hochgeladen werden können. |
 | Bug | Apis | Es wurde ein Fehler behoben, durch den MP 4-Videos beim Hochladen der Medien-API nicht hochgeladen werden konnten. |
 | Bug | Bibliothek | Es wurde ein Fehler behoben, durch den Bibliothekssuchen mit Hashtags gelegentlich fehlschlugen. |
 | Bug | Maps | Es wurde ein Fehler in Maps behoben, der eine große Anzahl von Inhalten in Clustern auf ios-Geräten unterstützt. |
 | Verbesserung | Modq | Es wurde ein Fehler behoben, durch den neue Instagram-Aufgaben aktiviert werden, um effektiv im modq zu streamen. |
 | Bug | Mosaik | Es wurde ein Fehler behoben, der Benutzern ermöglichte, Änderungen an Mosaic-Apps in Designer erfolgreich vorzunehmen. |
-| Verbesserung | Rechte für Rechte | Es wurde ein neuer Berechtigungsstatus namens "Anfrage fehlgeschlagen" hinzugefügt, der hervorgehoben wird, wenn die Benachrichtigungen über Rechte für Rechte fehlschlagen. |
+| Verbesserung | Rechte für Rechte | Es wurde ein neuer Berechtigungsstatus namens &quot;Anfrage fehlgeschlagen&quot; hinzugefügt, der hervorgehoben wird, wenn die Benachrichtigungen über Rechte für Rechte fehlschlagen. |
 | Bug | S 1-Einstellungen | Es wurde ein Fehler behoben, durch den die Möglichkeit, neue Inhaber und Moderatoren einzuladen, die nicht über ein bestehendes Kommentarkonto verfügten, deaktiviert wurde. |
 | Verbesserung | Einstellungen | Es wurde die Möglichkeit hinzugefügt, dass Kunden Spam-Moderationsregeln in Einstellungen erstellen können. |
 | Verbesserung | Social Search | Es wurde ein Fehler behoben, durch den VK.com nicht über URL-Social-Suchen angezeigt wurden. |
-| Bug | Storify 2 | Es wurde eine verbesserte Benutzerfreundlichkeitsverbesserung hinzugefügt, sodass durch fixierte Storify 2-Beiträge überlappende Pin- und Schließen-Symbole nicht gerendert werden, wenn die Option "Permalinks in modaler Navigation anzeigen" verwendet wird. |
-| Bug | Streams | Es wurde ein Fehler behoben, durch den das Banner "App akzeptiert keine neuen Inhalte akzeptieren" fälschlicherweise über Stream-Regelseiten angezeigt wurde. |
+| Bug | Storify 2 | Es wurde eine verbesserte Benutzerfreundlichkeitsverbesserung hinzugefügt, sodass durch fixierte Storify 2-Beiträge überlappende Pin- und Schließen-Symbole nicht gerendert werden, wenn die Option &quot;Permalinks in modaler Navigation anzeigen&quot; verwendet wird. |
+| Bug | Streams | Es wurde ein Fehler behoben, durch den das Banner &quot;App akzeptiert keine neuen Inhalte akzeptieren&quot; fälschlicherweise über Stream-Regelseiten angezeigt wurde. |
 | Verbesserung | Streams | Die Standardeinstellung der neu erstellten Stream-Regeln wurde geändert, um bei Bedarf SAFE-Regeln anzuwenden. |
-| Verbesserung | Streams (früher Regeln kuratieren) | Die Option "Bestellungen" wurde nur aus den Twitter-Stream-/Kuratierungsregeln entfernt, da als Bindestriche jetzt Twitter-Videos angezeigt werden. |
+| Verbesserung | Streams (früher Regeln kuratieren) | Die Option &quot;Bestellungen&quot; wurde nur aus den Twitter-Stream-/Kuratierungsregeln entfernt, da als Bindestriche jetzt Twitter-Videos angezeigt werden. |
 
 ## UAT-Version
 

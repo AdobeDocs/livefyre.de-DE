@@ -23,7 +23,7 @@ Feature Card-Apps enthalten nur standardanpassungen: ** [!UICONTROL Theme]**, Ma
 
 Sie können Feature Cards mithilfe von:
 
-* **[!UICONTROL Style]** und **[!UICONTROL Config]** Optionen für alle Apps im **[!UICONTROL App Designer]**. Weitere Informationen zum Standard **[!UICONTROL Style]** und den **[!UICONTROL Config]** Optionen für alle Apps im **[!UICONTROL App Designer]**Abschnitt finden Sie unter Anpassen von Apps.
+* **[!UICONTROL Style]** und **[!UICONTROL Config]** Optionen für alle Apps im **[!UICONTROL App Designer]**. Weitere Informationen zum Standard **[!UICONTROL Style]** und den **[!UICONTROL Config]** Optionen für alle Apps im **[!UICONTROL App Designer]** Abschnitt finden Sie unter Anpassen von Apps.
 
 * Integrationswerkzeuge. Weitere Informationen zum Anpassen von Apps mit Integrationswerkzeugen finden Sie unter App-Integrationen.
 * **[!UICONTROL Call-to-action button]** Sie können die Aktionsaufruf-Schaltfläche mit einem Produktkatalog verwenden, um Benutzer zu einem Produkt oder zu Ihrer Site zu leiten.
@@ -33,11 +33,11 @@ Sie können Feature Cards mithilfe von:
 
       >[!NOTE]
       >
-      >Der Inhalt wird auch dann angezeigt, wenn keine Berechtigungen für den Inhalt erteilt wurden. Die Schaltfläche "Aktionsaufruf" wird jedoch nur mit dem Inhalt angezeigt, wenn die Rechte für den Inhalt nicht gewährt werden.
+      >Der Inhalt wird auch dann angezeigt, wenn keine Berechtigungen für den Inhalt erteilt wurden. Die Schaltfläche &quot;Aktionsaufruf&quot; wird jedoch nur mit dem Inhalt angezeigt, wenn die Rechte für den Inhalt nicht gewährt werden.
 
-   * **[!UICONTROL Call-to-action header text]** Die Wörter, die in der Kopfzeile oberhalb der Aktionsaufruf-Schaltfläche im Inhalt angezeigt werden sollen. Standardtext lautet: "Shop diese Produkte: ".
-   * **[!UICONTROL Call-to-action button text]** Passen Sie den Text auf der Aktionsaktionsschaltfläche an. Standardtext ist "Jetzt kaufen" .
-   * **[!UICONTROL Product display options]** Wählen Sie aus, ob Sie die **[!UICONTROL Photo]** Schaltfläche "Aktionsaufruf **[!UICONTROL Product name]** «und" Aktionsaufruf" anzeigen möchten.
+   * **[!UICONTROL Call-to-action header text]** Die Wörter, die in der Kopfzeile oberhalb der Aktionsaufruf-Schaltfläche im Inhalt angezeigt werden sollen. Standardtext lautet: &quot;Shop diese Produkte: &quot;.
+   * **[!UICONTROL Call-to-action button text]** Passen Sie den Text auf der Aktionsaktionsschaltfläche an. Standardtext ist &quot;Jetzt kaufen&quot; .
+   * **[!UICONTROL Product display options]** Wählen Sie aus, ob Sie die **[!UICONTROL Photo]** Schaltfläche &quot;Aktionsaufruf **[!UICONTROL Product name]** «und&quot; Aktionsaufruf&quot; anzeigen möchten.
    * **[!UICONTROL Product URL referral tracking]** Schalten Sie den Umschalter ein, um Verweise von dieser App auf die zugehörige Produktseite zu verfolgen.
    * **[!UICONTROL Referral tracking key-value pairs]** Fügen Sie Parameter hinzu, um die Verweisverfolgung aus Ihrem App-Inhalt auf die zugehörige Produktseite zu setzen.
 

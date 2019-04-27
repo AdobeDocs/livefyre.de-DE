@@ -1,8 +1,6 @@
 ---
-description: Passen Sie Einstellungen für Storify 2-Meldungen an, z. B. Tags, Moderation
-  und zulässige Inhalte.
-seo-description: Passen Sie Einstellungen für Storify 2-Meldungen an, z. B. Tags,
-  Moderation und zulässige Inhalte.
+description: Passen Sie Einstellungen für Storify 2-Meldungen an, z. B. Tags, Moderation und zulässige Inhalte.
+seo-description: Passen Sie Einstellungen für Storify 2-Meldungen an, z. B. Tags, Moderation und zulässige Inhalte.
 seo-title: Einstellungen storify
 solution: Experience Manager
 title: Einstellungen storify
@@ -43,7 +41,7 @@ Passen Sie Einstellungen für Storify 2-Meldungen an, z. B. Tags, Moderation und
 
 * **[!UICONTROL Premoderate Media]**
 
-   Erfordert Genehmigung von Moderatoren, bevor der Medieninhalt von "Sidenotes" veröffentlicht wird.
+   Erfordert Genehmigung von Moderatoren, bevor der Medieninhalt von &quot;Sidenotes&quot; veröffentlicht wird.
 
 * **[!UICONTROL Queue New Content]**
 

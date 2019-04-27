@@ -1,8 +1,6 @@
 ---
-description: Mit der Kommentarapp können Sie in Echtzeit Unterhaltungen in Ihre Site
-  einbetten.
-seo-description: Mit der Kommentarapp können Sie in Echtzeit Unterhaltungen in Ihre
-  Site einbetten.
+description: Mit der Kommentarapp können Sie in Echtzeit Unterhaltungen in Ihre Site einbetten.
+seo-description: Mit der Kommentarapp können Sie in Echtzeit Unterhaltungen in Ihre Site einbetten.
 seo-title: Kommentarfunktionen
 solution: Experience Manager
 title: Kommentarfunktionen

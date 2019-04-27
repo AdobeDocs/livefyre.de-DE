@@ -1,8 +1,6 @@
 ---
-description: Sie können einen Benutzer über die Konsole während der Integration und
-  beim Testen protokollieren, um die Autorisierung zu debuggen.
-seo-description: Sie können einen Benutzer über die Konsole während der Integration
-  und beim Testen protokollieren, um die Autorisierung zu debuggen.
+description: Sie können einen Benutzer über die Konsole während der Integration und beim Testen protokollieren, um die Autorisierung zu debuggen.
+seo-description: Sie können einen Benutzer über die Konsole während der Integration und beim Testen protokollieren, um die Autorisierung zu debuggen.
 seo-title: Debugging-Authentifizierung
 solution: Experience Manager
 title: Debugging-Authentifizierung

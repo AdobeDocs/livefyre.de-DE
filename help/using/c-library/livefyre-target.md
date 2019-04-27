@@ -1,8 +1,6 @@
 ---
-description: Mit der Livefyre-Integration in Adobe Target können Sie Livefyre-Apps
-  direkt an Ihre Target-Angebotsbibliothek freigeben.
-seo-description: Mit der Livefyre-Integration in Adobe Target können Sie Livefyre-Apps
-  direkt an Ihre Target-Angebotsbibliothek freigeben.
+description: Mit der Livefyre-Integration in Adobe Target können Sie Livefyre-Apps direkt an Ihre Target-Angebotsbibliothek freigeben.
+seo-description: Mit der Livefyre-Integration in Adobe Target können Sie Livefyre-Apps direkt an Ihre Target-Angebotsbibliothek freigeben.
 seo-title: Verwenden von Adobe Experience Manager Livefyre mit Adobe Target
 title: Verwenden von Adobe Experience Manager Livefyre mit Adobe Target
 uuid: 98108 ddb -5710-4331-891 b -7 e 1 bbb 106059
@@ -23,11 +21,11 @@ Verbinden Sie eine Livefyre-Instanz mit Adobe Target, indem Sie Ihr Adobe IMS-Ko
 
 1. Wählen Sie das Benutzerkonto, das Sie über die IMS-Kontointegration mit Target verbinden möchten.
 
-1. Klicken **[!UICONTROL Connect]**Sie auf.
+1. Klicken **[!UICONTROL Connect]** Sie auf.
 
 1. Geben Sie Ihre IMS-Anmeldeinformationen ein.
 
-Die Produktinstanzen, auf die Ihr Adobe IMS-Konto Zugriff hat, können im Fenster "Adobe IMS-Integrationsfenster" angezeigt werden.
+Die Produktinstanzen, auf die Ihr Adobe IMS-Konto Zugriff hat, können im Fenster &quot;Adobe IMS-Integrationsfenster&quot; angezeigt werden.
 
 ![](assets/livefyre-target-connect.png)
 
@@ -41,7 +39,7 @@ Geben Sie eine in Livefyre Studio erstellte App direkt mit Adobe Target frei.
 
 1. Wählen Sie die App aus, die Sie für Adobe Target freigeben möchten.
 
-1. Klicken **[!UICONTROL Publish]**Sie auf.
+1. Klicken **[!UICONTROL Publish]** Sie auf.
 
 1. Klicken Sie in den Veröffentlichungseinstellungen auf den Adobe Target-Schalter.
 
@@ -51,6 +49,6 @@ Eine Liste der Zielinstanzen wird angezeigt.
 
 ![](assets/livefyre-target-publish.png)
 
-1. Klicken **[!UICONTROL Publish]**Sie auf.
+1. Klicken **[!UICONTROL Publish]** Sie auf.
 
 Die Livefyre-App steht jetzt in Ihrer Target-Angebotsbibliothek zur Verfügung. Weitere Informationen zum Veröffentlichen von Apps finden Sie unter [Veröffentlichen von Inhalten](/help/using/c-library/t-publish-content.md) und [Angeboten](https://marketing.adobe.com/resources/help/en_US/target/target/c_manage_content.html) in der Target-Dokumentation.

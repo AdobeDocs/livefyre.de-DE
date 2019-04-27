@@ -36,7 +36,7 @@ Versionshinweise für die Version vom 26. Januar 2017.
 | Bug | Reviews | Es wurde ein Fehler behoben, durch den keine Überprüfung der Überprüfung ordnungsgemäß angezeigt wurde. |
 | Bug | Social Search | Es wurde ein Fehler behoben, durch den die Schaltfläche Mehr anzeigen bei Twitter-Listen-Suchergebnissen abgeschnitten wurde. |
 | Bug | Streams | Verbesserte Inhalte (Bilder und Videos) aus E-Mail-Stream-Regeln, die über HTTPS verfügbar sein können. |
-| Verbesserung | Streams | Es wurde eine Anpassung an der Einstellung "Nur bestätigte Konten" vorgenommen, die standardmäßig deaktiviert werden soll. |
-| Bug | Streams | Es wurde ein Fehler behoben, durch den die Einstellungen "Premoderation" und" Media Premoderation" in eine neu erstellte Stream-Regel übernommen wurden. |
+| Verbesserung | Streams | Es wurde eine Anpassung an der Einstellung &quot;Nur bestätigte Konten&quot; vorgenommen, die standardmäßig deaktiviert werden soll. |
+| Bug | Streams | Es wurde ein Fehler behoben, durch den die Einstellungen &quot;Premoderation&quot; und&quot; Media Premoderation&quot; in eine neu erstellte Stream-Regel übernommen wurden. |
 | Verbesserung | Streams | Es wurde eine neue Funktion hinzugefügt, mit der Inhaltskategorien (über eine Stream-Regel) zugelassen und die Moderation umgehen können. |
 

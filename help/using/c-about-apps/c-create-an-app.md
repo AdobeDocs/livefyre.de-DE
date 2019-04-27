@@ -1,8 +1,6 @@
 ---
-description: Um Ihrer Site eine App hinzuzufügen, müssen Sie zunächst eine App in
-  Livefyre Studio erstellen.
-seo-description: Um Ihrer Site eine App hinzuzufügen, müssen Sie zunächst eine App
-  in Livefyre Studio erstellen.
+description: Um Ihrer Site eine App hinzuzufügen, müssen Sie zunächst eine App in Livefyre Studio erstellen.
+seo-description: Um Ihrer Site eine App hinzuzufügen, müssen Sie zunächst eine App in Livefyre Studio erstellen.
 seo-title: Erstellen einer App
 solution: Experience Manager
 title: Erstellen einer App
@@ -19,8 +17,8 @@ Um Ihrer Site eine App hinzuzufügen, müssen Sie zunächst eine App in Livefyre
 
 So erstellen Sie eine neue App:
 
-1. Klicken **[!UICONTROL +New App]** Sie auf der Seite "Apps" und wählen Sie im Pulldown-Menü einen App-Typ aus.
-1. Das **[!UICONTROL New App]** Dialogfeld wird angezeigt. Geben Sie an **[!UICONTROL App Title]**, wählen Sie eine **[!UICONTROL Site]**aus und klicken Sie auf, **[!UICONTROL Create]** um die Seite "App-Übersicht" zu öffnen.
+1. Klicken **[!UICONTROL +New App]** Sie auf der Seite &quot;Apps&quot; und wählen Sie im Pulldown-Menü einen App-Typ aus.
+1. Das **[!UICONTROL New App]** Dialogfeld wird angezeigt. Geben Sie an **[!UICONTROL App Title]**, wählen Sie eine **[!UICONTROL Site]** aus und klicken Sie auf, **[!UICONTROL Create]** um die Seite &quot;App-Übersicht&quot; zu öffnen.
 
 Die App-Zusammenfassungsseite bietet vier Registerkarten:
 
@@ -31,9 +29,9 @@ Die App-Zusammenfassungsseite bietet vier Registerkarten:
 
 ## Apps-Liste {#section_eyp_ykt_bbb}
 
-Die Seite "Apps-Liste" bietet Zugriff auf alle vorhandenen Livefyre-Apps.
+Die Seite &quot;Apps-Liste&quot; bietet Zugriff auf alle vorhandenen Livefyre-Apps.
 
-Auf der Seite "Apps-Liste" werden die folgenden Informationen angezeigt:
+Auf der Seite &quot;Apps-Liste&quot; werden die folgenden Informationen angezeigt:
 
 * **[!UICONTROL Title]**: Listet den Titel Ihrer App auf und enthält ein Symbol, das den App-Typ angibt.
 * **[!UICONTROL Site]**: Zeigt den Ort der App nach Site an.
@@ -43,13 +41,13 @@ Auf der Seite "Apps-Liste" werden die folgenden Informationen angezeigt:
 
 ## App-Anpassung {#section_lvj_xlt_bbb}
 
-Auf der Registerkarte "App Designer" können Sie **[!UICONTROL Style]** Ihre Apps auswählen und **[!UICONTROL Configuration]** anpassen.
+Auf der Registerkarte &quot;App Designer&quot; können Sie **[!UICONTROL Style]** Ihre Apps auswählen und **[!UICONTROL Configuration]** anpassen.
 
 **[!UICONTROL Style]** Die Optionen sind für alle App-Typen konsistent; **[!UICONTROL Configuration]** Die Optionen variieren je nach App. Im unteren Bereich des **[!UICONTROL Style]****[!UICONTROL Configuration]** Fensters wird die Livefyre-App-Version für Ihre App aufgelistet.
 
 **Stiloptionen auswählen**
 
-Style Apps to fit your site's Branding. Verwenden Sie **[!UICONTROL Style]** die Optionen, um die Farbe und Schriftart der App auszuwählen.
+Style Apps to fit your site&#39;s Branding. Verwenden Sie **[!UICONTROL Style]** die Optionen, um die Farbe und Schriftart der App auszuwählen.
 
 * **[!UICONTROL Theme]**. Wählen **[!UICONTROL Light]** Sie die **[!UICONTROL Dark]** Hintergrundfarbe für den angezeigten Inhalt aus oder definieren Sie ihn. Änderungen an dieser Einstellung werden sofort in der Vorschau auf der rechten Seite angezeigt. Diese Einstellung steuert Hintergrund, Inhaltstext, Benutzerhandle, Zeitstempel, Freigabeschaltfläche und Social-Symbolauswahl für die App.
 
@@ -74,9 +72,9 @@ So fügen Sie einer App eine Aktionsaufruf-Schaltfläche hinzu:
    Informationen zu den Anpassungen, die auf einer Mosaic- oder Medienpinnwand verfügbar sind, finden Sie unter [Mosaic-Anpassungen](/help/using/c-about-apps/c-mosaic-app/c-mosaic-customizations.md) oder [Medien-Pinnwandanpassungen](../c-about-apps/c-media-wall-app/r-media-wall-customizations.md#r_media_wall_customizations).
 1. Öffnen Sie den Designer für die App.
 1. Blättern Sie zum **[!UICONTROL Call-to-Action Button]** Abschnitt in Designer.
-1. Wechseln **[!UICONTROL Call-to-Action Button]****[!UICONTROL on]**Sie zu.
+1. Wechseln **[!UICONTROL Call-to-Action Button]****[!UICONTROL on]** Sie zu.
 
-1. Konfigurieren Sie die Optionen für "Aktionsaufruf" .
+1. Konfigurieren Sie die Optionen für &quot;Aktionsaufruf&quot; .
 
 ## App-Vorschauen {#section_eyy_4mt_bbb}
 
@@ -92,13 +90,13 @@ Der Vorschaumodus bietet die folgenden Optionen:
 
 >[!NOTE]
 >
->Wenn Sie die Auswahl aufheben **[!UICONTROL Sample Data]**und kein Stream für die App aktiviert ist, wird im Vorschaumodus kein Inhalt angezeigt.
+>Wenn Sie die Auswahl aufheben **[!UICONTROL Sample Data]** und kein Stream für die App aktiviert ist, wird im Vorschaumodus kein Inhalt angezeigt.
 
 * **[!UICONTROL Share]**: Öffnet die App auf einer neuen Browser-Registerkarte und generiert eine URL, mit der Freunde, Kollegen oder Nicht-Studio-Benutzer Ihre App überprüfen und in verschiedenen Browsern und Geräten testen können.
 
    >[!NOTE]
    >
-   >Alle Inhalte, die in einer Review-Version Ihrer App veröffentlicht werden, werden der App hinzugefügt. Wenn Sie nicht möchten, dass dieser Inhalt in der veröffentlichten App angezeigt wird, müssen Sie ihn löschen, bevor Sie auf **Veröffentlichen**klicken.
+   >Alle Inhalte, die in einer Review-Version Ihrer App veröffentlicht werden, werden der App hinzugefügt. Wenn Sie nicht möchten, dass dieser Inhalt in der veröffentlichten App angezeigt wird, müssen Sie ihn löschen, bevor Sie auf **Veröffentlichen** klicken.
 
 * **[!UICONTROL Exit Preview]**: Gibt den Bearbeitungsmodus zurück.
 
@@ -132,20 +130,20 @@ So überprüfen Sie den App-Verlauf:
 
 Wenn ein anderer Editor Änderungen während des Öffnens des Browserfensters vornimmt, gibt Livefyre eine Warnmeldung aus, wenn Sie die App bearbeiten und fragen, ob Sie zu Ihrer (älteren) Entwurfsversion zurückkehren möchten. (Dies verhindert, dass mehrere gleichzeitige Editoren versehentlich die Änderungen anderer ignorieren.) Klicken **[!UICONTROL Update to Latest]** Sie auf, um mit der Arbeit mit der neuesten Version zu beginnen. Klicken **[!UICONTROL Overwrite]** Sie auf, um zu Ihrem (älteren) Arbeitsstatus zurückzukehren, die Versionsnummer von der neuesten zu erhöhen und weiterzuarbeiten.
 
-## Registerkarte "App-Zusammenfassung « {#section_rxx_xmt_bbb}
+## Registerkarte &quot;App-Zusammenfassung « {#section_rxx_xmt_bbb}
 
-Verwenden Sie die Registerkarte "App-Zusammenfassung" , um Informationen für einzelne Apps zu verwalten.
+Verwenden Sie die Registerkarte &quot;App-Zusammenfassung&quot; , um Informationen für einzelne Apps zu verwalten.
 
-Auf der Registerkarte "App-Zusammenfassung" können Sie:
+Auf der Registerkarte &quot;App-Zusammenfassung&quot; können Sie:
 
 * **[!UICONTROL See on Site]**: Öffnet die App auf Ihrer Site.
 * **[!UICONTROL Embed code]**: Nur für veröffentlichte Apps verfügbar, stellt einen anklickbaren Link bereit, um den Einbettungscode für jede veröffentlichte App zu generieren.
 
    >[!NOTE]
    >
-   >Verwenden Sie diesen Einbettungscode, um Ihren Kommentaren oder Live Blog-App Umfragen hinzuzufügen. Weitere Informationen finden Sie unter Benutzerdefinierte Interaktionen > Benutzerdefinierte HTML.
+   >Verwenden Sie diesen Einbettungscode, um Ihren Kommentaren oder Live Blog-App Umfragen hinzuzufügen. Weitere Informationen finden Sie unter Benutzerdefinierte Interaktionen &gt; Benutzerdefinierte HTML.
 
-* **[!UICONTROL View Content]**: Öffnet die Seite "Inhalt" , in der alle Inhalte aufgelistet sind, die in Ihrer App veröffentlicht wurden.
+* **[!UICONTROL View Content]**: Öffnet die Seite &quot;Inhalt&quot; , in der alle Inhalte aufgelistet sind, die in Ihrer App veröffentlicht wurden.
 * **[!UICONTROL Moderate]**: Öffnet das modq und führt alle Inhalte auf, die auf Moderation für die App warten.
 * **[!UICONTROL Developer Info]**: Stellt die Collection-ID, die Artikel-ID und die Site-ID der App bereit.
 
@@ -155,7 +153,7 @@ Erstellen Sie den Einbettungscode.
 
 Wenn eine App veröffentlicht wird, generiert und zeigt Livefyre einen Einbettungscode an, der zum Einbetten der App auf eine beliebige Seite in Ihrem Netzwerk verwendet werden kann. So generieren Sie das HTML-Snippet, das zum Einbetten Ihrer App auf einer Seite verwendet wird
 
-1. Klicken Sie im Bildschirm "App-Übersicht" auf die **[!UICONTROL </> Embed Code]** Schaltfläche.
+1. Klicken Sie im Bildschirm &quot;App-Übersicht&quot; auf die **[!UICONTROL </> Embed Code]** Schaltfläche.
 1. Kopieren **[!UICONTROL Embed Code]** Sie das in der Webseite angezeigte HTML-Code-Snippet und fügen Sie es ein.
 
    Für Apps, die eine Benutzerauthentifizierung erfordern, muss Ihre Integration für die Benutzerauthentifizierung abgeschlossen sein und sich auf der Seite befinden, bevor Sie den Einbettungscode hinzufügen.
@@ -170,7 +168,7 @@ Sie können eine App aus der Apps-Liste in Livefyre Studio löschen. Wenn Sie di
 
 So löschen Sie eine App:
 
-1. Klicken **[!UICONTROL Apps]**Sie auf.
+1. Klicken **[!UICONTROL Apps]** Sie auf.
 1. Klicken Sie auf das Auslassungszeichen rechts neben dem Namen der App, die gelöscht werden soll.
 1. Klicken **[!UICONTROL Delete App]** Sie auf, um die App zu löschen.
 

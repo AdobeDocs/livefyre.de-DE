@@ -1,10 +1,6 @@
 ---
-description: Fügen Sie Ihrer Storify 2-Anwendung ein Navigationsleitfaden hinzu, um
-  eine Liste von permaleingefügten Beiträgen an einer hervorgehobenen Position neben
-  Ihrer Geschichte zu erstellen.
-seo-description: Fügen Sie Ihrer Storify 2-Anwendung ein Navigationsleitfaden hinzu,
-  um eine Liste von permaleingefügten Beiträgen an einer hervorgehobenen Position
-  neben Ihrer Geschichte zu erstellen.
+description: Fügen Sie Ihrer Storify 2-Anwendung ein Navigationsleitfaden hinzu, um eine Liste von permaleingefügten Beiträgen an einer hervorgehobenen Position neben Ihrer Geschichte zu erstellen.
+seo-description: Fügen Sie Ihrer Storify 2-Anwendung ein Navigationsleitfaden hinzu, um eine Liste von permaleingefügten Beiträgen an einer hervorgehobenen Position neben Ihrer Geschichte zu erstellen.
 seo-title: Navigationsleitfaden zu einem Storify 2 hinzufügen
 solution: Experience Manager
 title: Navigationsleitfaden zu einem Storify 2 hinzufügen

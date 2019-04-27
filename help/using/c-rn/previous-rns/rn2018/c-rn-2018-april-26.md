@@ -19,7 +19,7 @@ Versionshinweise für die Version vom 26. April 2018.
 
 Die folgenden Funktionen sind in der Produktionsversion dieser Version neu:
 
-* Es wurde eine neue Funktion hinzugefügt, mit der Kunden eine bestimmte Anzahl von Spalten für eine Medienpinnwand konfigurieren können. Die Anzahl der ausgewählten Spalten erzwingt die Medienpinnwand in dieser Anzahl von Spalten unabhängig von der Größe. Andernfalls ist die Anzahl der Medienwall-Spalten standardmäßig "auto" , wobei die Spalten an eine Zahl angepasst werden, die Media Wall für die Bildschirmgröße optimiert.
+* Es wurde eine neue Funktion hinzugefügt, mit der Kunden eine bestimmte Anzahl von Spalten für eine Medienpinnwand konfigurieren können. Die Anzahl der ausgewählten Spalten erzwingt die Medienpinnwand in dieser Anzahl von Spalten unabhängig von der Größe. Andernfalls ist die Anzahl der Medienwall-Spalten standardmäßig &quot;auto&quot; , wobei die Spalten an eine Zahl angepasst werden, die Media Wall für die Bildschirmgröße optimiert.
 * Im Medienwall Designer gibt es jetzt einen Umschalter, mit dem Sie die automatische Medienpinnwand deaktivieren können, die auftritt, wenn eine Seite mit einer Medienpinnwand geladen wird.
 * Sie können nun den Vertrauensschwellenwert für Smart-Tags in Streams auswählen. Wenn Sie die Genauigkeit (0-100) für Tags festlegen, können Sie die Genauigkeit der Assets steuern, die wir abrufen.
 * Es wurden Moderationsempfehlungen hinzugefügt. Livefyre scannt jetzt jeden Beitrag in Kommentarapps und sagt vorhersagen, ob Sie ihn verschlüsseln oder nicht auf der Grundlage von historischen Daten und maschinellem Lernen. Diese Empfehlungen werden in modq angezeigt.
@@ -36,8 +36,8 @@ Die Probleme in den folgenden Tabellen wurden in dieser Version behoben.
 |---|---|---|
 | Bug | Rights Management | Es wurde ein Problem behoben, bei dem Rechte für Rechte nicht für Assets funktionierten, nachdem sie in einer Social-Suche gefunden wurden. |
 | Verbesserung | Streams | Der Streaming-Mechanismus wurde aktualisiert, der Inhalte aus Facebook streamen und so einer von Facebook erstellten Back-End-Änderung entspricht. |
-| Bug | UGC Commerce | Es wurde ein Problem behoben, durch das die CTA-Schaltfläche "Shop" nicht in einer Mosaic- oder Filmstrip-App angezeigt wurde, wenn die Maus über eine Karte mit einem Produkt bewegt wurde, wenn die CTA-Schaltfläche aktiviert wurde. |
-| Verbesserung | UGC Commerce | Es wurde ein Problem behoben, durch das das UGC Commerce-Flag standardmäßig standardmäßig auf "off" gesetzt wurde. |
+| Bug | UGC Commerce | Es wurde ein Problem behoben, durch das die CTA-Schaltfläche &quot;Shop&quot; nicht in einer Mosaic- oder Filmstrip-App angezeigt wurde, wenn die Maus über eine Karte mit einem Produkt bewegt wurde, wenn die CTA-Schaltfläche aktiviert wurde. |
+| Verbesserung | UGC Commerce | Es wurde ein Problem behoben, durch das das UGC Commerce-Flag standardmäßig standardmäßig auf &quot;off&quot; gesetzt wurde. |
 
 ## UAT-Version
 

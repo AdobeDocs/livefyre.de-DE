@@ -1,8 +1,6 @@
 ---
-description: Richten Sie Anmeldeinformationen ein, mit denen Ihre Benutzer Inhalte
-  für verschiedene soziale Netzwerke freigeben können.
-seo-description: Richten Sie Anmeldeinformationen ein, mit denen Ihre Benutzer Inhalte
-  für verschiedene soziale Netzwerke freigeben können.
+description: Richten Sie Anmeldeinformationen ein, mit denen Ihre Benutzer Inhalte für verschiedene soziale Netzwerke freigeben können.
+seo-description: Richten Sie Anmeldeinformationen ein, mit denen Ihre Benutzer Inhalte für verschiedene soziale Netzwerke freigeben können.
 seo-title: Aktivieren von Social Sharing
 solution: Experience Manager
 title: Aktivieren von Social Sharing
@@ -44,11 +42,11 @@ Verwenden Sie das Integrationseinstellungs-Bedienfeld der Admin-Konsole, um die 
 Twitter-Anmeldeinformationen sind über das Twitter-App-Dashboard verfügbar. So finden Sie die Anmeldeinformationen:
 
 * Öffnen Sie [die App-Seite](https://dev.twitter.com/apps) von Twitter als App-Eigentümer, suchen Sie Ihre Anwendung und klicken Sie auf den Titel.
-* Blättern Sie nach unten zu "Ihr Zugriffstoken" und rufen Sie die Werte von" Access token" und "Access tokensecret" auf. »
+* Blättern Sie nach unten zu &quot;Ihr Zugriffstoken&quot; und rufen Sie die Werte von&quot; Access token&quot; und &quot;Access tokensecret&quot; auf. »
 
 Sie müssen:
 
-* Geben Sie in der Twitter-App einen Wert für das Feld "Callback-URL" ein. Dieses Feld kann ein einfacher Platzhalter sein, kann aber nicht leer sein.
+* Geben Sie in der Twitter-App einen Wert für das Feld &quot;Callback-URL&quot; ein. Dieses Feld kann ein einfacher Platzhalter sein, kann aber nicht leer sein.
 * Legen Sie den Anwendungstyp so fest, dass er über **Lese** - und **Schreibzugriff** verfügt.
 * Vergewissern Sie sich, dass sich die URL der Twitter-App in derselben Hostdomäne befindet wie die Livefyre-Core-App.
 
@@ -70,7 +68,7 @@ Linkedin-Anmeldeinformationen sind im Abschnitt oauth-Schlüssel der API-Schlüs
 Facebook-Anmeldeinformationen sind auf Ihrer Developer Apps-Seite verfügbar.
 
 * Öffnen Sie die [Seite Developer Apps von](https://developers.facebook.com/apps) Facebook als App-Eigentümer, suchen Sie Ihre Anwendung und klicken Sie auf den Titel.
-* Erfassen Sie die Werte für App-ID und App-Geheimnis. Für den App-geheimen Schlüssel müssen Sie auf die Schaltfläche "Anzeigen" klicken, um ihn anzuzeigen.
+* Erfassen Sie die Werte für App-ID und App-Geheimnis. Für den App-geheimen Schlüssel müssen Sie auf die Schaltfläche &quot;Anzeigen&quot; klicken, um ihn anzuzeigen.
 
 Für die Freigabe auf Facebook müssen Sie eine Umleitungsseite einrichten, um Facebook-Anforderungen aufzunehmen und die von [Facebook geforderten Domänen einzuhalten](https://developers.facebook.com/docs/reference/dialogs/oauth/). Die Seite muss in Ihrer Domäne gehostet werden, damit Facebook überprüfen kann, ob die Anforderung von einer rechtmäßigen Quelle stammt.
 
@@ -333,7 +331,7 @@ if (isset($_GET['lfoauth'])) {
 
 ## Konfigurieren von Anbietern von Beiträgen {#section_rdk_dpl_b1b}
 
-Standardmäßig werden Facebook-, linkedin- und Twitter-Schaltflächen "Post to" auf Livefyre-Core-Anwendungen angezeigt. Verwenden Sie den Parameter posttobuttons, um zu konfigurieren, welche Anbieter beim Einbetten der Livefyre-App angezeigt werden.
+Standardmäßig werden Facebook-, linkedin- und Twitter-Schaltflächen &quot;Post to&quot; auf Livefyre-Core-Anwendungen angezeigt. Verwenden Sie den Parameter posttobuttons, um zu konfigurieren, welche Anbieter beim Einbetten der Livefyre-App angezeigt werden.
 
 ```
 var convConfig = {}; // Ignoring other options for this example 

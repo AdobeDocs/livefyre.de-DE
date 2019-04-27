@@ -43,7 +43,7 @@ Die folgenden neuen Funktionen wurden in der Produktionsversion dieser Version v
    * Vorschau
    * Importieren
    * Filtern nach Audiodateien
-   * Drag & Drop von Dateien in Designer
+   * Drag &amp; Drop von Dateien in Designer
 
 ## Probleme {#section_ehw_ndt_wcb}
 

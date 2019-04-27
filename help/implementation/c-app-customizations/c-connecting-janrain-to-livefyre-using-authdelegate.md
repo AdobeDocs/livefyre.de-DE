@@ -1,8 +1,6 @@
 ---
-description: Livefyre. erforderlich ist ein Plugin, mit dem die Authentifizierung
-  des Janrain Backplane-Bus aktiviert wird.
-seo-description: Livefyre. erforderlich ist ein Plugin, mit dem die Authentifizierung
-  des Janrain Backplane-Bus aktiviert wird.
+description: Livefyre. erforderlich ist ein Plugin, mit dem die Authentifizierung des Janrain Backplane-Bus aktiviert wird.
+seo-description: Livefyre. erforderlich ist ein Plugin, mit dem die Authentifizierung des Janrain Backplane-Bus aktiviert wird.
 seo-title: Verbinden von Janrain mit Livefyre mit authdelegate
 title: Verbinden von Janrain mit Livefyre mit authdelegate
 uuid: 9 d 56 e 3 f 4-960 a -4108-aab 5-2795 b 0 e 71 c 88
@@ -112,7 +110,7 @@ authDelegate.editProfile = function(user) {
 
 Profil anzeigen
 
-Wie bei "Profile bearbeiten" sollte sich dies mit der Seite eines Benutzers verknüpfen, die sich vom aktuell angemeldeten Benutzer unterscheidet. Dies kann jedoch implementiert werden. Dieses Beispiel protokolliert einfach den Autor-Parameter an die Konsole.
+Wie bei &quot;Profile bearbeiten&quot; sollte sich dies mit der Seite eines Benutzers verknüpfen, die sich vom aktuell angemeldeten Benutzer unterscheidet. Dies kann jedoch implementiert werden. Dieses Beispiel protokolliert einfach den Autor-Parameter an die Konsole.
 
 ```
 /** 

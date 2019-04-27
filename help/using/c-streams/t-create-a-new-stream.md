@@ -1,8 +1,6 @@
 ---
-description: Erstellen Sie einen neuen Stream in Livefyre, um einer App oder einem
-  Ordner Inhalte hinzuzufügen.
-seo-description: Erstellen Sie einen neuen Stream in Livefyre, um einer App oder einem
-  Ordner Inhalte hinzuzufügen.
+description: Erstellen Sie einen neuen Stream in Livefyre, um einer App oder einem Ordner Inhalte hinzuzufügen.
+seo-description: Erstellen Sie einen neuen Stream in Livefyre, um einer App oder einem Ordner Inhalte hinzuzufügen.
 seo-title: Neuen Stream erstellen
 solution: Experience Manager
 title: Neuen Stream erstellen
@@ -18,10 +16,10 @@ source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 Erstellen Sie einen neuen Stream in Livefyre, um einer App oder einem Ordner Inhalte hinzuzufügen.
 
 1. Klicken Sie zum Erstellen eines neuen Streams auf **[!UICONTROL Streams > Create Stream.]**
-1. Geben Sie einen **[!UICONTROL Stream Name]**Wert ein.
-1. Wählen **[!UICONTROL Stream Destination]**Sie eine: **[!UICONTROL App]** oder wählen Sie ein **[!UICONTROL Folder]** Ziel für den Stream aus.
+1. Geben Sie einen **[!UICONTROL Stream Name]** Wert ein.
+1. Wählen **[!UICONTROL Stream Destination]** Sie eine: **[!UICONTROL App]** oder wählen Sie ein **[!UICONTROL Folder]** Ziel für den Stream aus.
 
-   * Wählen Sie eine App aus, um alle im Stream enthaltenen Inhalte an die ausgewählte App zu senden, wenn Sie auf "Veröffentlichen" klicken.
+   * Wählen Sie eine App aus, um alle im Stream enthaltenen Inhalte an die ausgewählte App zu senden, wenn Sie auf &quot;Veröffentlichen&quot; klicken.
    * Wählen Sie einen Ordner aus, um fortlaufend alle im Stream enthaltenen Inhalte in den ausgewählten Ordner zu verschieben.
 
       >[!NOTE]

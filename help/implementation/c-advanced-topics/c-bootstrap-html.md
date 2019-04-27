@@ -15,13 +15,13 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Stellen Sie Community-Inhalte für Suchmaschinen-Crawler zur Verfügung.
 
-Eine vollständige Liste der verfügbaren Endpunkte finden Sie im Abschnitt "Livefyre [-API-Referenz](https://api.livefyre.com/docs) " .
+Eine vollständige Liste der verfügbaren Endpunkte finden Sie im Abschnitt &quot;Livefyre [-API-Referenz](https://api.livefyre.com/docs) &quot; .
 
 Livefyre-Apps erfordern, dass Sie javascript auf Ihrer Seite ausführen, um Inhalte für Ihre Sammlungen anzuzeigen. Da die meisten Suchmaschinen-Crawler javascript nicht ausführen können, können sie den Inhalt Ihrer Community-Beiträge nicht sehen. Verwenden Sie die Bootstrap HTML API, um durchsuchbare Fragmente dieses Inhalts zur ursprünglichen HTTP-Antwort Ihrer Seite hinzuzufügen, wodurch Ihre Inhalte und Suchbegriffe Ihre Suchmaschinenoptimierung verbessern können.
 
 >[!NOTE]
 >
->Diese API ist nur für die Typen "Kommentare" und" Live Blog" verfügbar.
+>Diese API ist nur für die Typen &quot;Kommentare&quot; und&quot; Live Blog&quot; verfügbar.
 
 ## Integration
 
@@ -35,7 +35,7 @@ Implementieren der Bootstrap-HTML-API:
    >
    >Wenn Sie versuchen, das Bootstrap-HTML für eine Unterhaltung zu erfassen, die noch nicht vorhanden ist (d. h. wenn Sie die App noch nicht einbetten oder die Sammlung erstellen), erhalten Sie eine 200-Prozendure, aber mit Inhalt, der etwas ähnelt: `<!- HTTP 404 example.fyre.co/000000/MTEwMTo2NDEyOD1RS/bootstrap.html ->`
 
-1. Wenn Ihre Rendite keine Inhalte mit "404" enthält, speichern Sie sie in einer Zeichenfolge. Sie können diese Antwort für später zwischenspeichern, um zu verhindern, dass die Bootstrap-HTML-API auf jeder Pageloanzeige angefordert wird.
+1. Wenn Ihre Rendite keine Inhalte mit &quot;404&quot; enthält, speichern Sie sie in einer Zeichenfolge. Sie können diese Antwort für später zwischenspeichern, um zu verhindern, dass die Bootstrap-HTML-API auf jeder Pageloanzeige angefordert wird.
 1. Fügen Sie die Bootstrap-HTML-Zeichenfolge in Ihre Webseite ein, auf der der Inhalt angezeigt werden soll.
 1. Stellen Sie Ihre Webseite dem Browser (oder dem Suchmaschinen-Crawler) bereit.
 

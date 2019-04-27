@@ -117,7 +117,7 @@ Definiert die [!UICONTROL Post Content] Schaltfläche, die auf Ihrer Pinnwand an
 
 `postButton` Parameter:
 
-* `false` (Standard): Zeigen Sie keine Schaltfläche "Beitragsinhalt" an. (Erstellt eine schreibgeschützte Medienwall.)
+* `false` (Standard): Zeigen Sie keine Schaltfläche &quot;Beitragsinhalt&quot; an. (Erstellt eine schreibgeschützte Medienwall.)
 * `true` (oder `LiveMediaWall.postButtons.contentWithPhotos`): Schließen Sie eine Schaltfläche ein, mit der Benutzer Textinhalte mit angehängten Fotos hinzufügen können.
 
 * `LiveMediaWall.postButtons.content`: Schließen Sie eine Schaltfläche ein, mit der Benutzer Textinhalte hinzufügen, jedoch keine Fotos anhängen können.

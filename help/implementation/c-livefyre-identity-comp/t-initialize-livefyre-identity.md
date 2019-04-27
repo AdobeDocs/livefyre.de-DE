@@ -1,8 +1,6 @@
 ---
-description: Das Auth-Paket von Livefyre. js stellt sicher, dass alle sozialen Komponenten
-  auf Ihrer Seite eine einzige Authentifizierungsintegration entdecken.
-seo-description: Das Auth-Paket von Livefyre. js stellt sicher, dass alle sozialen
-  Komponenten auf Ihrer Seite eine einzige Authentifizierungsintegration entdecken.
+description: Das Auth-Paket von Livefyre. js stellt sicher, dass alle sozialen Komponenten auf Ihrer Seite eine einzige Authentifizierungsintegration entdecken.
+seo-description: Das Auth-Paket von Livefyre. js stellt sicher, dass alle sozialen Komponenten auf Ihrer Seite eine einzige Authentifizierungsintegration entdecken.
 seo-title: Livefyre-Identität initialisieren
 title: Livefyre-Identität initialisieren
 uuid: 9365 d 827-2734-4 a 84-bfe 7-9 be 573 b 2 b 03 e

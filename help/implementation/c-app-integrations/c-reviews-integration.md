@@ -48,7 +48,7 @@ Livefyre.require(['fyre.conv#3'], function (Review) {
 });
 ```
 
-Wie im Abschnitt "Erstellen `CollectionMeta` « `CollectionMeta` angegeben, ist ein kodiertes JSON-Objekt. Im obigen Beispiel akzeptiert das JSON-Objekt das folgende Format, bevor es JWT-kodiert ist:
+Wie im Abschnitt &quot;Erstellen `CollectionMeta` « `CollectionMeta` angegeben, ist ein kodiertes JSON-Objekt. Im obigen Beispiel akzeptiert das JSON-Objekt das folgende Format, bevor es JWT-kodiert ist:
 
 ```
 { 
@@ -64,21 +64,21 @@ Wie im Abschnitt "Erstellen `CollectionMeta` « `CollectionMeta` angegeben, ist 
 
 Wenn Sie den Abschnitt Erste Schritte bereits abgeschlossen haben, sollten Sie mit dem contconfig-Objekt vertraut sein. Um Reviews zu aktivieren, aktualisieren Sie das contconfig mit den folgenden Feldern:
 
-* **Alwaysshoweditor** *optionaler* boolescher Wert: Der Review-Editor wird standardmäßig erst angezeigt, wenn der Benutzer die Schaltfläche "Lesen" drückt. Legen Sie diesen Parameter auf true fest, um den Editor immer anzuzeigen.
+* **Alwaysshoweditor** *optionaler* boolescher Wert: Der Review-Editor wird standardmäßig erst angezeigt, wenn der Benutzer die Schaltfläche &quot;Lesen&quot; drückt. Legen Sie diesen Parameter auf true fest, um den Editor immer anzuzeigen.
 
-* **App** *erforderliche* Zeichenfolge: Der für Überprüfungen zu verwendende App-Name. Muss "reviews" lauten.
+* **App** *erforderliche* Zeichenfolge: Der für Überprüfungen zu verwendende App-Name. Muss &quot;reviews&quot; lauten.
 
 * **Defaultsoptionale**** Zeichenfolge: Ermöglicht die Auswahl der Standardsortieroption für Reviews. Mögliche Werte sind: Momentarelpful, highestrated, lowestrated, newest und älteste.
 
-* **Disabletitle** *optionaler* boolescher Wert: Deaktiviert und blendet das Titelfeld im Editor für Überprüfungen aus, das standardmäßig erforderlich und sichtbar ist. Der Standardwert ist "true" .
+* **Disabletitle** *optionaler* boolescher Wert: Deaktiviert und blendet das Titelfeld im Editor für Überprüfungen aus, das standardmäßig erforderlich und sichtbar ist. Der Standardwert ist &quot;true&quot; .
 
-* **Enablehalfrating** *optionaler* Boolescher Wert: Wird verwendet, um die Hälfte am Standard-Star-Auswahlmodul zu aktivieren. Der Standardwert ist "true" .
+* **Enablehalfrating** *optionaler* Boolescher Wert: Wird verwendet, um die Hälfte am Standard-Star-Auswahlmodul zu aktivieren. Der Standardwert ist &quot;true&quot; .
 
-* **Hideshowreviewbutton** *optionaler* boolescher Wert: Steuert, ob die [!UICONTROL Show My Review] Schaltfläche angezeigt wird. Legen Sie "true" fest, damit Ihre Benutzer auswählen können, ob ihre eigenen Überprüfungen angezeigt oder angezeigt werden sollen.
+* **Hideshowreviewbutton** *optionaler* boolescher Wert: Steuert, ob die [!UICONTROL Show My Review] Schaltfläche angezeigt wird. Legen Sie &quot;true&quot; fest, damit Ihre Benutzer auswählen können, ob ihre eigenen Überprüfungen angezeigt oder angezeigt werden sollen.
 
 * **Optionale** ** integer-Ganzzahl Verwendet, um die Anzahl der Sterne festzulegen, die im Standard-Stern-Auswahlmodul angezeigt werden. Der Standardwert ist 5. Dies kann bis zu 100 konfiguriert werden.
 
-* **Variabsummaryenable** *optionaler* boolescher Wert: Wird verwendet, um die Übersicht über die Bewertungszusammenfassung über der Übersichts-App anzuzeigen. Dies muss für die Verwendung der variabsummarydelegate aktiviert werden. Der Standardwert ist "true" .
+* **Variabsummaryenable** *optionaler* boolescher Wert: Wird verwendet, um die Übersicht über die Bewertungszusammenfassung über der Übersichts-App anzuzeigen. Dies muss für die Verwendung der variabsummarydelegate aktiviert werden. Der Standardwert ist &quot;true&quot; .
 
 ## Überprüfungsmetadaten überprüfen {#section_k1s_sqb_c1b}
 
@@ -86,14 +86,14 @@ Wenn Sie den Abschnitt Erste Schritte bereits abgeschlossen haben, sollten Sie m
 
 * **Variabdimensions** *optionales* Array: Ein Array von Zeichenfolgen für jeden Dimensionstyp, den diese Sammlung verwendet. Wenn dies nicht angegeben ist, wird nur 1 Dimension zugelassen.
 
-   Damit beispielsweise Benutzer Ihr Produkt unter "Design" ," Funktionen" und "Leistung" bewerten können, legen Sie das Array auf: `ratingDimensions: [‘design’, ‘features’, ‘performance’]`
+   Damit beispielsweise Benutzer Ihr Produkt unter &quot;Design&quot; ,&quot; Funktionen&quot; und &quot;Leistung&quot; bewerten können, legen Sie das Array auf: `ratingDimensions: [‘design’, ‘features’, ‘performance’]`
 
 * **Variabsubparts** *optionale* Ganzzahl: Anzahl der im Textfeld der Überprüfung anzuzeigenden Partitionen. Die Unterteilbeschriftungen werden wie unten dargestellt mit dem Parameter weitergegeben.
 
    >[!NOTE]
    >Sie müssen Beschriftungen für jeden Teilabschnitt definieren.
 
-* **Variabsubpartsids** *optionales* Array: Ermöglicht es Ihnen, eine ID für jeden Teilabschnitt in Ihrer Ratings-Sammlung zu definieren, der verwendet werden kann, um diese Unterteilelemente in Ihrem CSS und javascript abzuzielen. Wenn Benutzer Überprüfungen beisteuern, wird jeweils `ratingSubpart` das Attribut " `data-lf-subpart-id`«enthalten, das mit dieser ID ausgefüllt wird.
+* **Variabsubpartsids** *optionales* Array: Ermöglicht es Ihnen, eine ID für jeden Teilabschnitt in Ihrer Ratings-Sammlung zu definieren, der verwendet werden kann, um diese Unterteilelemente in Ihrem CSS und javascript abzuzielen. Wenn Benutzer Überprüfungen beisteuern, wird jeweils `ratingSubpart` das Attribut &quot; `data-lf-subpart-id`«enthalten, das mit dieser ID ausgefüllt wird.
 
 >[!NOTE]
 >
@@ -131,7 +131,7 @@ Bei Halbwertern gibt es zwei Klassen, eine für jede Seite des Stern. Die linke 
 
 Zum Konfigurieren der quickinfo-Werte für die Sterne folgen Sie dem in der Zeichenfolgenanpassung beschriebenen benutzerdefinierten Text. Sobald Sie diese Einstellung eingerichtet haben, verwenden Sie den Schlüssel `ratingValues` und den Wert ein Array, das die quickinfo-Zeichenfolgen enthält. Wenn Sie über die Hälfte Sterne deaktiviert haben, muss die Anzahl der Elemente im Array mit `maxRating` dem Wert (oben) übereinstimmen. Wenn Sie die Hälfte der Sterne aktiviert haben, sollte die Anzahl der Elemente 2 x `maxRating`betragen. Das erste Element im Array entspricht dem Sternchen (oder halber Stern) und fährt von links nach rechts fort.
 
-### Option "Meine Überprüfung anzeigen" aktivieren/deaktivieren
+### Option &quot;Meine Überprüfung anzeigen&quot; aktivieren/deaktivieren
 
 Um die [!UICONTROL Show My Review] Option ein- oder auszuschalten, wählen Sie den `hideShowReviewButton` Parameter in der App-Konfiguration aus.
 

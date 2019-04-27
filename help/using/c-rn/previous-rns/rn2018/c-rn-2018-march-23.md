@@ -21,10 +21,10 @@ Die folgenden Funktionen sind in der Produktionsversion dieser Version neu:
 
 * **Neu in Produktion:** Facebook hat ein Sicherheits-Update auf Facebook-Anmeldung erstellt, das dazu führt, dass die Facebook-Anmeldung eines Kunden nicht ordnungsgemäß funktioniert hat. Um dieses Problem zu beheben, müssen Sie Folgendes tun:
 
-   1. Fügen Sie die folgende URL zum **[!UICONTROL Valid OAuth redirect URIs]** Feld "Client oauth-Einstellungen" hinzu. Durch `<networkname>` Ihren richtigen Netzwerknamen ersetzen:
+   1. Fügen Sie die folgende URL zum **[!UICONTROL Valid OAuth redirect URIs]** Feld &quot;Client oauth-Einstellungen&quot; hinzu. Durch `<networkname>` Ihren richtigen Netzwerknamen ersetzen:
       `https://identity.livefyre.com/<networkname>/api/v1.0/public/profile/social/complete/facebook_fyre`
 
-   1. Wechseln **[!UICONTROL Use Strict Mode for Redirect URI]****[!UICONTROL Yes]**Sie zu.
+   1. Wechseln **[!UICONTROL Use Strict Mode for Redirect URI]****[!UICONTROL Yes]** Sie zu.
 
 * **Neu in UAT:** Sie können nun den Vertrauensschwellenwert für Smart-Tags in Streams auswählen. Wenn Sie die Genauigkeit (0-100) für Tags festlegen, können Sie die Genauigkeit der Assets steuern, die wir abrufen.
 

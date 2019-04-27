@@ -1,10 +1,6 @@
 ---
-description: Moderatoren, Inhabern und Bloggern können benutzerdefinierte HTML-Anlagen
-  zu Inhalten hinzugefügt werden, die über Kommentare oder Live Blog veröffentlicht
-  werden.
-seo-description: Moderatoren, Inhabern und Bloggern können benutzerdefinierte HTML-Anlagen
-  zu Inhalten hinzugefügt werden, die über Kommentare oder Live Blog veröffentlicht
-  werden.
+description: Moderatoren, Inhabern und Bloggern können benutzerdefinierte HTML-Anlagen zu Inhalten hinzugefügt werden, die über Kommentare oder Live Blog veröffentlicht werden.
+seo-description: Moderatoren, Inhabern und Bloggern können benutzerdefinierte HTML-Anlagen zu Inhalten hinzugefügt werden, die über Kommentare oder Live Blog veröffentlicht werden.
 seo-title: Benutzerdefiniertes HTML
 solution: Experience Manager
 title: Benutzerdefiniertes HTML
@@ -19,7 +15,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Moderatoren, Inhabern und Bloggern können benutzerdefinierte HTML-Anlagen zu Inhalten hinzugefügt werden, die über Kommentare oder Live Blog veröffentlicht werden.
 
-Mit der Funktion "Benutzerdefinierte HTML Einbetten" können Moderatoren, Inhaber und Blogger dem Inhalt, der durch Kommentare oder Live Blog veröffentlicht wird, benutzerdefinierte HTML-Anlagen hinzufügen. Mit dieser Funktion können Sie alle Inhalte an Ihre Beiträge anhängen, einschließlich proprietärer Videoplayer oder Abrufereignisse, zusätzlich zu den Standardbildern, Videoplayer und anderen Embed, die automatisch durch Livefyre-Apps erweitert werden.
+Mit der Funktion &quot;Benutzerdefinierte HTML Einbetten&quot; können Moderatoren, Inhaber und Blogger dem Inhalt, der durch Kommentare oder Live Blog veröffentlicht wird, benutzerdefinierte HTML-Anlagen hinzufügen. Mit dieser Funktion können Sie alle Inhalte an Ihre Beiträge anhängen, einschließlich proprietärer Videoplayer oder Abrufereignisse, zusätzlich zu den Standardbildern, Videoplayer und anderen Embed, die automatisch durch Livefyre-Apps erweitert werden.
 
 Wenden Sie sich an Ihren Kundenbetreuer, um diese Funktion für Ihr Netzwerk oder Ihre Site zu aktivieren.
 

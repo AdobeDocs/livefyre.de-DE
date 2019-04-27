@@ -1,12 +1,6 @@
 ---
-description: Instagram hat die Anzahl der Anforderungen geändert, die ein beliebiges
-  Unternehmen, das die Instagram-API verwendet, einschließlich Livefyre, von 5.000
-  Anfragen pro Stunde pro Token bis zu 200 Anforderungen pro Stunde vornehmen kann.
-  Dies wird als Ratenbeschränkung bezeichnet.
-seo-description: Instagram hat die Anzahl der Anforderungen geändert, die ein beliebiges
-  Unternehmen, das die Instagram-API verwendet, einschließlich Livefyre, von 5.000
-  Anfragen pro Stunde pro Token bis zu 200 Anforderungen pro Stunde vornehmen kann.
-  Dies wird als Ratenbeschränkung bezeichnet.
+description: Instagram hat die Anzahl der Anforderungen geändert, die ein beliebiges Unternehmen, das die Instagram-API verwendet, einschließlich Livefyre, von 5.000 Anfragen pro Stunde pro Token bis zu 200 Anforderungen pro Stunde vornehmen kann. Dies wird als Ratenbeschränkung bezeichnet.
+seo-description: Instagram hat die Anzahl der Anforderungen geändert, die ein beliebiges Unternehmen, das die Instagram-API verwendet, einschließlich Livefyre, von 5.000 Anfragen pro Stunde pro Token bis zu 200 Anforderungen pro Stunde vornehmen kann. Dies wird als Ratenbeschränkung bezeichnet.
 seo-title: Instagram-Ratenbeschränkung
 title: Instagram-Ratenbeschränkung
 uuid: 98108 ddb -5710-4331-891 b -7 e 1 bbb 106059

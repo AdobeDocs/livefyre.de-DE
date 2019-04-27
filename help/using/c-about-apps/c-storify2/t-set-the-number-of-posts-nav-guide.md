@@ -1,8 +1,6 @@
 ---
-description: Legen Sie fest, wie viele Beiträge Site-Besucher im Navigationsleitfaden
-  sehen können.
-seo-description: Legen Sie fest, wie viele Beiträge Site-Besucher im Navigationsleitfaden
-  sehen können.
+description: Legen Sie fest, wie viele Beiträge Site-Besucher im Navigationsleitfaden sehen können.
+seo-description: Legen Sie fest, wie viele Beiträge Site-Besucher im Navigationsleitfaden sehen können.
 seo-title: Anzahl der Beiträge im Navigationsleitfaden festlegen
 solution: Experience Manager
 title: Anzahl der Beiträge im Navigationsleitfaden festlegen

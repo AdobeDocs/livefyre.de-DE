@@ -1,8 +1,6 @@
 ---
-description: Zum benutzerdefinierten Stilinhalt für Benutzergruppen müssen Sie zuerst
-  ein Benutzertag zum Konto hinzufügen und dann den Inhalt mit CSS formatieren.
-seo-description: Zum benutzerdefinierten Stilinhalt für Benutzergruppen müssen Sie
-  zuerst ein Benutzertag zum Konto hinzufügen und dann den Inhalt mit CSS formatieren.
+description: Zum benutzerdefinierten Stilinhalt für Benutzergruppen müssen Sie zuerst ein Benutzertag zum Konto hinzufügen und dann den Inhalt mit CSS formatieren.
+seo-description: Zum benutzerdefinierten Stilinhalt für Benutzergruppen müssen Sie zuerst ein Benutzertag zum Konto hinzufügen und dann den Inhalt mit CSS formatieren.
 seo-title: Anwenden benutzerdefinierter Stile
 solution: Experience Manager
 title: Anwenden benutzerdefinierter Stile
@@ -21,10 +19,10 @@ Für jedes vom Studio oder Ping für Pull hinzugefügte Benutzertag erstellt Liv
 
 Beim Konvertieren von Benutzertags in CSS-Klassen:
 
-* Livefyre erstellt zwei Klassen: fyre-author-tag-*** < ihre_ Gruppe >*** und fyre-tag-author-*** < ihre_ Gruppe >***. Beide können zum Gestalten des Inhalts verwendet werden.
+* Livefyre erstellt zwei Klassen: fyre-author-tag-*** &lt; ihre_ Gruppe &gt;*** und fyre-tag-author-*** &lt; ihre_ Gruppe &gt;***. Beide können zum Gestalten des Inhalts verwendet werden.
 
 * Alle im Tag enthaltenen Leerzeichen werden in Unterstriche umgewandelt. Beispiel: Favoritenbenutzer wird favorit_ user.
-* Unicode-Zeichen, die in Gruppennamen enthalten sind, werden nicht konvertiert und erscheinen in den Klassennamen als Unicode. Beispiel: Benutzergruppe "modérateur" wird" fyre-comment-author-tag-modérateur" .
+* Unicode-Zeichen, die in Gruppennamen enthalten sind, werden nicht konvertiert und erscheinen in den Klassennamen als Unicode. Beispiel: Benutzergruppe &quot;modérateur&quot; wird&quot; fyre-comment-author-tag-modérateur&quot; .
 
 Sobald Ihre Benutzergruppen erstellt wurden, verwenden Sie die CSS-Klassen von Livefyre, um benutzerdefinierte Stile für den Inhalt anzuwenden.
 
@@ -70,7 +68,7 @@ Erstellen Sie eine CSS-Regel, um ein Zeichen für die Gruppe anzuzeigen oder zu 
 }
 ```
 
-Verwenden Sie die CSS-Klasse fyre-author-tag-*** < ihre_ Gruppe >*** oder fyre-tag-author-*** < Ihre_ Gruppe >***, um die Schriftart und den Hintergrund für jedes Element zu gestalten, das mit dem ausgewählten Tag verknüpft ist.
+Verwenden Sie die CSS-Klasse fyre-author-tag-*** &lt; ihre_ Gruppe &gt;*** oder fyre-tag-author-*** &lt; Ihre_ Gruppe &gt;***, um die Schriftart und den Hintergrund für jedes Element zu gestalten, das mit dem ausgewählten Tag verknüpft ist.
 
 ```
 .fyre-comment-author-tag-<your_group> .fyre-comment-author-tag { 

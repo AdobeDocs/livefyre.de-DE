@@ -1,8 +1,6 @@
 ---
-description: Mitteilungen für Livefyre und Livefyre Studio. Aktuell ab dem 15. November
-  2018.
-seo-description: Mitteilungen für Livefyre und Livefyre Studio. Aktuell ab dem 15.
-  November 2018.
+description: Mitteilungen für Livefyre und Livefyre Studio. Aktuell ab dem 15. November 2018.
+seo-description: Mitteilungen für Livefyre und Livefyre Studio. Aktuell ab dem 15. November 2018.
 seo-title: Mitteilungen
 solution: Experience Manager
 title: Mitteilungen

@@ -79,7 +79,7 @@ Für Autor und individuelle Inhaltsinformationen verfügbare Stings.
 |  | Datetimeminuteprefix | m |
 |  | Datetimemonths | Ein Array. Standard =`[‘January’, ‘February’, ‘March’, ‘April’, ‘May’, ‘June’, ‘July’, ‘August’, ‘September’, ‘October’, ‘November’, ‘December’]` |
 |  | Questionexplain | Sie können Kommentare jetzt direkt in Sätzen, Absätzen, Bildern und Anführungszeichen lesen und schreiben.<br><br><span class="&rdquo;lf-highlight-text&rdquo;">Markieren Sie Text</span> und klicken Sie auf das <span class="&rdquo;fycon-write&rdquo;"></span> Symbol oder klicken Sie am Ende jedes Absatzes auf das <span class="&rdquo;fycon-action-view&rdquo;"></span> Symbol. |
-|  | Questionmocktext | Was genau bekannt ist, wird nicht korrekt bekannt, sondern nur aus dem Grund, aus dem sie "bekannt" ist. |
+|  | Questionmocktext | Was genau bekannt ist, wird nicht korrekt bekannt, sondern nur aus dem Grund, aus dem sie &quot;bekannt&quot; ist. |
 |  | Questiontitle | Was ist eine Sidenote? |
 
 ## Benutzeraktionen {#section_qxd_fl4_xz}
@@ -98,7 +98,7 @@ Für Benutzeraktionen verfügbare Zeichenfolgen: Kennzeichnung, Freigabe und Nut
 |  | Menuflagoptionofftopic | Aus Thema |
 |  | Menuflagoptionspam | Spam |
 |  | Menuflagtitle | Markieren als… |
-|  | Facebooksharecaption | Zielgruppen für " {title} « |
+|  | Facebooksharecaption | Zielgruppen für &quot; {title} « |
 | Mobile Benutzeroptionen | Slidercommenttally | of |
 |  | Sliderinviteread | Lesen |
 |  | Sliderinvitewrite | Schreiben |
@@ -143,7 +143,7 @@ Für die benutzerauthentifizierte Moderationsoberfläche verfügbare Zeichenfolg
 
 | Element | Schlüssel | Standardtext |
 |---|---|---|
-| Bestätigungsmeldungen im Menü "Mehr « | Notificationapproved | Genehmigt |
+| Bestätigungsmeldungen im Menü &quot;Mehr « | Notificationapproved | Genehmigt |
 |  | Notificationdeleted | Gelöscht |
 |  | Notificationflag | Gekennzeichnet |
 

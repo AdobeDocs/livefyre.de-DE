@@ -1,8 +1,6 @@
 ---
-description: Sie können Ihrem Netzwerk neue Sites für Domänen und Subdomänen hinzufügen,
-  die dieselben Benutzerprofile nutzen.
-seo-description: Sie können Ihrem Netzwerk neue Sites für Domänen und Subdomänen hinzufügen,
-  die dieselben Benutzerprofile nutzen.
+description: Sie können Ihrem Netzwerk neue Sites für Domänen und Subdomänen hinzufügen, die dieselben Benutzerprofile nutzen.
+seo-description: Sie können Ihrem Netzwerk neue Sites für Domänen und Subdomänen hinzufügen, die dieselben Benutzerprofile nutzen.
 seo-title: Hinzufügen einer Site zu einem Netzwerk
 solution: Experience Manager
 title: Hinzufügen einer Site zu einem Netzwerk
@@ -26,4 +24,4 @@ So fügen Sie Ihrem Netzwerk eine neue Site hinzu:
 
    Dieses Bedienfeld listet alle im ausgewählten Netzwerk enthaltenen Sites auf.
 
-1. Geben Sie ein **[!UICONTROL Name]** und **[!UICONTROL URL]** in die angegebenen Felder ein und klicken **[!UICONTROL Add Site]**Sie auf.
+1. Geben Sie ein **[!UICONTROL Name]** und **[!UICONTROL URL]** in die angegebenen Felder ein und klicken **[!UICONTROL Add Site]** Sie auf.

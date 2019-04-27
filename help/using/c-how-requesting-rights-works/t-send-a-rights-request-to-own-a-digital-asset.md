@@ -1,8 +1,6 @@
 ---
-description: Sie können das Recht anfordern, das Element für Ihre kommerziellen Zwecke
-  aus der Bibliothek, dem App-Inhalt oder aus modq wiederzuverwenden.
-seo-description: Sie können das Recht anfordern, das Element für Ihre kommerziellen
-  Zwecke aus der Bibliothek, dem App-Inhalt oder aus modq wiederzuverwenden.
+description: Sie können das Recht anfordern, das Element für Ihre kommerziellen Zwecke aus der Bibliothek, dem App-Inhalt oder aus modq wiederzuverwenden.
+seo-description: Sie können das Recht anfordern, das Element für Ihre kommerziellen Zwecke aus der Bibliothek, dem App-Inhalt oder aus modq wiederzuverwenden.
 seo-title: Twitter-Berechtigungen senden
 solution: Experience Manager
 title: Twitter-Berechtigungen senden

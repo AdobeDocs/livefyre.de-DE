@@ -1,8 +1,6 @@
 ---
-description: Studio Manager und Administratoren können neue oder vorhandene Benutzer
-  einladen, ein Studio-Konto zu erstellen.
-seo-description: Studio Manager und Administratoren können neue oder vorhandene Benutzer
-  einladen, ein Studio-Konto zu erstellen.
+description: Studio Manager und Administratoren können neue oder vorhandene Benutzer einladen, ein Studio-Konto zu erstellen.
+seo-description: Studio Manager und Administratoren können neue oder vorhandene Benutzer einladen, ein Studio-Konto zu erstellen.
 seo-title: Einen Benutzer zur Erstellung eines Studio-Kontos einladen
 solution: Experience Manager
 title: Einen Benutzer zur Erstellung eines Studio-Kontos einladen
@@ -29,6 +27,6 @@ Der technische Kundenbetreuer von Livefyre für Ihr Netzwerk sendet die erste St
 
 1. Klicken Sie auf der **[!UICONTROL Users]** Seite auf **[!UICONTROL Invite to Studio.]**
 1. Wählen Sie aus dem **[!UICONTROL Invite user]** daraufhin geöffneten Dialogfeld **[!UICONTROL Existing User]** oder **[!UICONTROL New User]**.
-1. Wenn Sie einen vorhandenen Benutzer einladen möchten, geben Sie einen **[!UICONTROL Username]**oder **[!UICONTROL User ID]**in **[!UICONTROL Email Address]** die angegebenen Felder ein. Geben Sie an **[!UICONTROL Email address]**, um einen neuen Benutzer einzuladen.
+1. Wenn Sie einen vorhandenen Benutzer einladen möchten, geben Sie einen **[!UICONTROL Username]** oder **[!UICONTROL User ID]** in **[!UICONTROL Email Address]** die angegebenen Felder ein. Geben Sie an **[!UICONTROL Email address]**, um einen neuen Benutzer einzuladen.
 1. Klicken **[!UICONTROL Add message]** Sie auf, um bei Bedarf eine personalisierte Einladung einzugeben.
 1. Wählen Sie die Zugriffsebene für das neue Konto aus und klicken Sie auf, **[!UICONTROL Invite]** um die Einladung zu erstellen.

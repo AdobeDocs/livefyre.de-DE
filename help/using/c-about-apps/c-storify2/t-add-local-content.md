@@ -15,7 +15,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Mit Storify können Sie Inhalte an jeder Position Ihrer Story hinzufügen.
 
-Verwenden Sie den Inhaltsbereich des Editors, um Ihre Entwürfe anzuzeigen und Inhaltselemente zu finden, um Ihrer Geschichte Kontext hinzuzufügen. Verwenden Sie die Registerkarte "Editor" , um einen Storyline zu erstellen, Kontext zu Ihren Textelementen hinzuzufügen und einen Kommentar für die Seite zu erstellen.
+Verwenden Sie den Inhaltsbereich des Editors, um Ihre Entwürfe anzuzeigen und Inhaltselemente zu finden, um Ihrer Geschichte Kontext hinzuzufügen. Verwenden Sie die Registerkarte &quot;Editor&quot; , um einen Storyline zu erstellen, Kontext zu Ihren Textelementen hinzuzufügen und einen Kommentar für die Seite zu erstellen.
 
 Inhaltselemente können bearbeitet oder positioniert werden. Text kann mithilfe von Standardformatierungsoptionen wie fett, kursiv, unterstrichen und durchgestrichen formatiert werden.
 

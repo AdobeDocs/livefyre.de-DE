@@ -30,7 +30,7 @@ Um Instagram-Regeln zu erstellen, um Inhalte aus Instagram-Feeds in Ihre App ode
 
    * Eingeben **[!UICONTROL hashtags]** oder aus Ihrem Instagram-Stream ausschließen. Durch die Angabe von Werten für **[!UICONTROL Contains]** beide **[!UICONTROL Does not contain]** Felder werden Bilder zurückgegeben, die das erste enthalten und die zweite nicht enthalten.
 
-   * Wenn Sie z. B. **[!UICONTROL Contains]** Suchbegriffe "Giants" ," Posey" und **[!UICONTROL Does not contain]** "Suchbegriff Dodger" eingeben, werden alle Beiträge zurückgegeben, die die Wort" Giants" oder "Posey" enthalten und nicht den Wort" Dodger" enthalten.
+   * Wenn Sie z. B. **[!UICONTROL Contains]** Suchbegriffe &quot;Giants&quot; ,&quot; Posey&quot; und **[!UICONTROL Does not contain]** &quot;Suchbegriff Dodger&quot; eingeben, werden alle Beiträge zurückgegeben, die die Wort&quot; Giants&quot; oder &quot;Posey&quot; enthalten und nicht den Wort&quot; Dodger&quot; enthalten.
 
       >[!NOTE]
       >
@@ -52,6 +52,6 @@ Um Instagram-Regeln zu erstellen, um Inhalte aus Instagram-Feeds in Ihre App ode
 
 * **[!UICONTROL Additional Filters]**
 
-   * Wählen Sie aus, ob Sie möchten **[!UICONTROL All Content]**, **[!UICONTROL Videos Only]**oder **[!UICONTROL Photos Only]** in Ihrem Stream.
+   * Wählen Sie aus, ob Sie möchten **[!UICONTROL All Content]**, **[!UICONTROL Videos Only]** oder **[!UICONTROL Photos Only]** in Ihrem Stream.
 
 Weitere Stream-Regeloptionen für alle Stream-Regeln finden Sie unter [Stream-Regeloptionen für alle Stream-Regeln](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).

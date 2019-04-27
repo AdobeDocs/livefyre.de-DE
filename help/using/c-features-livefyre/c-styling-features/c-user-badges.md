@@ -1,8 +1,6 @@
 ---
-description: Verwenden Sie CSS mit Benutzertags, um Benutzerzeichen für Mitglieder
-  Ihrer Community zu erstellen.
-seo-description: Verwenden Sie CSS mit Benutzertags, um Benutzerzeichen für Mitglieder
-  Ihrer Community zu erstellen.
+description: Verwenden Sie CSS mit Benutzertags, um Benutzerzeichen für Mitglieder Ihrer Community zu erstellen.
+seo-description: Verwenden Sie CSS mit Benutzertags, um Benutzerzeichen für Mitglieder Ihrer Community zu erstellen.
 seo-title: Benutzerzeichen
 title: Benutzerzeichen
 uuid: ff 1451 e 1-7 eb 3-45 dc -8 c 5 a -1 a 6 d 1313 e 344

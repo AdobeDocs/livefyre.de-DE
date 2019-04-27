@@ -1,8 +1,6 @@
 ---
-description: Definieren Sie die Quellen, aus denen Benutzer Medien veröffentlichen
-  können, und diejenigen, aus denen Medienbeiträge verboten werden.
-seo-description: Definieren Sie die Quellen, aus denen Benutzer Medien veröffentlichen
-  können, und diejenigen, aus denen Medienbeiträge verboten werden.
+description: Definieren Sie die Quellen, aus denen Benutzer Medien veröffentlichen können, und diejenigen, aus denen Medienbeiträge verboten werden.
+seo-description: Definieren Sie die Quellen, aus denen Benutzer Medien veröffentlichen können, und diejenigen, aus denen Medienbeiträge verboten werden.
 seo-title: Eingebettete Medien verwalten
 title: Eingebettete Medien verwalten
 uuid: d 8621 be 1-dcfb -429 f -954 e-b 21 fdcf 2715
@@ -20,7 +18,7 @@ Standardmäßig können alle Medienanlagen in Kommentare eingebettet werden. Ein
 
 Livefyre verwendet eingebettete. ly- und standardmäßige oembed-Protokolle, um Medien in App-Streams einzubetten, und übergeben alle Mediendaten, die von der Quelle bereitgestellt werden.
 
-" Eingebettet. ly" durchläuft alle verfügbaren Informationen, einschließlich Titel, Beschreibung, Miniaturansicht und Einbettungscode des Mediums für jede beliebige URL. Die Verfügbarkeit dieser Elemente variiert je nach Anbieter. Beispiel: Facebook gibt keine Miniaturansichten für seine Videos zurück und übergibt nur ein einbettbares Video. Durch Klicken auf "Abspielen" wird das Video gestartet (ähnlich wie das Anzeigeformat von youtube). Twitter übergibt nur statische Bilder und sendet keine Videos. Aus diesem Grund werden native Twitter-Videos in einem Livefyre-Stream möglicherweise nicht wiedergegeben.
+&quot; Eingebettet. ly&quot; durchläuft alle verfügbaren Informationen, einschließlich Titel, Beschreibung, Miniaturansicht und Einbettungscode des Mediums für jede beliebige URL. Die Verfügbarkeit dieser Elemente variiert je nach Anbieter. Beispiel: Facebook gibt keine Miniaturansichten für seine Videos zurück und übergibt nur ein einbettbares Video. Durch Klicken auf &quot;Abspielen&quot; wird das Video gestartet (ähnlich wie das Anzeigeformat von youtube). Twitter übergibt nur statische Bilder und sendet keine Videos. Aus diesem Grund werden native Twitter-Videos in einem Livefyre-Stream möglicherweise nicht wiedergegeben.
 
 Sie können verhindern, dass bestimmte Anhänge in Kommentare eingebettet werden, wenn Sie den Kommentarstream einbetten. Sie können auch alle ausgeblendeten. ly-Erweiterungen im Netzwerk, auf der Site- und Unterhaltungsebene mit Studio ausblenden und nur Links zu den Medien, nicht vollständig eingebettete Medien anzeigen.
 

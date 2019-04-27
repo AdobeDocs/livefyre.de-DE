@@ -1,8 +1,6 @@
 ---
-description: Livefyre bietet Funktionen in Apps, mit denen Sie auswählen können, wie
-  Site-Besucher App-Inhalte anzeigen.
-seo-description: Livefyre bietet Funktionen in Apps, mit denen Sie auswählen können,
-  wie Site-Besucher App-Inhalte anzeigen.
+description: Livefyre bietet Funktionen in Apps, mit denen Sie auswählen können, wie Site-Besucher App-Inhalte anzeigen.
+seo-description: Livefyre bietet Funktionen in Apps, mit denen Sie auswählen können, wie Site-Besucher App-Inhalte anzeigen.
 seo-title: Funktionen des Inhaltsverhaltens
 solution: Experience Manager
 title: Funktionen des Inhaltsverhaltens
@@ -35,7 +33,7 @@ Apps, die diese Funktion verwenden:
 
 ## Paginierung {#section_mb5_lzl_d1b}
 
-Die Anzahl der Inhaltselemente, die in der App angezeigt werden sollen. Bei einigen Apps können Sie festlegen, ob die Schaltfläche "Mehr anzeigen" oder ein kontinuierlicher Bildlauf durch den Inhalt zulässig ist.
+Die Anzahl der Inhaltselemente, die in der App angezeigt werden sollen. Bei einigen Apps können Sie festlegen, ob die Schaltfläche &quot;Mehr anzeigen&quot; oder ein kontinuierlicher Bildlauf durch den Inhalt zulässig ist.
 
 Apps, die diese Funktion verwenden:
 
@@ -62,7 +60,7 @@ Halten Sie Live-Streaming und Warteschlangen-Inhalte oben im Stream an, um die h
 
 Verwenden Sie Warteschlangen-Kommentare, um ein besseres Benutzererlebnis mit hoher Geschwindigkeit zu bieten. Diese Funktion wurde konzipiert, um sorgfältig zu lesen und nicht nur eine Echtzeit-Erfahrung von veröffentlichten Kommentaren zu bieten, sondern bietet neue Kommentare am oberen Rand des Streams und zeigt einen Zähler der Anzahl neuer Beiträge anstelle der Beiträge selbst an. Durch Klicken auf diese Zahl werden die ältesten 10 Kommentare in die Unterhaltungen weitergeleitet. Wenn Sie erneut auf klicken, wird die nächste 10. Wenn neue Antworten veröffentlicht werden, werden sie der Warteschlange hinzugefügt.
 
-Die Funktion "Warteschlangenkommentare" steht für Kommentare zur Verfügung und kann im Netzwerk, auf der Site oder in Unterhaltungen von der Registerkarte" Einstellungen" von Studio gesetzt werden.
+Die Funktion &quot;Warteschlangenkommentare&quot; steht für Kommentare zur Verfügung und kann im Netzwerk, auf der Site oder in Unterhaltungen von der Registerkarte&quot; Einstellungen&quot; von Studio gesetzt werden.
 
 Apps, die diese Funktion verwenden:
 
@@ -73,11 +71,11 @@ Apps, die diese Funktion verwenden:
 
 Einschränken Sie Inhalte mithilfe intelligenter Regeln, um hohe Geschwindigkeit zu steuern.
 
-Verwenden Sie "Inhalt einschränken" , um hohe Geschwindigkeit zu steuern, wenn die Echtzeit-Charakteristik des Inhalts wichtig ist. Wenn diese Option aktiviert ist, werden beim Einschränken von Inhalten hohe Geschwindigkeitsstreams gedrosselt und nur Inhalte angezeigt, die das System als "intelligent" betrachtet. »
+Verwenden Sie &quot;Inhalt einschränken&quot; , um hohe Geschwindigkeit zu steuern, wenn die Echtzeit-Charakteristik des Inhalts wichtig ist. Wenn diese Option aktiviert ist, werden beim Einschränken von Inhalten hohe Geschwindigkeitsstreams gedrosselt und nur Inhalte angezeigt, die das System als &quot;intelligent&quot; betrachtet. »
 
 Wenn diese Funktion aktiviert ist:
 
-* Benutzer sehen ihren eigenen Inhaltsstream auf der Seite, da dieser Benutzer als "intelligente Inhalte" für diesen Benutzer gilt.
+* Benutzer sehen ihren eigenen Inhaltsstream auf der Seite, da dieser Benutzer als &quot;intelligente Inhalte&quot; für diesen Benutzer gilt.
 * Benutzer können beim Laden oder Aktualisieren der Seite alle vorherigen Inhalte anzeigen.
 * Moderatoren bieten keinen gedrosselten Stream; sie sehen den gesamten Inhaltsstream in.
 * Da Moderator-generierte Inhalte als intelligent gekennzeichnet sind, wird sie immer in die Sammlung für alle Benutzer übertragen.

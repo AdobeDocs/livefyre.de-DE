@@ -29,7 +29,7 @@ Die Profilseite enthält Informationen zum Benutzerkonto, einschließlich des Da
 
 Fügen Sie Benutzertags hinzu, um die Benutzer zu einer leichteren Suche nach getaggten Benutzern zu bewegen, und um die Inhalte von Benutzern mit Tags von anderer auf Ihrer Site zu unterscheiden.
 
-Weitere Informationen über die Verwendung von Benutzertags, um den Inhalt des Benutzers anders als andere Inhalte auf der Site zu gestalten, finden **[!UICONTROL App Customizations > Style User Group Content]**Sie unter.
+Weitere Informationen über die Verwendung von Benutzertags, um den Inhalt des Benutzers anders als andere Inhalte auf der Site zu gestalten, finden **[!UICONTROL App Customizations > Style User Group Content]** Sie unter.
 
 >[!NOTE]
 >
@@ -37,7 +37,7 @@ Weitere Informationen über die Verwendung von Benutzertags, um den Inhalt des B
 
 ## Status {#section_yhn_rtp_vz}
 
-Im Bereich "Status" werden alle mit dem Konto verknüpften Verbote oder Whitelists aufgelistet und Sie können das Konto jedem vorhandenen Netzwerk oder beliebigen Site-Verboten und Whitelists hinzufügen.
+Im Bereich &quot;Status&quot; werden alle mit dem Konto verknüpften Verbote oder Whitelists aufgelistet und Sie können das Konto jedem vorhandenen Netzwerk oder beliebigen Site-Verboten und Whitelists hinzufügen.
 
 ## Benutzer verbieten {#section_l5b_5gr_vdb}
 
@@ -45,7 +45,7 @@ Wenn ein Benutzer unsachgemäße oder Spam-Kommentare zu einem Artikel oder auf 
 
 Da ihr Inhalt jetzt Bozo ist, können Benutzer, die unbrauchbar sind, weiterhin unangemessene Inhalte posten, aber sie werden nicht mehr für den Rest der Community sichtbar sein.
 
-Weitere Informationen **[!UICONTROL Studio > App Content > Bozo Content]**finden Sie unter.
+Weitere Informationen **[!UICONTROL Studio > App Content > Bozo Content]** finden Sie unter.
 
 ## Benutzer mit positivem Whitelisting {#section_kr4_ptp_vz}
 

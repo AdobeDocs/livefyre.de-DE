@@ -1,7 +1,6 @@
 ---
 description: Präsentieren Sie die aktivsten Sammlungen auf Ihrer Site oder Ihrem Netzwerk.
-seo-description: Präsentieren Sie die aktivsten Sammlungen auf Ihrer Site oder Ihrem
-  Netzwerk.
+seo-description: Präsentieren Sie die aktivsten Sammlungen auf Ihrer Site oder Ihrem Netzwerk.
 seo-title: Trends
 solution: Experience Manager
 title: Trends

@@ -1,7 +1,6 @@
 ---
 description: Wählen Sie ausgewählte Inhalte in Ihre Livefyre-Apps oder in die Studio-Bibliothek.
-seo-description: Wählen Sie ausgewählte Inhalte in Ihre Livefyre-Apps oder in die
-  Studio-Bibliothek.
+seo-description: Wählen Sie ausgewählte Inhalte in Ihre Livefyre-Apps oder in die Studio-Bibliothek.
 seo-title: Streams
 solution: Experience Manager
 title: Streams
@@ -24,7 +23,7 @@ Mit Ordnerzielen definierte Streams speichern Inhalte als Assets in Ihrer Asset-
 
 Mehrere Streams können in ein einzelnes Ziel verschoben werden (Ordner oder App).
 
-Durch App-Ziele definierte Streams leiten Inhalte direkt an Ihre App weiter und stehen auf der Registerkarte "Veröffentlicht" in Ihrer Bibliothek zur Verfügung.
+Durch App-Ziele definierte Streams leiten Inhalte direkt an Ihre App weiter und stehen auf der Registerkarte &quot;Veröffentlicht&quot; in Ihrer Bibliothek zur Verfügung.
 
 Verwenden Sie die Streams-Oberfläche, um Regeln zu definieren, mit denen Studio ausgewählte Inhalte in Ihre Livefyre-Apps oder Asset-Bibliothek einfügen kann.
 

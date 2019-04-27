@@ -1,8 +1,6 @@
 ---
-description: Verwenden Sie die benutzerdefinierte HTML-Funktion von Livefyre, um Ihren
-  Kommentaren oder Live Blog-Apps Abstimmungen hinzuzufügen.
-seo-description: Verwenden Sie die benutzerdefinierte HTML-Funktion von Livefyre,
-  um Ihren Kommentaren oder Live Blog-Apps Abstimmungen hinzuzufügen.
+description: Verwenden Sie die benutzerdefinierte HTML-Funktion von Livefyre, um Ihren Kommentaren oder Live Blog-Apps Abstimmungen hinzuzufügen.
+seo-description: Verwenden Sie die benutzerdefinierte HTML-Funktion von Livefyre, um Ihren Kommentaren oder Live Blog-Apps Abstimmungen hinzuzufügen.
 seo-title: Hinzufügen einer Umfrage zu einer Kommentare oder Live-Blog-App
 solution: Experience Manager
 title: Hinzufügen einer Umfrage zu einer Kommentare oder Live-Blog-App
@@ -17,5 +15,5 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Verwenden Sie die benutzerdefinierte HTML-Funktion von Livefyre, um Ihren Kommentaren oder Live Blog-Apps Abstimmungen hinzuzufügen.
 
-1. Kopieren Sie den Einbettungscode für eine veröffentlichte Umfrage von der App Manager-Seite oder aus dem beim Klicken **[!UICONTROL Publish]**angezeigten Dialogfeld.
+1. Kopieren Sie den Einbettungscode für eine veröffentlichte Umfrage von der App Manager-Seite oder aus dem beim Klicken **[!UICONTROL Publish]** angezeigten Dialogfeld.
 1. Fügen Sie den Einbettungscode in das **[!UICONTROL Custom HTML]** Feld Ihrer Kommentare oder Live Blog-App ein.

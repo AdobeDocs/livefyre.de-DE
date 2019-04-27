@@ -1,8 +1,6 @@
 ---
-description: Mit der Bibliothek können Sie gespeicherte Inhalte hinzufügen, damit
-  Sie Ihre Assets auf Grundlage Ihrer Markenstrategie organisieren können.
-seo-description: Mit der Bibliothek können Sie gespeicherte Inhalte hinzufügen, damit
-  Sie Ihre Assets auf Grundlage Ihrer Markenstrategie organisieren können.
+description: Mit der Bibliothek können Sie gespeicherte Inhalte hinzufügen, damit Sie Ihre Assets auf Grundlage Ihrer Markenstrategie organisieren können.
+seo-description: Mit der Bibliothek können Sie gespeicherte Inhalte hinzufügen, damit Sie Ihre Assets auf Grundlage Ihrer Markenstrategie organisieren können.
 seo-title: Asset-Details anzeigen
 solution: Experience Manager
 title: Asset-Details anzeigen

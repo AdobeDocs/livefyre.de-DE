@@ -1,10 +1,6 @@
 ---
-description: Verwenden Sie das Feld "Suchen" oben auf der Seite, um nach Site-Besuchern
-  nach Anzeigename, Benutzer-ID, E-Email-Adresse oder dem Datum der Teilnahme an Ihrem
-  Livefyre-Netzwerk zu suchen.
-seo-description: Verwenden Sie das Feld "Suchen" oben auf der Seite, um nach Site-Besuchern
-  nach Anzeigename, Benutzer-ID, E-Email-Adresse oder dem Datum der Teilnahme an Ihrem
-  Livefyre-Netzwerk zu suchen.
+description: Verwenden Sie das Feld "Suchen" oben auf der Seite, um nach Site-Besuchern nach Anzeigename, Benutzer-ID, E-Email-Adresse oder dem Datum der Teilnahme an Ihrem Livefyre-Netzwerk zu suchen.
+seo-description: Verwenden Sie das Feld "Suchen" oben auf der Seite, um nach Site-Besuchern nach Anzeigename, Benutzer-ID, E-Email-Adresse oder dem Datum der Teilnahme an Ihrem Livefyre-Netzwerk zu suchen.
 seo-title: Benutzer suchen
 solution: Experience Manager
 title: Benutzer suchen
@@ -17,7 +13,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Benutzer suchen{#search-for-users}
 
-Verwenden Sie das Feld "Suchen" oben auf der Seite, um nach Site-Besuchern nach Anzeigename, Benutzer-ID, E-Email-Adresse oder dem Datum der Teilnahme an Ihrem Livefyre-Netzwerk zu suchen.
+Verwenden Sie das Feld &quot;Suchen&quot; oben auf der Seite, um nach Site-Besuchern nach Anzeigename, Benutzer-ID, E-Email-Adresse oder dem Datum der Teilnahme an Ihrem Livefyre-Netzwerk zu suchen.
 
 >[!NOTE]
 >

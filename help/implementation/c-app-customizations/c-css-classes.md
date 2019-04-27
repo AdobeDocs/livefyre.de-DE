@@ -62,8 +62,8 @@ fyre.conv.load(networkConfig, [{
 | Klasse | Beschreibung |
 |---|---|
 | . fyre-stream-sort | Die gesamte Sortieroption div. |
-| . fyre-stream-sort-neueste | Die Option "Neuestes" . |
-| . fyrestream stream-sort-älteste | Die Option "Älteste" . |
+| . fyre-stream-sort-neueste | Die Option &quot;Neuestes&quot; . |
+| . fyrestream stream-sort-älteste | Die Option &quot;Älteste&quot; . |
 | . fyre-stream-sort-bar | Die Trennzeichenleiste zwischen den Optionen. |
 | . fyre-stream-sort-selected | Die derzeit ausgewählte Sortieroption. |
 
@@ -77,7 +77,7 @@ HTML-Struktur:
 </div>
 ```
 
-Blenden Sie die|" Trennen der Sortierungsoptionen.
+Blenden Sie die|&quot; Trennen der Sortierungsoptionen.
 
 ```
 .fyre-stream-sort .fyre-stream-sort-bar { 
@@ -96,11 +96,11 @@ Blenden Sie die|" Trennen der Sortierungsoptionen.
 | . fyre@-@ moderator | Der Begrenzungsrahmen des Moderators. |
 | . fyre-comment | Begrenzungsrahmen um den Kommentartext/Link herum. |
 | . fyre-comment-article | Der Begrenzungsrahmen für den gesamten Kommentar-Inhalt. |
-| . fyre-comment-date | Das Tag, das mit dem Element "Zeit seit Veröffentlichung" verknüpft ist. |
+| . fyre-comment-date | Das Tag, das mit dem Element &quot;Zeit seit Veröffentlichung&quot; verknüpft ist. |
 | . fyre-comment-media | Der Begrenzungsrahmen um den Medieninhalt. |
 | . fyre-comment-actions | Der Begrenzungsrahmen um die verfügbaren Aktionen, um einen Kommentar zu übernehmen. |
-| . fyre-comment-like | Der Begrenzungsrahmen um den "Gefällt mir" -Hyperlink. |
-| . fyre-comment-reply | Der Begrenzungsrahmen um den Link "Antwort" . |
+| . fyre-comment-like | Der Begrenzungsrahmen um den &quot;Gefällt mir&quot; -Hyperlink. |
+| . fyre-comment-reply | Der Begrenzungsrahmen um den Link &quot;Antwort&quot; . |
 
 ## CSS für hervorgehobene Kommentare {#section_m2v_mrh_xz}
 
@@ -125,8 +125,8 @@ Blenden Sie die|" Trennen der Sortierungsoptionen.
 
 | Klasse | Beschreibung |
 |---|---|
-| . fyre-archive-stream-title | Der Text "Aus dem Archiv" . |
-| . fyre@-@ archive-stream-title-icon | Das Logo für den Header "Archivieren" . |
+| . fyre-archive-stream-title | Der Text &quot;Aus dem Archiv&quot; . |
+| . fyre@-@ archive-stream-title-icon | Das Logo für den Header &quot;Archivieren&quot; . |
 
 ## Kommentar-Benachrichtigungs-CSS {#section_dy4_krh_xz}
 

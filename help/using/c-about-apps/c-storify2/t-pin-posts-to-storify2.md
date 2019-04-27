@@ -1,8 +1,6 @@
 ---
-description: Veröffentlichen Sie einen Beitrag, um die Aufmerksamkeit auf bestimmte
-  Inhalte zu lenken, wenn Sie zum ersten Mal auf einer Seite mit Storify 2 landen.
-seo-description: Veröffentlichen Sie einen Beitrag, um die Aufmerksamkeit auf bestimmte
-  Inhalte zu lenken, wenn Sie zum ersten Mal auf einer Seite mit Storify 2 landen.
+description: Veröffentlichen Sie einen Beitrag, um die Aufmerksamkeit auf bestimmte Inhalte zu lenken, wenn Sie zum ersten Mal auf einer Seite mit Storify 2 landen.
+seo-description: Veröffentlichen Sie einen Beitrag, um die Aufmerksamkeit auf bestimmte Inhalte zu lenken, wenn Sie zum ersten Mal auf einer Seite mit Storify 2 landen.
 seo-title: Veröffentlichen eines Beitrags an Storify 2
 solution: Experience Manager
 title: Veröffentlichen eines Beitrags an Storify 2

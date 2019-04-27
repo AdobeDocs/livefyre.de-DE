@@ -1,7 +1,6 @@
 ---
 description: Veröffentlichen gespeicherter Assets in Ihren Livefyre-Apps aus der Bibliothek.
-seo-description: Veröffentlichen gespeicherter Assets in Ihren Livefyre-Apps aus der
-  Bibliothek.
+seo-description: Veröffentlichen gespeicherter Assets in Ihren Livefyre-Apps aus der Bibliothek.
 seo-title: Assets in Apps veröffentlichen
 solution: Experience Manager
 title: Assets in Apps veröffentlichen
@@ -16,7 +15,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Veröffentlichen gespeicherter Assets in Ihren Livefyre-Apps aus der Bibliothek.
 
-Sie können einzelne oder mehrere Elemente aus der Registerkarte "Social-Suche" und aus Ihrer Asset-Bibliothek veröffentlichen. Durch Klicken **[!UICONTROL Publish]** wird das Element direkt an die ausgewählte App verschoben und nicht aus der Bibliothek entfernt.
+Sie können einzelne oder mehrere Elemente aus der Registerkarte &quot;Social-Suche&quot; und aus Ihrer Asset-Bibliothek veröffentlichen. Durch Klicken **[!UICONTROL Publish]** wird das Element direkt an die ausgewählte App verschoben und nicht aus der Bibliothek entfernt.
 
 >[!NOTE]
 >
@@ -24,6 +23,6 @@ Sie können einzelne oder mehrere Elemente aus der Registerkarte "Social-Suche" 
 
 1. Suchen Sie in Ihrer Bibliothek nach Assets.
 1. Wählen Sie die Assets aus, die Sie auf Ihrer Site veröffentlichen möchten.
-1. Klicken **[!UICONTROL Publish]**Sie auf.
+1. Klicken **[!UICONTROL Publish]** Sie auf.
 
    Das **[!UICONTROL Publish to App]** Dialogfeld wird geöffnet. Wählen Sie die App aus, auf der die ausgewählten Assets veröffentlicht werden sollen.

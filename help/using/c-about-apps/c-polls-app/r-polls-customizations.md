@@ -47,7 +47,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 * **[!UICONTROL Show poll results]**
 
-   Sofern aktiviert, können die Viewer die Umfrage-Ergebnisse sehen. Wenn sie deaktiviert sind, sehen die Wähler nach Abschluss der Umfrage nur den Bildschirm "Vielen Dank" .
+   Sofern aktiviert, können die Viewer die Umfrage-Ergebnisse sehen. Wenn sie deaktiviert sind, sehen die Wähler nach Abschluss der Umfrage nur den Bildschirm &quot;Vielen Dank&quot; .
 
 * **[!UICONTROL Disclaimer]***optional*
 
@@ -55,7 +55,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Abstimmungen können mithilfe von:
 
-* **[!UICONTROL Style]** und **[!UICONTROL Config]** Optionen für alle Apps im **[!UICONTROL App Designer]**. Weitere Informationen zum Standard **[!UICONTROL Style]** und den **[!UICONTROL Config]** Optionen für alle Apps im **[!UICONTROL App Designer]**Abschnitt finden Sie unter Anpassen von Apps.
+* **[!UICONTROL Style]** und **[!UICONTROL Config]** Optionen für alle Apps im **[!UICONTROL App Designer]**. Weitere Informationen zum Standard **[!UICONTROL Style]** und den **[!UICONTROL Config]** Optionen für alle Apps im **[!UICONTROL App Designer]** Abschnitt finden Sie unter Anpassen von Apps.
 
 * Integrationswerkzeuge. Weitere Informationen zum Anpassen von Apps mit Integrationswerkzeugen finden Sie unter Umfragen.
 

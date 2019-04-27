@@ -1,8 +1,6 @@
 ---
-description: Die Core-Livefyre-Bibliothek, die für den Betrieb von Livefyre auf Ihrer
-  Site verwendet wird.
-seo-description: Die Core-Livefyre-Bibliothek, die für den Betrieb von Livefyre auf
-  Ihrer Site verwendet wird.
+description: Die Core-Livefyre-Bibliothek, die für den Betrieb von Livefyre auf Ihrer Site verwendet wird.
+seo-description: Die Core-Livefyre-Bibliothek, die für den Betrieb von Livefyre auf Ihrer Site verwendet wird.
 seo-title: Livefyre. js
 solution: Experience Manager
 title: Livefyre. js

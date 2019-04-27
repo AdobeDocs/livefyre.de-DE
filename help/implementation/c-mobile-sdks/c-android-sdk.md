@@ -23,7 +23,7 @@ Dieses Livefyre Android SDK kann sowohl in Eclipse als auch in Android Studio ve
 
 >[!NOTE]
 >
->Vor der Installation des Livefyre Android SDK muss das [Android SDK](https://developer.android.com/sdk/index.html) in Ihrer Umgebung installiert sein. Sie müssen auch einige weitere Android SDK-Pakete einbeziehen, wie in den Android Developer docs > beschrieben.
+>Vor der Installation des Livefyre Android SDK muss das [Android SDK](https://developer.android.com/sdk/index.html) in Ihrer Umgebung installiert sein. Sie müssen auch einige weitere Android SDK-Pakete einbeziehen, wie in den Android Developer docs &gt; beschrieben.
 >[SDK-Pakete hinzufügen](https://developer.android.com/sdk/installing/adding-packages.html)
 
 Verwenden Sie den Android SDK Manager (verfügbar über die Android Studio oder Eclipse-Symbolleiste), um alle empfohlenen Pakete zu installieren. Stellen Sie sicher, dass Sie auch das Android-Support-Repository einschließen.
@@ -34,7 +34,7 @@ So fügen Sie dem Projekt in Eclipse das Livefyre Android SDK hinzu:
 
 1. Besorgen Sie sich das neueste [streamhub-Android-SDK](https://github.com/Livefyre/StreamHub-Android-SDK) von github.
 1. Beginnen Sie mit einem vorhandenen Projekt oder erstellen Sie eine neue.
-1. Gehen **[!UICONTROL File > Import > General > Existing Project into Workspace]**Sie zum Import von streamhub-Android-SDK in Ihren Arbeitsbereich.
+1. Gehen **[!UICONTROL File > Import > General > Existing Project into Workspace]** Sie zum Import von streamhub-Android-SDK in Ihren Arbeitsbereich.
 1. Suchen Sie das streamhub-Android-SDK und wählen Sie es aus. Sie sollte nun im Paket-Explorer angezeigt werden.
 1. Klicken Sie mit der rechten Maustaste auf Ihr Projekt und wählen **[!UICONTROL Properties,]** Sie dann die Android-Registerkarte.
 1. Wählen Sie im Abschnitt Bibliothek die **[!UICONTROL Add button,]** Option streamhub-Android-SDK aus der Liste der Bibliotheken aus.
@@ -46,21 +46,21 @@ So fügen Sie dem Projekt das Livefyre Android SDK in Android Studio hinzu:
 
 1. Besorgen Sie sich das neueste [streamhub-Android-SDK](https://github.com/Livefyre/StreamHub-Android-SDK) von github.
 1. Beginnen Sie mit einem vorhandenen Projekt oder erstellen Sie eine neue.
-1. Klicken Sie mit der rechten Maustaste auf Ihr Projekt und wählen **[!UICONTROL Open Module Settings]**Sie.
+1. Klicken Sie mit der rechten Maustaste auf Ihr Projekt und wählen **[!UICONTROL Open Module Settings]** Sie.
 1. Wählen Sie die **[!UICONTROL +]** Schaltfläche in der oberen linken Ecke des Fensters aus.
 1. Auswählen **[!UICONTROL Import Existing Project.]** (in der neuen Version von Android Studio finden Sie **[!UICONTROL Import Existing Project]** unter **[!UICONTROL More Modules]**.)
 
 1. Suchen Sie das streamhub-Android-SDK und wählen Sie es aus.
 
-Android Studio kann anfordern, dass Sie das SDK in eine Gradationsversion konvertieren. Wenn dies eintritt, wählen **[!UICONTROL next]****[!UICONTROL finish]**Sie dann.
+Android Studio kann anfordern, dass Sie das SDK in eine Gradationsversion konvertieren. Wenn dies eintritt, wählen **[!UICONTROL next]****[!UICONTROL finish]** Sie dann.
 
-Wechseln Sie zu **Projektordner > App-Ordner > build. gradle** file unter Abhängigkeiten, um die folgende Abhängigkeit hinzuzufügen:
+Wechseln Sie zu **Projektordner &gt; App-Ordner &gt; build. gradle** file unter Abhängigkeiten, um die folgende Abhängigkeit hinzuzufügen:
 
 ```
 dependencies {   compile project(':streamHubAndroidSDK') } 
 ```
 
-Stellen Sie sicher, dass sich die folgende Zeile in Ihrer **Projektordner > settings. gradle** -Datei befindet:
+Stellen Sie sicher, dass sich die folgende Zeile in Ihrer **Projektordner &gt; settings. gradle** -Datei befindet:
 
 ```
 include ':streamHubAndroidSDK' 

@@ -1,8 +1,6 @@
 ---
-description: Sie können das Datum und das Uhrzeitstempelformat entsprechend Ihren
-  Anforderungen ändern.
-seo-description: Sie können das Datum und das Uhrzeitstempelformat entsprechend Ihren
-  Anforderungen ändern.
+description: Sie können das Datum und das Uhrzeitstempelformat entsprechend Ihren Anforderungen ändern.
+seo-description: Sie können das Datum und das Uhrzeitstempelformat entsprechend Ihren Anforderungen ändern.
 seo-title: Datum und Zeitstempel
 title: Datum und Zeitstempel
 uuid: 3022059 f-cfdc -4 e 13-aa 3 d -7537875 ef ef 331

@@ -29,8 +29,8 @@ Die Probleme in den folgenden Tabellen wurden in dieser Version behoben.
 |---|---|---|
 | Bug | App-Inhalt | Es wurde ein Problem behoben, durch das Administratoren und Inhaltsmanager Inhalte in App Content nicht bearbeiten konnten. |
 | Verbesserung | Apps | Social Networks haben Datenschutzänderungen vorgenommen, die bedeuten, dass Social-Erwähnungen für Facebook oder Twitter nicht mehr unterstützt werden. |
-| Verbesserung | Apps | Die Datenschutzänderungen wurden in sozialen Netzwerken vorgenommen. Die Funktion "Post To" , die Inhalte automatisch an soziale Netzwerke (Facebook, linkedin, Twitter) sendet, wurde entfernt. |
-| Verbesserung | GDPR | Der Umschalter für den Detailmodus wurde aus der Detaildetailseite unter Einstellungen > Datenschutz entfernt. Auf den Umschalter für den Detailmodus kann noch zugegriffen werden, indem Sie /dbg am Ende der URL hinzufügen. |
+| Verbesserung | Apps | Die Datenschutzänderungen wurden in sozialen Netzwerken vorgenommen. Die Funktion &quot;Post To&quot; , die Inhalte automatisch an soziale Netzwerke (Facebook, linkedin, Twitter) sendet, wurde entfernt. |
+| Verbesserung | GDPR | Der Umschalter für den Detailmodus wurde aus der Detaildetailseite unter Einstellungen &gt; Datenschutz entfernt. Auf den Umschalter für den Detailmodus kann noch zugegriffen werden, indem Sie /dbg am Ende der URL hinzufügen. |
 | Bug | Integration: AEM | Es wurde ein Problem behoben, durch das durch Ziehen und Ablegen von Livefyre-Apps in AEM mehrere Apps erstellt wurden. |
 | Bug | Bibliothek | Es wurde ein Problem behoben, durch das ein Asset nicht ordnungsgemäß in der Bibliothek gespeichert wurde. |
 | Bug | Livefyre-Identität | Es wurde ein Problem mit LF-Identität behoben, das bei der Anmeldung 403 Fehler verursachte. |
@@ -50,9 +50,9 @@ Die Probleme in den folgenden Tabellen wurden in der UAT-Version behoben.
 | Bug | Bibliothek | Ein Problem wurde behoben, bei dem eine Karte mit Berechtigungen manuell den falschen Berechtigungsstatus anzeigte. |
 | Bug | Bibliothek | Es wurde ein Problem behoben, durch das ein Asset nicht in einem Ordner gespeichert werden konnte. |
 | Bug | Bibliothek/Suche | Es wurde die Fähigkeit wiederhergestellt, urls aus Instagram in Social Search zu suchen. |
-| Bug | Modq | Es wurde ein Problem behoben, durch das das Menü "Mehr Info" in modq nicht angezeigt wurde. |
+| Bug | Modq | Es wurde ein Problem behoben, durch das das Menü &quot;Mehr Info&quot; in modq nicht angezeigt wurde. |
 | Bug | Rights Management | Es wurde ein Problem behoben, bei dem die Sortierung in modq an einer festen Position erfolgen sollte, wenn die Seite durchblättert wurde. |
 | Bug | Streams | Es wurde ein Problem beim Anzeigen von Streams in der Staging-Umgebung behoben. |
 | Verbesserung | Streams | Es wurde ein Secure For Work (SFW) und Nicht sicher für Work (NSFW) zu Streams hinzugefügt. |
-| Verbesserung | Studio | Intelligente Tag-Funktion wurde zu Inhalten hinzugefügt, die über filestack in die Livefyre Studio Library hochgeladen wurden (Funktionalität "Hochladen" in allen Assets). |
+| Verbesserung | Studio | Intelligente Tag-Funktion wurde zu Inhalten hinzugefügt, die über filestack in die Livefyre Studio Library hochgeladen wurden (Funktionalität &quot;Hochladen&quot; in allen Assets). |
 

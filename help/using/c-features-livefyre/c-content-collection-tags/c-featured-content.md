@@ -1,8 +1,6 @@
 ---
-description: Markieren Sie Ihren Benutzern wichtige Inhalte, indem Sie CSS für benutzerdefinierte
-  Inhalte verwenden.
-seo-description: Markieren Sie Ihren Benutzern wichtige Inhalte, indem Sie CSS für
-  benutzerdefinierte Inhalte verwenden.
+description: Markieren Sie Ihren Benutzern wichtige Inhalte, indem Sie CSS für benutzerdefinierte Inhalte verwenden.
+seo-description: Markieren Sie Ihren Benutzern wichtige Inhalte, indem Sie CSS für benutzerdefinierte Inhalte verwenden.
 seo-title: Dargebotenen Inhalt
 solution: Experience Manager
 title: Dargebotenen Inhalt
@@ -17,7 +15,7 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 Markieren Sie Ihren Benutzern wichtige Inhalte, indem Sie CSS für benutzerdefinierte Inhalte verwenden.
 
-Alle Inhalte in einer Sammlung können von Ihren Netzwerksite-Eigentümern oder Moderatoren als "empfohlen" gekennzeichnet werden, um wichtige Inhalte hervorzuheben und Antworten von anderen Benutzern zu fördern. Sobald ein Inhaltselement hervorgehoben wurde, wird ein **[!UICONTROL Featured]** Tag in der App angezeigt, sodass Benutzer Inhalte leicht identifizieren können, die Inhaber und Moderatoren hervorgehoben haben.
+Alle Inhalte in einer Sammlung können von Ihren Netzwerksite-Eigentümern oder Moderatoren als &quot;empfohlen&quot; gekennzeichnet werden, um wichtige Inhalte hervorzuheben und Antworten von anderen Benutzern zu fördern. Sobald ein Inhaltselement hervorgehoben wurde, wird ein **[!UICONTROL Featured]** Tag in der App angezeigt, sodass Benutzer Inhalte leicht identifizieren können, die Inhaber und Moderatoren hervorgehoben haben.
 
 In den Kommentaren:
 

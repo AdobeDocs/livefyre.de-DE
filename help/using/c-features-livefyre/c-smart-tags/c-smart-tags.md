@@ -1,6 +1,6 @@
 ---
-description: null
-seo-description: null
+description: 'null '
+seo-description: 'null '
 seo-title: Smart Tags
 title: Smart Tags
 uuid: f 978 fa 83-e 79 b -46 ae-bb 3 e -0 f 9449 bd 0440

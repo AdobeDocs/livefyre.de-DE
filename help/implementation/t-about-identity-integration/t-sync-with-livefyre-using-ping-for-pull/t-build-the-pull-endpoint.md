@@ -1,8 +1,6 @@
 ---
-description: Erstellen Sie den Pull-Endpunkt, um die Anforderungen für den Zugriff
-  auf Ihr Benutzeridentitätssystem zu erhalten und zu beantworten.
-seo-description: Erstellen Sie den Pull-Endpunkt, um die Anforderungen für den Zugriff
-  auf Ihr Benutzeridentitätssystem zu erhalten und zu beantworten.
+description: Erstellen Sie den Pull-Endpunkt, um die Anforderungen für den Zugriff auf Ihr Benutzeridentitätssystem zu erhalten und zu beantworten.
+seo-description: Erstellen Sie den Pull-Endpunkt, um die Anforderungen für den Zugriff auf Ihr Benutzeridentitätssystem zu erhalten und zu beantworten.
 seo-title: Erstellen des Pull-Endpunkts
 solution: Experience Manager
 title: Erstellen des Pull-Endpunkts

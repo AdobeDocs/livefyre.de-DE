@@ -1,8 +1,6 @@
 ---
-description: Laden Sie Bilder in einen Live-Blog, einen Chat, einen Review oder einen
-  Kommentarstream hoch.
-seo-description: Laden Sie Bilder in einen Live-Blog, einen Chat, einen Review oder
-  einen Kommentarstream hoch.
+description: Laden Sie Bilder in einen Live-Blog, einen Chat, einen Review oder einen Kommentarstream hoch.
+seo-description: Laden Sie Bilder in einen Live-Blog, einen Chat, einen Review oder einen Kommentarstream hoch.
 seo-title: Foto-Upload
 solution: Experience Manager
 title: Foto-Upload
@@ -21,7 +19,7 @@ Fotos können von der mobilen Fotobibliothek, Computerfestplatte oder Social-Net
 
 Mit den Einstellungen für eine Sammlung oder Site können Sie festlegen, ob Benutzer Fotos in eine App hochladen können. Diese Option kann auf Netzwerk-, Site- oder Sammlungsebene aktiviert werden. Inhaber und Moderatoren können immer Fotos in eine beliebige App hochladen.
 
-Diese Funktion zum Hochladen von Fotos kann zusammen mit der Einstellung "Premoderation Medien" verwendet werden.
+Diese Funktion zum Hochladen von Fotos kann zusammen mit der Einstellung &quot;Premoderation Medien&quot; verwendet werden.
 
 Apps, die diese Funktion verwenden:
 

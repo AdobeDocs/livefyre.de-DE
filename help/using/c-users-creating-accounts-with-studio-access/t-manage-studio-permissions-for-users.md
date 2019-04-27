@@ -1,8 +1,6 @@
 ---
-description: Ändern Sie die Berechtigung verschiedener Benutzer, einschließlich Administratoren,
-  Moderatoren und Site-Besuchern.
-seo-description: Ändern Sie die Berechtigung verschiedener Benutzer, einschließlich
-  Administratoren, Moderatoren und Site-Besuchern.
+description: Ändern Sie die Berechtigung verschiedener Benutzer, einschließlich Administratoren, Moderatoren und Site-Besuchern.
+seo-description: Ändern Sie die Berechtigung verschiedener Benutzer, einschließlich Administratoren, Moderatoren und Site-Besuchern.
 seo-title: Studio-Berechtigungen für Benutzer verwalten
 solution: Experience Manager
 title: Studio-Berechtigungen für Benutzer verwalten

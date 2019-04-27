@@ -29,4 +29,4 @@ source-git-commit: 9246343b64915af07feb8952060c1e3af5aada56
 * Es wurde ein Problem behoben, bei dem unter bestimmten Umständen in der Medienwall ein nicht definiertes HTML-Tag angezeigt wurde.
 * Es wurde ein Problem behoben, durch das in einigen Fällen die Instagram Social-Suche die Meldung Video/Bild nicht gefunden falsch angezeigt hat.
 * Es wurde ein Problem behoben, durch das Instagram- und Facebook-Alben in Media Walls und Mosaiken mehrmals dasselbe Bild anzeigten.
-Es wurde ein Problem behoben, durch das nicht vorhandene Konten in der Dropdown-Liste "Rechte anfordern" angezeigt wurden.
+Es wurde ein Problem behoben, durch das nicht vorhandene Konten in der Dropdown-Liste &quot;Rechte anfordern&quot; angezeigt wurden.

@@ -1,8 +1,6 @@
 ---
-description: Tags, die automatisch von der Sensionsgesteuerten Software-Erkennungssoftware
-  zu Bildern hinzugefügt wurden, werden angezeigt.
-seo-description: Tags, die automatisch von der Sensionsgesteuerten Software-Erkennungssoftware
-  zu Bildern hinzugefügt wurden, werden angezeigt.
+description: Tags, die automatisch von der Sensionsgesteuerten Software-Erkennungssoftware zu Bildern hinzugefügt wurden, werden angezeigt.
+seo-description: Tags, die automatisch von der Sensionsgesteuerten Software-Erkennungssoftware zu Bildern hinzugefügt wurden, werden angezeigt.
 seo-title: Smart-Tags anzeigen
 title: Smart-Tags anzeigen
 uuid: 787 c 7 d 66-2 c 88-4 c 4 c-b 687-cf 2390 bcf 233

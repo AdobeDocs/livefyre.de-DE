@@ -1,8 +1,6 @@
 ---
-description: Erfahren Sie, wie der benutzergenerierte Inhalt, der durch das Livefyre-System
-  fließt, überwacht und gespeichert wird.
-seo-description: Erfahren Sie, wie der benutzergenerierte Inhalt, der durch das Livefyre-System
-  fließt, überwacht und gespeichert wird.
+description: Erfahren Sie, wie der benutzergenerierte Inhalt, der durch das Livefyre-System fließt, überwacht und gespeichert wird.
+seo-description: Erfahren Sie, wie der benutzergenerierte Inhalt, der durch das Livefyre-System fließt, überwacht und gespeichert wird.
 seo-title: Aktivitäts-Stream
 solution: Experience Manager
 title: Aktivitäts-Stream
@@ -21,7 +19,7 @@ Verwenden Sie die Activity Stream-API, um benutzergenerierte Daten zu nutzen, di
 
 Aktivitäts-Stream-API:
 
-Eine vollständige Liste der verfügbaren Endpunkte finden Sie im Abschnitt "Livefyre-API-Referenz" .
+Eine vollständige Liste der verfügbaren Endpunkte finden Sie im Abschnitt &quot;Livefyre-API-Referenz&quot; .
 
 ## Ressourcen {#section_aql_n4l_b1b}
 
@@ -43,7 +41,7 @@ GET https://bootstrap.livefyre.com/api/v3.1/activity/
 
 * **resource:***String* A URN des Objekts, für das Sie Aktivitätsdaten anfordern.
 
-* **seit:***Integer* A 64-Bit Integer, der die ID des zuletzt empfangenen Ereignisses darstellt. Geben Sie "0" an, wenn keine vorherigen Daten vorliegen.
+* **seit:***Integer* A 64-Bit Integer, der die ID des zuletzt empfangenen Ereignisses darstellt. Geben Sie &quot;0&quot; an, wenn keine vorherigen Daten vorliegen.
 
 ## URN-Zeichenfolgen {#section_skl_q4l_b1b}
 
@@ -70,7 +68,7 @@ Zu den Schritten zum Erstellen eines oauth Bearer Token gehören:
 
 * Erstellen Sie eine Zuordnung/ein Wörterbuch, das den Aussteller, die Zielgruppe, den Betreff, den Ablauf und den Scope enthält.
 * Verwenden Sie die JWT-Bibliothek mit Ihrem geheimen Schlüssel, um ein JWT-Token zu kodieren.
-* " Authentifizierung: " Bearer" zu Ihrer HTTP-Anforderung.
+* &quot; Authentifizierung: &quot; Bearer&quot; zu Ihrer HTTP-Anforderung.
 
 Das folgende Codebeispiel zeigt die oben beschriebenen Schritte in Python:
 
@@ -101,7 +99,7 @@ Dabei sind die Platzhalter-Token-Schlüssel wie folgt definiert:
 * **aud** *(Zielgruppe)* Die Person, für die dieses Token generiert wurde. Wenn Sie das Token selbst erstellen, ist es die Site oder das Netzwerk.
 * **sub** *(Betreff)* Der Betreff, für den Berechtigungen gewährt werden sollen. Wenn Sie beispielsweise an einer Sammlung arbeiten, muss der Betreff der Bezeichner für die Sammlung sein. (In der Notiz ist dies ein Beispiel für Sie.)
 * **exp** *(Ablauf)* Ein Zeitpunkt, an dem das Token nicht mehr gültig ist.
-* **scope** *(Scope)* Dies ist eine Liste der auf dem Betreff gewährten Berechtigungen. " Late for School" ist ein Beispiel. Der Name einer API ist ein weiteres Beispiel.
+* **scope** *(Scope)* Dies ist eine Liste der auf dem Betreff gewährten Berechtigungen. &quot; Late for School&quot; ist ein Beispiel. Der Name einer API ist ein weiteres Beispiel.
 
 ## Beispiel {#section_dhl_ytj_11b}
 

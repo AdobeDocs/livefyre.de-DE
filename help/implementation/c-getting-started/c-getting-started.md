@@ -1,10 +1,6 @@
 ---
-description: Hier erfahren Sie, wie Sie eine voll funktionsfähige Livefyre-App erstellen.
-  Erstellen Sie diese App, um die einfache Authentifizierung, die Weitergabe über
-  soziale Netzwerke und die Ereignisverfolgung zu verarbeiten.
-seo-description: Hier erfahren Sie, wie Sie eine voll funktionsfähige Livefyre-App
-  erstellen. Erstellen Sie diese App, um die einfache Authentifizierung, die Weitergabe
-  über soziale Netzwerke und die Ereignisverfolgung zu verarbeiten.
+description: Hier erfahren Sie, wie Sie eine voll funktionsfähige Livefyre-App erstellen. Erstellen Sie diese App, um die einfache Authentifizierung, die Weitergabe über soziale Netzwerke und die Ereignisverfolgung zu verarbeiten.
+seo-description: Hier erfahren Sie, wie Sie eine voll funktionsfähige Livefyre-App erstellen. Erstellen Sie diese App, um die einfache Authentifizierung, die Weitergabe über soziale Netzwerke und die Ereignisverfolgung zu verarbeiten.
 seo-title: Erste Schritte mit Livefyre-Integration
 solution: Experience Manager
 title: Erste Schritte mit Livefyre-Integration

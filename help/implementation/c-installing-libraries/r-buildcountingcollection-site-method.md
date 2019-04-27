@@ -1,10 +1,6 @@
 ---
-description: Gibt ein Collection-Objekt zurück, das als Zähltyp instanziiert wird.
-  Führen Sie create_ or_ update () aus dem Collection-Objekt aus, um den Build-Prozess
-  abzuschließen.
-seo-description: Gibt ein Collection-Objekt zurück, das als Zähltyp instanziiert wird.
-  Führen Sie create_ or_ update () aus dem Collection-Objekt aus, um den Build-Prozess
-  abzuschließen.
+description: Gibt ein Collection-Objekt zurück, das als Zähltyp instanziiert wird. Führen Sie create_ or_ update () aus dem Collection-Objekt aus, um den Build-Prozess abzuschließen.
+seo-description: Gibt ein Collection-Objekt zurück, das als Zähltyp instanziiert wird. Führen Sie create_ or_ update () aus dem Collection-Objekt aus, um den Build-Prozess abzuschließen.
 seo-title: Buildcountingcollection-Site-Methode
 title: Buildcountingcollection-Site-Methode
 uuid: e 293 d 66 a -0025-4230-997 e -295 ce 4625713

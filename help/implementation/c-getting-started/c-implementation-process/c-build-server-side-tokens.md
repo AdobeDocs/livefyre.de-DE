@@ -27,7 +27,7 @@ Hier erfahren Sie, wie Sie ein Token zur Authentifizierung von Benutzern erstell
 
 ## Benutzerauthentifizierungstoken {#section_l5l_hwt_bbb}
 
-In diesem Abschnitt wird beschrieben, wie Sie das JSON-Objekt "userauth" generieren, das das Token für die Benutzerauthentifizierung erstellt, das zum Protokollieren von Benutzern in Ihren Apps erforderlich ist.
+In diesem Abschnitt wird beschrieben, wie Sie das JSON-Objekt &quot;userauth&quot; generieren, das das Token für die Benutzerauthentifizierung erstellt, das zum Protokollieren von Benutzern in Ihren Apps erforderlich ist.
 
 Um das Token zu erstellen, verwenden Sie die bevorzugte Sprachbibliothek, um die folgenden Parameter zu übermitteln:
 

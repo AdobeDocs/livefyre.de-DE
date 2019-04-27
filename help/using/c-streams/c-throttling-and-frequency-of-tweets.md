@@ -1,8 +1,6 @@
 ---
-description: Nicht jeder Tweet, der mit einer Regel übereinstimmt, wird in einem Stream
-  angezeigt.
-seo-description: Nicht jeder Tweet, der mit einer Regel übereinstimmt, wird in einem
-  Stream angezeigt.
+description: Nicht jeder Tweet, der mit einer Regel übereinstimmt, wird in einem Stream angezeigt.
+seo-description: Nicht jeder Tweet, der mit einer Regel übereinstimmt, wird in einem Stream angezeigt.
 seo-title: Einschränken und Frequenz von Tweets
 solution: Experience Manager
 title: Einschränken und Frequenz von Tweets
@@ -21,7 +19,7 @@ Einschränkungen von Twitter-Regeln und Twitter-Feeds können die Anzahl der Twe
 
 >[!NOTE]
 >
->Um sicherzustellen, dass bestimmte Tweets in Ihren Stream aufgenommen werden, verwenden Sie die Option "Asset hochladen" auf der Seite" Alle Assets" .
+>Um sicherzustellen, dass bestimmte Tweets in Ihren Stream aufgenommen werden, verwenden Sie die Option &quot;Asset hochladen&quot; auf der Seite&quot; Alle Assets&quot; .
 
 * Twitter-Regeln drosseln Inhalte und ziehen 1 Tweets pro Regel alle 5 Sekunden. Dadurch können Inhalte, die in Livefyre-Apps angezeigt werden, ausgewogener sein und nicht mit Tweets überfordert werden. Wenn Sie eingehende Tweets auf diese Weise einschränken, wird auch verhindert, dass der Stream während hohem Traffic-Zeitraum überschwemmt oder unlesbar wird.
 

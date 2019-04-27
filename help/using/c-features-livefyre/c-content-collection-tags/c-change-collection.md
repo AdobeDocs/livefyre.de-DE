@@ -1,8 +1,6 @@
 ---
-description: Erlauben Sie Benutzern, durch Sammlungen aus einem einzelnen Seitenlayout
-  und einer URL zu klicken.
-seo-description: Erlauben Sie Benutzern, durch Sammlungen aus einem einzelnen Seitenlayout
-  und einer URL zu klicken.
+description: Erlauben Sie Benutzern, durch Sammlungen aus einem einzelnen Seitenlayout und einer URL zu klicken.
+seo-description: Erlauben Sie Benutzern, durch Sammlungen aus einem einzelnen Seitenlayout und einer URL zu klicken.
 seo-title: Sammlung ändern
 solution: Experience Manager
 title: Sammlung ändern

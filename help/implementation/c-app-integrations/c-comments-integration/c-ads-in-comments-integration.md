@@ -19,7 +19,7 @@ Fügen Sie Anzeigen in Ihren Kommentarstream ein.
 
 Fügen Sie Anzeigen in Ihren Kommentarstream ein.
 
-Mit der Funktion "Livefyre-Anzeigen in Kommentaren" können Sie Anzeigen in Ihren Kommentarstream einfügen, die Häufigkeit festlegen, mit der die Anzeigen im Stream erscheinen, und sowohl synchrone als auch asynchrone Injizierungsupperten erstellen.
+Mit der Funktion &quot;Livefyre-Anzeigen in Kommentaren&quot; können Sie Anzeigen in Ihren Kommentarstream einfügen, die Häufigkeit festlegen, mit der die Anzeigen im Stream erscheinen, und sowohl synchrone als auch asynchrone Injizierungsupperten erstellen.
 
 Livefyre stellt mithilfe Ihres Anzeigenverwaltungsanbieters den Container bereit, über den Sie eine Anzeige einbringen können.
 
@@ -64,7 +64,7 @@ Für das Anzeigenobjekt:
 
 * **delay:****(optional) Ganzzahl** : Legt die Anzahl der Kommentare fest, nach denen die erste Anzeige angezeigt wird. Der Standardwert ist 10.
 * **frequency: (optional) Integer** : Legt die Anzahl der Kommentare fest, nach denen jede nachfolgende Anzeige angezeigt wird. Beispiel: Geben Sie 2 ein, um eine Anzeige als jeden dritten Kommentar anzuzeigen. Der Standardwert ist 10.
-* **delegate:*****erforderliche* Funktion** - Die Funktion, die aufgerufen wird, um Anzeigen in den Kommentarstream einzufügen.
+* **delegate:*****erforderliche*Funktion** - Die Funktion, die aufgerufen wird, um Anzeigen in den Kommentarstream einzufügen.
 
 Das Delegationsobjekt unterstützt sowohl synchrone als auch asynchrone Anzeigenaufrufe. Der Parameter, der der Stellvertreterfunktion, Daten zugewiesen wird, enthält Folgendes:
 
@@ -75,18 +75,18 @@ Das Delegationsobjekt unterstützt sowohl synchrone als auch asynchrone Anzeigen
 * **Networkid:****string** - Die Netzwerk-ID für die Sammlung.
 * **Siteid:****int** - Die Site-ID für die Sammlung.
 
-Diese Elemente werden über das Kontextconfig-Objekt in unserem Beispiel weitergegeben und im [Abschnitt "Erste Schritte"](/help/implementation/c-app-integrations/c-comments-integration/c-comments-integration.md#section_656AAC97903F485084650269A6C7EBCE) detailliert erläutert.
+Diese Elemente werden über das Kontextconfig-Objekt in unserem Beispiel weitergegeben und im [Abschnitt &quot;Erste Schritte&quot;](/help/implementation/c-app-integrations/c-comments-integration/c-comments-integration.md#section_656AAC97903F485084650269A6C7EBCE) detailliert erläutert.
 
 ### Synchron
 
 Der Delegate gibt ein Objekt zurück, das Folgendes enthält:
 
-* **Element:*****required* DOM-Element** : Das Element, das die in die App einzufügende Anzeige enthält.
+* **Element:*****required*DOM-Element** : Das Element, das die in die App einzufügende Anzeige enthält.
 
 **Asynchron**: Der Delegate gibt ein Objekt zurück, das Folgendes enthält: Der Delegate gibt ein Objekt zurück, das zwei Eigenschaften enthält: Element und Rückruf:
 
-* **Element:*****required* DOM-Element** : Das Element, das die in die App einzufügende Anzeige enthält.
-* **callback:*****erforderliche* Funktion** : Der Rückruf, der die Einfügung der Anzeige in das oben aufgeführte DOM-Element behandelt.
+* **Element:*****required*DOM-Element** : Das Element, das die in die App einzufügende Anzeige enthält.
+* **callback:*****erforderliche*Funktion** : Der Rückruf, der die Einfügung der Anzeige in das oben aufgeführte DOM-Element behandelt.
 
 Für das `Conv` Objekt können Sie eine Zeichenfolge übergeben, um den Titel für den Anzeigenabschnitt anzugeben:
 

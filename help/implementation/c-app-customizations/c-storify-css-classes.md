@@ -41,7 +41,7 @@ Hiermit können Sie den Kopfzeilenabschnitt für die Meldungsseite anpassen.
 | . super-header | Hauptkopfzeile |
 | . outer-header | Hauptkopfzeile 1 |
 | . s-countdown | Haupttimer für Kopfzeile 1 Countdown |
-| . s-liness | Hauptkopfzeile 1 "Live « |
+| . s-liness | Hauptkopfzeile 1 &quot;Live « |
 | . base-header | Hauptkopfzeile 2 |
 | . s-dropdown | Haupt-Kopfzeile 2 Sortierungs-Dropdown-Auslöser. |
 | . s-dropdown-menu | Haupt-Kopfzeile 2 Sortiermenü. |
@@ -91,5 +91,5 @@ Hiermit können Sie den Fußzeilenabschnitt für jeden einzelnen Beitrag anpasse
 | **Klasse** | **Beschreibung** |
 |---|---|
 | . s-post-footer | Die Fußzeile des Beitrags. |
-| . s-sidenotes a | Die Schaltfläche "Sidenotes" in der Fußzeile des Beitrags. |
-| . s-like | Die Schaltfläche "Gefällt mir" in der Fußzeile des Beitrags. |
+| . s-sidenotes a | Die Schaltfläche &quot;Sidenotes&quot; in der Fußzeile des Beitrags. |
+| . s-like | Die Schaltfläche &quot;Gefällt mir&quot; in der Fußzeile des Beitrags. |

@@ -1,8 +1,6 @@
 ---
-description: Um die Daten in der Sammlung zu aktualisieren, ändern Sie den Inhalt
-  der Methoden der Collection-Klasse.
-seo-description: Um die Daten in der Sammlung zu aktualisieren, ändern Sie den Inhalt
-  der Methoden der Collection-Klasse.
+description: Um die Daten in der Sammlung zu aktualisieren, ändern Sie den Inhalt der Methoden der Collection-Klasse.
+seo-description: Um die Daten in der Sammlung zu aktualisieren, ändern Sie den Inhalt der Methoden der Collection-Klasse.
 seo-title: Sammlungsklassenmethoden
 solution: Experience Manager
 title: Sammlungsklassenmethoden

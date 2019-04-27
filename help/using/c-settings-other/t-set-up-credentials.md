@@ -1,6 +1,6 @@
 ---
-description: null
-seo-description: null
+description: 'null '
+seo-description: 'null '
 seo-title: Berechtigungen einrichten
 solution: Experience Manager
 title: Berechtigungen einrichten
@@ -14,7 +14,7 @@ source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 # Berechtigungen einrichten{#set-up-credentials}
 
 **Anmeldeinformationen** Im Berechtigungsbedienfeld werden Ihr Livefyre-Netzwerk und Ihre Site-Anmeldeinformationen angezeigt. Diese Felder werden während des Integrationsprozesses von Livefyre ausgefüllt und stehen hier zur Verfügung. Neue Sites, die über Studio hinzugefügt werden, werden ebenfalls auf dieser Seite angezeigt. Diese Werte sind schreibgeschützt.
-**Netzwerkanmeldeinformationen****:** Ihr Netzwerkschlüssel dient **nur** zur Generierung von userauth-Token und wird nicht für andere API-Aufrufe verwendet. Beim Erstellen von collectionmeta-Token wird der Site-Schlüssel verwendet. Weitere Informationen finden Sie unter [Entwickler > Erste Schritte > Erstellen eines Benutzerauthentifizierungstokens](https://answers.livefyre.com/developers/getting-started/tokens/auth/).
+**Netzwerkanmeldeinformationen****:** Ihr Netzwerkschlüssel dient **nur** zur Generierung von userauth-Token und wird nicht für andere API-Aufrufe verwendet. Beim Erstellen von collectionmeta-Token wird der Site-Schlüssel verwendet. Weitere Informationen finden Sie unter [Entwickler &gt; Erste Schritte &gt; Erstellen eines Benutzerauthentifizierungstokens](https://answers.livefyre.com/developers/getting-started/tokens/auth/).
 
 * Netzwerkdomäne
 * Netzwerkschlüssel

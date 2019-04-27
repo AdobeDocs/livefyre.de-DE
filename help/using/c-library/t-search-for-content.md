@@ -1,8 +1,6 @@
 ---
-description: Verwenden Sie Social Search, um nach Instagram-Inhalten zu suchen, die
-  in Ihre Asset-Bibliothek aufgenommen oder in Apps veröffentlicht werden sollen.
-seo-description: Verwenden Sie Social Search, um nach Instagram-Inhalten zu suchen,
-  die in Ihre Asset-Bibliothek aufgenommen oder in Apps veröffentlicht werden sollen.
+description: Verwenden Sie Social Search, um nach Instagram-Inhalten zu suchen, die in Ihre Asset-Bibliothek aufgenommen oder in Apps veröffentlicht werden sollen.
+seo-description: Verwenden Sie Social Search, um nach Instagram-Inhalten zu suchen, die in Ihre Asset-Bibliothek aufgenommen oder in Apps veröffentlicht werden sollen.
 seo-title: Nach Instagram-Inhalt suchen
 solution: Experience Manager
 title: Nach Instagram-Inhalt suchen
@@ -26,7 +24,7 @@ Sie können Suchvorgänge speichern und wiederverwenden. Klicken Sie in der Such
 Wenn Sie der Bibliothek neue Assets hinzufügen, werden bereits in Ihrer Bibliothek enthaltene Assets mit einem Häkchen markiert.
 
 1. Konfigurieren Sie ein Instagram-Geschäftskonto.
-1. Navigieren Sie zu **[!UICONTROL Library]** > **[!UICONTROL Social Search]**.
+1. Navigieren Sie zu **[!UICONTROL Library]** &gt; **[!UICONTROL Social Search]**.
 1. Wählen **[!UICONTROL Instagram]** Sie diese Option, um Instagram-Inhalte zu suchen.
 1. Geben Sie Ihre Suchkriterien ein und klicken **[!UICONTROL Show Filter]** Sie auf, um die Suche zu verfeinern.
 
@@ -40,5 +38,5 @@ Wenn Sie der Bibliothek neue Assets hinzufügen, werden bereits in Ihrer Bibliot
 
    * **[!UICONTROL Recent Tags Search]**: Suchen Sie die neuesten Beiträge mit dem Hashtag.
 
->Elemente werden angezeigt, die Ihrer Suche entsprechen. Bewegen Sie den Mauszeiger über ein Element, **[!UICONTROL View Details]**fügen Sie es Ihrer Asset-Bibliothek oder **[!UICONTROL Publish]** einer App hinzu.
+>Elemente werden angezeigt, die Ihrer Suche entsprechen. Bewegen Sie den Mauszeiger über ein Element, **[!UICONTROL View Details]** fügen Sie es Ihrer Asset-Bibliothek oder **[!UICONTROL Publish]** einer App hinzu.
 

@@ -1,10 +1,6 @@
 ---
-description: Gibt ein Collection-Objekt zurück, das als "Sidenotes" -Typ instanziiert
-  wird. Führen Sie create_ or_ update () aus dem Collection-Objekt aus, um den Build-Prozess
-  abzuschließen.
-seo-description: Gibt ein Collection-Objekt zurück, das als "Sidenotes" -Typ instanziiert
-  wird. Führen Sie create_ or_ update () aus dem Collection-Objekt aus, um den Build-Prozess
-  abzuschließen.
+description: Gibt ein Collection-Objekt zurück, das als "Sidenotes" -Typ instanziiert wird. Führen Sie create_ or_ update () aus dem Collection-Objekt aus, um den Build-Prozess abzuschließen.
+seo-description: Gibt ein Collection-Objekt zurück, das als "Sidenotes" -Typ instanziiert wird. Führen Sie create_ or_ update () aus dem Collection-Objekt aus, um den Build-Prozess abzuschließen.
 seo-title: Buildsitenotescollection-Site-Methode
 solution: Experience Manager
 title: Buildsitenotescollection-Site-Methode
@@ -17,7 +13,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Buildsitenotescollection-Site-Methode{#buildsitenotescollection-site-method}
 
-Gibt ein Collection-Objekt zurück, das als "Sidenotes" -Typ instanziiert wird. Führen Sie create_ or_ update () aus dem Collection-Objekt aus, um den Build-Prozess abzuschließen.
+Gibt ein Collection-Objekt zurück, das als &quot;Sidenotes&quot; -Typ instanziiert wird. Führen Sie create_ or_ update () aus dem Collection-Objekt aus, um den Build-Prozess abzuschließen.
 
 | Variable | Typ | Beschreibung |
 |--- |--- |--- |

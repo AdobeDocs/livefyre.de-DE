@@ -1,7 +1,6 @@
 ---
 description: Passen Sie Kommentare an, um Echtzeitunterhaltungen auf Ihrer Site einzubetten.
-seo-description: Passen Sie Kommentare an, um Echtzeitunterhaltungen auf Ihrer Site
-  einzubetten.
+seo-description: Passen Sie Kommentare an, um Echtzeitunterhaltungen auf Ihrer Site einzubetten.
 seo-title: Kommentaranpassungen
 solution: Experience Manager
 title: Kommentaranpassungen
@@ -58,7 +57,7 @@ Verwenden Sie verfügbare Optionen, damit Ihre Benutzer Inhalte über Twitter, F
 
 * **[!UICONTROL Users may share posts]**
 
-   Wenn aktiviert, können Benutzer Beiträge freigeben. Wenn diese Option aktiviert ist, können Benutzer gepostete Inhalte für Twitter, Facebook oder linkedin freigeben. Weitere Informationen zur Aktivierung der Freigabe finden Sie unter Einstellungen > Integrationseinstellungen > Social Sharing.
+   Wenn aktiviert, können Benutzer Beiträge freigeben. Wenn diese Option aktiviert ist, können Benutzer gepostete Inhalte für Twitter, Facebook oder linkedin freigeben. Weitere Informationen zur Aktivierung der Freigabe finden Sie unter Einstellungen &gt; Integrationseinstellungen &gt; Social Sharing.
 
 * **[!UICONTROL Featured content at top of stream]**
 
@@ -74,7 +73,7 @@ Verwenden Sie verfügbare Optionen, damit Ihre Benutzer Inhalte über Twitter, F
 
 Sie können Kommentare mithilfe von:
 
-* **[!UICONTROL Style]** und **[!UICONTROL Config]** Optionen für alle Apps im **[!UICONTROL App Designer]**. Weitere Informationen zum Standard **[!UICONTROL Style]** und den **[!UICONTROL Config]** Optionen für alle Apps im **[!UICONTROL App Designer]**Abschnitt finden Sie unter Anpassen von Apps.
+* **[!UICONTROL Style]** und **[!UICONTROL Config]** Optionen für alle Apps im **[!UICONTROL App Designer]**. Weitere Informationen zum Standard **[!UICONTROL Style]** und den **[!UICONTROL Config]** Optionen für alle Apps im **[!UICONTROL App Designer]** Abschnitt finden Sie unter Anpassen von Apps.
 
 * **[!UICONTROL Integration tools]**. Weitere Informationen zum Anpassen von Kommentaren mit Integrationswerkzeugen finden Sie unter Kommentare.
 

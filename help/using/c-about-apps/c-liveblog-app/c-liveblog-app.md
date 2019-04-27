@@ -1,8 +1,6 @@
 ---
-description: Mit Live-Blog können Autoren und Redakteure Echtzeit-Updates veröffentlichen
-  und Ihre Site in eine ansprechende Live-Nachrichtenquelle umwandeln.
-seo-description: Mit Live-Blog können Autoren und Redakteure Echtzeit-Updates veröffentlichen
-  und Ihre Site in eine ansprechende Live-Nachrichtenquelle umwandeln.
+description: Mit Live-Blog können Autoren und Redakteure Echtzeit-Updates veröffentlichen und Ihre Site in eine ansprechende Live-Nachrichtenquelle umwandeln.
+seo-description: Mit Live-Blog können Autoren und Redakteure Echtzeit-Updates veröffentlichen und Ihre Site in eine ansprechende Live-Nachrichtenquelle umwandeln.
 seo-title: Live-Blog
 solution: Experience Manager
 title: Live-Blog

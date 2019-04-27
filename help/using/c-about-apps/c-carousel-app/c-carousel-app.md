@@ -1,8 +1,6 @@
 ---
-description: Präsentieren Sie Ihren besten Inhalt in einer horizontalen, durchlaufbaren
-  Ansicht.
-seo-description: Präsentieren Sie Ihren besten Inhalt in einer horizontalen, durchlaufbaren
-  Ansicht.
+description: Präsentieren Sie Ihren besten Inhalt in einer horizontalen, durchlaufbaren Ansicht.
+seo-description: Präsentieren Sie Ihren besten Inhalt in einer horizontalen, durchlaufbaren Ansicht.
 seo-title: Karussell
 solution: Experience Manager
 title: Karussell
@@ -51,11 +49,11 @@ Ein Site-Besucher sieht Inhalte, die in einem Karussell aus Studio aus einem Stu
 
 ## Wie viele Zeichen werden für jede Karte in Karussell angezeigt? {#section_qsx_xrt_wy}
 
-Ein Karussell berechnet die Anzahl der Zeichen, die je nach Bildschirmgröße oder Containergröße angezeigt werden sollen, dynamisch. Wenn es mehr Zeichen gibt, als das Karussell angezeigt werden kann, endet ein Auslassungszeichen ("…" ) den angezeigten Text.
+Ein Karussell berechnet die Anzahl der Zeichen, die je nach Bildschirmgröße oder Containergröße angezeigt werden sollen, dynamisch. Wenn es mehr Zeichen gibt, als das Karussell angezeigt werden kann, endet ein Auslassungszeichen (&quot;…&quot; ) den angezeigten Text.
 
 ## Wie sieht eine URL für eine Karte in einem Karussell aus? {#section_hnh_wrt_wy}
 
-Wenn eine URL vorhanden ist, wird die URL in einer Leiste hervorgehoben, wenn Sie auf den Inhalt klicken. Wenn mehrere Urls vorhanden sind, markiert die Karte nur eine URL. Alle zusätzlichen urls werden durch ein Auslassungszeichen ("…" ) abgeschnitten.
+Wenn eine URL vorhanden ist, wird die URL in einer Leiste hervorgehoben, wenn Sie auf den Inhalt klicken. Wenn mehrere Urls vorhanden sind, markiert die Karte nur eine URL. Alle zusätzlichen urls werden durch ein Auslassungszeichen (&quot;…&quot; ) abgeschnitten.
 
 ## Wie sieht ein Karussell auf verschiedenen Plattformen aus? {#section_hpc_5rt_wy}
 
@@ -79,7 +77,7 @@ Ein Site-Besucher kann:
 
 ## Wodurch wird Inhalt in einem Karussell angezeigt? {#section_tdp_cxm_wy}
 
-Inhalte mit einem "hervorgehobenen" Tag werden im Vordergrund angezeigt. Wenn Sie mehr als ein Inhaltselement verwenden, wird jedes Element in der Reihenfolge der App in der Reihenfolge des veröffentlichten Datums angezeigt.
+Inhalte mit einem &quot;hervorgehobenen&quot; Tag werden im Vordergrund angezeigt. Wenn Sie mehr als ein Inhaltselement verwenden, wird jedes Element in der Reihenfolge der App in der Reihenfolge des veröffentlichten Datums angezeigt.
 
 ## Was sollte ich darüber erfahren, wie ein Karussell auf einer Website aussieht? {#section_r3q_bxm_wy}
 
@@ -89,4 +87,4 @@ Umschließen: Ein Karussell bricht vom letzten Element zum ersten Element um. We
 
 ## Kann ich eine Upload-Schaltfläche zu einem Karussell hinzufügen? {#section_ozs_1xm_wy}
 
-Sie können einem Karussell eine Upload-Schaltfläche hinzufügen. Wenn Sie die Schaltfläche "Hochladen" auf der App veröffentlichen, während sich ein Site-Besucher auf der Seite befindet, muss der Site-Besucher die Seite aktualisieren, um den aktualisierten Inhalt anzuzeigen. Die Schaltfläche "Hochladen" wird in der App nach bis zu 5 Minuten angezeigt.
+Sie können einem Karussell eine Upload-Schaltfläche hinzufügen. Wenn Sie die Schaltfläche &quot;Hochladen&quot; auf der App veröffentlichen, während sich ein Site-Besucher auf der Seite befindet, muss der Site-Besucher die Seite aktualisieren, um den aktualisierten Inhalt anzuzeigen. Die Schaltfläche &quot;Hochladen&quot; wird in der App nach bis zu 5 Minuten angezeigt.

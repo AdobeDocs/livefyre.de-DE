@@ -1,8 +1,6 @@
 ---
-description: Informiert Livefyre, Benutzerinformationen aus einer zuvor festgelegten
-  Synchronisierungsurl abzurufen. Gibt einen Booleschen Wert zurück.
-seo-description: Informiert Livefyre, Benutzerinformationen aus einer zuvor festgelegten
-  Synchronisierungsurl abzurufen. Gibt einen Booleschen Wert zurück.
+description: Informiert Livefyre, Benutzerinformationen aus einer zuvor festgelegten Synchronisierungsurl abzurufen. Gibt einen Booleschen Wert zurück.
+seo-description: Informiert Livefyre, Benutzerinformationen aus einer zuvor festgelegten Synchronisierungsurl abzurufen. Gibt einen Booleschen Wert zurück.
 seo-title: Syncuser-Netzwerkmethode
 solution: Experience Manager
 title: Syncuser-Netzwerkmethode

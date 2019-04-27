@@ -33,5 +33,5 @@ Versionshinweise für die Version vom 3. August 2017.
 
 | **Ausgabentyp** | **Komponente** | **Versionshinweise** |
 |---|---|---|
-| Bug | Bibliothek | Fehler behoben, der verhinderte, dass der Inhalt der Schaltfläche "Mehr Info" in der Bibliothek angezeigt wurde. |
+| Bug | Bibliothek | Fehler behoben, der verhinderte, dass der Inhalt der Schaltfläche &quot;Mehr Info&quot; in der Bibliothek angezeigt wurde. |
 

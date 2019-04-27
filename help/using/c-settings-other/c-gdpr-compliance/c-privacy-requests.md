@@ -18,7 +18,7 @@ Löschen Sie alle Daten für einen Benutzer, erstellen Sie einen Bericht aller D
 
 Suchen und Suchen eines Benutzers und Erstellen eines Berichts mit ihrem Inhalt:
 
-1. Wechseln **[!UICONTROL Settings > Privacy]**Sie zu und klicken **[!UICONTROL Create Request]**Sie dann auf.
+1. Wechseln **[!UICONTROL Settings > Privacy]** Sie zu und klicken **[!UICONTROL Create Request]** Sie dann auf.
 
    ![](assets/privacypage1.png)
 
@@ -29,7 +29,7 @@ Suchen und Suchen eines Benutzers und Erstellen eines Berichts mit ihrem Inhalt:
 
       * **Zugriff**. Sammelt alle mit dem Konto verknüpften Daten. Sensible Details, z. B. Kennwörter oder soziale Berechtigungen, werden verschleiert oder ausgelassen.
 
-      * **Delete**. Celetes oder verschleiert alle mit dem Konto verknüpften Daten. **Wenn Sie diese Option wählen und auf "Senden" klicken, können Sie diese Aktion nicht rückgängig machen oder abbrechen sowie *gelöschte Daten wiederherstellen.*** Wenn das Konto einem Livefyre Studio-Benutzer angehört, bleiben einige Daten erhalten, um die Integrität Ihrer Geschäftsdatensätze aufrechtzuerhalten.
+      * **Delete**. Celetes oder verschleiert alle mit dem Konto verknüpften Daten. **Wenn Sie diese Option wählen und auf &quot;Senden&quot; klicken, können Sie diese Aktion nicht rückgängig machen oder abbrechen sowie*gelöschte Daten wiederherstellen.*** Wenn das Konto einem Livefyre Studio-Benutzer angehört, bleiben einige Daten erhalten, um die Integrität Ihrer Geschäftsdatensätze aufrechtzuerhalten.
 
          >[!IMPORTANT]
          >
@@ -64,7 +64,7 @@ Suchen und Suchen eines Benutzers und Erstellen eines Berichts mit ihrem Inhalt:
          * Zulässige Werte: 5-16 Numerische Zeichen
       * **[!UICONTROL Generic Author]**
 
-         * Identifiziert ein Konto durch eine Livefyre-Autor-ID (JID). Verwenden Sie diese Option für Inhalte, die über RSS, Tumblr oder urls bezogen werden. Um diese ID zu suchen, suchen Sie nach Inhalten, die dem Autor in der **App-Inhalts** - oder **Asset-Bibliothek**zugewiesen sind, und wählen Sie dann ein Element aus. Die ID ist unter ******"Info** «oder in der **Asset-Bibliothek** unter **" Autor** «im Abschnitt **"Details"** verfügbar.
+         * Identifiziert ein Konto durch eine Livefyre-Autor-ID (JID). Verwenden Sie diese Option für Inhalte, die über RSS, Tumblr oder urls bezogen werden. Um diese ID zu suchen, suchen Sie nach Inhalten, die dem Autor in der **App-Inhalts** - oder **Asset-Bibliothek** zugewiesen sind, und wählen Sie dann ein Element aus. Die ID ist unter ******&quot;Info** «oder in der **Asset-Bibliothek** unter **&quot; Autor** «im Abschnitt **&quot;Details&quot;** verfügbar.
 
          * Zulässige Werte: Alphanumerische Zeichenfolge bis zu 255 Zeichen
          ![](assets/privacypage3.png)
@@ -76,7 +76,7 @@ Suchen und Suchen eines Benutzers und Erstellen eines Berichts mit ihrem Inhalt:
 
 
 
-1. Klicken **[!UICONTROL Finish]**Sie auf.
+1. Klicken **[!UICONTROL Finish]** Sie auf.
 
    ![](assets/privacypage4.png)
 

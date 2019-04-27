@@ -1,10 +1,6 @@
 ---
-description: Livefyre bietet vier spezielle apis, mit denen Sie die 50 zuletzt hervorgehobenen
-  Elemente für das Eingabenetzwerk, die Site oder die Sammlung abrufen können, oder
-  die beiden Inhaltselemente oben in einer Eingabesammlung.
-seo-description: Livefyre bietet vier spezielle apis, mit denen Sie die 50 zuletzt
-  hervorgehobenen Elemente für das Eingabenetzwerk, die Site oder die Sammlung abrufen
-  können, oder die beiden Inhaltselemente oben in einer Eingabesammlung.
+description: Livefyre bietet vier spezielle apis, mit denen Sie die 50 zuletzt hervorgehobenen Elemente für das Eingabenetzwerk, die Site oder die Sammlung abrufen können, oder die beiden Inhaltselemente oben in einer Eingabesammlung.
+seo-description: Livefyre bietet vier spezielle apis, mit denen Sie die 50 zuletzt hervorgehobenen Elemente für das Eingabenetzwerk, die Site oder die Sammlung abrufen können, oder die beiden Inhaltselemente oben in einer Eingabesammlung.
 seo-title: Aggregierte Inhalte mit den speziellen apis
 solution: Experience Manager
 title: Aggregierte Inhalte mit den speziellen apis

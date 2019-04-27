@@ -1,8 +1,6 @@
 ---
-description: Benutzer und Site-Besucher mit Studio und Livefyre-Netzwerk hinzufügen
-  und verwalten.
-seo-description: Benutzer und Site-Besucher mit Studio und Livefyre-Netzwerk hinzufügen
-  und verwalten.
+description: Benutzer und Site-Besucher mit Studio und Livefyre-Netzwerk hinzufügen und verwalten.
+seo-description: Benutzer und Site-Besucher mit Studio und Livefyre-Netzwerk hinzufügen und verwalten.
 seo-title: Benutzer, die Studio- und Livefyre-Netzwerkbenutzer verwalten
 solution: Experience Manager
 title: Benutzer, die Studio- und Livefyre-Netzwerkbenutzer verwalten
@@ -17,4 +15,4 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Benutzer und Site-Besucher mit Studio und Livefyre-Netzwerk hinzufügen und verwalten.
 
-Die Seite "Benutzer von Studio" listet alle Benutzer in der Livefyre-Datenbank für Ihr Netzwerk auf, einschließlich der Endbenutzer, die ein Konto für die Interaktion mit Ihren Apps und Ihren autorisierten Studio-Benutzern erstellt haben. Auf dieser Seite können Sie Benutzerinformationen anzeigen, einschließlich Benutzernamen, E-Email-Adressen und Datumsangaben sowie die Verwaltung von Studio-Zugriff.
+Die Seite &quot;Benutzer von Studio&quot; listet alle Benutzer in der Livefyre-Datenbank für Ihr Netzwerk auf, einschließlich der Endbenutzer, die ein Konto für die Interaktion mit Ihren Apps und Ihren autorisierten Studio-Benutzern erstellt haben. Auf dieser Seite können Sie Benutzerinformationen anzeigen, einschließlich Benutzernamen, E-Email-Adressen und Datumsangaben sowie die Verwaltung von Studio-Zugriff.

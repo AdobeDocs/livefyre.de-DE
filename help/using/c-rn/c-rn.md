@@ -24,4 +24,4 @@ source-git-commit: 5fce2796795e855504cfbaf18328704484d89fa6
 
 ## Fehlerkorrekturen
 
-* Es wurde ein Problem behoben, durch das "Nicht definiert" Instagram-Beiträge in modq nicht entfernt werden konnten.
+* Es wurde ein Problem behoben, durch das &quot;Nicht definiert&quot; Instagram-Beiträge in modq nicht entfernt werden konnten.

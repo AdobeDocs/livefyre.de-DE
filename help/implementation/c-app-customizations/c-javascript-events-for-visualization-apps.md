@@ -1,8 +1,6 @@
 ---
-description: Die verfügbaren Ereignisse, an die Sie JavaScript für Visualisierungs-Apps
-  binden können (z. B. Media Wall).
-seo-description: Die verfügbaren Ereignisse, an die Sie JavaScript für Visualisierungs-Apps
-  binden können (z. B. Media Wall).
+description: Die verfügbaren Ereignisse, an die Sie JavaScript für Visualisierungs-Apps binden können (z. B. Media Wall).
+seo-description: Die verfügbaren Ereignisse, an die Sie JavaScript für Visualisierungs-Apps binden können (z. B. Media Wall).
 seo-title: Javascript-Ereignisse für Visualisierungsapps
 solution: Experience Manager
 title: Javascript-Ereignisse für Visualisierungsapps
@@ -17,7 +15,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Die verfügbaren Ereignisse, an die Sie JavaScript für Visualisierungs-Apps binden können (z. B. Media Wall).
 
-In der folgenden Tabelle werden die App-Ereignisse für Visualisierungs-Apps angezeigt. Ein X gibt an, dass das Ereignis für die App verfügbar ist. "N/A" bedeutet, dass das Ereignis nicht für die App gilt und keine Kennzeichnung bedeutet, dass das Ereignis für die App nicht verfügbar ist:
+In der folgenden Tabelle werden die App-Ereignisse für Visualisierungs-Apps angezeigt. Ein X gibt an, dass das Ereignis für die App verfügbar ist. &quot;N/A&quot; bedeutet, dass das Ereignis nicht für die App gilt und keine Kennzeichnung bedeutet, dass das Ereignis für die App nicht verfügbar ist:
 
 ## Visualisierungsapp-Ereignisse
 
@@ -29,11 +27,11 @@ In der folgenden Tabelle werden die App-Ereignisse für Visualisierungs-Apps ang
 | Beitrag |  | N/A | N/A | N/A | N/A |  | N/A |
 | Gepostet |  | N/A | N/A | N/A | N/A |  | N/A |
 | Twitter-Antwort | X | X |  | X | X | N/A | X |
-| Twitter "Gefällt mir « | X | X |  | X | X | N/A | X |
+| Twitter &quot;Gefällt mir « | X | X |  | X | X | N/A | X |
 | LF WIE | X |  | N/A | N/A | N/A | N/A | N/A |
 | LF-Unterschied | X |  | N/A | N/A | N/A | N/A | N/A |
 | Auf Beitrag teilen | N/A |  | N/A | N/A | N/A | N/A | N/A |
-| Schaltfläche "Teilen « | X | X |  | X | X | N/A | X |
+| Schaltfläche &quot;Teilen « | X | X |  | X | X | N/A | X |
 | Twitter freigeben | X | X |  | X | X | N/A | X |
 | Facebook freigeben | X | X |  | X | X | N/A | X |
 | Freigabe-URL | X | X |  | X | X | N/A | X |
@@ -47,7 +45,7 @@ In der folgenden Tabelle werden die App-Ereignisse für Visualisierungs-Apps ang
 | Requestmore | X | N/A | N/A | N/A | N/A | N/A | N/A |
 | Modalview | X | X |  | X | X | N/A | X |
 | Twitter Retweet | X |  |  | X | X | N/A | X |
-| Schaltfläche "Post-Schaltfläche « | X | N/A | N/A | N/A | N/A | X | N/A |
+| Schaltfläche &quot;Post-Schaltfläche « | X | N/A | N/A | N/A | N/A | X | N/A |
 | Kommentar-Anzahl aktualisiert | N/A |  | N/A | N/A | N/A | N/A | N/A |
 | Benutzer angemeldet |  |  | N/A | N/A | N/A |  | N/A |
 | Benutzer abgemeldet |  |  | N/A | N/A | N/A |  | N/A |

@@ -1,8 +1,6 @@
 ---
-description: Wählen Sie die Konfigurationsoptionen "Style" ," Display" und "User Engagement"
-  für" Storify 2" aus Livefyre Studio.
-seo-description: Wählen Sie die Konfigurationsoptionen "Style" ," Display" und "User
-  Engagement" für" Storify 2" aus Livefyre Studio.
+description: Wählen Sie die Konfigurationsoptionen "Style" ," Display" und "User Engagement" für" Storify 2" aus Livefyre Studio.
+seo-description: Wählen Sie die Konfigurationsoptionen "Style" ," Display" und "User Engagement" für" Storify 2" aus Livefyre Studio.
 seo-title: Konfigurationsoptionen
 solution: Experience Manager
 title: Konfigurationsoptionen
@@ -15,13 +13,13 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Konfigurationsoptionen{#configuration-options}
 
-Wählen Sie die Konfigurationsoptionen "Style" ," Display" und "User Engagement" für" Storify 2" aus Livefyre Studio.
+Wählen Sie die Konfigurationsoptionen &quot;Style&quot; ,&quot; Display&quot; und &quot;User Engagement&quot; für&quot; Storify 2&quot; aus Livefyre Studio.
 
 **Stiloptionen**
 
 * **[!UICONTROL Theme]**
 
-   Wählen **Sie "Hell** «oder **" Dunkel** " , um die Hintergrundfarbe für den angezeigten Inhalt zu definieren. Änderungen an dieser Einstellung werden sofort in der Vorschau auf der rechten Seite angezeigt. Diese Einstellung steuert Hintergrund, Inhaltstext, Benutzerhandle, Zeitstempel, Freigabeschaltfläche und Social-Symbolauswahl für die App.
+   Wählen **Sie &quot;Hell** «oder **&quot; Dunkel** &quot; , um die Hintergrundfarbe für den angezeigten Inhalt zu definieren. Änderungen an dieser Einstellung werden sofort in der Vorschau auf der rechten Seite angezeigt. Diese Einstellung steuert Hintergrund, Inhaltstext, Benutzerhandle, Zeitstempel, Freigabeschaltfläche und Social-Symbolauswahl für die App.
 
 * **[!UICONTROL Brand color]**
 
@@ -63,13 +61,13 @@ Wählen Sie die Konfigurationsoptionen "Style" ," Display" und "User Engagement"
 
 * **[!UICONTROL Load more posts]**
 
-   Wählen Sie aus, ob Beiträge fortlaufend angezeigt werden, wenn ein Benutzer nach unten blättert oder wenn die Schaltfläche "Mehr anzeigen" angezeigt wird.
+   Wählen Sie aus, ob Beiträge fortlaufend angezeigt werden, wenn ein Benutzer nach unten blättert oder wenn die Schaltfläche &quot;Mehr anzeigen&quot; angezeigt wird.
 
 **[!UICONTROL User Engagement]**
 
 * **[!UICONTROL Users may share posts]**
 
-   Wenn diese Option aktiviert ist, können Benutzer Ihre Geschichte auf Twitter oder Facebook teilen. Weitere Informationen zur Aktivierung der Freigabe finden Sie unter Einstellungen > Integrationseinstellungen > Social Sharing.
+   Wenn diese Option aktiviert ist, können Benutzer Ihre Geschichte auf Twitter oder Facebook teilen. Weitere Informationen zur Aktivierung der Freigabe finden Sie unter Einstellungen &gt; Integrationseinstellungen &gt; Social Sharing.
 
 * **[!UICONTROL Users may add sidenotes]**
 

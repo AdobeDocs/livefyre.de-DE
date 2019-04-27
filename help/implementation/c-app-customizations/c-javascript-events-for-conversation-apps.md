@@ -1,8 +1,6 @@
 ---
-description: Die verfügbaren Ereignisse, an die Sie JavaScript für Konversations-Apps
-  binden können (z. B. Kommentare, Chat, Live-Blog, Bewertungen und Anmerkungen).
-seo-description: Die verfügbaren Ereignisse, an die Sie JavaScript für Konversations-Apps
-  binden können (z. B. Kommentare, Chat, Live-Blog, Bewertungen und Anmerkungen).
+description: Die verfügbaren Ereignisse, an die Sie JavaScript für Konversations-Apps binden können (z. B. Kommentare, Chat, Live-Blog, Bewertungen und Anmerkungen).
+seo-description: Die verfügbaren Ereignisse, an die Sie JavaScript für Konversations-Apps binden können (z. B. Kommentare, Chat, Live-Blog, Bewertungen und Anmerkungen).
 seo-title: Javascript-Ereignisse für Unterhaltungsapps
 solution: Experience Manager
 title: Javascript-Ereignisse für Unterhaltungsapps
@@ -19,7 +17,7 @@ Die verfügbaren Ereignisse, an die Sie JavaScript für Konversations-Apps binde
 
 ## Konversationen und Ereignismatrix {#section_y4j_x4m_ybb}
 
-Im Folgenden finden Sie eine Matrix der Ereignisse, die für Unterhaltungen verfügbar sind. Ein X gibt an, dass das Ereignis für die App verfügbar ist. "N/A" bedeutet, dass das Ereignis nicht für die App gilt und keine Kennzeichnung bedeutet, dass das Ereignis für die App nicht verfügbar ist:
+Im Folgenden finden Sie eine Matrix der Ereignisse, die für Unterhaltungen verfügbar sind. Ein X gibt an, dass das Ereignis für die App verfügbar ist. &quot;N/A&quot; bedeutet, dass das Ereignis nicht für die App gilt und keine Kennzeichnung bedeutet, dass das Ereignis für die App nicht verfügbar ist:
 
 ### Konversation-App-Ereignisse
 
@@ -31,11 +29,11 @@ Im Folgenden finden Sie eine Matrix der Ereignisse, die für Unterhaltungen verf
 | Beitrag | X | X | X | X |  | N/A | N/A |
 | Gepostet | X | X | X | X | X | N/A | N/A |
 | Twitter-Antwort | X | X | X | N/A | N/A | N/A | N/A |
-| Twitter "Gefällt mir « | X | X | X | N/A | N/A | N/A | N/A |
+| Twitter &quot;Gefällt mir « | X | X | X | N/A | N/A | N/A | N/A |
 | LF WIE | X | X | X | X | N/A | N/A | N/A |
 | LF-Unterschied | X | X | X | X | N/A | N/A | N/A |
 | Auf Beitrag teilen | X | X |  | X | N/A | N/A | N/A |
-| Schaltfläche "Teilen « | X | X | X | X |  | N/A | N/A |
+| Schaltfläche &quot;Teilen « | X | X | X | X |  | N/A | N/A |
 | Twitter freigeben | X | X | X | X | X | N/A | N/A |
 | Facebook freigeben | X | X | X | X | X | N/A | N/A |
 | Freigabe-URL | X | X | X | X |  | N/A | N/A |
@@ -49,7 +47,7 @@ Im Folgenden finden Sie eine Matrix der Ereignisse, die für Unterhaltungen verf
 | Requestmore | X | X | X | X | N/A | N/A | N/A |
 | Modalview |  | N/A | N/A | N/A | N/A | N/A | N/A |
 | Twitter Retweet | X | X | X | N/A | N/A | N/A | N/A |
-| Schaltfläche "Post-Schaltfläche « | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
+| Schaltfläche &quot;Post-Schaltfläche « | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 | Kommentar-Anzahl aktualisiert | X | X | X | X | N/A | N/A | N/A |
 | Benutzer angemeldet |  |  |  |  |  | N/A | N/A |
 | Benutzer abgemeldet |  |  |  |  |  | N/A | N/A |

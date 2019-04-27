@@ -1,6 +1,6 @@
 ---
-description: null
-seo-description: null
+description: 'null '
+seo-description: 'null '
 seo-title: Verwalten von Rechten
 solution: Experience Manager
 title: Verwalten von Rechten

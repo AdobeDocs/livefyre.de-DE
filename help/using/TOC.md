@@ -3,7 +3,7 @@ product: livefyre
 audience: Endbenutzer
 user-guide-title: Experience Manager Livefyre Benutzerhandbuch
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
 
 ---
 
@@ -183,7 +183,7 @@ source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
    + [Inhalt in Asset-Bibliothek speichern](c-library/t-save-content-to-asset-library.md)
    + [Produkte mit Inhalt mit der Bibliothek verknüpfen](c-library/t-associate-products-with-content-using-the-library.md)
    + [Inhalte veröffentlichen](c-library/t-publish-content.md)
-   + [Registerkarte "App-Inhalt «](c-library/c-app-content.md)
+   + [Registerkarte &quot;App-Inhalt «](c-library/c-app-content.md)
    + [Verwenden von Adobe Experience Manager Livefyre mit Hootsuite](c-library/c-hootsuite-livefyre.md)
    + [Verwenden von Adobe Experience Manager Livefyre mit Adobe Target](c-library/livefyre-target.md)
    + [Adobe Launch Livefyre Extension verwenden](c-library/launch-extension.md)

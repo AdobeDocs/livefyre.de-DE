@@ -1,6 +1,6 @@
 ---
-description: null
-seo-description: null
+description: 'null '
+seo-description: 'null '
 seo-title: Karussell lokalisieren
 solution: Experience Manager
 title: Karussell lokalisieren

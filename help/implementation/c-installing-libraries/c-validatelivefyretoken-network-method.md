@@ -1,8 +1,6 @@
 ---
-description: Überprüft, ob ein Livefyre-Token für dieses Netzwerk weiterhin gültig
-  ist. Gibt einen Booleschen Wert zurück.
-seo-description: Überprüft, ob ein Livefyre-Token für dieses Netzwerk weiterhin gültig
-  ist. Gibt einen Booleschen Wert zurück.
+description: Überprüft, ob ein Livefyre-Token für dieses Netzwerk weiterhin gültig ist. Gibt einen Booleschen Wert zurück.
+seo-description: Überprüft, ob ein Livefyre-Token für dieses Netzwerk weiterhin gültig ist. Gibt einen Booleschen Wert zurück.
 seo-title: Validatelivefyretoken Network-Methode
 solution: Experience Manager
 title: Validatelivefyretoken Network-Methode

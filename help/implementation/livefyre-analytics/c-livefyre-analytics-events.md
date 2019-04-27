@@ -1,6 +1,6 @@
 ---
-description: null
-seo-description: null
+description: 'null '
+seo-description: 'null '
 seo-title: Livefyre-Analytics-Ereignisse
 solution: Experience Manager
 title: Livefyre-Analytics-Ereignisse
@@ -57,27 +57,27 @@ Die folgenden Livefyre-Ereignisse, die benutzerspezifischen Ereignissen zugeordn
 | Gepostet | Wenn ein Beitrag abgesendet wurde. |
 | Twitter_ Reply | Jedes Mal, wenn ein Benutzer auf Twitter antwortet |
 | Twitter_ Gefällt mir | Bei Freigabe von Inhalten an: Retweet |
-| Livefyre_ Like | Immer wenn die Funktion "livefyre" in einer App verwendet wird |
+| Livefyre_ Like | Immer wenn die Funktion &quot;livefyre&quot; in einer App verwendet wird |
 | Livefyre_ Unlike | Jedes Mal, wenn ein Benutzer einen Livefyre aufhebt wie |
 | Shareonpost | Jedes Mal, wenn ein Benutzer Inhalte veröffentlicht und die Freigabe auf Beitragsfunktion verwendet |
-| Sharebuttonclick | Jedes Mal, wenn ein Benutzer auf die Schaltfläche "Freigeben" in einem Kommentar klickt |
+| Sharebuttonclick | Jedes Mal, wenn ein Benutzer auf die Schaltfläche &quot;Freigeben&quot; in einem Kommentar klickt |
 | Sharetwitter | Wenn auf Twitter freigeben geklickt wird |
 | Sharefacebook | Wenn auf Facebook freigeben geklickt wird |
-| Shareurl | Wenn der Textbereich "Auf URL teilen" aktiviert/kopiert ist. |
+| Shareurl | Wenn der Textbereich &quot;Auf URL teilen&quot; aktiviert/kopiert ist. |
 | Expandanswers | Wenn ein Benutzer auf den Link + oder Erweitern klickt, um alle Antworten auf einem Top-Level-Beitrag anzuzeigen |
-| Collapsereplies | Wenn ein Benutzer auf den Link " - oder reduzieren" klickt, um alle Antworten auf einem Beitrag auf oberster Ebene anzuzeigen |
-| Flagclick | Jedes Mal, wenn ein Benutzer das Flag "Flag" öffnet |
+| Collapsereplies | Wenn ein Benutzer auf den Link &quot; - oder reduzieren&quot; klickt, um alle Antworten auf einem Beitrag auf oberster Ebene anzuzeigen |
+| Flagclick | Jedes Mal, wenn ein Benutzer das Flag &quot;Flag&quot; öffnet |
 | Flagspam | Wenn ein Benutzer Inhalte als Spam kennzeichnet |
 | Flagdisagree | Wenn ein Benutzer Inhalte als nicht zustimmen kennzeichnet |
 | Flagpress | Wenn ein Benutzer Inhalte als beleidigend kennzeichnet |
 | Flagofftopic | Ein Benutzer kennzeichnet den Inhalt als aus dem Thema heraus |
-| Flagcancel | Jedes Mal, wenn ein Benutzer beim Senden einer Markierung auf "X" oder" Abbrechen" klickt |
-| Followcollection | Jedes Mal, wenn eine Unterhaltung folgt ("Ich bin interessiert" in Reviews) |
+| Flagcancel | Jedes Mal, wenn ein Benutzer beim Senden einer Markierung auf &quot;X&quot; oder&quot; Abbrechen&quot; klickt |
+| Followcollection | Jedes Mal, wenn eine Unterhaltung folgt (&quot;Ich bin interessiert&quot; in Reviews) |
 | Unfollowcollection | Wenn eine Unterhaltung nicht befolgt wird |
 | Requestmore | Jedes Mal, wenn ein Benutzer mehr Inhalte in einer App geladen hat (muss auch für hohe Geschwindigkeit sein) |
 | Modalview | Jedes Mal, wenn ein Benutzer klickt, um Inhalte in einem Modal anzuzeigen |
 | Twitterretweetclick | Bei Freigabe von Inhalten an: Retweet |
-| Postbuttonclick | Wenn ein Benutzer auf den Beitrag klickt ("Gefällt mir? ") Schaltfläche |
+| Postbuttonclick | Wenn ein Benutzer auf den Beitrag klickt (&quot;Gefällt mir? &quot;) Schaltfläche |
 | Anmeldung | Jedes Mal, wenn sich ein Benutzer angemeldet hat |
 | Abmelden | Bei jeder Abmeldung eines Benutzers |
 

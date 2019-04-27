@@ -59,7 +59,7 @@ networkConfig["strings"] = customStrings; fyre.conv.load(
 
 ## Review-/Bewertungsschnittstelle {#section_iyv_zj4_xz}
 
-Für die Benutzeroberfläche "Review and Rating" verfügbare Zeichenfolgen.
+Für die Benutzeroberfläche &quot;Review and Rating&quot; verfügbare Zeichenfolgen.
 
 | Element | Schlüssel | Standardtext |
 |--- |--- |--- |
@@ -119,14 +119,14 @@ Für Benutzeraktionen verfügbare Zeichenfolgen: Markieren, Freigeben und Markie
 |  | Wasreviewhelpfulmobile | Hilfreich? |
 |  | Ownwasreviewhelpful | [Es wurde hilfreich gefunden.](https://d.pr/i/Q0mA) |
 |  | Reviewwasassist | [Ja](https://d.pr/i/Q0mA) |
-|  | Helpfuldivider | [& amp; vert;](https://d.pr/i/Q0mA) |
+|  | Helpfuldivider | [&amp; amp; vert;](https://d.pr/i/Q0mA) |
 |  | Reviewwasnothelpful | [Nein](https://d.pr/i/Q0mA) |
 | Abstimmung modaler Stimmen | Votetitle | Wurde diese Überprüfung hilfreich? |
 |  | Votedownsession | Nein |
 |  | Votereplytitle | War diese Antwort hilfreich? |
 |  | Votetitle | War dieser Kommentar hilfreich? |
 |  | Voteupvoice | Ja |
-| Flag markieren | Flagtitle | Überprüfung von % s's |
+| Flag markieren | Flagtitle | Überprüfung von % s&#39;s |
 |  | Flagsuccessmsg | Überprüfung wurde gekennzeichnet. |
 | Markieren von Mobilgeräten | Flagconfirmationmessage | Die Überprüfung % s als % s kennzeichnen? |
 | Erwähnung von Modal | Mentiondefaulttext | Ich habe Sie in einer Livefyre-Überprüfung erwähnt! |
@@ -242,9 +242,9 @@ Für Autor und individuelle Inhaltsinformationen verfügbare Stings.
 |  | Commentvotecount | Stimmen |
 |  | Commentvotecountsing | abstimmen |
 |  | Datetimeminuteprefix | m |
-|  | Datetimemonths | Ein Array. Standard =[ ' Januar ',' Februar ',' März ',' April ',' Mai ',' Juni ',' Juli ',' August ',' September ',' Oktober ',' November ',' Dezember ' ] |
+|  | Datetimemonths | Ein Array. Standard =[ &#39; Januar &#39;,&#39; Februar &#39;,&#39; März &#39;,&#39; April &#39;,&#39; Mai &#39;,&#39; Juni &#39;,&#39; Juli &#39;,&#39; August &#39;,&#39; September &#39;,&#39; Oktober &#39;,&#39; November &#39;,&#39; Dezember &#39; ] |
 |  | Questionexplain | Sie können Kommentare jetzt direkt in Sätzen, Absätzen, Bildern und Anführungszeichen lesen und schreiben.<br><br><span class="&rdquo;lf-highlight-text&rdquo;">Markieren Sie Text</span> und klicken Sie auf das <span class="&rdquo;fycon-write&rdquo;"></span> Symbol oder klicken Sie am Ende jedes Absatzes auf das <span class="&rdquo;fycon-action-view&rdquo;"></span> Symbol. |
-|  | Questionmocktext | Was genau bekannt ist, wird nicht korrekt bekannt, sondern nur aus dem Grund, aus dem sie "bekannt" ist. |
+|  | Questionmocktext | Was genau bekannt ist, wird nicht korrekt bekannt, sondern nur aus dem Grund, aus dem sie &quot;bekannt&quot; ist. |
 |  | Questiontitle | Was ist eine Sidenote? |
 
 ## Benutzeraktionen {#section_qxd_fl4_xz}
@@ -263,7 +263,7 @@ Für Benutzeraktionen verfügbare Zeichenfolgen: Kennzeichnung, Freigabe und Nut
 |  | Menuflagoptionofftopic | Aus Thema |
 |  | Menuflagoptionspam | Spam |
 |  | Menuflagtitle | Markieren als… |
-|  | Facebooksharecaption | Zielgruppen für " {title} « |
+|  | Facebooksharecaption | Zielgruppen für &quot; {title} « |
 | Mobile Benutzeroptionen | Slidercommenttally | of |
 |  | Sliderinviteread | Lesen |
 |  | Sliderinvitewrite | Schreiben |
@@ -308,7 +308,7 @@ Für die benutzerauthentifizierte Moderationsoberfläche verfügbare Zeichenfolg
 
 | Element | Schlüssel | Standardtext |
 |---|---|---|
-| Bestätigungsmeldungen im Menü "Mehr « | Notificationapproved | Genehmigt |
+| Bestätigungsmeldungen im Menü &quot;Mehr « | Notificationapproved | Genehmigt |
 |  | Notificationdeleted | Gelöscht |
 |  | Notificationflag | Gekennzeichnet |
 

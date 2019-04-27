@@ -27,7 +27,7 @@ Die obige Beispielanforderung lädt die `init` Seite, die Sammlungseinstellungen
 
 Anforderung: `https://{networkName}.bootstrap.fyre.co/bs3/v3.1/{network}/{siteId}/{b64articleId}/N.json`
 
-Beispiel: Eine Beispiel-App hat 120 Inhaltselemente. Inhalt "1" ist der älteste Inhalt und der Inhalt" 70" ist das neueste Inhaltselement.
+Beispiel: Eine Beispiel-App hat 120 Inhaltselemente. Inhalt &quot;1&quot; ist der älteste Inhalt und der Inhalt&quot; 70&quot; ist das neueste Inhaltselement.
 
 * `Init` lädt ~ 120 bis 70 Inhaltselemente in absteigender Reihenfolge: [https://data.livefyre.com/bs3/v3.1/dharam.fyre.co/384931/NTU1NQ==/init](https://data.livefyre.com/bs3/v3.1/dharam.fyre.co/384931/NTU1NQ==/init)
 
@@ -58,16 +58,16 @@ Bitte beachten: Bei `maxEventId` einer Stream-API-Antwort handelt es sich um die
 
 Das folgende Beispiel basiert auf einer Kommentarapp:
 
-Kommentar "Erster Kommentar" wurde zuerst veröffentlicht. " Zweiter Kommentar" wurde danach veröffentlicht.
+Kommentar &quot;Erster Kommentar&quot; wurde zuerst veröffentlicht. &quot; Zweiter Kommentar&quot; wurde danach veröffentlicht.
 
 First Comment Stream API response:
 
 `{"timeout":true,"parked":true,"h":"ct239.dsr.livefyre.com"}`
 
-In `maxEventId` der Antwort ist "1520289700953369" angegeben, die zum `lastEventId` Abrufen des Endpunktes verwendet wird, um Aktualisierungen abzurufen (d. h. Zweiter Kommentar), der nach allen Aktualisierungen in dieser Antwort auftrat.
+In `maxEventId` der Antwort ist &quot;1520289700953369&quot; angegeben, die zum `lastEventId` Abrufen des Endpunktes verwendet wird, um Aktualisierungen abzurufen (d. h. Zweiter Kommentar), der nach allen Aktualisierungen in dieser Antwort auftrat.
 
 Zweite Kommentarstream-API-Antwort:
 
 `{"timeout":true,"parked":true,"h":"ct239.dsr.livefyre.com"}`
 
-Die `maxEventID` "1520289700953369" in der Antwort sollte wiederum als die `lastEventID` Stream-API-Antwort für das nächste Update verwendet werden.
+Die `maxEventID` &quot;1520289700953369&quot; in der Antwort sollte wiederum als die `lastEventID` Stream-API-Antwort für das nächste Update verwendet werden.

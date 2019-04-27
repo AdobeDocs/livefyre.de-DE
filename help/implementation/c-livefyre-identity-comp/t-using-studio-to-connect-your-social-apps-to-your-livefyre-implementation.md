@@ -1,10 +1,6 @@
 ---
-description: Um eine Social-Anmeldung zu aktivieren, verwenden Sie Studio, um die
-  Anmeldeinformationen Ihrer Social-Anwendungen zu Ihrer Livefyre-Integration hinzuzufügen
-  und das Login-Modal anzupassen.
-seo-description: Um eine Social-Anmeldung zu aktivieren, verwenden Sie Studio, um
-  die Anmeldeinformationen Ihrer Social-Anwendungen zu Ihrer Livefyre-Integration
-  hinzuzufügen und das Login-Modal anzupassen.
+description: Um eine Social-Anmeldung zu aktivieren, verwenden Sie Studio, um die Anmeldeinformationen Ihrer Social-Anwendungen zu Ihrer Livefyre-Integration hinzuzufügen und das Login-Modal anzupassen.
+seo-description: Um eine Social-Anmeldung zu aktivieren, verwenden Sie Studio, um die Anmeldeinformationen Ihrer Social-Anwendungen zu Ihrer Livefyre-Integration hinzuzufügen und das Login-Modal anzupassen.
 seo-title: Verwenden von Studio zum Verbinden Ihrer Social-Anwendungen mit Ihrer Livefyre-Implementierung
 title: Verwenden von Studio zum Verbinden Ihrer Social-Anwendungen mit Ihrer Livefyre-Implementierung
 uuid: be 14869 c-e 0 df -48 cd-a 1 f 3-99 eb 953 dd 9 ce
@@ -25,7 +21,7 @@ Mit dem Login-Modal können Sie die Informationen anpassen, die Ihre Benutzer se
 * **Logo:** Laden Sie ein Logo hoch, das in Ihren Anmeldemodulen verwendet werden soll.
 * **Schriftfamilie:** Wählen Sie eine Schriftart, die Ihrem Branding entspricht.
 * **Markenfarbe:** Geben Sie eine hexadezimale Farbe ein, die für einen bestimmten Text innerhalb des modalen Textes verwendet werden soll.
-* **URL für Geschäftsbedingungen:** Geben Sie die URL für die Seite "Geschäftsbedingungen" Ihres Unternehmens ein. Dieses Feld ist für die Verwendung mit Livefyre Identity erforderlich.
+* **URL für Geschäftsbedingungen:** Geben Sie die URL für die Seite &quot;Geschäftsbedingungen&quot; Ihres Unternehmens ein. Dieses Feld ist für die Verwendung mit Livefyre Identity erforderlich.
 
 ## Livefyre-Identität übersetzen {#section_xxt_z52_3z}
 
@@ -66,7 +62,7 @@ So aktivieren Sie die Anmeldung mit einem Google +-Konto:
 
 1. Fügen Sie die Google-App **[!UICONTROL Client ID]** hinzu und **[!UICONTROL Client secret]**.
 
-   Diese Werte sind in Ihrer Google Cloud Platform-Projektoberfläche aufgelistet, die über [https://console.cloud.google.com/](https://console.cloud.google.com/apis/library)verfügbar ist. Rufen Sie zum Abrufen dieser Informationen den **[!UICONTROL API Manager > Credentials]**Projektnamen auf und klicken Sie darauf.
+   Diese Werte sind in Ihrer Google Cloud Platform-Projektoberfläche aufgelistet, die über [https://console.cloud.google.com/](https://console.cloud.google.com/apis/library)verfügbar ist. Rufen Sie zum Abrufen dieser Informationen den **[!UICONTROL API Manager > Credentials]** Projektnamen auf und klicken Sie darauf.
 
 ## Anmeldung über ein Twitter-Konto aktivieren {#section_iyz_wb5_bbb}
 
@@ -88,7 +84,7 @@ So aktivieren Sie die Anmeldung mit einem Yahoo! Konto:
 
 1. Schalten Sie den **[!UICONTROL Enable Login with Yahoo!]** Umschalter auf **[!UICONTROL ON]**.
 
-1. Fügen Sie Yahoo! hinzu! app's **[!UICONTROL Client ID]** und **[!UICONTROL Client Secret]**.
+1. Fügen Sie Yahoo! hinzu! app&#39;s **[!UICONTROL Client ID]** und **[!UICONTROL Client Secret]**.
 
    Diese Werte werden in Yahoo! App-Detailseite, verfügbar unter [developer.yahoo.com/apps](https://developer.yahoo.com/apps).
 
@@ -98,11 +94,11 @@ Verbinden Sie Ihr Microsoft Live ID-Konto mit Livefyre, damit Benutzer ihre Micr
 
 So aktivieren Sie die Anmeldung mit einem Microsoft Live ID-Konto:
 
-1. Schalten Sie in **[!UICONTROL Livefyre > Integration Settings > Livefyre Identity > Microsoft Live]****[!UICONTROL Enable Microsoft Live Login]****[!UICONTROL On]**ein.
+1. Schalten Sie in **[!UICONTROL Livefyre > Integration Settings > Livefyre Identity > Microsoft Live]****[!UICONTROL Enable Microsoft Live Login]****[!UICONTROL On]** ein.
 
 1. Geben Sie ein **[!UICONTROL Microsoft Live Client ID (Private Key)]** und **[!UICONTROL Microsoft Live Client Secret (Password)]**.
 
-1. Klicken **[!UICONTROL Save Settings]**Sie auf.
+1. Klicken **[!UICONTROL Save Settings]** Sie auf.
 
    Die **[!UICONTROL Microsoft Live Client ID (Private Key)]** Werte und **[!UICONTROL Microsoft Live Client Secret (Password)]** Werte werden auf der Detailseite der Microsoft Live ID-App aufgeführt.
 
@@ -111,6 +107,6 @@ So aktivieren Sie die Anmeldung mit einem Microsoft Live ID-Konto:
 Ermöglichen Sie Ihren Benutzern die Verwendung Ihrer Livefyre-Identitätsimplementierung für Apps auf Ihrer Site.
 
 1. Erstellen Sie eine App.
-1. Navigieren Sie zu **[!UICONTROL Studio]** > **[!UICONTROL Settings]** > **[!UICONTROL Integration Settings]**> **[!UICONTROL Livefyre Identity]**.
+1. Navigieren Sie zu **[!UICONTROL Studio]** &gt; **[!UICONTROL Settings]** &gt; **[!UICONTROL Integration Settings]**&gt; **[!UICONTROL Livefyre Identity]**.
 
 1. Geben Sie die erforderlichen App-Anmeldeinformationen für die erstellte App ein.

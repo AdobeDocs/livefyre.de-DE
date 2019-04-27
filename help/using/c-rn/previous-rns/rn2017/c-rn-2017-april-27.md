@@ -22,7 +22,7 @@ Versionshinweise für die Version vom 27. April 2017.
 | Bug | App Manager | Die Suchergebnisse wurden bei der Suche nach Artikel-ID in App Manager verbessert. |
 | Bug | Asset-Bibliothek | Es wurde ein Fehler behoben, durch den Unicode-Inhalte nicht gerendert wurden, wenn mehr Details zu einem Asset in der Bibliothek angezeigt wurden. |
 | Verbesserung | Mosaik | Es wurde die Möglichkeit hinzugefügt, Mosaic-Apps zu konfigurieren, die in Designer konfiguriert oder über das SDK instanziiert wurden, um auf eine beliebige Stelle einer Inhaltskarte zu klicken, um das Modal zu öffnen. Für Mosaic gibt es jetzt 3 Animationstypen: Spiegeln, Überblenden und Klicken. |
-| Verbesserung | Reviews | Es wurde eine Funktion in Reviews hinzugefügt, um "Einen Review schreiben" und" Meine Überprüfung anzeigen" zu deaktivieren, um Kunden mehr Flexibilität bei der Anpassung der App zu ermöglichen. |
+| Verbesserung | Reviews | Es wurde eine Funktion in Reviews hinzugefügt, um &quot;Einen Review schreiben&quot; und&quot; Meine Überprüfung anzeigen&quot; zu deaktivieren, um Kunden mehr Flexibilität bei der Anpassung der App zu ermöglichen. |
 | Bug | Reviews | Es wurden einige Benutzerfreundlichkeitsfehler behoben, die beim Aktivieren des alwaysshoweditor-Parameters in der Review-App auftraten. |
 | Bug | S 1 Collection Rules | Es wurde ein Fehler behoben, durch den Suchbegriffe nach dem Speichern einer Regel bearbeitet werden konnten. |
 | Bug | Storify 2 | Es wurde ein Fehler behoben, durch den Storify 2-Einbettung bei Verwendung der requirejs-Bibliothek auf der Seite nicht möglich war. |

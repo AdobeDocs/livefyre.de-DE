@@ -23,10 +23,10 @@ Versionshinweise für die Version vom 15. Juni 2017.
 | Verbesserung | Kommentare | Erweiterte Kommentare, um die von den ADA-Anforderungen vorgegebenen Schriftfarbrichtlinien zu erfüllen. |
 | Bug | Instagram-Standortsuche | Es wurde ein Fehler behoben, durch den Instagram Location Search-Ergebnisse doppelt angezeigt wurden. |
 | Verbesserung | Bibliothek | Es wurde ein Fehler behoben, durch den alle hochgeladenen Medien in Tweets vom Filter Medien erfasst werden konnten. |
-| Bug | Modq | Ein Problem mit der Verlangsamung auf der Registerkarte "modq Streams Premod" wurde behoben, bei dem Instagram Carousel-Inhalte abgerufen wurden. |
+| Bug | Modq | Ein Problem mit der Verlangsamung auf der Registerkarte &quot;modq Streams Premod&quot; wurde behoben, bei dem Instagram Carousel-Inhalte abgerufen wurden. |
 | Bug | Zielgruppen | Verbesserte Sidesnotes zur Unterstützung der Frontend-Moderation. Das bedeutet, dass Moderatoren, die sich am Front-End bei der App angemeldet haben, Inhalte genehmigen oder löschen können. |
 | Bug | Social Search | Es wurde ein Fehler behoben, durch den keine Speicherorte gespeichert werden konnten, wenn Twitter Social-Suchen ausgeführt wurden. |
-| Verbesserung | Storify 2 | Es wurde ein Fehler in Storify 2 behoben, durch den die Seite aufgerufen wurde, wenn ein Benutzer nach "Älteste zu Neueste" oder" Neueste to Älteste" sortiert wurde. |
+| Verbesserung | Storify 2 | Es wurde ein Fehler in Storify 2 behoben, durch den die Seite aufgerufen wurde, wenn ein Benutzer nach &quot;Älteste zu Neueste&quot; oder&quot; Neueste to Älteste&quot; sortiert wurde. |
 | Verbesserung | Stream-Regeln | Es wurde die Fähigkeit hinzugefügt, Tweets nach Sprache in Stream-Regeln zu filtern. |
 | Verbesserung | Stream-Regeln | Es wurde die Möglichkeit hinzugefügt, in Twitter- und Instagram-Stream-Regeln nach mehreren Landkartenpositionen zu filtern. |
 | Verbesserung | Stream-Regeln | Verbesserte Validierung beim Speichern von Twitter-Stream-Regeln. |

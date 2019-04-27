@@ -20,7 +20,7 @@ Passen Sie verfügbare E-Email-Benachrichtigungsfelder an.
 Richten Sie Ihre E-Mail-Benachrichtigungen ein.
 
 * **Logo für E-Mail:** Wählen Sie die Datei aus, die als Logo in E-Email-Benachrichtigungen verwendet werden soll.
-* **E-Mail von:** Geben Sie die E-Email-Adresse ein, die im Feld "Von" angezeigt wird.
+* **E-Mail von:** Geben Sie die E-Email-Adresse ein, die im Feld &quot;Von&quot; angezeigt wird.
 
    >[!NOTE]
    >

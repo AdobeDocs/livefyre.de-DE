@@ -1,8 +1,6 @@
 ---
-description: Passen Sie den Stil und die Art und Weise an, wie Kommentare in Ihrem
-  Live-Blog angezeigt werden.
-seo-description: Passen Sie den Stil und die Art und Weise an, wie Kommentare in Ihrem
-  Live-Blog angezeigt werden.
+description: Passen Sie den Stil und die Art und Weise an, wie Kommentare in Ihrem Live-Blog angezeigt werden.
+seo-description: Passen Sie den Stil und die Art und Weise an, wie Kommentare in Ihrem Live-Blog angezeigt werden.
 seo-title: Anpassungen an Live Blog
 solution: Experience Manager
 title: Anpassungen an Live Blog
@@ -59,11 +57,11 @@ Verwenden Sie Live Blog, um Echtzeit-Aktualisierungen für laufende Geschichten 
 
 * **[!UICONTROL Users may share comments]**
 
-   Wenn diese Option aktiviert ist, können Benutzer gepostete Inhalte für Twitter, Facebook oder linkedin freigeben. Weitere Informationen zur Aktivierung der Freigabe finden Sie unter Einstellungen > Integrationseinstellungen > Social Sharing.
+   Wenn diese Option aktiviert ist, können Benutzer gepostete Inhalte für Twitter, Facebook oder linkedin freigeben. Weitere Informationen zur Aktivierung der Freigabe finden Sie unter Einstellungen &gt; Integrationseinstellungen &gt; Social Sharing.
 
 Sie können Live Blog mithilfe von:
 
-* **[!UICONTROL Style]** und **[!UICONTROL Config]** Optionen für alle Apps im **[!UICONTROL App Designer]**. Weitere Informationen zum Standard **[!UICONTROL Style]** und den **[!UICONTROL Config]** Optionen für alle Apps im **[!UICONTROL App Designer]**Abschnitt finden Sie unter Anpassen von Apps.
+* **[!UICONTROL Style]** und **[!UICONTROL Config]** Optionen für alle Apps im **[!UICONTROL App Designer]**. Weitere Informationen zum Standard **[!UICONTROL Style]** und den **[!UICONTROL Config]** Optionen für alle Apps im **[!UICONTROL App Designer]** Abschnitt finden Sie unter Anpassen von Apps.
 
 * Integrationswerkzeuge. Weitere Informationen zum Anpassen von Apps mithilfe von Integrationstools finden Sie unter Live Blog.
 

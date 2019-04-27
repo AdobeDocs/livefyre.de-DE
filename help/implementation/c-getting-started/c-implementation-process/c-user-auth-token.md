@@ -1,10 +1,6 @@
 ---
-description: In diesem Abschnitt wird beschrieben, wie Sie das JSON-Objekt "userauth"
-  generieren, das das Token für die Benutzerauthentifizierung erstellt, das zum Protokollieren
-  von Benutzern in Ihren Apps erforderlich ist.
-seo-description: In diesem Abschnitt wird beschrieben, wie Sie das JSON-Objekt "userauth"
-  generieren, das das Token für die Benutzerauthentifizierung erstellt, das zum Protokollieren
-  von Benutzern in Ihren Apps erforderlich ist.
+description: In diesem Abschnitt wird beschrieben, wie Sie das JSON-Objekt "userauth" generieren, das das Token für die Benutzerauthentifizierung erstellt, das zum Protokollieren von Benutzern in Ihren Apps erforderlich ist.
+seo-description: In diesem Abschnitt wird beschrieben, wie Sie das JSON-Objekt "userauth" generieren, das das Token für die Benutzerauthentifizierung erstellt, das zum Protokollieren von Benutzern in Ihren Apps erforderlich ist.
 seo-title: Benutzerauthentifizierungstoken
 solution: Experience Manager
 title: Benutzerauthentifizierungstoken
@@ -17,9 +13,9 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Benutzerauthentifizierungstoken{#user-auth-token}
 
-In diesem Abschnitt wird beschrieben, wie Sie das JSON-Objekt "userauth" generieren, das das Token für die Benutzerauthentifizierung erstellt, das zum Protokollieren von Benutzern in Ihren Apps erforderlich ist.
+In diesem Abschnitt wird beschrieben, wie Sie das JSON-Objekt &quot;userauth&quot; generieren, das das Token für die Benutzerauthentifizierung erstellt, das zum Protokollieren von Benutzern in Ihren Apps erforderlich ist.
 
-In diesem Abschnitt wird beschrieben, wie Sie das JSON-Objekt "userauth" generieren, das das Token für die Benutzerauthentifizierung erstellt, das zum Protokollieren von Benutzern in Ihren Apps erforderlich ist.
+In diesem Abschnitt wird beschrieben, wie Sie das JSON-Objekt &quot;userauth&quot; generieren, das das Token für die Benutzerauthentifizierung erstellt, das zum Protokollieren von Benutzern in Ihren Apps erforderlich ist.
 
 Um das Token zu erstellen, verwenden Sie die bevorzugte Sprachbibliothek, um die folgenden Parameter zu übermitteln:
 

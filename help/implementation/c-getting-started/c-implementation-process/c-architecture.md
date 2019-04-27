@@ -1,8 +1,6 @@
 ---
-description: Erfahren Sie mehr über Livefyre-Konventionen und wie Livefyre Inhalte
-  organisiert.
-seo-description: Erfahren Sie mehr über Livefyre-Konventionen und wie Livefyre Inhalte
-  organisiert.
+description: Erfahren Sie mehr über Livefyre-Konventionen und wie Livefyre Inhalte organisiert.
+seo-description: Erfahren Sie mehr über Livefyre-Konventionen und wie Livefyre Inhalte organisiert.
 seo-title: Architektur
 solution: Experience Manager
 title: Architektur

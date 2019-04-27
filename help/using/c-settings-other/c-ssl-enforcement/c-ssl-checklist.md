@@ -1,8 +1,6 @@
 ---
-description: Führen Sie die Schritte in der Checkliste aus, um sicherzustellen, dass
-  Sie erfolgreich von HTTP in HTTPS konvertiert werden.
-seo-description: Führen Sie die Schritte in der Checkliste aus, um sicherzustellen,
-  dass Sie erfolgreich von HTTP in HTTPS konvertiert werden.
+description: Führen Sie die Schritte in der Checkliste aus, um sicherzustellen, dass Sie erfolgreich von HTTP in HTTPS konvertiert werden.
+seo-description: Führen Sie die Schritte in der Checkliste aus, um sicherzustellen, dass Sie erfolgreich von HTTP in HTTPS konvertiert werden.
 seo-title: SSL-Checkliste
 title: SSL-Checkliste
 uuid: 2 b 176 c 73-8 a 6 a -4835-88 b 3-047 c 6661 cba 9

@@ -1,8 +1,6 @@
 ---
-description: Die verfügbaren Ereignisse, an die Sie JavaScript für Konversations-Apps
-  binden können (z. B. Kommentare, Chat, Live-Blog, Bewertungen und Anmerkungen).
-seo-description: Die verfügbaren Ereignisse, an die Sie JavaScript für Konversations-Apps
-  binden können (z. B. Kommentare, Chat, Live-Blog, Bewertungen und Anmerkungen).
+description: Die verfügbaren Ereignisse, an die Sie JavaScript für Konversations-Apps binden können (z. B. Kommentare, Chat, Live-Blog, Bewertungen und Anmerkungen).
+seo-description: Die verfügbaren Ereignisse, an die Sie JavaScript für Konversations-Apps binden können (z. B. Kommentare, Chat, Live-Blog, Bewertungen und Anmerkungen).
 seo-title: Javascript-Ereignisdefinitionen und Beispiele
 solution: Experience Manager
 title: Javascript-Ereignisdefinitionen und Beispiele
@@ -42,7 +40,7 @@ Livefyre.require(['fyre.conv#3'], function(Conv) {
 Ein Benutzer hat einen Kommentar gepostet.
 
 * Ein übergeordnetes Element von null ist ein neuer Kommentar.
-* Ein übergeordnetes Element von "None" ist ein Kommentar, der bearbeitet wurde.
+* Ein übergeordnetes Element von &quot;None&quot; ist ein Kommentar, der bearbeitet wurde.
 * Eine Zahl für übergeordnete Elemente ist die übergeordnete ID der Antwort.
 
 ```
@@ -84,7 +82,7 @@ data = {
 
 ## Commentshared {#section_nqb_31p_xz}
 
-Ein Benutzer hat einen Kommentar aus dem Stream freigegeben. (Dieses Ereignis wird nicht ausgelöst, wenn Benutzer im Kommentar-Editor freigeben.) Dieses Ereignis wird ausgelöst, wenn auf die Schaltfläche "Freigeben" geklickt wird.
+Ein Benutzer hat einen Kommentar aus dem Stream freigegeben. (Dieses Ereignis wird nicht ausgelöst, wenn Benutzer im Kommentar-Editor freigeben.) Dieses Ereignis wird ausgelöst, wenn auf die Schaltfläche &quot;Freigeben&quot; geklickt wird.
 
 ```
 data = { 
@@ -162,7 +160,7 @@ nicht definiert.
 
 ## Userfollowed {#section_xxw_jz4_xz}
 
-Gibt "true" zurück, wenn ein Benutzer auf die **[!UICONTROL Follow]** Schaltfläche klickt, und false, wenn der Inhalt im Stream gepostet wird.
+Gibt &quot;true&quot; zurück, wenn ein Benutzer auf die **[!UICONTROL Follow]** Schaltfläche klickt, und false, wenn der Inhalt im Stream gepostet wird.
 
 ```
 data = { 
@@ -173,7 +171,7 @@ data = {
 
 ## Userunfollowed {#section_wm1_gz4_xz}
 
-Gibt "true" zurück, wenn ein Benutzer **auf** die Schaltfläche" Nicht folgen" klickt, und false, wenn der Inhalt im Stream gepostet wird.
+Gibt &quot;true&quot; zurück, wenn ein Benutzer **auf** die Schaltfläche&quot; Nicht folgen&quot; klickt, und false, wenn der Inhalt im Stream gepostet wird.
 
 ```
 data = { 

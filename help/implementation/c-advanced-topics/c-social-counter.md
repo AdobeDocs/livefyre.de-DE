@@ -13,7 +13,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Social-Zähler{#social-counter}
 
-Zählen Sie die Anzahl der kuratierten sozialen Elemente. Eine vollständige Liste der verfügbaren Endpunkte finden Sie im Abschnitt "Livefyre [-API-Referenz](https://api.livefyre.com/docs) " .
+Zählen Sie die Anzahl der kuratierten sozialen Elemente. Eine vollständige Liste der verfügbaren Endpunkte finden Sie im Abschnitt &quot;Livefyre [-API-Referenz](https://api.livefyre.com/docs) &quot; .
 
 Die Social-Zähler-API gibt in einer bestimmten Sammlung für Intervalle über einen bestimmten Zeitraum Zählungen für übereinstimmende Kuratierungsregeln zurück.
 
@@ -43,7 +43,7 @@ GET https://{networkName}.bootstrap.fyre.co/api/v3.0/stats.collections.curate/{q
    >[!NOTE]
    >Die Abfrage ist auf 10 Site, Artikel-ID, Richtlinientypen für Regeln beschränkt. (Das vorherige Beispiel würde 3 Tupfel enthalten.)
 
-* **gibt** `(optional)` den relativen oder absoluten Zeitraum für das Diagramm an. " von" gibt den Anfang und Standardwert vor 24 Stunden an, wenn nicht angegeben.
+* **gibt** `(optional)` den relativen oder absoluten Zeitraum für das Diagramm an. &quot; von&quot; gibt den Anfang und Standardwert vor 24 Stunden an, wenn nicht angegeben.
 * **bis zur** `(optional)` Angabe des relativen oder absoluten Zeitraums zum Diagramm; bis zur Angabe des Beginns und der Standardeinstellung bis zur aktuellen Zeit (jetzt), wenn nicht angegeben.
 
 ### Relative Zeit

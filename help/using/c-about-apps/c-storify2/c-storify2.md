@@ -1,8 +1,6 @@
 ---
-description: Verwenden Sie Storify 2, um inhaltsreiche, interaktive Meldungen aus
-  Echtzeit-Inhalten zu erstellen.
-seo-description: Verwenden Sie Storify 2, um inhaltsreiche, interaktive Meldungen
-  aus Echtzeit-Inhalten zu erstellen.
+description: Verwenden Sie Storify 2, um inhaltsreiche, interaktive Meldungen aus Echtzeit-Inhalten zu erstellen.
+seo-description: Verwenden Sie Storify 2, um inhaltsreiche, interaktive Meldungen aus Echtzeit-Inhalten zu erstellen.
 seo-title: Storify 2
 solution: Experience Manager
 title: Storify 2

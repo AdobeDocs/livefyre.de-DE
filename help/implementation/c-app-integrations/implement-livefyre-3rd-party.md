@@ -1,8 +1,6 @@
 ---
-description: Erstellen Sie Livefyre-Apps von Grund auf, um benutzerdefinierte Erlebnisse
-  und Datenvisualisierungen zu erstellen.
-seo-description: Erstellen Sie Livefyre-Apps von Grund auf, um benutzerdefinierte
-  Erlebnisse und Datenvisualisierungen zu erstellen.
+description: Erstellen Sie Livefyre-Apps von Grund auf, um benutzerdefinierte Erlebnisse und Datenvisualisierungen zu erstellen.
+seo-description: Erstellen Sie Livefyre-Apps von Grund auf, um benutzerdefinierte Erlebnisse und Datenvisualisierungen zu erstellen.
 seo-title: Integrieren von Livefyre mit der Integration von Drittanbietern
 solution: Experience Manager
 title: Livefyre in ein CMS integrieren
@@ -62,4 +60,4 @@ b. Integration von Benutzern und Authentifizierungsplattformen von Drittanbieter
 >[!NOTE]
 >
 >Livefyre unterstützt Carousel, Filmstrip, Storify, Feature Card, Mosaic und Consulting Apps nicht mit Livefyre. js.
-Integrieren Sie diese Apps mit dem [Vorgang "App](/help/using/c-about-apps/c-create-an-app.md) erstellen" .
+Integrieren Sie diese Apps mit dem [Vorgang &quot;App](/help/using/c-about-apps/c-create-an-app.md) erstellen&quot; .

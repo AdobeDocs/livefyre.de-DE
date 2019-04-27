@@ -1,8 +1,6 @@
 ---
-description: Legen Sie fest, dass der Navigationsleitfaden an einem bestimmten Bildschirmbereich
-  angehalten werden soll.
-seo-description: Legen Sie fest, dass der Navigationsleitfaden an einem bestimmten
-  Bildschirmbereich angehalten werden soll.
+description: Legen Sie fest, dass der Navigationsleitfaden an einem bestimmten Bildschirmbereich angehalten werden soll.
+seo-description: Legen Sie fest, dass der Navigationsleitfaden an einem bestimmten Bildschirmbereich angehalten werden soll.
 seo-title: Fixieren des Navigationsleitfadens
 solution: Experience Manager
 title: Fixieren des Navigationsleitfadens

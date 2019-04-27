@@ -1,8 +1,6 @@
 ---
-description: Die Anzahl der Listener ist ein Zähler, der die Anzahl der Site-Besucher
-  für eine App auf einer Seite verfolgt und diese Zahl anzeigt.
-seo-description: Die Anzahl der Listener ist ein Zähler, der die Anzahl der Site-Besucher
-  für eine App auf einer Seite verfolgt und diese Zahl anzeigt.
+description: Die Anzahl der Listener ist ein Zähler, der die Anzahl der Site-Besucher für eine App auf einer Seite verfolgt und diese Zahl anzeigt.
+seo-description: Die Anzahl der Listener ist ein Zähler, der die Anzahl der Site-Besucher für eine App auf einer Seite verfolgt und diese Zahl anzeigt.
 seo-title: Listener-Anzahl
 solution: Experience Manager
 title: Listener-Anzahl
@@ -37,9 +35,9 @@ Die Listener-Anzahl zeigt maximal 10 Avatare an und zeigt Avatare nur für die P
 
 >[!NOTE]
 >
->Aufgrund von Leerzeichen zeigt die mobile Oberfläche nur die Anzahl der Listener und ein kleines Symbol "Personen" an.
+>Aufgrund von Leerzeichen zeigt die mobile Oberfläche nur die Anzahl der Listener und ein kleines Symbol &quot;Personen&quot; an.
 
-Die Livefyre-Listener-Anzahl zeigt die Anzahl der Personen an, die zu jeder Zeit aktiv auf der Seite auf der Seite sind, sowie die Anzahl der Personen, die nach der Konversation folgen. Wenn sich jemand auf der Seite befindet und der Unterhaltung folgen, wird dieser Benutzer nicht doppelt gezählt. Wenn sich ein Benutzer beispielsweise auf einer Seite und in Klicks **[!UICONTROL Follow]**befindet, wird die Listener-Anzahl nicht erhöht. Wenn dieser Benutzer dann klickt **[!UICONTROL Unfollow]**, wird die Anzahl nicht verringert.
+Die Livefyre-Listener-Anzahl zeigt die Anzahl der Personen an, die zu jeder Zeit aktiv auf der Seite auf der Seite sind, sowie die Anzahl der Personen, die nach der Konversation folgen. Wenn sich jemand auf der Seite befindet und der Unterhaltung folgen, wird dieser Benutzer nicht doppelt gezählt. Wenn sich ein Benutzer beispielsweise auf einer Seite und in Klicks **[!UICONTROL Follow]** befindet, wird die Listener-Anzahl nicht erhöht. Wenn dieser Benutzer dann klickt **[!UICONTROL Unfollow]**, wird die Anzahl nicht verringert.
 
 Apps, die diese Funktion verwenden:
 

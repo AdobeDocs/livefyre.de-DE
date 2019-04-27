@@ -1,10 +1,6 @@
 ---
-description: Gibt ein Collection-Objekt zurück, das als Bewertungstyp instanziiert
-  wird. Führen Sie create_ or_ update () aus dem Collection-Objekt aus, um den Build-Prozess
-  abzuschließen.
-seo-description: Gibt ein Collection-Objekt zurück, das als Bewertungstyp instanziiert
-  wird. Führen Sie create_ or_ update () aus dem Collection-Objekt aus, um den Build-Prozess
-  abzuschließen.
+description: Gibt ein Collection-Objekt zurück, das als Bewertungstyp instanziiert wird. Führen Sie create_ or_ update () aus dem Collection-Objekt aus, um den Build-Prozess abzuschließen.
+seo-description: Gibt ein Collection-Objekt zurück, das als Bewertungstyp instanziiert wird. Führen Sie create_ or_ update () aus dem Collection-Objekt aus, um den Build-Prozess abzuschließen.
 seo-title: Buildratingscollection-Site-Methode
 title: Buildratingscollection-Site-Methode
 uuid: 5 eea 2 ba 3-48 e 1-4 cd 2-aa 73-ea 81788 af 1 df

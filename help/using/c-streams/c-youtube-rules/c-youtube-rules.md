@@ -1,7 +1,6 @@
 ---
 description: Sie können Stream-Regeln erstellen, die Inhalte aus youtube-Regeln abrufen.
-seo-description: Sie können Stream-Regeln erstellen, die Inhalte aus youtube-Regeln
-  abrufen.
+seo-description: Sie können Stream-Regeln erstellen, die Inhalte aus youtube-Regeln abrufen.
 seo-title: Youtube-Regeln
 solution: Experience Manager
 title: Youtube-Regeln

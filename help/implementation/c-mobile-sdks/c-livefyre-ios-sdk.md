@@ -21,7 +21,7 @@ Livefyre stellt außerdem zwei ios-Beispielapps auf Basis dieses SDK bereit: Ein
 
 ## Integration des SDK in das Projekt als Cocoa-Pod (empfohlen) {#section_qc5_h3v_zz}
 
-Das einfachste Verfahren zum Hinzufügen von streamhub-ios SDK zu Ihrem Projekt besteht darin, cocoapods zu verwenden. Wenn Sie keine cocoapods haben, führen Sie "Batch-Installationsknoten" und" Werbeunterbrechung" aus. Beispiel: Podfile:
+Das einfachste Verfahren zum Hinzufügen von streamhub-ios SDK zu Ihrem Projekt besteht darin, cocoapods zu verwenden. Wenn Sie keine cocoapods haben, führen Sie &quot;Batch-Installationsknoten&quot; und&quot; Werbeunterbrechung&quot; aus. Beispiel: Podfile:
 
 ```
 source 'https://github.com/Livefyre/cocoapods.git' 
@@ -77,11 +77,11 @@ open CommentStream.xcworkspace
 >
 >Um Tests in Xcode 6 auszuführen, müssen Sie $ (PLATFORM_ DIR)/Developer/Library/Frameworks zu FRAMEWORK_ SEARCH_ PATHS in Pods-test-xctest + ohhttpstubsuitecleanup podhttps://stackoverflow.com/a/24651704 hinzufügen[](https://stackoverflow.com/a/24651704).
 
-Sie benötigen die Datei "lfstestconfig. plist" von Livefyre, die Livefyre auf Anforderung bereitstellt.
+Sie benötigen die Datei &quot;lfstestconfig. plist&quot; von Livefyre, die Livefyre auf Anforderung bereitstellt.
 
 ## Xcode-Dokumentation {#section_arl_b3v_zz}
 
-Sie können die [Dokumentation](https://livefyre.github.com/StreamHub-iOS-SDK/) durchsuchen oder das Ziel "Dokumentation" in Ihrem Xcode-Code (Appledoc muss installiert werden) auf Ihrem System erstellen.
+Sie können die [Dokumentation](https://livefyre.github.com/StreamHub-iOS-SDK/) durchsuchen oder das Ziel &quot;Dokumentation&quot; in Ihrem Xcode-Code (Appledoc muss installiert werden) auf Ihrem System erstellen.
 
 ## Anforderungen {#section_m5l_13v_zz}
 

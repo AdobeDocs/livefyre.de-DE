@@ -1,12 +1,6 @@
 ---
-description: Erfahren Sie, wie Rechte funktionieren. Wenn Sie benutzergenerierte Inhalte
-  (UGC) in eine Livefyre-App einfügen, enthält der Inhalt die Möglichkeit, die Wiederverwendbarkeit
-  wiederherzustellen. Sie müssen über die Autorenberechtigung verfügen, Inhalte von
-  Twitter oder Instagram zu verwenden.
-seo-description: Erfahren Sie, wie Rechte funktionieren. Wenn Sie benutzergenerierte
-  Inhalte (UGC) in eine Livefyre-App einfügen, enthält der Inhalt die Möglichkeit,
-  die Wiederverwendbarkeit wiederherzustellen. Sie müssen über die Autorenberechtigung
-  verfügen, Inhalte von Twitter oder Instagram zu verwenden.
+description: Erfahren Sie, wie Rechte funktionieren. Wenn Sie benutzergenerierte Inhalte (UGC) in eine Livefyre-App einfügen, enthält der Inhalt die Möglichkeit, die Wiederverwendbarkeit wiederherzustellen. Sie müssen über die Autorenberechtigung verfügen, Inhalte von Twitter oder Instagram zu verwenden.
+seo-description: Erfahren Sie, wie Rechte funktionieren. Wenn Sie benutzergenerierte Inhalte (UGC) in eine Livefyre-App einfügen, enthält der Inhalt die Möglichkeit, die Wiederverwendbarkeit wiederherzustellen. Sie müssen über die Autorenberechtigung verfügen, Inhalte von Twitter oder Instagram zu verwenden.
 seo-title: Anfordernde Rechte
 title: Anfordernde Rechte
 uuid: d 3194 afa-f 3 c 6-44 ed-b 03 f -9 b 1 ecb 50 c 1 d 3
@@ -22,11 +16,11 @@ Erfahren Sie, wie Rechte funktionieren. Wenn Sie benutzergenerierte Inhalte (UGC
 
 Die folgenden Rechte sind über Bibliothek, App Content, modq und AEM Commerce verfügbar:
 
-* **[!UICONTROL Granted]**. Wenn der Autor Ihnen das Recht erteilt, ihren Inhalt erneut zu verwenden, ändert **[!UICONTROL Granted]**sich der Status des Assets.
+* **[!UICONTROL Granted]**. Wenn der Autor Ihnen das Recht erteilt, ihren Inhalt erneut zu verwenden, ändert **[!UICONTROL Granted]** sich der Status des Assets.
 
-* **[!UICONTROL Expired]**. Livefyre überwacht den Instagram- und Twitter-Stream für die Antwort des Autors 14 Tage. Nach 14 Tagen läuft die Anforderung ab, der Rechte-Anforderungsstatus ändert sich und **[!UICONTROL Expired]**Sie können eine zweite Anforderung senden oder das Element aus Ihrer Bibliothek entfernen.
+* **[!UICONTROL Expired]**. Livefyre überwacht den Instagram- und Twitter-Stream für die Antwort des Autors 14 Tage. Nach 14 Tagen läuft die Anforderung ab, der Rechte-Anforderungsstatus ändert sich und **[!UICONTROL Expired]** Sie können eine zweite Anforderung senden oder das Element aus Ihrer Bibliothek entfernen.
 * **[!UICONTROL Requested]**. Berechtigung für Inhalte aus der Bibliothek anfordern. Sie können dies für ein oder mehrere Assets gleichzeitig tun. Nachdem Sie die Berechtigung angefordert haben, setzt Livefyre den Asset-Status auf **[!UICONTROL Requested]**.
-* **[!UICONTROL Needs Review]**. Beantwortet der Autor mit einer Notiz, die Ihr # approvalhashtag nicht enthält, ändert **[!UICONTROL Needs Review]**sich der Status des Assets.
+* **[!UICONTROL Needs Review]**. Beantwortet der Autor mit einer Notiz, die Ihr # approvalhashtag nicht enthält, ändert **[!UICONTROL Needs Review]** sich der Status des Assets.
 
 * **[!UICONTROL Request Failed]**. Anfrage konnte nicht gesendet werden (aufgrund eines abgelaufenen Token usw.).
 * **[!UICONTROL Request Pending]**. Warteschlange in Warteschlange gestellt, damit nicht zu viele gleichzeitig gesendet werden.

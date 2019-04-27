@@ -15,7 +15,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Erstellen Sie Ordner, um Assets zu organisieren.
 
-Durch Erstellen eines neuen Ordners wird dieser der Liste "Alle Assets" in alphabetischer Reihenfolge hinzugefügt. Um einen Unterordner hinzuzufügen, wählen Sie zuerst den Ordner aus, in dem er sich befindet, und klicken Sie dann oben auf der Seite auf das **[!UICONTROL Create New Subfolder]** Symbol.
+Durch Erstellen eines neuen Ordners wird dieser der Liste &quot;Alle Assets&quot; in alphabetischer Reihenfolge hinzugefügt. Um einen Unterordner hinzuzufügen, wählen Sie zuerst den Ordner aus, in dem er sich befindet, und klicken Sie dann oben auf der Seite auf das **[!UICONTROL Create New Subfolder]** Symbol.
 
 ![](assets/LibraryNewFolder-1024x338.png)
 

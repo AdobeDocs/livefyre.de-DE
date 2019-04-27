@@ -15,7 +15,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Datum und Zeitstempel mit Livefyre. js anpassen.
 
-Livefyre-Apps geben den opetimeformat-Parameter "datetimeformat" an, um das Datumsformat anzugeben, wie nachfolgend beschrieben.
+Livefyre-Apps geben den opetimeformat-Parameter &quot;datetimeformat&quot; an, um das Datumsformat anzugeben, wie nachfolgend beschrieben.
 
 * [Terminologie](#c_date_time_stamp/section_xsk_jn4_xz)
 * [Formatierung](#c_date_time_stamp/section_ynx_gn4_xz)
@@ -119,14 +119,14 @@ Funktionen für die Datumsformatierung folgen der Musterspezifikation gemäß de
   ''       single quote            (Literal)           'o''clock'
 ```
 
-Mit ' *' markierte Elemente werden noch nicht unterstützt.
+Mit &#39; *&#39; markierte Elemente werden noch nicht unterstützt.
 
-Mit ' #' markierte Elemente unterscheiden sich anders als Java.
+Mit &#39; #&#39; markierte Elemente unterscheiden sich anders als Java.
 
 Die Anzahl der Musterbuchstaben bestimmt das Format.
 
-* **Text:** 4 oder mehr, verwenden Sie das vollständige Formular. Weniger als 4, verwenden Sie kurze oder abgekürzte Formulare, wenn sie vorhanden sind. (Beispiel: " EEEE" erzeugt "Montag" ," EEE" erzeugt "Mo" .)
-* **Nummer:** die Mindestanzahl an Stellen. Kürzere Zahlen werden mit 0 aufgefüllt (z. B.: Wenn "m" den Wert" 6" ergibt, erzeugt "mm" den Wert" 06" .) Jahr wird speziell verarbeitet; das heißt, wenn die Anzahl von'y ' 2 beträgt, wird das Jahr auf 2 Stellen gekürzt. (Beispiel: wenn "yyyy" " 1997" ergibt, erzeugt "yy" " 97" .) Im Gegensatz zu anderen Feldern werden die Bruchteile auf der rechten Seite mit null aufgefüllt.
-* **Text & Nummer:** 3 oder darüber, verwenden Sie Text. Weniger als 3, verwenden Sie die Nummer. (Beispiel: " M" erzeugt "1" ," MM" erzeugt "01" ," MMM" erzeugt "Jan" und" MMMM" erzeugt "Januar" .)
+* **Text:** 4 oder mehr, verwenden Sie das vollständige Formular. Weniger als 4, verwenden Sie kurze oder abgekürzte Formulare, wenn sie vorhanden sind. (Beispiel: &quot; EEEE&quot; erzeugt &quot;Montag&quot; ,&quot; EEE&quot; erzeugt &quot;Mo&quot; .)
+* **Nummer:** die Mindestanzahl an Stellen. Kürzere Zahlen werden mit 0 aufgefüllt (z. B.: Wenn &quot;m&quot; den Wert&quot; 6&quot; ergibt, erzeugt &quot;mm&quot; den Wert&quot; 06&quot; .) Jahr wird speziell verarbeitet; das heißt, wenn die Anzahl von&#39;y &#39; 2 beträgt, wird das Jahr auf 2 Stellen gekürzt. (Beispiel: wenn &quot;yyyy&quot; &quot; 1997&quot; ergibt, erzeugt &quot;yy&quot; &quot; 97&quot; .) Im Gegensatz zu anderen Feldern werden die Bruchteile auf der rechten Seite mit null aufgefüllt.
+* **Text &amp; Nummer:** 3 oder darüber, verwenden Sie Text. Weniger als 3, verwenden Sie die Nummer. (Beispiel: &quot; M&quot; erzeugt &quot;1&quot; ,&quot; MM&quot; erzeugt &quot;01&quot; ,&quot; MMM&quot; erzeugt &quot;Jan&quot; und&quot; MMMM&quot; erzeugt &quot;Januar&quot; .)
 
-Alle Zeichen im Muster, die sich nicht in den Bereichen ["a" befinden. 'z'] und ['A '. 'Z'] wird als benannter Text behandelt. Beispielsweise Zeichen wie ': ','. ','',' #' und ' @' werden im resultierenden Zeittext angezeigt, auch wenn sie nicht innerhalb von einfachen Anführungszeichen stehen.
+Alle Zeichen im Muster, die sich nicht in den Bereichen [&quot;a&quot; befinden. &#39;z&#39;] und [&#39;A &#39;. &#39;Z&#39;] wird als benannter Text behandelt. Beispielsweise Zeichen wie &#39;: &#39;,&#39;. &#39;,&#39;&#39;,&#39; #&#39; und &#39; @&#39; werden im resultierenden Zeittext angezeigt, auch wenn sie nicht innerhalb von einfachen Anführungszeichen stehen.

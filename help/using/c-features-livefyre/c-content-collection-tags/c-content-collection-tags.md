@@ -1,8 +1,6 @@
 ---
-description: Fügen Sie Sammlungen und Inhalte Stichwort-Tags hinzu, um Inhalte für
-  einfache Abrufe zu kategorisieren und zu organisieren.
-seo-description: Fügen Sie Sammlungen und Inhalte Stichwort-Tags hinzu, um Inhalte
-  für einfache Abrufe zu kategorisieren und zu organisieren.
+description: Fügen Sie Sammlungen und Inhalte Stichwort-Tags hinzu, um Inhalte für einfache Abrufe zu kategorisieren und zu organisieren.
+seo-description: Fügen Sie Sammlungen und Inhalte Stichwort-Tags hinzu, um Inhalte für einfache Abrufe zu kategorisieren und zu organisieren.
 seo-title: Collection- und Content-Tags
 solution: Experience Manager
 title: Collection- und Content-Tags

@@ -1,10 +1,6 @@
 ---
-description: Gibt ein Collection-Objekt zurück, das als Chat-Typ instanziiert wird.
-  Führen Sie create_ or_ update () aus dem Collection-Objekt aus, um den Build-Prozess
-  abzuschließen.
-seo-description: Gibt ein Collection-Objekt zurück, das als Chat-Typ instanziiert
-  wird. Führen Sie create_ or_ update () aus dem Collection-Objekt aus, um den Build-Prozess
-  abzuschließen.
+description: Gibt ein Collection-Objekt zurück, das als Chat-Typ instanziiert wird. Führen Sie create_ or_ update () aus dem Collection-Objekt aus, um den Build-Prozess abzuschließen.
+seo-description: Gibt ein Collection-Objekt zurück, das als Chat-Typ instanziiert wird. Führen Sie create_ or_ update () aus dem Collection-Objekt aus, um den Build-Prozess abzuschließen.
 seo-title: Buildchatcollection-Site-Methode
 solution: Experience Manager
 title: Buildchatcollection-Site-Methode

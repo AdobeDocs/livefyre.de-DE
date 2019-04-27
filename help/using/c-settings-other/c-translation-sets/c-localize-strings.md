@@ -15,7 +15,7 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 Anpassen der Zeichenfolgen der Livefyre-Apps.
 
-Die Textzeichenfolgen für die meisten HTML-Elemente in jeder Livefyre-App können angepasst werden. Dies bietet die Flexibilität, den Text gerenderter HTML-Elemente wie die Schaltfläche "Veröffentlichen als" , den Text" Kommentarzähler" oder die Schaltfläche "Anmelden" zu jeder gültigen UTF -8-Zeichenfolge zu ändern. Verwenden Sie diese Funktion, um Ihrer Implementierung des Streams persönliche Persönlichkeit hinzuzufügen oder um die Sprache in der App für Ihre Benutzerbasis zu lokalisieren.
+Die Textzeichenfolgen für die meisten HTML-Elemente in jeder Livefyre-App können angepasst werden. Dies bietet die Flexibilität, den Text gerenderter HTML-Elemente wie die Schaltfläche &quot;Veröffentlichen als&quot; , den Text&quot; Kommentarzähler&quot; oder die Schaltfläche &quot;Anmelden&quot; zu jeder gültigen UTF -8-Zeichenfolge zu ändern. Verwenden Sie diese Funktion, um Ihrer Implementierung des Streams persönliche Persönlichkeit hinzuzufügen oder um die Sprache in der App für Ihre Benutzerbasis zu lokalisieren.
 
 * Kommentare, Chat und Live Blog
 
@@ -112,7 +112,7 @@ Ermöglicht es, zurückgegebene Inhalte nach Alter oder Beliebtheit zu sortieren
 |  | Sorthotthreads | Hot Threads |
 |  | Sortseparator |  |  |
 |  | Streamsorting | Wird geladen |
-|  | Topcommentscontentnotfoundmsg | Es gibt noch nicht genügend "Gefällt mir" -Klicks. |
+|  | Topcommentscontentnotfoundmsg | Es gibt noch nicht genügend &quot;Gefällt mir&quot; -Klicks. |
 |  | Hotthreadscontentnotfoundmsg | Es sind noch nicht genügend Threads vorhanden. |
 |  | Streamrefreshmsg | Sehen Sie sich die neuen Funktionen an. |
 | Fußzeilenoptionen | Archiveheadertitle | Aus dem Archiv |
@@ -139,7 +139,7 @@ Listet Beitragsinformationen auf: Benutzername, alle angewendeten Benutzer-Tags 
 |  | Timehoursagoplural | Vor Stunden |
 |  | Timedaysago | ago |
 |  | Timedaysagoplural | Tage vor Tagen |
-|  | Likesplural | " Gefällt mir" -Klicks |
+|  | Likesplural | &quot; Gefällt mir&quot; -Klicks |
 |  | Likessingular | Gefällt mir |
 |  | Moderatoredittimestamp | Von einem Moderator bearbeitet |
 |  | Commenttombstones | Dieser Kommentar wurde gelöscht. |
@@ -205,7 +205,7 @@ Sofern nicht anderweitig vermerkt, steht für alle angemeldeten Benutzer zur Ver
 
 | Schlüssel | Standardtext |  |
 |---|---|---|
-| Flag Modal | Flagtitle | Kommentar % s's |
+| Flag Modal | Flagtitle | Kommentar % s&#39;s |
 |  | Flagsubtitle | Flag als |
 |  | Flagdefaultselectoption | Auswählen |
 |  | Flagspam | Spam |
@@ -273,7 +273,7 @@ Sofern nicht anderweitig vermerkt, steht für alle angemeldeten Benutzer zur Ver
 | Schlüssel | Standardtext |  |
 |---|---|---|
 | Modal bearbeiten | Für Studio-Administratoren, Benutzermanager oder Moderatoren verfügbar |  |
-| @ (@ mention.) | </> (Öffnet das benutzerdefinierte HTML-Fenster.) |  |
+| @ (@ mention.) | &lt;/&gt; (Öffnet das benutzerdefinierte HTML-Fenster.) |  |
 |  | Customhtmldialogtitle (Wird als Header für das Modal angezeigt.) | Benutzerdefinierte HTML hinzufügen |
 
 ![](assets/strings_moderatoreditmodal-150x49.png)
@@ -477,7 +477,7 @@ Für die Livefyre-Identität verfügbare Zeichenfolgen.
 | Labelconfirmnewpassword | Neues Passwort bestätigen |
 | Labelconfirmpassword | Kennwort bestätigen |
 | Labelemail | E-Mail-Adresse |
-| Labellikes | " Gefällt mir" -Klicks |
+| Labellikes | &quot; Gefällt mir&quot; -Klicks |
 | Labelloading | Wird geladen |
 | Labelnewpassword | Neues Kennwort |
 | Labelnotification | Benachrichtigungen |

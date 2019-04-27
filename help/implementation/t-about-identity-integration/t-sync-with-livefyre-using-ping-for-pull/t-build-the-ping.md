@@ -1,8 +1,6 @@
 ---
-description: Erstellen Sie das Ping so, dass Ihre Seitenpings Livefyre lauten, wenn
-  Benutzer ihr Profil aktualisieren.
-seo-description: Erstellen Sie das Ping so, dass Ihre Seitenpings Livefyre lauten,
-  wenn Benutzer ihr Profil aktualisieren.
+description: Erstellen Sie das Ping so, dass Ihre Seitenpings Livefyre lauten, wenn Benutzer ihr Profil aktualisieren.
+seo-description: Erstellen Sie das Ping so, dass Ihre Seitenpings Livefyre lauten, wenn Benutzer ihr Profil aktualisieren.
 seo-title: Ping erstellen
 solution: Experience Manager
 title: Ping erstellen

@@ -21,7 +21,7 @@ Versionshinweise für die Version vom 14. Juni 2018.
 
 Der Wert der evars. apptype-javascript und des Generator. name wurde in der folgenden Tabelle als Gliederung in neue Werte geändert:
 
-## Änderungen der Variablen "evars. apptype «
+## Änderungen der Variablen &quot;evars. apptype «
 
 | Vorheriger Name | Neuer Name |
 |---|---|

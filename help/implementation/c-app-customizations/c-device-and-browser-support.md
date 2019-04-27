@@ -1,8 +1,6 @@
 ---
-description: Eine Liste von Browsern und Geräten, die von der Livefyre-App Suite unterstützt
-  werden.
-seo-description: Eine Liste von Browsern und Geräten, die von der Livefyre-App Suite
-  unterstützt werden.
+description: Eine Liste von Browsern und Geräten, die von der Livefyre-App Suite unterstützt werden.
+seo-description: Eine Liste von Browsern und Geräten, die von der Livefyre-App Suite unterstützt werden.
 seo-title: Gerät- und Browserunterstützung
 title: Gerät- und Browserunterstützung
 uuid: 338 f 78 b 2-051 d -4831-a 0 b 9-e 987 f 92660 ce

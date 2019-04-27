@@ -1,8 +1,6 @@
 ---
-description: Das Navigationsleitfaden bietet Ihnen eine Möglichkeit, wichtige Informationen
-  im Storify schnell herauszufinden und zu finden.
-seo-description: Das Navigationsleitfaden bietet Ihnen eine Möglichkeit, wichtige
-  Informationen im Storify schnell herauszufinden und zu finden.
+description: Das Navigationsleitfaden bietet Ihnen eine Möglichkeit, wichtige Informationen im Storify schnell herauszufinden und zu finden.
+seo-description: Das Navigationsleitfaden bietet Ihnen eine Möglichkeit, wichtige Informationen im Storify schnell herauszufinden und zu finden.
 seo-title: Navigationsleitfaden
 solution: Experience Manager
 title: Navigationsleitfaden
@@ -34,9 +32,9 @@ Verwenden Sie das Feld **[!UICONTROL Max Number of Guide Posts]** , um die maxim
 
 Verwenden Sie das Feld **[!UICONTROL Orientation]** , um die Platzierung des Navigationsleitfadens festzulegen: oben, links oder rechts.
 
-* Wählen **[!UICONTROL top]** Sie Ausrichtung, um das Navigationshandbuch oben in Storify 2 zu platzieren. Das Navigationshandbuch wird nicht angezeigt, wenn Sie nach unten blättern, selbst wenn Sie das Feld "Stickiness" aktivieren.
-* Wählen **[!UICONTROL left]** Sie Ausrichtung, um das Navigationshandbuch in der linken Seitenleiste in Storify 2 zu platzieren. Das Navigationshandbuch wird nur angezeigt, wenn Sie die Seite nach unten blättern, es sei denn, Sie aktivieren das Feld "Stickiness" . Wenn Sie das Feld "Stickiness" aktivieren, wird beim Bildlauf stets das Navigationsleitfaden links neben der Seite angezeigt.
-* Wählen Sie die **[!UICONTROL right]** Ausrichtung, um das Navigationshandbuch rechts von Storify 2 zu platzieren. Das Navigationshandbuch wird nur angezeigt, wenn Sie die Seite nach unten blättern, es sei denn, Sie aktivieren das Feld "Stickiness" . Wenn Sie das Feld "Stickiness" aktivieren, wird Ihnen beim Bildlauf immer das Navigationsleitfaden rechts neben der Seite angezeigt.
+* Wählen **[!UICONTROL top]** Sie Ausrichtung, um das Navigationshandbuch oben in Storify 2 zu platzieren. Das Navigationshandbuch wird nicht angezeigt, wenn Sie nach unten blättern, selbst wenn Sie das Feld &quot;Stickiness&quot; aktivieren.
+* Wählen **[!UICONTROL left]** Sie Ausrichtung, um das Navigationshandbuch in der linken Seitenleiste in Storify 2 zu platzieren. Das Navigationshandbuch wird nur angezeigt, wenn Sie die Seite nach unten blättern, es sei denn, Sie aktivieren das Feld &quot;Stickiness&quot; . Wenn Sie das Feld &quot;Stickiness&quot; aktivieren, wird beim Bildlauf stets das Navigationsleitfaden links neben der Seite angezeigt.
+* Wählen Sie die **[!UICONTROL right]** Ausrichtung, um das Navigationshandbuch rechts von Storify 2 zu platzieren. Das Navigationshandbuch wird nur angezeigt, wenn Sie die Seite nach unten blättern, es sei denn, Sie aktivieren das Feld &quot;Stickiness&quot; . Wenn Sie das Feld &quot;Stickiness&quot; aktivieren, wird Ihnen beim Bildlauf immer das Navigationsleitfaden rechts neben der Seite angezeigt.
 
 Verwenden Sie das Feld **[!UICONTROL Stickiness]** , um das Navigationshandbuch am oberen Rand des Bildschirms anzuhalten. Sticky bedeutet, dass das Navigationsleitfaden am oberen Bildschirmrand angezeigt wird, unabhängig davon, wo Sie sich auf einer Seite befinden, auf der Storify 2 eingebettet ist.
 

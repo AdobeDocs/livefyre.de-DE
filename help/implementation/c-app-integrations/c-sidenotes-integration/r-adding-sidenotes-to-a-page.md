@@ -1,6 +1,6 @@
 ---
-description: null
-seo-description: null
+description: 'null '
+seo-description: 'null '
 seo-title: Hinzufügen von Zielgruppen zu einer Seite
 solution: Experience Manager
 title: Hinzufügen von Zielgruppen zu einer Seite
@@ -18,12 +18,12 @@ Livefyre bietet verschiedene Konfigurationsoptionen für die Positionierung von 
 * Die Option Selektoren definiert die Elemente, auf denen die Autoren erscheinen sollten.
 * Anker stellen Elemente dar, die autorisiert werden können.
 * Mit dem benutzerdefinierten Thread-Behälter können Sie festlegen, wo der Thread-Thread im Verhältnis zu den gezählten Inhalten platziert werden soll.
-* Mit der Option "Sidenotes" können Sie die Anzahl der am angegebenen Ort hinzugefügten Autoren anzeigen.
+* Mit der Option &quot;Sidenotes&quot; können Sie die Anzahl der am angegebenen Ort hinzugefügten Autoren anzeigen.
 * Verwenden Sie mehrere `ConvConfig` Objekte, um mehreren Meldungen auf einer einzigen Seite Zielgruppen hinzuzufügen.
 
 ## Selektoren {#section_wyj_4sv_sy}
 
-Mit der Option Selektoren können Autoren Inhalte auf der Seite suchen. Mit dem Wert für diese Option können Sie die verwendeten Elemente dynamisch bestimmen. Es kann sich um eine Auswahlzeichenfolge (z. B. " # content p, # content img" ), ein jquery-Objekt (z. `$(‘#content’)`B.), ein Array von DOM-Elementen oder ein Objekt mit zwei Eigenschaften handeln: einbeziehen und ausschließen. Die DOM-App verwendet dann entweder die angegebenen Elemente oder die übereinstimmenden Elemente auf der Seite. Wenn die Eigenschaften "Einschließen" und" Ausschließen" verwendet werden, analysiert die Seite zunächst die Seite, um alle Elemente in der include-Eigenschaft zu suchen, und entfernt dann alle Elemente, die in der Eigenschaft "exclude" gefunden wurden.
+Mit der Option Selektoren können Autoren Inhalte auf der Seite suchen. Mit dem Wert für diese Option können Sie die verwendeten Elemente dynamisch bestimmen. Es kann sich um eine Auswahlzeichenfolge (z. B. &quot; # content p, # content img&quot; ), ein jquery-Objekt (z. `$(‘#content’)`B.), ein Array von DOM-Elementen oder ein Objekt mit zwei Eigenschaften handeln: einbeziehen und ausschließen. Die DOM-App verwendet dann entweder die angegebenen Elemente oder die übereinstimmenden Elemente auf der Seite. Wenn die Eigenschaften &quot;Einschließen&quot; und&quot; Ausschließen&quot; verwendet werden, analysiert die Seite zunächst die Seite, um alle Elemente in der include-Eigenschaft zu suchen, und entfernt dann alle Elemente, die in der Eigenschaft &quot;exclude&quot; gefunden wurden.
 
 ## Anker {#section_ehq_psv_sy}
 
@@ -54,15 +54,15 @@ Weitere [Informationen zur Verwendung](/help/implementation/c-app-integrations/c
 
 ## Benutzerdefinierter Thread-Container {#section_jdh_btv_sy}
 
-Verwenden Sie die `threadContainerEl` Option, um einen Speicherort für einen "Sidenotes" -Thread als die Standardposition anzugeben. Wenn ein Anker aktiviert ist, erscheinen die Autoren standardmäßig neben oder unter dem relevanten Inhalt. Um diesen Standardwert zu ändern, verwenden Sie das `threadContainerEl` Element, in dem der Thread angezeigt werden soll.
+Verwenden Sie die `threadContainerEl` Option, um einen Speicherort für einen &quot;Sidenotes&quot; -Thread als die Standardposition anzugeben. Wenn ein Anker aktiviert ist, erscheinen die Autoren standardmäßig neben oder unter dem relevanten Inhalt. Um diesen Standardwert zu ändern, verwenden Sie das `threadContainerEl` Element, in dem der Thread angezeigt werden soll.
 
 Dieser Wert für diese Option funktioniert mit der Option Selektoren, außer dass nur das erste gültige Element verwendet wird.
 
 ## Zähleranzahl {#section_pld_ntv_sy}
 
-Verwenden Sie die `numSidenotesEl` Option, um ein optionales Widget "Sidenotes-Zähler" auf Ihrer Seite einzubetten. Diese Option akzeptiert dieselbe Eingabe wie die Option Selektoren, verwendet jedoch nur das erste gültige Element im Eingabearray.
+Verwenden Sie die `numSidenotesEl` Option, um ein optionales Widget &quot;Sidenotes-Zähler&quot; auf Ihrer Seite einzubetten. Diese Option akzeptiert dieselbe Eingabe wie die Option Selektoren, verwendet jedoch nur das erste gültige Element im Eingabearray.
 
-Das Widget dekoriert das bereitgestellte oder übereinstimmende Element und enthält das Eingabesymbol "Sidenotes" , die Anzahl der an dieser Position eingegebenen Alliotes und ein Hilfesymbol.
+Das Widget dekoriert das bereitgestellte oder übereinstimmende Element und enthält das Eingabesymbol &quot;Sidenotes&quot; , die Anzahl der an dieser Position eingegebenen Alliotes und ein Hilfesymbol.
 
 Durch Klicken auf das Widget wird ein Popover mit einer kurzen Erklärung von Sidenotes und deren Verwendung angezeigt.
 
@@ -70,7 +70,7 @@ Sowohl die Erklärung als auch der Beispieltext sind mithilfe von benutzerdefini
 
 ## Hinzufügen mehrerer Sammlungen für mehrere Gruppen zu einer einzelnen Seite {#section_pjl_ptv_sy}
 
-Mit Livefyre können Sie einer einzelnen Seite mehrere Sammlungen für einzelne Gruppen hinzufügen. Wenn die Seite beispielsweise drei Meldungsmeldungen enthält, möchten Sie möglicherweise drei separate Iterationen der App "Sidenotes" einbeziehen. Dazu müssen Sie für jede Instanz von Autoren, die Sie erstellen möchten, ein separates `ConvConfig` Objekt definieren. Beispiel:
+Mit Livefyre können Sie einer einzelnen Seite mehrere Sammlungen für einzelne Gruppen hinzufügen. Wenn die Seite beispielsweise drei Meldungsmeldungen enthält, möchten Sie möglicherweise drei separate Iterationen der App &quot;Sidenotes&quot; einbeziehen. Dazu müssen Sie für jede Instanz von Autoren, die Sie erstellen möchten, ein separates `ConvConfig` Objekt definieren. Beispiel:
 
 ```
 <html> 

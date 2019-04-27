@@ -1,8 +1,6 @@
 ---
-description: Konfigurieren Sie ein Social-Konto, um Rechte anzufordern oder in Streams
-  oder Social-Suchen nach UGC zu suchen.
-seo-description: Konfigurieren Sie ein Social-Konto, um Rechte anzufordern oder in
-  Streams oder Social-Suchen nach UGC zu suchen.
+description: Konfigurieren Sie ein Social-Konto, um Rechte anzufordern oder in Streams oder Social-Suchen nach UGC zu suchen.
+seo-description: Konfigurieren Sie ein Social-Konto, um Rechte anzufordern oder in Streams oder Social-Suchen nach UGC zu suchen.
 seo-title: Social-Konto hinzufügen
 solution: Experience Manager
 title: Social-Konto hinzufügen
@@ -33,7 +31,7 @@ So konfigurieren Sie ein Social-Konto:
 
    >[!NOTE]
    >
-   >Wenn Sie ein Instagram-Geschäftskonto konfigurieren, gelangen Sie zu einem Facebook-Anmeldungsbildschirm. Fahren Sie mit der Anmeldung normal fort. ![](assets/i_insta_biz_facebook_dialog.png) >
+   >Wenn Sie ein Instagram-Geschäftskonto konfigurieren, gelangen Sie zu einem Facebook-Anmeldungsbildschirm. Fahren Sie mit der Anmeldung normal fort. ![](assets/i_insta_biz_facebook_dialog.png) &gt;
 
 1. Klicken **[!UICONTROL Authorize App]** Sie auf, um fortzufahren.
-1. Fügen Sie ein **[!UICONTROL Display Name]** Konto für das Konto hinzu und klicken **[!UICONTROL Save Settings.]**Sie dann auf. Klicken Sie in **[!UICONTROL Social Account]** der Kopfzeile des Kontofeldes auf, um das Konto zu reduzieren.
+1. Fügen Sie ein **[!UICONTROL Display Name]** Konto für das Konto hinzu und klicken **[!UICONTROL Save Settings.]** Sie dann auf. Klicken Sie in **[!UICONTROL Social Account]** der Kopfzeile des Kontofeldes auf, um das Konto zu reduzieren.

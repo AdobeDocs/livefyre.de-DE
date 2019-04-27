@@ -1,8 +1,6 @@
 ---
-description: Stellen Sie produktspezifische UGC an bestimmten Punkten der Kundenpfade
-  bereit, um den Kauf und die Umrechnung mit der UGC Commerce-Funktion zu steigern.
-seo-description: Stellen Sie produktspezifische UGC an bestimmten Punkten der Kundenpfade
-  bereit, um den Kauf und die Umrechnung mit der UGC Commerce-Funktion zu steigern.
+description: Stellen Sie produktspezifische UGC an bestimmten Punkten der Kundenpfade bereit, um den Kauf und die Umrechnung mit der UGC Commerce-Funktion zu steigern.
+seo-description: Stellen Sie produktspezifische UGC an bestimmten Punkten der Kundenpfade bereit, um den Kauf und die Umrechnung mit der UGC Commerce-Funktion zu steigern.
 seo-title: UGC Commerce
 solution: Experience Manager
 title: UGC Commerce
@@ -92,10 +90,10 @@ Laden Sie Produkte hoch, die mit Ihrer Aktionsaktionsschaltfläche verwendet wer
 | id | Zeichenfolge | Eindeutige ID des Produkts. |
 | oembed | Objekt | Bildanforderung `0embed $ref: '../partials/schemas.yaml#/oEmbed'` |
 | Titel | Zeichenfolge | Produkttitel. |
-| Isfolder | Boolescher Wert | Wenn "true" , wird das Produkt wie ein Ordner behandelt (z. B. Männer, Damenbereiche usw.). |
+| Isfolder | Boolescher Wert | Wenn &quot;true&quot; , wird das Produkt wie ein Ordner behandelt (z. B. Männer, Damenbereiche usw.). |
 | Parentid | Zeichenfolge | Definiert den Ordner, unter dem sich das Produkt befindet. |
 | Beschreibung | Zeichenfolge | Beschreibung des Produkts. |
-| Preis | Zeichenfolge | Wert des Produkts in Dollar. Beispiel:' 23.36.' |
+| Preis | Zeichenfolge | Wert des Produkts in Dollar. Beispiel:&#39; 23.36.&#39; |
 | sku | Zeichenfolge | Lagerbestand (SKU) des Produkts. |
 | url | Zeichenfolge | Verknüpfen Sie die Produktseite. |
 | aktiviert | Boolescher Wert | Der Wert True bedeutet, dass das Produkt aktiv ist. |

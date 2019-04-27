@@ -1,15 +1,11 @@
 ---
-description: Sie können das Recht anfordern, ein Instagram-Asset wiederzuverwenden,
-  das Sie von einem Hashtag, einer URL oder einer standortbasierten Instagram-Suche
-  oder -stream mithilfe eines manuellen Arbeitsablaufs erhalten haben.
-seo-description: Sie können das Recht anfordern, ein Instagram-Asset wiederzuverwenden,
-  das Sie von einem Hashtag, einer URL oder einer standortbasierten Instagram-Suche
-  oder -stream mithilfe eines manuellen Arbeitsablaufs erhalten haben.
+description: Sie können das Recht anfordern, ein Instagram-Asset wiederzuverwenden, das Sie von einem Hashtag, einer URL oder einer standortbasierten Instagram-Suche oder -stream mithilfe eines manuellen Arbeitsablaufs erhalten haben.
+seo-description: Sie können das Recht anfordern, ein Instagram-Asset wiederzuverwenden, das Sie von einem Hashtag, einer URL oder einer standortbasierten Instagram-Suche oder -stream mithilfe eines manuellen Arbeitsablaufs erhalten haben.
 seo-title: Instagram-Rechte manuell senden
 title: Instagram-Rechte manuell senden
 uuid: c 07 b 3 f 6 f-c 14 c -4 e 62-b 18 b -25934 ebe 45 bf
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
 
 ---
 

@@ -1,8 +1,6 @@
 ---
-description: Versucht, diese Sammlung mit Livefyre zu erstellen oder zu aktualisieren.
-  Gibt dieses Collection-Objekt zurück.
-seo-description: Versucht, diese Sammlung mit Livefyre zu erstellen oder zu aktualisieren.
-  Gibt dieses Collection-Objekt zurück.
+description: Versucht, diese Sammlung mit Livefyre zu erstellen oder zu aktualisieren. Gibt dieses Collection-Objekt zurück.
+seo-description: Versucht, diese Sammlung mit Livefyre zu erstellen oder zu aktualisieren. Gibt dieses Collection-Objekt zurück.
 seo-title: Createorupdate Collection-Methode
 solution: Experience Manager
 title: Createorupdate Collection-Methode

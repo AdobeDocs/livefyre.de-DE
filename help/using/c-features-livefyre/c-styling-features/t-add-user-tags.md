@@ -16,4 +16,4 @@ Fügen Sie dem Konto ein Benutzertag hinzu, um Benutzerzeichen anzuwenden.
 
 1. Erstellen Sie Eigentümer und Moderatoren über Studio, um das **[!UICONTROL Moderator]** Benutzertag dem Konto zuzuweisen.
 1. Erstellen Sie Benutzergruppen und fügen Sie ihnen dann Benutzer über Studio hinzu, um Tags auf den Gruppennamen für die ausgewählten Benutzer anzuwenden.
-1. Wenden Sie Benutzertags direkt auf Konten mithilfe des HTTP-Aufrufs "Benutzer-Tag hinzufügen" oder" Ping" für Pull an.
+1. Wenden Sie Benutzertags direkt auf Konten mithilfe des HTTP-Aufrufs &quot;Benutzer-Tag hinzufügen&quot; oder&quot; Ping&quot; für Pull an.

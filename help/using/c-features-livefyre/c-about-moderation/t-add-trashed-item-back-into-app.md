@@ -1,8 +1,6 @@
 ---
-description: Wenn Sie ein Element in modq verschlüsseln, können Sie es mit einer Social-Suche
-  wieder in die App einfügen.
-seo-description: Wenn Sie ein Element in modq verschlüsseln, können Sie es mit einer
-  Social-Suche wieder in die App einfügen.
+description: Wenn Sie ein Element in modq verschlüsseln, können Sie es mit einer Social-Suche wieder in die App einfügen.
+seo-description: Wenn Sie ein Element in modq verschlüsseln, können Sie es mit einer Social-Suche wieder in die App einfügen.
 seo-title: Zurücksetzen eines umgebrochenen Elements zu einer App
 title: Zurücksetzen eines umgebrochenen Elements zu einer App
 uuid: 96 c 5 db 19-999 f -476 f-a 96 c-ad 101028 d 484
@@ -16,8 +14,8 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Wenn Sie ein Element in modq verschlüsseln, können Sie es mit einer Social-Suche wieder in die App einfügen.
 
-1. Navigieren **[!UICONTROL Library]**Sie zu.
-1. Wählen **[!UICONTROL Social Search]**Sie.
+1. Navigieren **[!UICONTROL Library]** Sie zu.
+1. Wählen **[!UICONTROL Social Search]** Sie.
 1. Wählen Sie eine **[!UICONTROL Social Source]** (z. B. Twitter oder Instagram).
 1. Geben Sie ein Hashtag ein.
 1. Wählen Sie Inhalt aus.

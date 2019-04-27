@@ -24,7 +24,7 @@ var app = Livefyre.Sidenotes(convConfig);
 });
 ```
 
-Weitere Informationen zu Livefyre-Ereignissen finden Sie auf der Seite "Javascript-Ereignisse" im Abschnitt" Referenz" .
+Weitere Informationen zu Livefyre-Ereignissen finden Sie auf der Seite &quot;Javascript-Ereignisse&quot; im Abschnitt&quot; Referenz&quot; .
 
 | Schlüssel | Beschreibung |
 |--- |--- |
@@ -32,6 +32,6 @@ Weitere Informationen zu Livefyre-Ereignissen finden Sie auf der Seite "Javascri
 | sidenotes. commentflag | Wird ausgelöst, wenn ein Kommentar gekennzeichnet wurde. Daten enthalten: <br><ul><li>`targetId`: ID des Kommentars, das markiert wurde</li><li>`type`: Flag-Typ-Zeichenfolge `(offensive, off-topic, spam, disagree)`</li></ul> |
 | `sidenotes.commentPosted` | Wird ausgelöst, wenn ein Kommentar veröffentlicht wurde. Daten enthalten: <br><ul><li> `authorId`: ID des Autors des Kommentars </li><li>`bodyHtml`: Text des Kommentars </li><li> `parent`: ID des übergeordneten Kommentars oder null</li></ul> |
 | `sidenotes.commentShared` | Wird ausgelöst, wenn ein Kommentar freigegeben wurde. Daten enthalten: <br><ul><li>`targetId`: ID des freigegebenen Kommentars </li><li> `sharedToFacebook`: ob der Kommentar für Facebook freigegeben wurde </li><li>`sharedToTwitter`: ob der Kommentar für Twitter freigegeben wurde</li></ul> |
-| `sidenotes.commentVoted` | Wird ausgelöst, wenn ein Kommentar abgegeben wurde. Daten enthalten: <br><ul><li>`targetId`: ID des Kommentars, auf das abgestimmt wurde </li><li> `targetAuthorId`: ID des Autors, dessen Kommentar abgegeben wurde</li><li> `type`: numerischer Abstimmungstyp: 0: ' clear ', 1: ' upabstimmen'oder 2: ' downabstimmen '</li></ul> |
+| `sidenotes.commentVoted` | Wird ausgelöst, wenn ein Kommentar abgegeben wurde. Daten enthalten: <br><ul><li>`targetId`: ID des Kommentars, auf das abgestimmt wurde </li><li> `targetAuthorId`: ID des Autors, dessen Kommentar abgegeben wurde</li><li> `type`: numerischer Abstimmungstyp: 0: &#39; clear &#39;, 1: &#39; upabstimmen&#39;oder 2: &#39; downabstimmen &#39;</li></ul> |
 | `sidenotes.userLoggedIn` | Wird ausgelöst, wenn sich ein Benutzer anmeldet. Daten enthalten: <br><ul><li>`avatar`: Avatar-URL für den Benutzer </li><li>`displayName`: Anzeigename des Benutzers</li><li>`id`: ID des Benutzers</li><li> `isModerator`: ob der Benutzer ein Moderator der aktuellen Sammlung ist</li></ul> |
 | `sidenotes.userLoggedOut` | Wird ausgelöst, wenn sich ein Benutzer anmeldet. |

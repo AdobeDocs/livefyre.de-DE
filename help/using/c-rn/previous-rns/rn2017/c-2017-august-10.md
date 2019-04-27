@@ -18,7 +18,7 @@ Versionshinweise für die Version vom 10. August 2017.
 
 | **Ausgabentyp** | **Komponente** | **Versionshinweise** |
 |---|---|---|
-| Bug | Bibliothek | Fehler behoben, der verhinderte, dass der Inhalt der Schaltfläche "Mehr Info" in der Bibliothek angezeigt wurde. |
+| Bug | Bibliothek | Fehler behoben, der verhinderte, dass der Inhalt der Schaltfläche &quot;Mehr Info&quot; in der Bibliothek angezeigt wurde. |
 | Bug | Bibliothek | Es wurde ein Problem behoben, durch das Produkte nicht korrekt angezeigt wurden, nachdem ein Produkt zu einem Asset in der Bibliothek erneut hinzugefügt wurde. |
 
 ## UAT-Version
@@ -27,6 +27,6 @@ Versionshinweise für die Version vom 10. August 2017.
 |---|---|---|
 | Bug | Studio | Es wurde ein Fehler behoben, der verhinderte, dass Statusstatusaktualisierungen sofort ohne Aktualisieren einer Seite angezeigt wurden. |
 | Bug | Kommentare | Es wurde ein Fehler in Kommentaren behoben, durch den MOV oder. mpg erfolgreich hochgeladen werden konnten. |
-| Bug | Studio | Es wurde ein Fehler behoben, der die Sortierung nach "meisten Teilnehmern" und nach" meisten Elementen" aktivierte. |
+| Bug | Studio | Es wurde ein Fehler behoben, der die Sortierung nach &quot;meisten Teilnehmern&quot; und nach&quot; meisten Elementen&quot; aktivierte. |
 | Bug | Studio | Es wurde ein Fehler behoben, durch den Massenvertrummerkommentare zulässig waren. |
 

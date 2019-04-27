@@ -20,7 +20,7 @@ Die folgenden Tastaturkürzel stehen für Moderatoren in modq zur Verfügung.
 | Nächstes Element | Element unter dem aktuell ausgewählten Element auswählen | Nach-unten-Taste | J |
 | Inhalt genehmigen | Markieren von Inhalten als genehmigt | a |  |
 | Papierkorb | Markieren von Inhalt als Umbruch | x |  |
-| Bozo-Inhalt | Markieren von Inhalten als Bozo'd | b |  |
+| Bozo-Inhalt | Markieren von Inhalten als Bozo&#39;d | b |  |
 | Obere Warteschlange | Zum ersten Element oben in der Warteschlange springen | l |  |
 | Stummschalten oder Aufheben der Stummschaltung | Stummschalten oder Aufheben der Stummschaltung vom ausgewählten Benutzer | Umschalt + M |  |
 | Benutzer sperren | Den ausgewählten Benutzer nur für diese Site sperren | Umschalt + B |  |

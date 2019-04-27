@@ -1,8 +1,6 @@
 ---
-description: Passen Sie alle Textzeichenfolgen in der App für die Internationalisierung
-  oder das Branding an.
-seo-description: Passen Sie alle Textzeichenfolgen in der App für die Internationalisierung
-  oder das Branding an.
+description: Passen Sie alle Textzeichenfolgen in der App für die Internationalisierung oder das Branding an.
+seo-description: Passen Sie alle Textzeichenfolgen in der App für die Internationalisierung oder das Branding an.
 seo-title: Übersetzung und benutzerdefinierte Textzeichenfolgen
 solution: Experience Manager
 title: Übersetzung und benutzerdefinierte Textzeichenfolgen
@@ -17,7 +15,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Passen Sie alle Textzeichenfolgen in der App für die Internationalisierung oder das Branding an.
 
-Um das Erlebnis Ihrer Community zu verbessern, können Sie die Textzeichenfolge für beliebige Textbeschriftungen anpassen, um sie an die Sprache oder das Branding Ihrer Site anzupassen. Sie können beispielsweise "Gefällt mir" zu" Empfehlen" oder "Löschen" zu" Borrar" ändern. »
+Um das Erlebnis Ihrer Community zu verbessern, können Sie die Textzeichenfolge für beliebige Textbeschriftungen anpassen, um sie an die Sprache oder das Branding Ihrer Site anzupassen. Sie können beispielsweise &quot;Gefällt mir&quot; zu&quot; Empfehlen&quot; oder &quot;Löschen&quot; zu&quot; Borrar&quot; ändern. »
 
 Weitere Informationen finden Sie unter [](../c-settings-other/c-translation-sets/c-translation-sets.md#c_translation_sets).
 

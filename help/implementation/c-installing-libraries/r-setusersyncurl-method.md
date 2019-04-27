@@ -1,8 +1,6 @@
 ---
-description: Informiert Livefyre, die Benutzersynchronisierung des Netzwerks mit dem
-  bereitgestellten zu aktualisieren. Gibt einen Booleschen Wert zurück.
-seo-description: Informiert Livefyre, die Benutzersynchronisierung des Netzwerks mit
-  dem bereitgestellten zu aktualisieren. Gibt einen Booleschen Wert zurück.
+description: Informiert Livefyre, die Benutzersynchronisierung des Netzwerks mit dem bereitgestellten zu aktualisieren. Gibt einen Booleschen Wert zurück.
+seo-description: Informiert Livefyre, die Benutzersynchronisierung des Netzwerks mit dem bereitgestellten zu aktualisieren. Gibt einen Booleschen Wert zurück.
 seo-title: Setusersyncurl Network-Methode
 solution: Experience Manager
 title: Setusersyncurl Network-Methode
@@ -19,7 +17,7 @@ Informiert Livefyre, die Benutzersynchronisierung des Netzwerks mit dem bereitge
 
 | Variable | Typ | Beschreibung |
 |--- |--- |--- |
-| Urltemplate | Zeichenfolge | Die URL zur Registrierung bei Livefyre für die Synchronisierung von Benutzer-IDs. Erfordert "`{id}`«als Teil der angegebenen URL-Zeichenfolge. |
+| Urltemplate | Zeichenfolge | Die URL zur Registrierung bei Livefyre für die Synchronisierung von Benutzer-IDs. Erfordert &quot;`{id}`«als Teil der angegebenen URL-Zeichenfolge. |
 
 ## Java-Beispiel {#section_nyl_ycs_rz}
 

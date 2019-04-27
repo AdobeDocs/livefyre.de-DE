@@ -1,8 +1,6 @@
 ---
-description: Beim Kuratieren von Inhalten aus Instagram müssen Sie ihre Richtlinien
-  und Best Practices befolgen.
-seo-description: Beim Kuratieren von Inhalten aus Instagram müssen Sie ihre Richtlinien
-  und Best Practices befolgen.
+description: Beim Kuratieren von Inhalten aus Instagram müssen Sie ihre Richtlinien und Best Practices befolgen.
+seo-description: Beim Kuratieren von Inhalten aus Instagram müssen Sie ihre Richtlinien und Best Practices befolgen.
 seo-title: Instagram-Content-Richtlinien
 solution: Experience Manager
 title: Instagram-Content-Richtlinien
@@ -28,7 +26,7 @@ Instagram erzwingt die folgenden Regeln zum Abrufen von Inhalten von ihrer Platt
 
 Livefyre empfiehlt Ihnen, die folgenden Richtlinien zu befolgen, um Ihre Suchfunktion und Effektivität zu maximieren:
 
-* Fördern und wählen Sie Hashtags, die für Ihre Marke einzigartig sind, sodass Benutzer "explizit" an der Kampagne teilnehmen können.
+* Fördern und wählen Sie Hashtags, die für Ihre Marke einzigartig sind, sodass Benutzer &quot;explizit&quot; an der Kampagne teilnehmen können.
 * Verwenden Sie für jede Kampagne oder Promotion ein Hashtag (1) anstelle mehrerer Kampagnen, sodass Sie die Verfolgung nach einem einzigen spezifischen Filter durchführen können.
 * Verwenden Sie anstelle von generischen Wörtern in der Hashtag-Suche. Die Verwendung allgemeiner Wörter kann zu unerwarteten Ergebnissen führen und Benutzer enthalten, die ihr Foto nicht im Verhältnis zu Ihrer Kampagne verwenden wollten.
 * Verbinden Sie mehrere Geschäftskonten, damit Sie nach eindeutigeren Tags suchen können.

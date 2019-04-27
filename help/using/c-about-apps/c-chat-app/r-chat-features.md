@@ -1,8 +1,6 @@
 ---
-description: Chat bietet mehrere Funktionen, um ein schnelles und ansprechendes Dialogfeld
-  zu fördern.
-seo-description: Chat bietet mehrere Funktionen, um ein schnelles und ansprechendes
-  Dialogfeld zu fördern.
+description: Chat bietet mehrere Funktionen, um ein schnelles und ansprechendes Dialogfeld zu fördern.
+seo-description: Chat bietet mehrere Funktionen, um ein schnelles und ansprechendes Dialogfeld zu fördern.
 seo-title: Chat-Funktionen
 solution: Experience Manager
 title: Chat-Funktionen
@@ -21,12 +19,12 @@ Chat bietet mehrere Funktionen, um ein schnelles und ansprechendes Dialogfeld zu
 
 Um ein schnelles und ansprechendes Dialogfeld zu fördern, unterscheidet sich Chat von anderen Livefyre-Apps wie folgt:
 
-* Der Kommentar-Editor wird bereits mit dem Text "Press command + enter to post" vorausgefüllt. »
-* Benutzer antworten auf den Chat als Ganzes, nicht auf einen spezifischen Kommentar, daher gibt es keine Schaltfläche "Antworten" und keine Verkettungen in Kommentaren.
+* Der Kommentar-Editor wird bereits mit dem Text &quot;Press command + enter to post&quot; vorausgefüllt. »
+* Benutzer antworten auf den Chat als Ganzes, nicht auf einen spezifischen Kommentar, daher gibt es keine Schaltfläche &quot;Antworten&quot; und keine Verkettungen in Kommentaren.
 * Benutzer haben nicht die Möglichkeit, Chats zu folgen, und der Kommentar-Benachrichtigung ist deaktiviert.
 * E-Mail-Benachrichtigungen standardmäßig standardmäßig auf OFF gesendet.
 * Benutzeravatare sind kleiner als die für Kommentare.
-* Die "Gefällt mir" -Schaltfläche wird nur angezeigt, wenn Sie den Mauszeiger über einen Kommentar bewegen.
-* Die "Gefällt mir" -Klicks für einen Kommentar werden ohne Avatare angezeigt, nur die Anzahl der" Gefällt mir" -Klicks.
+* Die &quot;Gefällt mir&quot; -Schaltfläche wird nur angezeigt, wenn Sie den Mauszeiger über einen Kommentar bewegen.
+* Die &quot;Gefällt mir&quot; -Klicks für einen Kommentar werden ohne Avatare angezeigt, nur die Anzahl der&quot; Gefällt mir&quot; -Klicks.
 * Die Stream-Breite kann auf 250 Pixel reduziert werden.
 

@@ -1,6 +1,6 @@
 ---
-description: null
-seo-description: null
+description: 'null '
+seo-description: 'null '
 seo-title: Rechte für Assets manuell über die Asset-Bibliothek erteilen oder sperren
 solution: Experience Manager
 title: Rechte für Assets manuell über die Asset-Bibliothek erteilen oder sperren
@@ -17,8 +17,8 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 >
 >Die manuelle Erteilung von Rechten für ein Inhaltselement gibt an, dass Sie Eigentümer des Inhalts sind. Gewähren Sie keine Rechte manuell, ohne dass Sie prüfen müssen, ob Sie den Inhalt besitzen.
 
-1. Klicken Sie auf, **[!UICONTROL Library]** um **[!UICONTROL Asset Library]**auf den Link zuzugreifen.
+1. Klicken Sie auf, **[!UICONTROL Library]** um **[!UICONTROL Asset Library]** auf den Link zuzugreifen.
 1. Öffnen Sie einen Ordner und klicken Sie auf einen Inhalt, den Sie über Twitter oder Instagram gespeichert haben. Sie können sehen, wo der Inhalt entstand, indem Sie das Symbol auf dem Inhaltselement betrachten. Beispielsweise hat ein Inhaltselement von Twitter das Twitter-Logo darauf.
 1. Klicken Sie auf das Auslassungssymbol, das angezeigt wird, wenn Sie den Mauszeiger **[!UICONTROL More Options]**über die Inhaltskarte bewegen.
 1. Klicken **[!UICONTROL Rights]** Sie auf, um das **[!UICONTROL Rights options]** Fenster zu öffnen.
-1. Klicken **[!UICONTROL Manually Grant Rights]**Sie auf.
+1. Klicken **[!UICONTROL Manually Grant Rights]** Sie auf.

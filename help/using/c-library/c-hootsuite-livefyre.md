@@ -1,9 +1,6 @@
 ---
-description: Erfahren Sie, wie Sie mit Experience Manager Livefyre mit Hootsuite benutzergenerierte
-  Inhalte direkt im Hootsuite Dashboard kuratieren, verwalten und freigeben können.
-seo-description: Erfahren Sie, wie Sie mit Experience Manager Livefyre mit Hootsuite
-  benutzergenerierte Inhalte direkt im Hootsuite Dashboard kuratieren, verwalten und
-  freigeben können.
+description: Erfahren Sie, wie Sie mit Experience Manager Livefyre mit Hootsuite benutzergenerierte Inhalte direkt im Hootsuite Dashboard kuratieren, verwalten und freigeben können.
+seo-description: Erfahren Sie, wie Sie mit Experience Manager Livefyre mit Hootsuite benutzergenerierte Inhalte direkt im Hootsuite Dashboard kuratieren, verwalten und freigeben können.
 seo-title: Verwenden von Adobe Experience Manager Livefyre mit Hootsuite
 title: Verwenden von Adobe Experience Manager Livefyre mit Hootsuite
 uuid: ebf 2 ba 17-1622-4 bbe-a 374-fb 325357 ef 9 f
@@ -47,13 +44,13 @@ Aufgabenkontext
    ![](assets/hootsuite-search.png)
 
 1. Klicken **Sie auf Auswählen** und ein Popup wird mit all Ihren Bibliotheken angezeigt.
-1. Klicken Sie auf den Ordner einer Bibliothek und klicken **Sie dann auf "Ordner** auswählen" , um die Bibliothek auszuwählen, die im Hootsuite-Stream angezeigt werden soll.
+1. Klicken Sie auf den Ordner einer Bibliothek und klicken **Sie dann auf &quot;Ordner** auswählen&quot; , um die Bibliothek auszuwählen, die im Hootsuite-Stream angezeigt werden soll.
 
    ![](assets/hootsuite-select.png)
 
 ## Filteroptionen {#concept_5D062A9CD61A4B2E90784E5AA31CB16D}
 
-Sie können Ihre Suchergebnisse mithilfe der Abschnitte "Assets anzeigen von" ," Rechte" , "Suchbegriffe" und" Tags" filtern.
+Sie können Ihre Suchergebnisse mithilfe der Abschnitte &quot;Assets anzeigen von&quot; ,&quot; Rechte&quot; , &quot;Suchbegriffe&quot; und&quot; Tags&quot; filtern.
 
 ![](assets/hootsuite-filters.png)
 
@@ -102,12 +99,12 @@ Sie können Ihre Asset-Bibliotheken nicht nur in einem Hootsuite-Stream anzeigen
 
    ![](assets/hootsuite-menu-icon.png)
 
-1. Wählen **Sie "An AEM Livefyre senden**«.
+1. Wählen **Sie &quot;An AEM Livefyre senden**«.
 1. Wählen Sie eine oder mehrere Bibliotheken aus, um das Asset zu speichern.
 
    ![](assets/hootsuite-save.png)
 
-1. Klicken **Sie auf Speichern in der Bibliothek**und das Element wird in den von Ihnen ausgewählten Bibliotheken gespeichert.
+1. Klicken **Sie auf Speichern in der Bibliothek** und das Element wird in den von Ihnen ausgewählten Bibliotheken gespeichert.
 
 ## Experience Manager Livefyre Media Library Component {#task_9CA2D5D49F8E463F9EF475BC09C8ACC9}
 
@@ -121,4 +118,4 @@ Sie können über die Media-Komponenten von Hootsuite Composer auf Ihre Assets z
 
    ![](assets/hootsuite-aem-files.png)
 
-1. Um dem aktuellen Beitrag ein Asset hinzuzufügen, klicken Sie auf es. Um nach einem bestimmten Asset zu suchen, geben Sie die Suchbegriffe in das **Feld "Medien** suchen" ein und die Ergebnisse werden angezeigt.
+1. Um dem aktuellen Beitrag ein Asset hinzuzufügen, klicken Sie auf es. Um nach einem bestimmten Asset zu suchen, geben Sie die Suchbegriffe in das **Feld &quot;Medien** suchen&quot; ein und die Ergebnisse werden angezeigt.

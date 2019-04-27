@@ -1,9 +1,6 @@
 ---
-description: Die Livefyre Spam- und die Missbrauchsfilterengine (SAFE) sind ein Hintergrundprozess,
-  der alle eingehenden Inhalte analysiert und für alle Livefyre-Kunden aktiviert ist.
-seo-description: Die Livefyre Spam- und die Missbrauchsfilterengine (SAFE) sind ein
-  Hintergrundprozess, der alle eingehenden Inhalte analysiert und für alle Livefyre-Kunden
-  aktiviert ist.
+description: Die Livefyre Spam- und die Missbrauchsfilterengine (SAFE) sind ein Hintergrundprozess, der alle eingehenden Inhalte analysiert und für alle Livefyre-Kunden aktiviert ist.
+seo-description: Die Livefyre Spam- und die Missbrauchsfilterengine (SAFE) sind ein Hintergrundprozess, der alle eingehenden Inhalte analysiert und für alle Livefyre-Kunden aktiviert ist.
 seo-title: SAFE RULES
 title: SAFE RULES
 uuid: 2 f 91 d 0 d 4-dffe -4651-88 af -79 bbb 96 c 1 b 5 c
@@ -31,9 +28,9 @@ Durch SAFE angewendete Flags können mit den folgenden Studio-Komponenten verwen
 
 * Regeln
 
-   Sie können SAFE-Regeln definieren, um Inhalte automatisch zu kennzeichnen und zu definieren, wie gekennzeichnete Inhalte im Abschnitt verarbeitet **[!UICONTROL Network Settings]**werden sollen.
+   Sie können SAFE-Regeln definieren, um Inhalte automatisch zu kennzeichnen und zu definieren, wie gekennzeichnete Inhalte im Abschnitt verarbeitet **[!UICONTROL Network Settings]** werden sollen.
 
-   Beispiel: Eine Site kann eine sehr niedrige Toleranz für Gewinn festlegen und SAFE Rules definieren, die den gesamten Inhalt als "Profit" auf" Bozo" setzen. Andere Sites können Regeln definieren, die festlegen, dass Ppane-Inhalte vor der Eingabe des Streams bereits moderiert werden.
+   Beispiel: Eine Site kann eine sehr niedrige Toleranz für Gewinn festlegen und SAFE Rules definieren, die den gesamten Inhalt als &quot;Profit&quot; auf&quot; Bozo&quot; setzen. Andere Sites können Regeln definieren, die festlegen, dass Ppane-Inhalte vor der Eingabe des Streams bereits moderiert werden.
 
 * Modq
 
@@ -53,7 +50,7 @@ SAFE wendet die folgenden Flags auf gefilterte Inhalte an und kann verwendet wer
 
    >[!NOTE]
    >
-   >Livefyre bietet außerdem einen zweiten Gewinnspiellistenfilter, der sowohl auf der Site- als auch auf der Netzwerkebene angepasst werden kann. Mit der Gewinn-Liste erstellte Regeln haben Vorrang vor automatisierten Regeln, die aus dem Filter SICHERER GEWINN stammen. Weitere Informationen finden Sie im Abschnitt "Gewinnspiel-Liste" in der Einstellungsdokumentation.
+   >Livefyre bietet außerdem einen zweiten Gewinnspiellistenfilter, der sowohl auf der Site- als auch auf der Netzwerkebene angepasst werden kann. Mit der Gewinn-Liste erstellte Regeln haben Vorrang vor automatisierten Regeln, die aus dem Filter SICHERER GEWINN stammen. Weitere Informationen finden Sie im Abschnitt &quot;Gewinnspiel-Liste&quot; in der Einstellungsdokumentation.
 
 * **[!UICONTROL Mild Profanity]**: Wörter und Ausdrücke sind in polieren Unterhaltungen im Allgemeinen nicht akzeptabel, sind aber in sporadischen Unterhaltungen normalerweise akzeptabel. Im Allgemeinen sind diese Wörter und Ausdrücke im Netzwerkfernseher zulässig.
 * **[!UICONTROL Strong Profanity]**: Eine sehr starke Sprache, z. B. Expletive und Ausdrücke, die im Netzwerkfernseher nicht zulässig sind und sparsam in R-bewertet-Filmen und ausgefüllten Kabelfernsehgeräten verwendet werden. Im Allgemeinen werden diese Wörter nicht in polieren oder sporadischen Unterhaltungen verwendet und in einer impolierten Unterhaltung mit Absicht gesagt, den Listener zu beschädigen.
@@ -82,13 +79,13 @@ SAFE wendet die folgenden Flags auf gefilterte Inhalte an und kann verwendet wer
 Es gibt mehrere Möglichkeiten zur effektiven Handhabung von Inhalten, die nicht von diesem Filter erfasst werden. Die unten aufgeführten Optionen werden in der empfohlenen Reihenfolge des Prozesses aufgeführt.
 
 1. Entfernen Sie als Moderator den Inhalt aus dem Stream.
-1. Erstellen Sie eine Flag-Regel, die besagt, dass ein Inhaltselement von fünf Benutzern als Spam oder Offensive gekennzeichnet ist, indem Sie es auf "Bozo" setzen.
+1. Erstellen Sie eine Flag-Regel, die besagt, dass ein Inhaltselement von fünf Benutzern als Spam oder Offensive gekennzeichnet ist, indem Sie es auf &quot;Bozo&quot; setzen.
 1. Sperren Sie den Benutzer, der unerwünschte Inhalte veröffentlicht, sodass alle Inhalte direkt in den Bozo-Zustand gelangen.
 1. Fügen Sie spezifische Wörter hinzu, die immer in Ihrer Gewinn-Liste gefiltert werden sollten.
 
 >[!NOTE]
 >
->Wenn ein Moderator Inhalt von unserem Spam-Filter erfasst, wird er dennoch als Spam gekennzeichnet, wird jedoch automatisch genehmigt und wird nicht auf "Bozo" eingestellt.
+>Wenn ein Moderator Inhalt von unserem Spam-Filter erfasst, wird er dennoch als Spam gekennzeichnet, wird jedoch automatisch genehmigt und wird nicht auf &quot;Bozo&quot; eingestellt.
 
 Wenn Sie Trends oder Muster von nicht von SAFE abgedeckten Inhalten bemerken, senden Sie Ihre csms mit den Kommentar-IDs und Text per E-Email.
 

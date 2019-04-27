@@ -30,7 +30,7 @@ Die Probleme in den folgenden Tabellen wurden in der Produktionsversion dieser V
 | **Ausgabentyp** | **Komponente** | **Versionshinweise** |
 |---|---|---|
 | Bug | AEM | Es wurde ein Problem behoben, durch das in AEM Assets über Livefyre importierte Tweets Links beschädigten. |
-| Verbesserung | Apis | Die Beschriftung "audio" für Audiodateien, die in einer Sammlung gespeichert wurden, wurde hinzugefügt. |
+| Verbesserung | Apis | Die Beschriftung &quot;audio&quot; für Audiodateien, die in einer Sammlung gespeichert wurden, wurde hinzugefügt. |
 | Bug | Bibliothek/Suche | Es wurde ein Problem behoben, durch das Twitter-Assets nicht in einem bestimmten Ordner gespeichert wurden, wenn sie aus der Social-Suche gezogen und abgelegt wurden. |
 | Bug | Bibliothek/Suche | Es wurde ein Problem behoben, bei dem ein Bild nicht angezeigt wurde, wenn gültige IG-Geschäftskonten für Asset-Details, die Bibliothek und für veröffentlichte Apps verwendet wurden. |
 | Bug | Streams | Es wurde ein Problem behoben, durch das youtube-Stream-Regeln nicht gespeichert werden konnten. |

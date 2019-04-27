@@ -1,10 +1,6 @@
 ---
-description: Filmstreifen ist eine Visualisierungs-App, die benutzergenerierte Inhalte
-  in einem dynamischen, horizontalen Streifen von Fotos präsentiert, ähnlich wie ein
-  Filmstreifen von einer Kamera.
-seo-description: Filmstreifen ist eine Visualisierungs-App, die benutzergenerierte
-  Inhalte in einem dynamischen, horizontalen Streifen von Fotos präsentiert, ähnlich
-  wie ein Filmstreifen von einer Kamera.
+description: Filmstreifen ist eine Visualisierungs-App, die benutzergenerierte Inhalte in einem dynamischen, horizontalen Streifen von Fotos präsentiert, ähnlich wie ein Filmstreifen von einer Kamera.
+seo-description: Filmstreifen ist eine Visualisierungs-App, die benutzergenerierte Inhalte in einem dynamischen, horizontalen Streifen von Fotos präsentiert, ähnlich wie ein Filmstreifen von einer Kamera.
 seo-title: Filmstreifen
 solution: Experience Manager
 title: Filmstreifen
@@ -47,7 +43,7 @@ Inhalte, die Text enthalten, können nur in einem Filmstreifen veröffentlicht w
 
 ## Wie sieht der Site-Besucher Inhalte in einem Filmstreifen? {#section_w5c_plj_yy}
 
-Ein Site-Besucher sieht Inhalte, die in einem Filmstreifen aus Studio aus einem Studio-Stream, einer Bibliothek oder einer Social-Suche gefüllt wurden. Wenn neue Inhalte in der App veröffentlicht werden, während sich ein Site-Besucher auf der Seite befindet, wird der neue Inhalt links angezeigt und der alte Inhalt wird in Echtzeit nach rechts verschoben, ohne dass der Besucher der Site seine Seite aktualisieren muss. Wenn Sie den Site-Besucher über neue Inhalte informieren, sieht der Site-Besucher eine Benachrichtigung, die "new" und einen Pfeil auf der linken Seite anzeigt, um anzugeben, dass er nach links blättern muss, um neue Inhalte anzuzeigen.
+Ein Site-Besucher sieht Inhalte, die in einem Filmstreifen aus Studio aus einem Studio-Stream, einer Bibliothek oder einer Social-Suche gefüllt wurden. Wenn neue Inhalte in der App veröffentlicht werden, während sich ein Site-Besucher auf der Seite befindet, wird der neue Inhalt links angezeigt und der alte Inhalt wird in Echtzeit nach rechts verschoben, ohne dass der Besucher der Site seine Seite aktualisieren muss. Wenn Sie den Site-Besucher über neue Inhalte informieren, sieht der Site-Besucher eine Benachrichtigung, die &quot;new&quot; und einen Pfeil auf der linken Seite anzeigt, um anzugeben, dass er nach links blättern muss, um neue Inhalte anzuzeigen.
 
 ## Was passiert, wenn ein Site-Besucher auf ein Element in einem Filmstreifen klickt? {#section_cvz_nlj_yy}
 
@@ -66,7 +62,7 @@ Inhalt zu einem Filmstreifen hinzufügen durch:
 * Manuelles Veröffentlichen aus der Bibliothek, App-Inhalten oder modq.
 * Einrichten eines Streams, der automatisch veröffentlicht werden soll.
 
-Der neue Inhalt nimmt automatisch in die Filmstreifen-App auf der linken Seite ein und schiebt den alten Inhalt in Echtzeit auf die rechte Seite, ohne dass der Besucher der Seite seine Seite aktualisieren muss. Wenn Sie den Site-Besucher über neue Inhalte informieren, sieht der Site-Besucher eine Benachrichtigung, die "new" sagt und einen Pfeil auf der linken Seite anzeigt, um anzugeben, dass er nach links einen Bildlauf nach links durchführt, um neue Inhalte anzuzeigen.
+Der neue Inhalt nimmt automatisch in die Filmstreifen-App auf der linken Seite ein und schiebt den alten Inhalt in Echtzeit auf die rechte Seite, ohne dass der Besucher der Seite seine Seite aktualisieren muss. Wenn Sie den Site-Besucher über neue Inhalte informieren, sieht der Site-Besucher eine Benachrichtigung, die &quot;new&quot; sagt und einen Pfeil auf der linken Seite anzeigt, um anzugeben, dass er nach links einen Bildlauf nach links durchführt, um neue Inhalte anzuzeigen.
 
 ## Wie werden Nur Textinhalte in der App angezeigt? {#section_h31_klj_yy}
 
@@ -76,11 +72,11 @@ Der Filmstreifen zeigt keine Textinhalt an. Der Filmstreifen zeigt nur Bilder un
 
 Der Filmstreifen zeigt Inhalte in einem horizontalen Streifen von 5 standardmäßig an. Die Anzahl der Kacheln hängt von der Größe des Containers ab, in dem die App angezeigt wird, und der Kachelgröße, die Sie in App Designer auswählen. Livefyre empfiehlt, in Ihrer Filmstreifen-App mindestens fünf bis zehn Inhaltselemente hinzuzufügen, um eine angemessene Anzahl an Kacheln mit Inhalten bereitzustellen und Benutzern zu ermöglichen, mehr zu finden.
 
-Manchmal wird Inhalt nicht angezeigt, da Sie sich eingeschaltet **[!UICONTROL Require rights]**haben. Wenn Sie dies aktivieren, müssen Sie über Rechte für alle Inhalte in der App verfügen. Wenn der Rechte-Status für ein Inhaltselement nicht "gewährt" wird, wird es nicht in der App angezeigt.
+Manchmal wird Inhalt nicht angezeigt, da Sie sich eingeschaltet **[!UICONTROL Require rights]** haben. Wenn Sie dies aktivieren, müssen Sie über Rechte für alle Inhalte in der App verfügen. Wenn der Rechte-Status für ein Inhaltselement nicht &quot;gewährt&quot; wird, wird es nicht in der App angezeigt.
 
 ## Woher weiß ein Site-Besucher, wann ein neues Produkt hinzugefügt wird? {#section_ttt_xps_mbb}
 
-Sie können Benachrichtigungen über neue Inhalte hinzufügen, wenn sie hinzugefügt **[!UICONTROL Show Notifications]****[!UICONTROL On]**werden.
+Sie können Benachrichtigungen über neue Inhalte hinzufügen, wenn sie hinzugefügt **[!UICONTROL Show Notifications]****[!UICONTROL On]** werden.
 
 ## Filmstreifen mit Studio erstellen {#section_dwb_glj_yy}
 

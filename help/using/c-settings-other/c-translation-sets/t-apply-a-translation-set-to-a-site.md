@@ -1,6 +1,6 @@
 ---
-description: null
-seo-description: null
+description: 'null '
+seo-description: 'null '
 seo-title: Einen Übersetzungssatz auf eine Site anwenden
 solution: Experience Manager
 title: Einen Übersetzungssatz auf eine Site anwenden
@@ -19,5 +19,5 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 1. Wählen Sie eine Site aus.
 1. Wählen Sie Site-Einstellungen.
 1. Wählen Sie App-Einstellungen.
-1. Navigieren Sie zu Standardeinstellungen > Übersetzungsset.
+1. Navigieren Sie zu Standardeinstellungen &gt; Übersetzungsset.
 1. Wählen Sie einen Übersetzungssatz aus dem Dropdown-Menü.

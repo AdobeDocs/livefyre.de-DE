@@ -1,8 +1,6 @@
 ---
-description: Studio bietet verschiedene Optionen, mit denen Sie Ihre Ordner verwalten
-  können.
-seo-description: Studio bietet verschiedene Optionen, mit denen Sie Ihre Ordner verwalten
-  können.
+description: Studio bietet verschiedene Optionen, mit denen Sie Ihre Ordner verwalten können.
+seo-description: Studio bietet verschiedene Optionen, mit denen Sie Ihre Ordner verwalten können.
 seo-title: Asset-Ordner verwalten
 solution: Experience Manager
 title: Asset-Ordner verwalten
@@ -27,7 +25,7 @@ Die folgenden Optionen sind für die Verwaltung von Ordnern und Assets verfügba
 
    >[!NOTE]
    >
-   >Nur Ordner-Inhaber können Ordner "Papierkorb" verwenden.
+   >Nur Ordner-Inhaber können Ordner &quot;Papierkorb&quot; verwenden.
 
 * **[!UICONTROL Manage Access:]** Ermöglicht den Zugriff auf den Ordner: ** [!UICONTROL Open]** oder **[!UICONTROL Restricted]**. Wählen Sie diese Option, damit **[!UICONTROL Open]** alle Studio-Benutzer in Ihrem Netzwerk auf den Ordner und dessen Inhalt zugreifen können. Wählen **[!UICONTROL Restricted]** Sie diese Option, um den Zugriff auf eine ausgewählte Gruppe von Benutzern einzuschränken.
 

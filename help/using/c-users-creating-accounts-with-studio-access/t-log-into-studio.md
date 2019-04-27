@@ -1,10 +1,6 @@
 ---
-description: Sobald Ihr Netzwerkkonto mit Ihrem Studio-Konto verbunden ist, können
-  Sie über Ihre mit Lesezeichen versehenen Links oder über eine beliebige Livefyre-App
-  auf Studio zugreifen.
-seo-description: Sobald Ihr Netzwerkkonto mit Ihrem Studio-Konto verbunden ist, können
-  Sie über Ihre mit Lesezeichen versehenen Links oder über eine beliebige Livefyre-App
-  auf Studio zugreifen.
+description: Sobald Ihr Netzwerkkonto mit Ihrem Studio-Konto verbunden ist, können Sie über Ihre mit Lesezeichen versehenen Links oder über eine beliebige Livefyre-App auf Studio zugreifen.
+seo-description: Sobald Ihr Netzwerkkonto mit Ihrem Studio-Konto verbunden ist, können Sie über Ihre mit Lesezeichen versehenen Links oder über eine beliebige Livefyre-App auf Studio zugreifen.
 seo-title: Bei Studio anmelden
 solution: Experience Manager
 title: Bei Studio anmelden

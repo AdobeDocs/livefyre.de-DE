@@ -22,8 +22,8 @@ Versionshinweise für die Version vom 7. September 2017.
 | Bug | Bibliothekssuche | Es wurde ein Fehler behoben, durch den keine Ergebnisse ausgegeben wurden, wenn der Tag Tag und Bewertung in der Bibliothek verwendet wurde. |
 | Bug | Bibliothekssuche | Es wurde ein Fehler behoben, durch den Social-Suchanfragen nichts zurückgaben, wenn die Ergebnisliste falsch formatierte urls enthielt. |
 | Verbesserung | SAFE | Es wurde eine neue Funktion hinzugefügt, um Kommentare nach Site-Besuchern in einer bestimmten IP-Region zu verbieten. Bitte wenden Sie sich an Ihren Kundenbetreuer, um Ihr Livefyre-Netzwerk zu konfigurieren. |
-| Bug | Streams | Es wurde ein Fehler behoben, durch den Instagram-Stream-Regeln, die einen Eintrag im Feld "Nicht veröffentlicht von einem dieser Autoren" enthalten, gespeichert werden können. |
-| Bug | Studio | Es wurde ein Fehler behoben, der die Sortierung nach "meisten Teilnehmern" und nach" meisten Elementen" aktivierte. |
+| Bug | Streams | Es wurde ein Fehler behoben, durch den Instagram-Stream-Regeln, die einen Eintrag im Feld &quot;Nicht veröffentlicht von einem dieser Autoren&quot; enthalten, gespeichert werden können. |
+| Bug | Studio | Es wurde ein Fehler behoben, der die Sortierung nach &quot;meisten Teilnehmern&quot; und nach&quot; meisten Elementen&quot; aktivierte. |
 | Bug | Studio | Es wurde ein Fehler behoben, durch den App-Zeitstempel ein falsches Erstellungsdatum in der Tabelle anzeigten. |
 | Bug | Studio | Es wurde ein Fehler bei der Sortierreihenfolge mit den Filter Zuletzt und Älteste im App Manager behoben. |
 | Bug | Studio | Es wurde ein Fehler behoben, durch den andere verbundene Netzwerke im Netzwerkprofil-Switcher angezeigt wurden. |

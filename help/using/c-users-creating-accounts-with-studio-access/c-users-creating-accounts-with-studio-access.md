@@ -1,10 +1,6 @@
 ---
-description: Mit Studio-Konten können Sie auf alle Studio-Komponenten zugreifen, für
-  die Sie Berechtigungen haben, einschließlich App-Erstellung, Inhaltsmoderation und
-  Benutzerverwaltung.
-seo-description: Mit Studio-Konten können Sie auf alle Studio-Komponenten zugreifen,
-  für die Sie Berechtigungen haben, einschließlich App-Erstellung, Inhaltsmoderation
-  und Benutzerverwaltung.
+description: Mit Studio-Konten können Sie auf alle Studio-Komponenten zugreifen, für die Sie Berechtigungen haben, einschließlich App-Erstellung, Inhaltsmoderation und Benutzerverwaltung.
+seo-description: Mit Studio-Konten können Sie auf alle Studio-Komponenten zugreifen, für die Sie Berechtigungen haben, einschließlich App-Erstellung, Inhaltsmoderation und Benutzerverwaltung.
 seo-title: Benutzer, die Benutzerkonten erstellen
 solution: Experience Manager
 title: Benutzer, die Benutzerkonten erstellen

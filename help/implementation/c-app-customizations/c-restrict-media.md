@@ -19,7 +19,7 @@ Standardmäßig können alle Medienanlagen in Apps eingebettet werden. Mit Livef
 
 >[!NOTE]
 >
->Livefyre-Partner mit Embedly for Media Integration. Weitere Informationen finden Sie unter Content Integration > Integration einbetten. Wenden Sie sich an Ihren Technical Account Manager, um Fragen zur Erweiterung von Links oder zu Quellen zu erhalten.
+>Livefyre-Partner mit Embedly for Media Integration. Weitere Informationen finden Sie unter Content Integration &gt; Integration einbetten. Wenden Sie sich an Ihren Technical Account Manager, um Fragen zur Erweiterung von Links oder zu Quellen zu erhalten.
 
 In diesem Beispiel werden youtube- und Vimeo-Einbettungsvorgänge aus Ihrem Kommentarstream blockiert:
 

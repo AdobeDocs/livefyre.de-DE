@@ -1,6 +1,6 @@
 ---
-description: null
-seo-description: null
+description: 'null '
+seo-description: 'null '
 seo-title: Anpassungen des Filmstreifens
 solution: Experience Manager
 title: Anpassungen des Filmstreifens
@@ -20,7 +20,7 @@ Sie können Filmstreifen mithilfe der folgenden zusätzlichen Optionen im App De
 * **[!UICONTROL Content fit]**. Wählen Sie den **[!UICONTROL crop]** Inhalt aus, um die Karte auszufüllen oder ein **[!UICONTROL Aspect Ratio]** ganzes Bild in der Karte anzuzeigen, unabhängig davon, ob es sich um die gesamte Karte handelt oder nicht.
 * **[!UICONTROL Tile Size]**. Geben Sie die Größe der Kacheln in Pixel ein.
 * **[!UICONTROL Show Notifications]**. Wählen Sie aus, ob Sie beim Streamen in die Filmstreifen-App eine Benachrichtigung für neue Inhalte anzeigen möchten.
-* **[!UICONTROL Require rights]**. Aktivieren Sie diese Option, um nur Inhalte mit einem Berechtigungsanforderungsstatus "Gewährt" anzuzeigen.
+* **[!UICONTROL Require rights]**. Aktivieren Sie diese Option, um nur Inhalte mit einem Berechtigungsanforderungsstatus &quot;Gewährt&quot; anzuzeigen.
 * **[!UICONTROL Hide social branding when rights granted]** Schalten Sie dies ein, um das Logo für das Social-Media-Netzwerk (Twitter oder Instagram) zu entfernen, wenn die Rechte für ein Inhaltselement gewährt werden.
 * **[!UICONTROL Call-to-action button]** Sie können die Aktionsaufruf-Schaltfläche mit einem Produktkatalog verwenden, um Benutzer für weitere Aktionen zu einem Produkt oder zu Ihrer Site zu leiten.
 
@@ -33,13 +33,13 @@ Sie können Filmstreifen mithilfe der folgenden zusätzlichen Optionen im App De
 
    * **[!UICONTROL Show call-to-action in tile]**. Wählen Sie aus, ob die Aktionsaufruf-Schaltfläche in einer Filmstreifen-Kachel angezeigt werden soll, anstatt die Aktionsaufruf-Schaltfläche nur anzuzeigen, wenn der Site-Besucher auf eine Karte klickt und den Inhalt in einem größeren Fenster öffnet.
    * **[!UICONTROL Call-to-action indication text]** Der anzuzeigende Text, um den Benutzer aufzufordern, auf die Karte zu klicken, um den Aktionsaufruf zu öffnen.
-   * **[!UICONTROL Call-to-action header text]** Die Wörter, die in der Kopfzeile oberhalb der Aktionsaufruf-Schaltfläche im Inhalt angezeigt werden sollen. Standardtext lautet: "Shop diese Produkte: ".
-   * **[!UICONTROL Call-to-action button text]** Die Wörter, die in der Aktionsaufruf-Schaltfläche im Inhalt angezeigt werden sollen. Standardtext lautet: "Jetzt kaufen: ".
+   * **[!UICONTROL Call-to-action header text]** Die Wörter, die in der Kopfzeile oberhalb der Aktionsaufruf-Schaltfläche im Inhalt angezeigt werden sollen. Standardtext lautet: &quot;Shop diese Produkte: &quot;.
+   * **[!UICONTROL Call-to-action button text]** Die Wörter, die in der Aktionsaufruf-Schaltfläche im Inhalt angezeigt werden sollen. Standardtext lautet: &quot;Jetzt kaufen: &quot;.
    * **[!UICONTROL Product display options]** Wählen Sie aus, ob die **[!UICONTROL Photo]** Aktionsaufruf-Schaltfläche **[!UICONTROL Product name]** angezeigt werden soll.
 
       >[!NOTE]
       >
-      >Die Schaltflächen "Foto" und" Produktname" markieren blau, wenn sie aktiviert sind.
+      >Die Schaltflächen &quot;Foto&quot; und&quot; Produktname&quot; markieren blau, wenn sie aktiviert sind.
 
    * **[!UICONTROL Product URL referral tracking]** Schalten Sie den Umschalter ein, um Verweise von dieser App auf die zugehörige Produktseite zu verfolgen.
    * **[!UICONTROL Referral tracking key-value pairs]** Fügen Sie Parameter hinzu, um die Verweisverfolgung aus Ihrem App-Inhalt auf die zugehörige Produktseite zu setzen.

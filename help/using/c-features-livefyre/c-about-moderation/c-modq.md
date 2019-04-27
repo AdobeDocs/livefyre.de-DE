@@ -29,7 +29,7 @@ Livefyre-Inhalte werden in modq für bis zu 6 Wochen aufgelistet und vormoderier
 
 >[!NOTE]
 >
->Ein Inhaltselement kann mehrmals aufgelistet werden, wenn es mehrere Regeln für die Einbeziehung in modq erfüllt. Wenn beispielsweise ein Inhaltselement eine Benutzerkennzeichnungsregel für "Offensive" auslöst und später eine andere Regel für Gewinn auslöst, wird er zweimal in modq aufgeführt.
+>Ein Inhaltselement kann mehrmals aufgelistet werden, wenn es mehrere Regeln für die Einbeziehung in modq erfüllt. Wenn beispielsweise ein Inhaltselement eine Benutzerkennzeichnungsregel für &quot;Offensive&quot; auslöst und später eine andere Regel für Gewinn auslöst, wird er zweimal in modq aufgeführt.
 
 Inhalte, die nicht in modq angezeigt werden, umfassen:
 
@@ -50,7 +50,7 @@ Beide Registerkarten bieten viele der gleichen Filter und Moderationstools.
 * **[!UICONTROL Filter]** Klicken **[!UICONTROL Filter]** Sie auf, um Parameter zu definieren, mit denen Inhalte im Bereich aufgelistet werden.
 * **[!UICONTROL History]** Klicken Sie oben rechts auf dem Bildschirm auf die **[!UICONTROL History]** Schaltfläche, um eine Liste der kürzlich moderierten Inhalte zu öffnen, über die Sie Ihre Arbeit überprüfen oder eine kürzlich moderierte Moderationsaktion ändern können. Klicken Sie erneut auf die Schaltfläche, um in die Warteschlange zurückzukehren. Nur Ihre letzten 100 Aktionen werden angezeigt. **Der Verlauf** führt keine Aktionen durch, die von einem anderen Moderator durchgeführt wurden.
 
-* **[!UICONTROL User Pane]** Klicken Sie oben rechts auf der Seite auf die Schaltflächen zum Erweitern oder Minimieren, um den Bereich "Benutzer" zu öffnen oder zu schließen.
+* **[!UICONTROL User Pane]** Klicken Sie oben rechts auf der Seite auf die Schaltflächen zum Erweitern oder Minimieren, um den Bereich &quot;Benutzer&quot; zu öffnen oder zu schließen.
 
 ## Grundlegendes zum modq-Inhalt {#section_oxm_kgz_y1b}
 
@@ -67,7 +67,7 @@ Die folgenden Informationen werden angezeigt, wenn Sie ein Element auswählen:
 * **[!UICONTROL Content Body:]** Text und Medienminiaturansicht, falls verfügbar.
 * **[!UICONTROL Status:]** den aktuellen Status des Inhalts (Ausstehend, Umgestriche usw.).
 * **[!UICONTROL Author information:]** Name und Benutzername des Autors.
-* **[!UICONTROL Timestamp:]** der relative Zeitstempel des Inhalts der Erstellung des Inhalts. Permalinks zum Inhaltselement in der Seite "App-Inhalt" von Studio.
+* **[!UICONTROL Timestamp:]** der relative Zeitstempel des Inhalts der Erstellung des Inhalts. Permalinks zum Inhaltselement in der Seite &quot;App-Inhalt&quot; von Studio.
 * **[!UICONTROL Flag Type:]** Offensive, Nicht zustimmen, Spam usw.
 
    * SAFE-Flags: Spam und Bulk.
@@ -76,7 +76,7 @@ Die folgenden Informationen werden angezeigt, wenn Sie ein Element auswählen:
    * Benutzerkennzeichen: Spam, Offline, Beleidigend und Nicht zustimmen.
 
 * **[!UICONTROL Flag origin:]** Die Quelle des aufgelisteten Flags. KANN SICHER sein, ein Benutzername oder ein Livefyre.
-* **[!UICONTROL More info:]** listet Details zu den Inhalten auf, einschließlich der Anzahl der "Gefällt mir" -Klicks, Benutzerflags, Antworten und aller auf den Inhalt angewendeten Tags. Durch Klicken auf die Site wird die Seite der obersten Ebene geöffnet, auf der sich der Inhalt befindet. Durch Klicken auf den Zeitstempel wird eine verkettete Ansicht des Inhalts im Kontext auf der Seite geöffnet.
+* **[!UICONTROL More info:]** listet Details zu den Inhalten auf, einschließlich der Anzahl der &quot;Gefällt mir&quot; -Klicks, Benutzerflags, Antworten und aller auf den Inhalt angewendeten Tags. Durch Klicken auf die Site wird die Seite der obersten Ebene geöffnet, auf der sich der Inhalt befindet. Durch Klicken auf den Zeitstempel wird eine verkettete Ansicht des Inhalts im Kontext auf der Seite geöffnet.
 
 ## Filteroptionen im modq {#section_r2c_qc2_yy}
 
@@ -86,7 +86,7 @@ Für die Registerkarten **[!UICONTROL Items]** und **[!UICONTROL Streams Premode
 
 The following options are available for the ModQ under both **[!UICONTROL Items]** and **[!UICONTROL Streams Premoderation]**:
 
-* **[!UICONTROL App]**. Verwenden Sie das Feld "App-Apps" , um die Ergebnisse nach App zu filtern. Es können mehrere Apps ausgewählt werden.
+* **[!UICONTROL App]**. Verwenden Sie das Feld &quot;App-Apps&quot; , um die Ergebnisse nach App zu filtern. Es können mehrere Apps ausgewählt werden.
 * **[!UICONTROL System Flags]**. Filtern Sie Inhalte nach Regeln wie Spam, Gewinn, SAFE und Premoderation.
 
    * Durch Auswahl **[!UICONTROL Spam]** werden alle Inhalte aufgelistet, die als Spam von Secure getaggt sind.
@@ -94,7 +94,7 @@ The following options are available for the ModQ under both **[!UICONTROL Items]
    * Durch die Auswahl **[!UICONTROL SAFE]** werden alle Inhalte aufgelistet, die das modq als Ergebnis Ihrer sicheren Regeln eingeben.
    * Durch Auswahl **[!UICONTROL Premoderation]** werden alle Inhalte aufgelistet, die für die Premoderation durch Ihren Netzwerk, Stream oder Ihre App-Einstellungen getaggt wurden.
 
-* **[!UICONTROL User Flags]** Filtern von Inhalten nach Benutzerflags. Zu den Optionen gehören "Offensive" ," Spam" , "Offline" und" Nicht zutreffend" .
+* **[!UICONTROL User Flags]** Filtern von Inhalten nach Benutzerflags. Zu den Optionen gehören &quot;Offensive&quot; ,&quot; Spam&quot; , &quot;Offline&quot; und&quot; Nicht zutreffend&quot; .
 * **[!UICONTROL Rights Requests.]** Zeigen Sie nur Inhalte mit den Rechten an, die durch Klicken auf das Kontrollkästchen erteilt wurden.
 * **[!UICONTROL Entered the queue.]** Filtern Sie Inhalte nach dem Zeitraum, in dem Inhalte an modq gesendet wurden. Der Zeitinhalt an modq ist nicht notwendigerweise der Zeitpunkt, an dem Inhalte an die App gepostet wurden.
 
@@ -132,27 +132,27 @@ Wählen Sie eine der folgenden Optionen aus:
 >
 >Sobald Sie einen Inhalt entdecken, werden das Inhaltselement und alle Antworten auf das Inhaltselement dauerhaft aus modq entfernt. Informationen zum Einfügen eines verschlüsselten Inhalts in eine App finden Sie unter [Hinzufügen eines Trendelements zurück zu einer App](/help/using/c-features-livefyre/c-about-moderation/t-add-trashed-item-back-into-app.md#t_add_trashed_item_back_into_app).
 
-Wenn sich der Inhalt bereits im gewünschten Status befindet, wird durch Auswahl von "Papierkorb" ," Bozo" oder "Genehmigen" der Status bestätigt und das Element aus der Liste entfernt. Durch die Moderation eines Inhaltsbestandteils wird es sofort aus Ihrer Warteschlange entfernt und in den Warteschlangen anderer Moderatoren deaktiviert.
+Wenn sich der Inhalt bereits im gewünschten Status befindet, wird durch Auswahl von &quot;Papierkorb&quot; ,&quot; Bozo&quot; oder &quot;Genehmigen&quot; der Status bestätigt und das Element aus der Liste entfernt. Durch die Moderation eines Inhaltsbestandteils wird es sofort aus Ihrer Warteschlange entfernt und in den Warteschlangen anderer Moderatoren deaktiviert.
 
 >[!NOTE]
 >
->Stream-Inhalte sind möglicherweise nicht Bozo'd. Durch das Umbrechen von Stream-Inhalten wird sie dauerhaft aus dem Stream entfernt und kann nicht rückgängig gemacht werden.
+>Stream-Inhalte sind möglicherweise nicht Bozo&#39;d. Durch das Umbrechen von Stream-Inhalten wird sie dauerhaft aus dem Stream entfernt und kann nicht rückgängig gemacht werden.
 
 Sobald der Inhalt moderiert wurde, wird er aus dem modq des Moderators entfernt und der Autor kann ihn nicht mehr im Stream bearbeiten. Wenn ein Moderator ein Element ausblendet oder dessen Kommentare löscht, wird es in Echtzeit in den Warteschlangen anderer Moderatoren grau angezeigt. Wenn der Inhalt grau ausgeblendet wurde, wird die **[!UICONTROL Clear Moderated]** Schaltfläche auf der Seite angezeigt, sodass Moderatoren diese aus ihren Listen entfernen und ihren Platz auf der Seite unabhängig von der anderen Moderatoraktivität behalten können.
 
 ## Verwenden der Papierkorbfunktion in modq {#section_tpx_qgz_y1b}
 
-Verwenden Sie den Abschnitt "Einstellungen" , um verfügbare Optionen auszuwählen, wenn der Inhalt als" Trashed" gekennzeichnet ist.
+Verwenden Sie den Abschnitt &quot;Einstellungen&quot; , um verfügbare Optionen auszuwählen, wenn der Inhalt als&quot; Trashed&quot; gekennzeichnet ist.
 
-* ****[!UICONTROL Confirm Trash]**** Aktivieren Sie diese Option, damit Moderatoren die Aktion bestätigen müssen, wenn Inhalte in den Papierkorb gesetzt werden. Wenn diese Option aktiviert ist, **[!UICONTROL Trash]** wird für Inhalte ein Dialogfeld angezeigt, in dem nach einem **[!UICONTROL Reason for Moderation]**Feld gefragt wird, in welchem Feld **[!UICONTROL Note]** eine eingegeben wird.
+* ****[!UICONTROL Confirm Trash]**** Aktivieren Sie diese Option, damit Moderatoren die Aktion bestätigen müssen, wenn Inhalte in den Papierkorb gesetzt werden. Wenn diese Option aktiviert ist, **[!UICONTROL Trash]** wird für Inhalte ein Dialogfeld angezeigt, in dem nach einem **[!UICONTROL Reason for Moderation]** Feld gefragt wird, in welchem Feld **[!UICONTROL Note]** eine eingegeben wird.
 
    (Diese Einstellung ist **[!UICONTROL only]** auf Netzwerkebene verfügbar und gilt für alle Websites in Ihrem Netzwerk.)
 
-* ****[!UICONTROL Hide Replies]**** Aktivieren Sie diese Option, um Antworten automatisch zu Papierkorb zu verschlüsseln, wenn ein übergeordneter Kommentar verschlüsselt oder "Bozo" ist.
+* ****[!UICONTROL Hide Replies]**** Aktivieren Sie diese Option, um Antworten automatisch zu Papierkorb zu verschlüsseln, wenn ein übergeordneter Kommentar verschlüsselt oder &quot;Bozo&quot; ist.
 
 ## Benutzerstatus in modq ändern {#section_tmw_lg1_z1b}
 
-Klicken Sie im Bedienfeld "Benutzerzusammenfassung" auf die **[!UICONTROL User actions]** Schaltfläche, um den Benutzer stummzuschalten, zu sperren oder zu Whitelist.
+Klicken Sie im Bedienfeld &quot;Benutzerzusammenfassung&quot; auf die **[!UICONTROL User actions]** Schaltfläche, um den Benutzer stummzuschalten, zu sperren oder zu Whitelist.
 
 * **[!UICONTROL Mute:]** ermöglicht Ihnen das Stummschalten von Flags vom Benutzer, der das aufgeführte Inhaltselement markiert hat. Verwenden Sie diese Option, um die Flags des Benutzers aus Ihren Vormoderationsfiltern auszuschließen. Inhalte, die markiert sind, geben kein modq als Ergebnis des Flags ein, und ihre Flags werden nicht in die Kennzeichnungsregeln aufgenommen.
 * **[!UICONTROL Ban:]** ermöglicht es Ihnen, den aufgelisteten Benutzer von Ihrer Site oder Ihrem Netzwerk zu verbieten. (Nur Studio-Administratoren oder Benutzermanager können einen Benutzer Netzwerksperre erteilen.)

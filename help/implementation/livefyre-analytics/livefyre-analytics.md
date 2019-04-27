@@ -1,7 +1,6 @@
 ---
 description: Analysieren Sie Benutzer, Inhalte und Moderatoraktivitäten für Ihre Site.
-seo-description: Analysieren Sie Benutzer, Inhalte und Moderatoraktivitäten für Ihre
-  Site.
+seo-description: Analysieren Sie Benutzer, Inhalte und Moderatoraktivitäten für Ihre Site.
 seo-title: Analytics
 solution: Experience Manager
 title: Analytics
@@ -68,14 +67,14 @@ Verfügbare Aktivitäten variieren je nach Dashboard-Typ und Export und können 
 
 * **Beiträge:** Zeigt Daten von Mitternacht am Morgen des aktuellen Tages an, bis zur letzten vollen Stunde vor diesem Moment.
 * **Antworten:** Zeigt die Daten der letzten 24 Stunden an.
-* **" Gefällt mir" -Klicks:** Zeigt die Daten der vorherigen 7 Tage an, die heute nicht eingeschlossen werden.
-* **" Gefällt mir nicht" -Klicks:** Zeigt die Daten der letzten 30 Tage an, die heute nicht eingeschlossen werden.
+* **&quot; Gefällt mir&quot; -Klicks:** Zeigt die Daten der vorherigen 7 Tage an, die heute nicht eingeschlossen werden.
+* **&quot; Gefällt mir nicht&quot; -Klicks:** Zeigt die Daten der letzten 30 Tage an, die heute nicht eingeschlossen werden.
 * **Enthält Medien:** Zeigt Daten von Mitternacht am Morgen des letzten Sonntag an, bis zur letzten vollen Stunde vor diesem Moment.
 * **Beitrag hat Foto-Upload:** Zeigt Daten von Mitternacht am Morgen des ersten Tages des aktuellen Monats an, bis zur letzten vollen Stunde vor diesem Moment.
 * **Beitrag hat einen Link:** Zeigt die Daten der letzten Woche an.
 * **Beitrag hat @ Erwähnungen:** Zeigt die Daten des letzten Monats an.
 * **Genehmigt:** Zeigt die Daten des letzten Monats an.
-* **Bozo'd:** Zeigt die Daten des letzten Monats an.
+* **Bozo&#39;d:** Zeigt die Daten des letzten Monats an.
 * **Umbruch:** Zeigt die Daten des letzten Monats an.
 * **Moderation insgesamt:** Zeigt die Daten des letzten Monats an.
 
@@ -109,7 +108,7 @@ Im Dashboard Moderation werden Ereignisse nach Moderatoren aufgelistet, sodass s
 
 ## Benutzer {#concept_D1A83E31C7B5467F9C844CBF9A740E12}
 
-Das Dashboard "Benutzer" zeigt die Site-Aktivität nach Benutzer an, sodass Sie analysieren können, wie einzelne Benutzer mit Ihrer Site interagieren. Verwenden Sie dieses Dashboard, um Ihre aktivsten Benutzer auf Ihrer gesamten Site zu finden und die beliebtesten Site-Aktivitäten zu bewerten.
+Das Dashboard &quot;Benutzer&quot; zeigt die Site-Aktivität nach Benutzer an, sodass Sie analysieren können, wie einzelne Benutzer mit Ihrer Site interagieren. Verwenden Sie dieses Dashboard, um Ihre aktivsten Benutzer auf Ihrer gesamten Site zu finden und die beliebtesten Site-Aktivitäten zu bewerten.
 
 ![](assets/analytics-users.png)
 

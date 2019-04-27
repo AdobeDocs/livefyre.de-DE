@@ -41,7 +41,7 @@ networkConfig["strings"] = customStrings; fyre.conv.load(
 
 ## Review-/Bewertungsschnittstelle {#section_iyv_zj4_xz}
 
-Für die Benutzeroberfläche "Review and Rating" verfügbare Zeichenfolgen.
+Für die Benutzeroberfläche &quot;Review and Rating&quot; verfügbare Zeichenfolgen.
 
 | Element | Schlüssel | Standardtext |
 |--- |--- |--- |
@@ -101,14 +101,14 @@ Für Benutzeraktionen verfügbare Zeichenfolgen: Markieren, Freigeben und Markie
 |  | Wasreviewhelpfulmobile | Hilfreich? |
 |  | Ownwasreviewhelpful | [Es wurde hilfreich gefunden.](https://d.pr/i/Q0mA) |
 |  | Reviewwasassist | [Ja](https://d.pr/i/Q0mA) |
-|  | Helpfuldivider | [& amp; vert;](https://d.pr/i/Q0mA) |
+|  | Helpfuldivider | [&amp; amp; vert;](https://d.pr/i/Q0mA) |
 |  | Reviewwasnothelpful | [Nein](https://d.pr/i/Q0mA) |
 | Abstimmung modaler Stimmen | Votetitle | Wurde diese Überprüfung hilfreich? |
 |  | Votedownsession | Nein |
 |  | Votereplytitle | War diese Antwort hilfreich? |
 |  | Votetitle | War dieser Kommentar hilfreich? |
 |  | Voteupvoice | Ja |
-| Flag markieren | Flagtitle | Überprüfung von % s's |
+| Flag markieren | Flagtitle | Überprüfung von % s&#39;s |
 |  | Flagsuccessmsg | Überprüfung wurde gekennzeichnet. |
 | Markieren von Mobilgeräten | Flagconfirmationmessage | Die Überprüfung % s als % s kennzeichnen? |
 | Erwähnung von Modal | Mentiondefaulttext | Ich habe Sie in einer Livefyre-Überprüfung erwähnt! |

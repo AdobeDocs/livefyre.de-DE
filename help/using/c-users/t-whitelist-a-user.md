@@ -1,8 +1,6 @@
 ---
-description: Whitelist ein Benutzer, der es ihnen ermöglicht, direkt zu Apps zu posten,
-  ohne moderatiert zu werden.
-seo-description: Whitelist ein Benutzer, der es ihnen ermöglicht, direkt zu Apps zu
-  posten, ohne moderatiert zu werden.
+description: Whitelist ein Benutzer, der es ihnen ermöglicht, direkt zu Apps zu posten, ohne moderatiert zu werden.
+seo-description: Whitelist ein Benutzer, der es ihnen ermöglicht, direkt zu Apps zu posten, ohne moderatiert zu werden.
 seo-title: Whitelist ein Benutzer
 solution: Experience Manager
 title: Whitelist ein Benutzer
@@ -19,6 +17,6 @@ Whitelist ein Benutzer, der es ihnen ermöglicht, direkt zu Apps zu posten, ohne
 
 Mit der Whitelisting-Funktion können Sie direkt Ihren Apps posten. Inhalte, die von Benutzern der Positivliste veröffentlicht werden, werden nicht durch die SAFE, Profit oder Premoderation von Livefyre weitergeleitet und werden automatisch genehmigt und der App hinzugefügt.
 
-1. Klicken **[!UICONTROL +Add]****[!UICONTROL Whitelists]**Sie für.
+1. Klicken **[!UICONTROL +Add]****[!UICONTROL Whitelists]** Sie für.
 1. Es wird ein Popup angezeigt, mit dem Sie den Benutzer für das gesamte Netzwerk oder für eine bestimmte Site freigeben können. (Verwenden Sie die CTR- oder Befehlstaste, um mehrere Sites auszuwählen.)
 1. Klicken **[!UICONTROL Whitelist]** Sie auf, um den Vorgang abzuschließen.

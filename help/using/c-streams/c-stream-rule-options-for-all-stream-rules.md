@@ -1,8 +1,6 @@
 ---
-description: Diese Optionen gelten für alle Stream-Regeln aus allen sozialen Netzwerken
-  oder Beiträgen.
-seo-description: Diese Optionen gelten für alle Stream-Regeln aus allen sozialen Netzwerken
-  oder Beiträgen.
+description: Diese Optionen gelten für alle Stream-Regeln aus allen sozialen Netzwerken oder Beiträgen.
+seo-description: Diese Optionen gelten für alle Stream-Regeln aus allen sozialen Netzwerken oder Beiträgen.
 seo-title: Stream-Regeloptionen für alle Stream-Regeln
 solution: Experience Manager
 title: Stream-Regeloptionen für alle Stream-Regeln
@@ -19,11 +17,11 @@ Diese Optionen gelten für alle Stream-Regeln aus allen sozialen Netzwerken oder
 
 Suchfunktionen für Text und Suchbegriffsfelder:
 
-* Wenn Sie Suchbegriffe eingeben, verwendet Livefyre automatisch den booleschen Operator **ODER** , wenn Sie einzelne Wörter verwenden. Wenn Sie z. B. nach Beiträgen mit dem Wort *"Cake* «oder *" Rezept*«suchen möchten, geben Sie *"cake" ein*und geben Sie *dann Rezept* in das **[!UICONTROL keyword]** Feld ein.
+* Wenn Sie Suchbegriffe eingeben, verwendet Livefyre automatisch den booleschen Operator **ODER** , wenn Sie einzelne Wörter verwenden. Wenn Sie z. B. nach Beiträgen mit dem Wort *&quot;Cake* «oder *&quot; Rezept*«suchen möchten, geben Sie *&quot;cake&quot; ein*und geben Sie *dann Rezept* in das **[!UICONTROL keyword]** Feld ein.
 
-* Sie können nach genauem Wortlaut suchen, indem Sie den exakten Wortlaut der Wortgruppe in Anführungszeichen setzen. Wenn Sie beispielsweise nach dem genauen Wortlaut der Wortgruppe *suchen*möchten, geben *Sie* in das **[!UICONTROL keyword]** Feld "cke rezeppe" ein.
+* Sie können nach genauem Wortlaut suchen, indem Sie den exakten Wortlaut der Wortgruppe in Anführungszeichen setzen. Wenn Sie beispielsweise nach dem genauen Wortlaut der Wortgruppe *suchen*möchten, geben *Sie* in das **[!UICONTROL keyword]** Feld &quot;cke rezeppe&quot; ein.
 
-* Sie können die booleschen und exakten Wortsuchen in einer Stream-Regel kombinieren. Sie können z. B. nach *Cake*, *Rezept*und *"Cake Rezept" suchen,* indem Sie die einzelnen Wortgruppen einzeln eingeben.
+* Sie können die booleschen und exakten Wortsuchen in einer Stream-Regel kombinieren. Sie können z. B. nach *Cake*, *Rezept*und *&quot;Cake Rezept&quot; suchen,* indem Sie die einzelnen Wortgruppen einzeln eingeben.
 
 **[!UICONTROL Additional Filters]**:
 

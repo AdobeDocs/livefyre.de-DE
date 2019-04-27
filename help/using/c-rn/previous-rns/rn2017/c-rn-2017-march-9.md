@@ -31,10 +31,10 @@ Versionshinweise für die Version vom 9. März 2017.
 |---|---|---|
 | Bug | Medienpinnwand | Es wurde ein Fehler behoben, durch den Medienwalls nicht gerendert wurden, wenn bestimmte Fremdzeichen einbezogen wurden. |
 | Bug | Social Search | Es wurde ein Fehler behoben, durch den die Veröffentlichung gespeicherter Youtube-Assets in Social nicht möglich war. |
-| Bug | Social Search | Es wurde ein Fehler behoben, der dazu führte, dass das Augensymbol "Explizites Bild" für Assets außerhalb eines Assets beim Maushover verschoben wurde. |
-| Verbesserung | Storify 2 | Es wurde eine Erweiterung hinzugefügt, die die Meldung "Keine Ergebnisse gefunden" auf der Facebook-Themensuche anzeigt, wenn keine Ergebnisse gefunden wurden. |
+| Bug | Social Search | Es wurde ein Fehler behoben, der dazu führte, dass das Augensymbol &quot;Explizites Bild&quot; für Assets außerhalb eines Assets beim Maushover verschoben wurde. |
+| Verbesserung | Storify 2 | Es wurde eine Erweiterung hinzugefügt, die die Meldung &quot;Keine Ergebnisse gefunden&quot; auf der Facebook-Themensuche anzeigt, wenn keine Ergebnisse gefunden wurden. |
 | Verbesserung | Streams | Es wurden Zusammenfassungsregeln für SAFE-Regeln am unteren Rand einer Twitter-Stream-Seite hinzugefügt. |
-| Bug | Streams | Es wurde eine Erweiterung hinzugefügt, die das Kontrollkästchen "Verifizierte Benutzer" auf Twitter-Stream-Regeln auftrat, wenn ausgeschlossene Autoren angegeben wurden. |
+| Bug | Streams | Es wurde eine Erweiterung hinzugefügt, die das Kontrollkästchen &quot;Verifizierte Benutzer&quot; auf Twitter-Stream-Regeln auftrat, wenn ausgeschlossene Autoren angegeben wurden. |
 | Bug | Studio | Es wurde ein Fehler behoben, der verhinderte, dass das Feature-Tag ordnungsgemäß gespeichert wurde, wenn es angewendet wurde. |
-| Bug | Benutzer | Es wurde ein Fehler behoben, durch den der Sortierfilter "Jüngste Aktivität" in den Benutzern nicht mehr angezeigt wurde. |
+| Bug | Benutzer | Es wurde ein Fehler behoben, durch den der Sortierfilter &quot;Jüngste Aktivität&quot; in den Benutzern nicht mehr angezeigt wurde. |
 

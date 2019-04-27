@@ -17,7 +17,7 @@ Setzt SSL für API-Aufrufe ein oder aus.
 
 | Variable | Typ | Beschreibung |
 |--- |--- |--- |
-| ssl | Boolescher Wert | Der Standardwert ist "true" . Wenn SSL aktiviert ist, andernfalls false. <br><ul><li>True - SSL </li><li>False - SSL deaktiviert</li></ul> |
+| ssl | Boolescher Wert | Der Standardwert ist &quot;true&quot; . Wenn SSL aktiviert ist, andernfalls false. <br><ul><li>True - SSL </li><li>False - SSL deaktiviert</li></ul> |
 
 ## Java-Beispiel {#section_nyl_ycs_rz}
 

@@ -1,7 +1,6 @@
 ---
 description: Verwenden Sie embed.ly, um mehrere Medienformate direkt in der App anzuzeigen.
-seo-description: Verwenden Sie embed.ly, um mehrere Medienformate direkt in der App
-  anzuzeigen.
+seo-description: Verwenden Sie embed.ly, um mehrere Medienformate direkt in der App anzuzeigen.
 seo-title: Embedly-Integration
 solution: Experience Manager
 title: Embedly-Integration
@@ -28,7 +27,7 @@ Diese Seite listet Beispiele für einige beliebte eingebettete Medientypen und i
 
 >[!NOTE]
 >
->Die Formatierung "Einbetten" erfordert einen vollständigen Permalink. Verkürzte Links funktionieren nicht.
+>Die Formatierung &quot;Einbetten&quot; erfordert einen vollständigen Permalink. Verkürzte Links funktionieren nicht.
 
 Nur öffentlich sichtbare Inhalte können eingebettet werden. Wenn Sie versuchen, einen Inhalt einzubetten, der nicht öffentlich ist, wird der Link zum Inhalt im Blog-Beitrag angezeigt und ein Platzhaltersymbol wird angefügt. Wenn Sie auf klicken, wird der Leser zu einer Fehlermeldung vom Dienst weitergeleitet, in dem der Inhalt gehostet wird, z. B. eine Facebook-Nachricht für ein Nur-Freunde-Foto. Wenden Sie sich an Ihren Kundenbetreuer, wenn Sie bemerken, dass die Medien nicht wie erwartet erweitert werden.
 

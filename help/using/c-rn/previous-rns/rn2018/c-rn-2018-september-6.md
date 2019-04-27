@@ -30,7 +30,7 @@ Die folgenden neuen Funktionen wurden in der Produktionsversion dieser Version v
 
 * [Smart Tags](/help/using/c-features-livefyre/c-smart-tags/c-smart-tags.md#c_smart_tags) Enhancements
 
-   * Intelligente Tags für hochgeladene Dateien: Wir haben die Möglichkeit hinzugefügt, Smart Tag-Bilder, die über die Upload-Funktion in "Alle Assets" hochgeladen wurden, in die Bibliothek hochzuladen, wie z. B. Dateien aus Google Drive, Drop-Box, Flickr und mehr.
+   * Intelligente Tags für hochgeladene Dateien: Wir haben die Möglichkeit hinzugefügt, Smart Tag-Bilder, die über die Upload-Funktion in &quot;Alle Assets&quot; hochgeladen wurden, in die Bibliothek hochzuladen, wie z. B. Dateien aus Google Drive, Drop-Box, Flickr und mehr.
    * Sicher für Work (SFW) und nicht sicher für Work-Tags (NSFW): Durch Livefyre kuratierte Bilder werden jetzt von einem AI-basierten Nudity-Erkennungssystem getaggt und erhalten die Flexibilität, NSFW-Bilder automatisch zu filtern, wodurch die Sicherheit Ihrer Streams und der UGC-Bibliothek verbessert wird.
 
       * Bilder, die über Social Search oder Streams kuratiert werden, werden beim Speichern durch das Nudity-Erkennungssystem klassifiziert.

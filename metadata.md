@@ -7,17 +7,17 @@ getting-started-title: Erste Schritte
 getting-started-url: https://docs.adobe.com/content/help/en/livefyre/implementation/c-getting-started/implementation-process/c-implementation-process.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/experience-manager/kt/index/aem-6-4-videos.html
-mini-toc-levels: 2
+mini-toc-levels: '2'
 git-repo: https://github.com/AdobeDocs/livefyre.en
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
 
 ---
 
 
 # Metadaten für die interne Verwendung
 
-Die Datei "metadata. md" enthält Replizierungsmetadaten, die an den Benutzerhandbuch" Inhaltsverzeichnis. md" im Repo übergeben werden. Wenn Sie Metadata. md-Inhalte für ein beliebiges Benutzerhandbuch ändern möchten, tun Sie dies in jeder beliebigen Inhaltsverzeichnis. md-Datei.
+Die Datei &quot;metadata. md&quot; enthält Replizierungsmetadaten, die an den Benutzerhandbuch&quot; Inhaltsverzeichnis. md&quot; im Repo übergeben werden. Wenn Sie Metadata. md-Inhalte für ein beliebiges Benutzerhandbuch ändern möchten, tun Sie dies in jeder beliebigen Inhaltsverzeichnis. md-Datei.
 
 | metadata | was es macht |
 |--- |--- |
@@ -29,7 +29,7 @@ Die Datei "metadata. md" enthält Replizierungsmetadaten, die an den Benutzerhan
 | mini-toc-levels | Legt fest, wie viele Überschriftenebenen in der rechten Leiste angezeigt werden. Standard ist 2 |
 | git-repo | Gibt den Speicherort des Master-Reploads für die interne Verwendung an. |
 
-In der Datei "TOC. md «
+In der Datei &quot;TOC. md «
 
 | metadata | was es macht |
 |--- |--- |

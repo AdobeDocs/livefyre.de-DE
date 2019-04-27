@@ -21,4 +21,4 @@ source-git-commit: 4051e0d55c7fa1cf02d8b01c239d040c0a3baf14
 * Es wurde ein Fehler behoben, durch den das Aktualisieren des Instagram Business Account Token zu einem doppelten Konto führte.
 * Es wurde ein Problem behoben, durch das Apps mit einem benutzerdefinierten Skript doppelte Apps fälschlicherweise duplizieren.
 * Es wurde ein Problem behoben, durch das Instagram-Inhalte aus der URL-Suche die Miniaturansicht in den Suchergebnissen korrekt angezeigt, aber nicht in einer App angezeigt oder veröffentlicht wurden.
-* Es wurde ein Problem behoben, durch das beim Klicken auf "Mehr laden" für einige Produkt-IDs ein Fehler ausgegeben wurde.
+* Es wurde ein Problem behoben, durch das beim Klicken auf &quot;Mehr laden&quot; für einige Produkt-IDs ein Fehler ausgegeben wurde.

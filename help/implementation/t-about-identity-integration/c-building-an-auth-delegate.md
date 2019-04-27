@@ -1,10 +1,6 @@
 ---
-description: Das authdelegate-Objekt implementiert das gewünschte Verhalten zur Durchführung
-  von Authentifizierungsaktionen und Ereignissen, damit Sie die Integration mit dem
-  bestehenden Authentifizierungssystem Ihrer Site anpassen können.
-seo-description: Das authdelegate-Objekt implementiert das gewünschte Verhalten zur
-  Durchführung von Authentifizierungsaktionen und Ereignissen, damit Sie die Integration
-  mit dem bestehenden Authentifizierungssystem Ihrer Site anpassen können.
+description: Das authdelegate-Objekt implementiert das gewünschte Verhalten zur Durchführung von Authentifizierungsaktionen und Ereignissen, damit Sie die Integration mit dem bestehenden Authentifizierungssystem Ihrer Site anpassen können.
+seo-description: Das authdelegate-Objekt implementiert das gewünschte Verhalten zur Durchführung von Authentifizierungsaktionen und Ereignissen, damit Sie die Integration mit dem bestehenden Authentifizierungssystem Ihrer Site anpassen können.
 seo-title: Authdelegate-Objekt
 solution: Experience Manager
 title: Authdelegate-Objekt

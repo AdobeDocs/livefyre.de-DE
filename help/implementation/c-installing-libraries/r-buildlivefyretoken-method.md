@@ -1,10 +1,6 @@
 ---
-description: Gibt ein verschlüsseltes gültiges Livefyre-Token zurück, das für die
-  Interaktion mit anderen Livefyre-API für das Netzwerk verwendet werden kann, von
-  dem es aufgerufen wird.
-seo-description: Gibt ein verschlüsseltes gültiges Livefyre-Token zurück, das für
-  die Interaktion mit anderen Livefyre-API für das Netzwerk verwendet werden kann,
-  von dem es aufgerufen wird.
+description: Gibt ein verschlüsseltes gültiges Livefyre-Token zurück, das für die Interaktion mit anderen Livefyre-API für das Netzwerk verwendet werden kann, von dem es aufgerufen wird.
+seo-description: Gibt ein verschlüsseltes gültiges Livefyre-Token zurück, das für die Interaktion mit anderen Livefyre-API für das Netzwerk verwendet werden kann, von dem es aufgerufen wird.
 seo-title: Buildlivefyretoken Network-Methode
 solution: Experience Manager
 title: Buildlivefyretoken Network-Methode

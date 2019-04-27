@@ -36,16 +36,16 @@ Sie können Mosaic mithilfe der folgenden zusätzlichen Optionen im App Designer
 
       >[!NOTE]
       >
-      >Der Inhalt wird auch dann angezeigt, wenn keine Berechtigungen für den Inhalt erteilt wurden. Die Schaltfläche "Aktionsaufruf" wird jedoch nur mit dem Inhalt angezeigt, wenn die Rechte für den Inhalt nicht gewährt werden.
+      >Der Inhalt wird auch dann angezeigt, wenn keine Berechtigungen für den Inhalt erteilt wurden. Die Schaltfläche &quot;Aktionsaufruf&quot; wird jedoch nur mit dem Inhalt angezeigt, wenn die Rechte für den Inhalt nicht gewährt werden.
 
    * **[!UICONTROL Show call-to-action in tile]**. Wählen Sie aus, ob die Aktionsaufruf-Schaltfläche in einer Filmstreifen-Kachel angezeigt werden soll, anstatt die Aktionsaufruf-Schaltfläche nur anzuzeigen, wenn der Site-Besucher auf eine Karte klickt und den Inhalt in einem größeren Fenster öffnet.
    * **[!UICONTROL Call-to-action indication text]** Der anzuzeigende Text, um den Benutzer aufzufordern, auf die Karte zu klicken, um den Aktionsaufruf zu öffnen.
 
-   * **[!UICONTROL Call-to-action header text]** Die Wörter, die in der Kopfzeile oberhalb der Aktionsaufruf-Schaltfläche im Inhalt angezeigt werden sollen. Standardtext lautet: "Shop diese Produkte: ".
+   * **[!UICONTROL Call-to-action header text]** Die Wörter, die in der Kopfzeile oberhalb der Aktionsaufruf-Schaltfläche im Inhalt angezeigt werden sollen. Standardtext lautet: &quot;Shop diese Produkte: &quot;.
 
-   * **[!UICONTROL Call-to-action button text]** Passen Sie den Text auf der Aktionsaktionsschaltfläche an. Standardtext ist "Jetzt kaufen" .
+   * **[!UICONTROL Call-to-action button text]** Passen Sie den Text auf der Aktionsaktionsschaltfläche an. Standardtext ist &quot;Jetzt kaufen&quot; .
 
-   * **[!UICONTROL Product display options]** Wählen Sie aus, ob Sie die **[!UICONTROL Photo]** Schaltfläche "Aktionsaufruf **[!UICONTROL Product name]** «und" Aktionsaufruf" anzeigen möchten.
+   * **[!UICONTROL Product display options]** Wählen Sie aus, ob Sie die **[!UICONTROL Photo]** Schaltfläche &quot;Aktionsaufruf **[!UICONTROL Product name]** «und&quot; Aktionsaufruf&quot; anzeigen möchten.
 
    * **[!UICONTROL Product URL referral tracking]** Schalten Sie den Umschalter ein, um Verweise von dieser App auf die zugehörige Produktseite zu verfolgen.
 

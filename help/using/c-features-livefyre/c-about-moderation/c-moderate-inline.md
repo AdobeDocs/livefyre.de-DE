@@ -1,7 +1,6 @@
 ---
 description: Moderieren von Inhalten, die aus einem Stream mit der Bibliothek stammen.
-seo-description: Moderieren von Inhalten, die aus einem Stream mit der Bibliothek
-  stammen.
+seo-description: Moderieren von Inhalten, die aus einem Stream mit der Bibliothek stammen.
 seo-title: Moderieren von Inhalten aus einem Stream
 title: Moderieren von Inhalten aus einem Stream
 uuid: 38 faf 651-c 547-49 b 3-b 3 d 1-1 a 1 d 65 c 0 f 81 c
@@ -31,7 +30,7 @@ Bewegen Sie den Mauszeiger über den Kommentarbereich und die folgenden Moderati
 
 * **[!UICONTROL Bozo:]** Speichert den Autor des Inhalts. Bei Sidenotes können Benutzer Bozo nur innerhalb von Studio und nicht innerhalb des Streams sein.
 * **[!UICONTROL Delete:]** Löscht den Inhalt des Threads.
-* **[!UICONTROL Flag:]** Öffnet ein Flag "Flag" , mit dem Sie eine Markierung für den Inhalt auswählen können (Spam, Beleidigend, Nicht-Thema oder Offthema), eine E-Email-Adresse eingeben, die mit der Kennzeichnung verknüpft werden soll, und eine Notiz hinzufügen.
+* **[!UICONTROL Flag:]** Öffnet ein Flag &quot;Flag&quot; , mit dem Sie eine Markierung für den Inhalt auswählen können (Spam, Beleidigend, Nicht-Thema oder Offthema), eine E-Email-Adresse eingeben, die mit der Kennzeichnung verknüpft werden soll, und eine Notiz hinzufügen.
 * **[!UICONTROL Share:]** Öffnet ein modales Freigabe, das es Ihnen ermöglicht, auf Facebook oder Twitter freizugeben, den Text zu bearbeiten und dem Inhalt einen Permalink hinzuzufügen.
 * **[!UICONTROL Feature:]** Zeigt den Inhalt an.
 

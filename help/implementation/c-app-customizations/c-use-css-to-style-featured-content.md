@@ -1,8 +1,6 @@
 ---
-description: Verwenden Sie verfügbare CSS-Klassen, um spezielle Inhalte anders als
-  andere Inhalte in Ihrer App zu gestalten.
-seo-description: Verwenden Sie verfügbare CSS-Klassen, um spezielle Inhalte anders
-  als andere Inhalte in Ihrer App zu gestalten.
+description: Verwenden Sie verfügbare CSS-Klassen, um spezielle Inhalte anders als andere Inhalte in Ihrer App zu gestalten.
+seo-description: Verwenden Sie verfügbare CSS-Klassen, um spezielle Inhalte anders als andere Inhalte in Ihrer App zu gestalten.
 seo-title: Verwenden von CSS zum Stilbasierten Inhalt
 solution: Experience Manager
 title: Verwenden von CSS zum Stilbasierten Inhalt

@@ -17,7 +17,7 @@ Entfernen Sie standardmäßige Livefyre-App-Komponenten aus Ihrer App.
 
 Verwenden Sie CSS, um standardmäßige Livefyre-App-Elemente aus Ihrer Seite auszublenden. So können Sie die Benutzererfahrung so anpassen, dass sie Ihren Anforderungen entspricht.
 
-Um Elemente aus der App auszublenden, legen Sie einfach "Ohne" fest.
+Um Elemente aus der App auszublenden, legen Sie einfach &quot;Ohne&quot; fest.
 
 Beispiele:
 

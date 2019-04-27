@@ -14,7 +14,7 @@ source-git-commit: b737f2c6afb03d91041a317cc0afb790c3eadcb1
 
 Anwendungsfall: Als Kunde möchte ich mithilfe der Livefyre. js-Methode Livefyre in meine Drittanbieter-CMS integrieren.
 
-Es gibt drei Möglichkeiten, Livefyre in einer benutzerdefinierten AEM-Komponente oder anderen CMS-Beispielen wie "wordpress" ," Sitecore" oder "demandware" zu implementieren: Designer App-Implementierung, API, Implementierung und Drittanbieter-Authentifizierungsintegration.
+Es gibt drei Möglichkeiten, Livefyre in einer benutzerdefinierten AEM-Komponente oder anderen CMS-Beispielen wie &quot;wordpress&quot; ,&quot; Sitecore&quot; oder &quot;demandware&quot; zu implementieren: Designer App-Implementierung, API, Implementierung und Drittanbieter-Authentifizierungsintegration.
 
 ## Designer App-Implementierung {#designerapp}
 

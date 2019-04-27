@@ -1,8 +1,6 @@
 ---
-description: Erstellen Sie eine neue Sammlung, indem Sie ein collectionmeta-Token
-  erstellen, das an Livefyre übergeben wird.
-seo-description: Erstellen Sie eine neue Sammlung, indem Sie ein collectionmeta-Token
-  erstellen, das an Livefyre übergeben wird.
+description: Erstellen Sie eine neue Sammlung, indem Sie ein collectionmeta-Token erstellen, das an Livefyre übergeben wird.
+seo-description: Erstellen Sie eine neue Sammlung, indem Sie ein collectionmeta-Token erstellen, das an Livefyre übergeben wird.
 seo-title: Erstellen einer Sammlung mit dem collectionmeta-Token
 solution: Experience Manager
 title: Erstellen einer Sammlung mit dem collectionmeta-Token

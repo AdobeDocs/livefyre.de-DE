@@ -1,10 +1,6 @@
 ---
-description: Gibt ein Collection-Objekt zurück, das als Überprüfungstyp instanziiert
-  wird. Führen Sie create_ or_ update () aus dem Collection-Objekt aus, um den Build-Prozess
-  abzuschließen.
-seo-description: Gibt ein Collection-Objekt zurück, das als Überprüfungstyp instanziiert
-  wird. Führen Sie create_ or_ update () aus dem Collection-Objekt aus, um den Build-Prozess
-  abzuschließen.
+description: Gibt ein Collection-Objekt zurück, das als Überprüfungstyp instanziiert wird. Führen Sie create_ or_ update () aus dem Collection-Objekt aus, um den Build-Prozess abzuschließen.
+seo-description: Gibt ein Collection-Objekt zurück, das als Überprüfungstyp instanziiert wird. Führen Sie create_ or_ update () aus dem Collection-Objekt aus, um den Build-Prozess abzuschließen.
 seo-title: Buildreviewscollection-Site-Methode
 solution: Experience Manager
 title: Buildreviewscollection-Site-Methode

@@ -17,6 +17,6 @@ Fügen Sie Ihrer Seite einzelne Artikel mit speziellen Inhalten hinzu.
 
 Verwenden Sie Feature Card, um einzelne Inhalte auf einer einzelnen Kartenanzeige hervorzuheben. Die App priorisiert den neuesten speziellen Inhalt und führt die neuesten Elemente durch, um eine neue und relevante Anzeige sicherzustellen.
 
-Mit der Funktion "Feature Card" wird das zuletzt hervorgehobene Element angezeigt (nicht notwendigerweise das zuletzt veröffentlichte Element), mit dem Sie Ihren besten Inhalt für eine rechtzeitige Darstellung auf der Seite auswählen können.
+Mit der Funktion &quot;Feature Card&quot; wird das zuletzt hervorgehobene Element angezeigt (nicht notwendigerweise das zuletzt veröffentlichte Element), mit dem Sie Ihren besten Inhalt für eine rechtzeitige Darstellung auf der Seite auswählen können.
 
 Verwenden Sie Feature Card, um einzelne Inhalte auf einer einzelnen Kartenanzeige hervorzuheben. Die App priorisiert den neuesten speziellen Inhalt und führt die neuesten Elemente durch, um eine neue und relevante Anzeige sicherzustellen.
