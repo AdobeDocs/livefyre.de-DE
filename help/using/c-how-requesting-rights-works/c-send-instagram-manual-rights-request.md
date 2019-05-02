@@ -5,7 +5,7 @@ seo-title: Instagram-Rechte manuell senden
 title: Instagram-Rechte manuell senden
 uuid: c 07 b 3 f 6 f-c 14 c -4 e 62-b 18 b -25934 ebe 45 bf
 translation-type: tm+mt
-source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
+source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
 
 ---
 
@@ -18,7 +18,7 @@ Bevor Sie eine Rechteanforderung senden können, müssen Sie Folgendes tun:
 
 * Fügen Sie ein Instagram-Social-Konto hinzu. Weitere Informationen zum Konfigurieren eines Social-Kontos finden Sie unter [Social-Konto hinzufügen](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/t-configure-social-accout-instagram.md#t_configure_social_accout_instagram). Um eine manuelle oder teilweise automatisierte Rechteanforderung zu senden, müssen Sie ein Instagram-Geschäftskonto einrichten. Weitere Informationen zu Instagram-Konten finden Sie unter [Instagram-Konten.](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts)
 
-* Richten Sie Rights Management ein. Weitere Informationen zum Einrichten von Rights Management finden Sie unter [Anfordern von Rechten](../c-how-requesting-rights-works/c-how-requesting-rights-works.md#c_how_requesting_rights_works).
+* Richten Sie Rights Management ein. Weitere Informationen zum Einrichten von Rights Management finden Sie unter [Anfordern von Rechten](../c-how-requesting-rights-works/c-how-requesting-rights-works.md).
 
 So senden Sie eine manuelle Rechteanforderung für Instagram-Inhalte:
 
