@@ -3,7 +3,7 @@ product: livefyre
 audience: Endbenutzer
 user-guide-title: Experience Manager Livefyre Benutzerhandbuch
 translation-type: tm+mt
-source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
+source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
 
 ---
 
@@ -208,6 +208,7 @@ source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
    + [Rights Management einrichten](c-how-requesting-rights-works/t-set-up-rights-management.md)
    + [Twitter-Berechtigungen senden](c-how-requesting-rights-works/t-send-a-rights-request-to-own-a-digital-asset.md)
    + [Teilweise automatisierte Instagram-Rechte senden](c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md)
+   + [Instagram-Rechte manuell senden](c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md)
    + [Rights Activity History anzeigen](c-how-requesting-rights-works/c-view-rights-activity-history.md)
    + [Inhalte mit ausstehenden Rechten aus der Asset-Bibliothek verwalten](c-how-requesting-rights-works/t-manage-content-with-pending-rights-request.md)
    + [Rechte für Assets manuell über die Asset-Bibliothek erteilen oder sperren](c-how-requesting-rights-works/t-manually-grant-the-rights-for-one-or-more-assets.md)
@@ -251,6 +252,7 @@ source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
       + [Häufig gestellte Fragen zu Datenschutzanfragen](c-settings-other/c-gdpr-compliance/c-privacy-request-faqs.md)
       + [Erstellen einer Datenschutzanforderung](c-settings-other/c-gdpr-compliance/c-privacy-requests.md)
       + [Datenschutzberichte anzeigen](c-settings-other/c-gdpr-compliance/c-view-a-privacy-report.md)
+      + [Userprivacyoptout](c-settings-other/c-gdpr-compliance/c-userprivacyoptout.md)
 + Versionshinweise {#release-notes}
    + [Aktuelle Versionshinweise](c-rn/c-rn.md)
    + Versionshinweise 2019 {#rn2019}
