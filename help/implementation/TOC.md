@@ -3,7 +3,7 @@ product: livefyre
 audience: Endbenutzer
 user-guide-title: Experience Manager Livefyre-Implementierungshandbuch
 translation-type: tm+mt
-source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
+source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
 
 ---
 
@@ -111,6 +111,7 @@ source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
       + [Benutzerdefinierte Stile](c-app-integrations/c-sidenotes-integration/r-custom-styles.md)
       + [Benutzerdefinierte Zeichenfolgen](c-app-integrations/c-sidenotes-integration/r-custom-strings.md)
       + [Implementierung von Sidenotes](c-app-integrations/c-sidenotes-integration/r-sidenotes-implementation.md)
+      + [Updateanchors-Methode](c-app-integrations/c-sidenotes-integration/update-anchors-method.md)
    + [Map](c-app-integrations/c-map-integration.md)
    + [Medienpinnwand](c-app-integrations/c-media-wall-integration.md)
    + [Trends](c-app-integrations/c-trending-integration.md)
