@@ -4,7 +4,7 @@ seo-description: Aktuelle Versionshinweise für Adobe Livefyre.
 seo-title: Aktuelle Versionshinweise für Adobe Livefyre
 title: Aktuelle Versionshinweise für Livefyre
 translation-type: tm+mt
-source-git-commit: 5fce2796795e855504cfbaf18328704484d89fa6
+source-git-commit: 9500a4ac5d3cdaeb5909c06d406b006108d39fee
 
 ---
 
@@ -15,7 +15,7 @@ source-git-commit: 5fce2796795e855504cfbaf18328704484d89fa6
 
 >[!NOTE]
 >
->Livefyre beendet die Unterstützung von TLS 1.1 (und früher) in Übereinstimmung mit Adobe Security Standards am 11. April 2019. Wenden Sie sich an prioritysupport@livefyre.com, wenn Sie Probleme mit Ihrer Integration haben. Bitte besprechen Sie die zukünftigen Versionshinweise für das Datum der endgültigen HTTP-Veraltung.
+>Livefyre deaktiviert den HTTP (Anschluss 80) in unserer Produktionsumgebung am Donnerstag 23. Mai. Dadurch werden die Sicherheits-Updates unter Einhaltung von Adobe Security Standards durchgeführt. Wenden Sie sich an [prioritysupport@livefyre.com](mailto:prioritysupport@livefyre.com) , wenn Sie Probleme mit Ihrer Integration haben.
 
 ##  Verbesserungen
 
