@@ -5,7 +5,7 @@ seo-title: Gerät- und Browserunterstützung
 title: Gerät- und Browserunterstützung
 uuid: 338 f 78 b 2-051 d -4831-a 0 b 9-e 987 f 92660 ce
 translation-type: tm+mt
-source-git-commit: fc4a7e50b936211a6e7c338715b410e221f0b5f7
+source-git-commit: 28a7b0c1d5d71635941ecbd7693ad0427dac9893
 
 ---
 
@@ -21,7 +21,7 @@ Livefyre unterstützt die folgenden Geräte, Betriebssysteme und Browser.
 | **Desktop-Browser** |  |  |  |  |
 | Chrome | ✓ | ✓ | ✓ | ✓ |
 | Edge | ✓ | ✓ | ✓ | ✓ |
-| IE 11 | ✓ | ✓ | X | ✓ |
+| IE 11 | Begrenzt | Begrenzt | Begrenzt | Begrenzt |
 | Firefox 14 + | ✓ | ✓ | ✓ | ✓ |
 | Safari 7. x | ✓ | ✓ | ✓ | ✓ |
 |  |  |  |  |  |
