@@ -1,12 +1,12 @@
 ---
-description: 'null '
-seo-description: 'null '
+description: 'null'
+seo-description: 'null'
 seo-title: SSL-Durchsetzung
 solution: Experience Manager
 title: SSL-Durchsetzung
 uuid: e 64 af 8 c 2-3 ab 6-4034-b 385-0 e 552 d 828 c 6 e
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: 7dc3ac6725a27460cecfa6051549da85370ca053
 
 ---
 
@@ -19,7 +19,7 @@ Um sicherzustellen, dass Ihre Daten sicher bleiben, wird HTTP zugunsten von HTTP
 
 Dies könnte sich auf Livefyre-Kunden auswirken, die über folgende Möglichkeiten verfügen:
 
-* Server-zu-Server-Aufrufe aus ihrem CRM-, CMS-, Wordpress- oder anderen Client.
+* Server-zu-Server-Aufrufe aus ihrem CRM-, CMS-, wordpress- oder anderen Client.
 * Mobile Integrationen (Android- und ios-Apps)
 * Benutzerdefinierte Anwendungen oder benutzerdefinierter Code
 
@@ -27,7 +27,7 @@ Dies könnte sich auf Livefyre-Kunden auswirken, die über folgende Möglichkeit
 
 1. Alle Livefyre-Kunden müssen über HTTPS für den gesamten Datenverkehr mit allen apis kommunizieren, einschließlich:
 
-   * Server zu Serverintegrationen (CRM, CMS, Wordpress usw.)
+   * Server zu Serverintegrationen (CRM, CMS, wordpress usw.)
    * Mobile Integrationen (Android- und ios-Apps)
    * Benutzerdefinierte Anwendungen (Streamhub SDK oder direkt codiert).
 
