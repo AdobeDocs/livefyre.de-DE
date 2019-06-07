@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Mitteilungen
 uuid: c 5963 db -4 d 96-494 e-bdb 3-da 3570 a 14 dfe
 translation-type: tm+mt
-source-git-commit: df47087c69f2bdc8d97226d2013db80703f2e091
+source-git-commit: 0a9327777b309fd2153487061b6258938357c62d
 
 ---
 
@@ -17,7 +17,7 @@ Mitteilungen für Livefyre und Livefyre Studio. Aktuell ab dem 5. Juni 2019.
 
 ## 5. Juni 2019
 
-Facebook bietet zwar im Allgemeinen eine erweiterte Benachrichtigung über Änderungen, wenn möglich, aber gestern, um den Zugriff auf Facebook- und Instagram-Inhalte in Livefyre zu deaktivieren. Aufgrund dieser Änderung können Sie keine Facebook- oder Instagram-Inhalte streamen, durchsuchen oder freigeben. Wir bedauern aufrichtig, dass Sie sich nicht für diese Änderung entscheiden können.
+Facebook bietet zwar im Allgemeinen eine erweiterte Benachrichtigung über Änderungen, wenn möglich, aber gestern, um den Zugriff auf Facebook- und Instagram-Inhalte in Livefyre zu deaktivieren. Aufgrund dieser Änderung können Sie keine Facebook- oder Instagram-Inhalte streamen, durchsuchen oder freigeben. Wir bedauern aufrichtig, dass Sie Ihnen bei dieser Änderung nicht zur Verfügung stehen können.
 
 Beachten Sie, dass derzeit noch immer auf Facebook und Instagram-Inhalte zugegriffen werden kann:
 
