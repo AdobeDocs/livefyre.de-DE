@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Mitteilungen
 uuid: c 5963 db -4 d 96-494 e-bdb 3-da 3570 a 14 dfe
 translation-type: tm+mt
-source-git-commit: 8624bacfaf584f305e6bbfc444653d179fdd34dc
+source-git-commit: 1319d79718960b112f7c711b5afabfa04dc2a5c0
 
 ---
 
@@ -14,6 +14,18 @@ source-git-commit: 8624bacfaf584f305e6bbfc444653d179fdd34dc
 # Mitteilungen{#announcements}
 
 Mitteilungen für Livefyre und Livefyre Studio. Aktuell ab dem 5. Juni 2019.
+
+## 7. Juni 2019
+
+Wir freuen uns, dass Instagram-Streams und die Suche in Livefyre wiederhergestellt wurden. Sie können die Social-Suche für Instagram-Inhalte fortsetzen und Instagram-Inhalte in Ordnern und Apps fortsetzen. Um den Streaming-Inhalt erneut zu starten, müssen Sie folgende Schritte ausführen:
+* Bei Livefyre anmelden
+* Besuchseinstellungen, um Ihre mit Ihrem Instagram-Geschäftskonto verknüpften Zugriffstoken erneut zu autorisieren und zu aktualisieren
+* Warten Sie ein bis zwei Stunden, bis Inhalt erneut gestartet wird.
+* Support kontaktieren Wenn Probleme auftreten
+
+Facebook-Streams wurden noch nicht wiederhergestellt, aber wir arbeiten noch immer aktiv mit Facebook, um diese Funktion wieder zu reproduzieren, und werden Sie dann aktualisieren, sobald wir mehr wissen.
+
+Vielen Dank für Ihre Geduld mit dieser unerwarteten Unterbrechung des Service.
 
 ## 5. Juni 2019
 
