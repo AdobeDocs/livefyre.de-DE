@@ -6,14 +6,18 @@ solution: Experience Manager
 title: Mitteilungen
 uuid: c 5963 db -4 d 96-494 e-bdb 3-da 3570 a 14 dfe
 translation-type: tm+mt
-source-git-commit: 1319d79718960b112f7c711b5afabfa04dc2a5c0
+source-git-commit: 087a40bf77c3b630acb661b58ffa8cfdedc0aec0
 
 ---
 
 
 # Mitteilungen{#announcements}
 
-Mitteilungen für Livefyre und Livefyre Studio. Aktuell ab dem 5. Juni 2019.
+## 11. Juni 2019
+
+Wir freuen uns, Ihnen mitteilen zu können, dass Facebook Fanpage-Inhalte das Streaming in Ordner und Apps in Livefyre fortsetzen. Zum Aktivieren des Flusses dieses Inhalts sind keine Aktionen erforderlich.
+
+Wir freuen uns über Ihre Geduld während dieses unerwarteten Ausfalls.
 
 ## 7. Juni 2019
 
