@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Abfrageanforderungsstruktur
 uuid: bf 6 b 9 e 45-d 08 a -48 e 6-acc 6-e 4 fa 56428 d 25
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: cf447db2cb3498fcb01b511848faeee4d1e48481
 
 ---
 
@@ -40,4 +40,3 @@ Dabei `lftoken` ist ein JSON-Webtoken mit Ihrem Netzwerkschlüssel signiert und 
    * Wenn nicht `lftoken` vorhanden ist oder die Überprüfung fehlschlägt, darf Ihr Endpunkt nicht mit Profilinformationen antworten. Beantworten Sie stattdessen den Status 403 (Forbidden) und keinen Antwortkörper.
 
 1. `userAuthToken` wird durch die Livefyre `buildUserAuthToken` -Methode für den Benutzer mit der Benutzer-ID &quot;system&quot; generiert. Dieser Benutzer ist der erste Benutzer, der für jedes neue Netzwerk erstellt wurde.
-1. Um Ihre Seite zu testen, verwenden Sie unser [Ping für Pull](https://livefyre-p4p-wizard.herokuapp.com/home) -Tester, um zu bestätigen, dass alles wie erwartet funktioniert.
