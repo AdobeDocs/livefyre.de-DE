@@ -3,7 +3,7 @@ product: livefyre
 audience: Endbenutzer
 user-guide-title: Experience Manager Livefyre-Implementierungshandbuch
 translation-type: tm+mt
-source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
+source-git-commit: f3e4942cab98960259ddf6d2f4fd878e74599d9f
 
 ---
 
@@ -47,7 +47,6 @@ source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
    + Verwenden von Social-Apps mit Livefyre-Identität {#use-social-apps-with-livefyre-identity}
       + [Erstellen von Social-Apps](c-livefyre-identity-comp/t-create-your-social-apps.md)
       + [Erstellen einer Facebook-App für die Verwendung mit Livefyre-Identität](c-livefyre-identity-comp/t-create-a-facebook-app-for-use-with-livefyre-identity.md)
-      + [Erstellen eines Google Project für die Verwendung mit Livefyre Identity](c-livefyre-identity-comp/t-create-a-google-project-for-use-with-livefyre-identity.md)
       + [Erstellen einer Twitter-App für die Verwendung mit Livefyre Identity](c-livefyre-identity-comp/t-create-a-twitter-app-for-use-with-livefyre-identity.md)
       + [Erstellen Sie ein Yahoo! App für die Verwendung mit Livefyre-Identität](c-livefyre-identity-comp/t-create-a-yahoo-app-for-use-with-livefyre-identity.md)
       + [Erstellen einer Microsoft Live Identity App zur Verwendung mit Livefyre-Identität](c-livefyre-identity-comp/t-create-a-microsoft-live-id-app-for-use-with-livefyre-identity.md)
@@ -90,8 +89,8 @@ source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
       + [Buildcollection-Site-Methode](c-installing-libraries/r-buildcollection-site-method.md)
       + [Site-Methode gedreht](c-installing-libraries/r-geturn-site-method.md)
       + [Beispiele](c-installing-libraries/c-libraries-examples.md)
-   + Mobile sdks {#mobile-sdks}
-      + [Mobile sdks](c-mobile-sdks/c-mobile-sdks.md)
+   + Mobile SDKs {#mobile-sdks}
+      + [Mobile SDKs ](c-mobile-sdks/c-mobile-sdks.md)
       + [Livefyre ios SDK](c-mobile-sdks/c-livefyre-ios-sdk.md)
       + [Android SDK](c-mobile-sdks/c-android-sdk.md)
 + [Livefyre. js](c-livefyre.js.md)
