@@ -3,7 +3,7 @@ product: livefyre
 audience: Endbenutzer
 user-guide-title: Experience Manager Livefyre-Implementierungshandbuch
 translation-type: tm+mt
-source-git-commit: f3e4942cab98960259ddf6d2f4fd878e74599d9f
+source-git-commit: d2a3bad7f0009d04be0e17802d17409f16c1b779
 
 ---
 
@@ -13,8 +13,8 @@ source-git-commit: f3e4942cab98960259ddf6d2f4fd878e74599d9f
 + [Livefyre-Implementierungshandbuch](home.md)
 + Erste Schritte {#getting-started}
    + [Erste Schritte mit Livefyre-Integration](c-getting-started/c-getting-started.md)
-   + Implementierungsprozess {#implementation-process}
-      + [Implementierungsprozess](c-getting-started/c-implementation-process/c-implementation-process.md)
+   + Implementierungsverfahren {#implementation-process}
+      + [Implementierungsverfahren](c-getting-started/c-implementation-process/c-implementation-process.md)
       + [App-Integrationsarten](c-getting-started/c-implementation-process/c-app-integration-types.md)
       + [App-Implementierung](c-getting-started/designer-app-implementation.md)
       + [Implementieren von Livefyre mit der Integration von Drittanbietern](c-app-integrations/implement-livefyre-3rd-party.md)
@@ -90,7 +90,7 @@ source-git-commit: f3e4942cab98960259ddf6d2f4fd878e74599d9f
       + [Site-Methode gedreht](c-installing-libraries/r-geturn-site-method.md)
       + [Beispiele](c-installing-libraries/c-libraries-examples.md)
    + Mobile SDKs {#mobile-sdks}
-      + [Mobile SDKs ](c-mobile-sdks/c-mobile-sdks.md)
+      + [Mobile SDKs](c-mobile-sdks/c-mobile-sdks.md)
       + [Livefyre ios SDK](c-mobile-sdks/c-livefyre-ios-sdk.md)
       + [Android SDK](c-mobile-sdks/c-android-sdk.md)
 + [Livefyre. js](c-livefyre.js.md)
@@ -99,7 +99,6 @@ source-git-commit: f3e4942cab98960259ddf6d2f4fd878e74599d9f
    + [Chat](c-app-integrations/c-app-integratios-chat.md)
    + Kommentare {#comments}
       + [Kommentare](c-app-integrations/c-comments-integration/c-comments-integration.md)
-      + [Anzeigen in Kommentaren](c-app-integrations/c-comments-integration/c-ads-in-comments-integration.md)
    + [Live-Blog](c-app-integrations/c-live-blog-integration.md)
    + [Reviews](c-app-integrations/c-reviews-integration.md)
    + Zielgruppen {#sidenotes}
@@ -111,7 +110,7 @@ source-git-commit: f3e4942cab98960259ddf6d2f4fd878e74599d9f
       + [Benutzerdefinierte Zeichenfolgen](c-app-integrations/c-sidenotes-integration/r-custom-strings.md)
       + [Implementierung von Sidenotes](c-app-integrations/c-sidenotes-integration/r-sidenotes-implementation.md)
       + [Updateanchors-Methode](c-app-integrations/c-sidenotes-integration/update-anchors-method.md)
-   + [Map](c-app-integrations/c-map-integration.md)
+   + [Landkarte](c-app-integrations/c-map-integration.md)
    + [Medienpinnwand](c-app-integrations/c-media-wall-integration.md)
    + [Trends](c-app-integrations/c-trending-integration.md)
 + App-Anpassungen {#app-customizations}
