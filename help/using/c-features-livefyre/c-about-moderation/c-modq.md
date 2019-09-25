@@ -1,171 +1,171 @@
 ---
-description: Moderieren Sie Inhalte von einer einzelnen intelligenten Oberfläche.
-seo-description: Moderieren Sie Inhalte von einer einzelnen intelligenten Oberfläche.
-seo-title: Moderieren von Inhalten mit modq
-title: Moderieren von Inhalten mit modq
-uuid: c 630 fb 5-7 bd 0-4 da 0-ac 7 e -080 e 970 fb 4 f 9
+description: Moderieren Sie Inhalte über eine einzige, intelligente Schnittstelle.
+seo-description: Moderieren Sie Inhalte über eine einzige, intelligente Schnittstelle.
+seo-title: Moderieren von Inhalten mit ModQ
+title: Moderieren von Inhalten mit ModQ
+uuid: c630fb85-7bd0-4da0-ac7e-080e970fb4f9
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 
 
-# Moderieren von Inhalten mit modq{#moderate-content-using-modq}
+# Moderieren von Inhalten mit ModQ{#moderate-content-using-modq}
 
-Moderieren Sie Inhalte von einer einzelnen intelligenten Oberfläche.
+Moderieren Sie Inhalte über eine einzige, intelligente Schnittstelle.
 
-Das modq erstellt eine Echtzeit-Warteschlange aller Inhalte auf Ihrer Site oder im Netzwerk, die die von Ihnen definierten Vormoderationsregeln erfüllen, sodass Ihre Moderatoren nur auf Inhalte konzentrieren können, die ihre Aufmerksamkeit erfordern.
+ModQ erstellt eine Echtzeit-Warteschlange mit allen Inhalten Ihrer Website oder Ihres Netzwerks, die mit den von Ihnen definierten Vormoderationsregeln übereinstimmt, sodass sich Ihre Moderatoren nur auf Inhalte konzentrieren können, die ihre Aufmerksamkeit erfordern.
 
-Nachdem Sie die modq-Einstellungen festgelegt haben, werden neue Inhalte, die den Stream eingeben, oder vorhandene Inhalte, die von Ihren Benutzern gekennzeichnet wurden, Ihrer Warteschlange hinzugefügt. Änderungen an Ihren Regeln entfernen keine Inhalte aus dem modq, fügen der Warteschlange jedoch entsprechend Ihren neuen Einstellungen neue Inhalte hinzu.
+Sobald Sie die ModQ-Einstellungen festgelegt haben, werden neue Inhalte, die in den Stream eingegeben werden, oder vorhandene Inhalte, die von Ihren Benutzern gekennzeichnet werden, in Ihre Warteschlange aufgenommen. Änderungen an Ihren Regeln entfernen keine Inhalte aus dem ModQ, sondern fügen der Warteschlange neue Inhalte entsprechend Ihren neuen Einstellungen hinzu.
 
-Mit modq können Sie:
+ModQ ermöglicht Ihnen Folgendes:
 
-* Moderieren Sie im Kontext, zeigen Sie ganze Threads an und lassen Sie sich entweder Genehmigen, Papierkorb oder Bozo, um einzelne Inhaltselemente oder vollständige Threads in einem Klick anzuzeigen.
-* Erhöhen Sie die Geschwindigkeit und Effizienz Ihres Arbeitsablaufs.
-* Beantworten Sie den Inhalt und erhöhen Sie Ihre Einbindung in Ihre Community.
-* Ermöglichen Sie es mehreren Moderatoren, Inhalte durchzuarbeiten, ohne die Arbeit gegenseitig zu duplizieren.
+* Moderieren Sie im Kontext, sehen Sie sich ganze Threads an und genehmigen, Papierkorb oder Bozo entweder einzelne Inhaltselemente oder vollständige Threads mit einem Klick.
+* Erhöhen Sie die Geschwindigkeit und Effizienz Ihres Workflows.
+* Beantworten Sie Inhalte und erhöhen Sie Ihre Beteiligung an Ihrer Community.
+* Ermöglichen Sie es mehreren Moderatoren, Inhalte zu bearbeiten, ohne die Arbeit der anderen zu duplizieren.
 
-Livefyre-Inhalte werden in modq für bis zu 6 Wochen aufgelistet und vormoderierte Streams, die noch nicht behoben wurden, werden in modq 90 Tage lang aufgelistet.
+Livefyre-Inhalte werden bis zu 6 Wochen in ModQ aufgeführt und nicht adressierte vormoderierte Streams werden 90 Tage lang in ModQ aufgeführt.
 
 >[!NOTE]
 >
->Ein Inhaltselement kann mehrmals aufgelistet werden, wenn es mehrere Regeln für die Einbeziehung in modq erfüllt. Wenn beispielsweise ein Inhaltselement eine Benutzerkennzeichnungsregel für &quot;Offensive&quot; auslöst und später eine andere Regel für Gewinn auslöst, wird er zweimal in modq aufgeführt.
+>Ein einzelnes Inhaltselement kann mehrmals aufgeführt werden, wenn es mit mehreren Regeln für die Einbeziehung in ModQ übereinstimmt. Wenn beispielsweise ein Inhaltselement eine Regel für das Kennzeichen des Benutzers für Offensive auslöst und später eine andere Regel für Profane auslöst, wird diese zweimal in ModQ aufgeführt.
 
-Inhalte, die nicht in modq angezeigt werden, umfassen:
+Inhalte, die nicht in ModQ angezeigt werden, umfassen:
 
-* Verschlüsselter Inhalt.
-* Von einem Moderator genehmigte Inhalte.
-* Von einem eingeschränkten Benutzer geposteter Inhalt oder von einem eingeschränkten Benutzer angewendete Benutzerflags.
+* Inhalte mit Papierkorb.
+* Von einem Moderator genehmigte Inhalte
+* Inhalte, die von einem verbotenen Benutzer veröffentlicht werden, oder von einem verbotenen Benutzer verwendete Kennzeichen.
 
-## Navigieren in modq {#section_uv4_db2_yy}
+## Navigieren in ModQ {#section_uv4_db2_yy}
 
-Das modq wird in zwei Bedienfelder mit Registerkarten aufgeteilt:
+ModQ ist in zwei Registerkarten unterteilt:
 
-* **[!UICONTROL Items]** listet alle für die Moderation getrennten Livefyre-nativen und socialsync-Inhalte auf. Diese Registerkarte enthält alle Social-Suchen oder Stream-Inhalte, die nach der Moderation gekennzeichnet oder bearbeitet wurden.
-* **[!UICONTROL Streams Premoderation]** listet alle Inhalte auf, die Ihre Apps aus Streams mit aktivierter Prämoderation eingeben. (Weitere Informationen finden Sie unter Erstellen von Streams.)
+* **[!UICONTROL Items]** listet alle für die Moderation ausgewählten Livefyre-nativen und SocialSync-Inhalte auf. Diese Registerkarte enthält alle Social Search- oder Stream-Inhalte, die nach der Moderation markiert oder bearbeitet wurden.
+* **[!UICONTROL Streams Premoderation]** listet alle Inhalte auf, die mit aktivierter Vormoderat aus Streams in Ihre Apps eingegeben werden. (Weitere Informationen finden Sie unter Erstellen von Streams.)
 
 Beide Registerkarten bieten viele der gleichen Filter und Moderationstools.
 
-* **[!UICONTROL Item Count]** Die Anzahl der in der Warteschlange verbleibenden Elemente wird in der oberen linken Ecke von modq angezeigt.
-* **[!UICONTROL Filter]** Klicken **[!UICONTROL Filter]** Sie auf, um Parameter zu definieren, mit denen Inhalte im Bereich aufgelistet werden.
-* **[!UICONTROL History]** Klicken Sie oben rechts auf dem Bildschirm auf die **[!UICONTROL History]** Schaltfläche, um eine Liste der kürzlich moderierten Inhalte zu öffnen, über die Sie Ihre Arbeit überprüfen oder eine kürzlich moderierte Moderationsaktion ändern können. Klicken Sie erneut auf die Schaltfläche, um in die Warteschlange zurückzukehren. Nur Ihre letzten 100 Aktionen werden angezeigt. **Der Verlauf** führt keine Aktionen durch, die von einem anderen Moderator durchgeführt wurden.
+* **[!UICONTROL Item Count]** Die Anzahl der in der Warteschlange verbleibenden Elemente wird in der oberen linken Ecke von ModQ angezeigt.
+* **[!UICONTROL Filter]** Klicken Sie auf , **[!UICONTROL Filter]** um Parameter zu definieren, mit denen der Inhalt im Bereich aufgeführt wird.
+* **[!UICONTROL History]** Klicken Sie auf die **[!UICONTROL History]** Schaltfläche oben rechts im Bildschirm, um eine Liste mit kürzlich moderierten Inhalten zu öffnen, sodass Sie Ihre Arbeit überprüfen oder eine kürzlich durchgeführte Moderationsaktion ändern können. Klicken Sie erneut auf die Schaltfläche, um zum Inhalt in der Warteschlange zurückzukehren. Es werden nur Ihre 100 letzten Aktionen angezeigt. **Die Aktionen eines anderen Moderators werden nicht in der Geschichte** aufgeführt.
 
-* **[!UICONTROL User Pane]** Klicken Sie oben rechts auf der Seite auf die Schaltflächen zum Erweitern oder Minimieren, um den Bereich &quot;Benutzer&quot; zu öffnen oder zu schließen.
+* **[!UICONTROL User Pane]** Klicken Sie oben rechts auf der Seite auf die Schaltflächen zum Erweitern oder Reduzieren, um den Bereich "Benutzer"zu öffnen oder zu schließen.
 
-## Grundlegendes zum modq-Inhalt {#section_oxm_kgz_y1b}
+## ModQ-Inhalte {#section_oxm_kgz_y1b}
 
-Jedes aufgeführte Inhaltselement zeigt Vorschauinformationen an, einschließlich der Site, auf der sie veröffentlicht wurde, und des Autors. Wenn Sie ein Element auswählen, wird das gesamte Inhaltselement einschließlich aller Medien angezeigt.
+Jeder aufgelistete Inhalt zeigt Vorschauinformationen an, einschließlich der Site, auf der er veröffentlicht wurde, und seines Autors. Wenn Sie ein Element auswählen, wird das gesamte Inhaltselement einschließlich aller Medien angezeigt.
 
 >[!NOTE]
 >
->In Livefyre-nativen Inhalten werden mehr Informationen angezeigt als Inhalte, die über Streams oder andere soziale Medienquellen Ihrer App hinzugefügt wurden.
+>Livefyre-native Inhalte zeigen mehr Informationen an als Inhalte, die über Streams oder andere soziale Medien zu Ihrer App hinzugefügt werden.
 
 Die folgenden Informationen werden angezeigt, wenn Sie ein Element auswählen:
 
-* **[!UICONTROL Time in Queue:]** gibt an, wie lange der Inhalt zu modq hinzugefügt wurde.
+* **[!UICONTROL Time in Queue:]** zeigt an, wie lange das Inhaltselement zu ModQ hinzugefügt wurde.
 * **[!UICONTROL App name:]** die App, in der der Inhalt angezeigt wird. Links zur Site mit der App.
-* **[!UICONTROL Content Body:]** Text und Medienminiaturansicht, falls verfügbar.
-* **[!UICONTROL Status:]** den aktuellen Status des Inhalts (Ausstehend, Umgestriche usw.).
-* **[!UICONTROL Author information:]** Name und Benutzername des Autors.
-* **[!UICONTROL Timestamp:]** der relative Zeitstempel des Inhalts der Erstellung des Inhalts. Permalinks zum Inhaltselement in der Seite &quot;App-Inhalt&quot; von Studio.
-* **[!UICONTROL Flag Type:]** Offensive, Nicht zustimmen, Spam usw.
+* **[!UICONTROL Content Body:]** Text- und Medien-Miniaturansicht, sofern verfügbar.
+* **[!UICONTROL Status:]** den aktuellen Status des Inhalts (Ausstehend, Gestrichelt usw.).
+* **[!UICONTROL Author information:]** den Namen und den Benutzernamen des Autors.
+* **[!UICONTROL Timestamp:]** der relative Zeitstempel zum Zeitpunkt der Erstellung des Inhalts. Versieht das Inhaltselement auf der Seite "App-Inhalt"von Studio mit Verknüpfungen.
+* **[!UICONTROL Flag Type:]** Offensive, Unstimmigkeit, Spam usw.
 
    * SAFE-Flags: Spam und Bulk.
-   * Durch Ihr Netzwerk und Ihre Site-Gewinnansichtsliste angewendetes Flag: Gewinn.
-   * Von SAFE angewendete Flags: Hasssprache, PII (persönlich identifizierbare Informationen), Beleidigung und Gewinn.
-   * Benutzerkennzeichen: Spam, Offline, Beleidigend und Nicht zustimmen.
+   * Von Ihrer Netzwerk- und Site-Profite-Liste angewendete Kennzeichnung: Wohlstand.
+   * Von SAFE angewendete Flags: Hassreden, PII (Personally Identifier Information), Insult und Profitabilität.
+   * Benutzerfelder: Spam, Off-topic, Offensive und Uneinigkeit.
 
-* **[!UICONTROL Flag origin:]** Die Quelle des aufgelisteten Flags. KANN SICHER sein, ein Benutzername oder ein Livefyre.
-* **[!UICONTROL More info:]** listet Details zu den Inhalten auf, einschließlich der Anzahl der &quot;Gefällt mir&quot; -Klicks, Benutzerflags, Antworten und aller auf den Inhalt angewendeten Tags. Durch Klicken auf die Site wird die Seite der obersten Ebene geöffnet, auf der sich der Inhalt befindet. Durch Klicken auf den Zeitstempel wird eine verkettete Ansicht des Inhalts im Kontext auf der Seite geöffnet.
+* **[!UICONTROL Flag origin:]** die Quelle des aufgelisteten Flag. Kann SAFE, ein Benutzername oder Livefyre sein.
+* **[!UICONTROL More info:]** listet Details zum Inhalt auf, einschließlich der Anzahl der "Gefällt mir"-Klicks, Benutzerfelder, Antworten und aller Tags, die auf den Inhalt angewendet wurden. Durch Klicken auf die Site wird die Seite auf der obersten Ebene der Site geöffnet, auf der sich der Inhalt befindet. Durch Klicken auf den Zeitstempel wird eine verkettete Ansicht des Inhalts im Kontext auf der Seite geöffnet.
 
-## Filteroptionen im modq {#section_r2c_qc2_yy}
+## Filteroptionen im ModQ {#section_r2c_qc2_yy}
 
-Klicken **[!UICONTROL Filter]** Sie oben links im modq-Fenster auf, um ein Bedienfeld mit verfügbaren Filteroptionen für aufgelistete Inhalte zu öffnen. Wenn Sie Optionen auswählen, wird das modq automatisch aktualisiert, um nur Ihren gefilterten Inhalt aufzulisten. Klicken **[!UICONTROL Clear filters]** Sie auf, um alle ausgewählten Optionen zu löschen und die gesamte Liste der Elemente neu zu laden.
+Klicken Sie **[!UICONTROL Filter]** oben links im ModQ-Fenster, um ein Bedienfeld mit verfügbaren Filteroptionen für aufgelistete Inhalte zu öffnen. Während Sie Optionen auswählen, wird ModQ automatisch aktualisiert, um nur Ihre gefilterten Inhalte aufzulisten. Klicken Sie auf **[!UICONTROL Clear filters]** , um alle ausgewählten Optionen zu löschen und die vollständige Liste der Elemente neu zu laden.
 
 Für die Registerkarten **[!UICONTROL Items]** und **[!UICONTROL Streams Premoderation]** Registerkarten stehen verschiedene Filteroptionen zur Verfügung.
 
-The following options are available for the ModQ under both **[!UICONTROL Items]** and **[!UICONTROL Streams Premoderation]**:
+Die folgenden Optionen stehen für den ModQ sowohl unter **[!UICONTROL Items]** als auch unter **[!UICONTROL Streams Premoderation]**:
 
-* **[!UICONTROL App]**. Verwenden Sie das Feld &quot;App-Apps&quot; , um die Ergebnisse nach App zu filtern. Es können mehrere Apps ausgewählt werden.
-* **[!UICONTROL System Flags]**. Filtern Sie Inhalte nach Regeln wie Spam, Gewinn, SAFE und Premoderation.
+* **[!UICONTROL App]**. Verwenden Sie das Feld "Suchanwendungen", um die Ergebnisse nach App zu filtern. Es können mehrere Apps ausgewählt werden.
+* **[!UICONTROL System Flags]**. Filtern Sie Inhalte nach Regeln wie Spam, Profitabilität, SAFE und Vormoderationsregeln.
 
-   * Durch Auswahl **[!UICONTROL Spam]** werden alle Inhalte aufgelistet, die als Spam von Secure getaggt sind.
-   * Die Auswahl **[!UICONTROL Profanity]** führt alle Inhalte auf, die von Ihrem Netzwerk oder Ihrer Site Gewinnanity List mit dem Tag Profit versehen wurden.
-   * Durch die Auswahl **[!UICONTROL SAFE]** werden alle Inhalte aufgelistet, die das modq als Ergebnis Ihrer sicheren Regeln eingeben.
-   * Durch Auswahl **[!UICONTROL Premoderation]** werden alle Inhalte aufgelistet, die für die Premoderation durch Ihren Netzwerk, Stream oder Ihre App-Einstellungen getaggt wurden.
+   * Durch Auswahl dieser Option **[!UICONTROL Spam]** werden alle Inhalte aufgelistet, die von SAFE als Spam markiert wurden.
+   * Wenn Sie auswählen, **[!UICONTROL Profanity]** werden alle Inhalte, die mit Profane getaggt sind, von Ihrer Netzwerk- oder Site-Profanity-Liste aufgelistet.
+   * Durch Auswahl **[!UICONTROL SAFE]** werden alle Inhalte aufgelistet, die aufgrund Ihrer SAFE-Regeln in ModQ eingegeben werden.
+   * Bei Auswahl dieser Option **[!UICONTROL Premoderation]** werden alle Inhalte aufgelistet, die von Ihrem Netzwerk, Stream oder Ihren App-Einstellungen für die Vormoderation markiert wurden.
 
-* **[!UICONTROL User Flags]** Filtern von Inhalten nach Benutzerflags. Zu den Optionen gehören &quot;Offensive&quot; ,&quot; Spam&quot; , &quot;Offline&quot; und&quot; Nicht zutreffend&quot; .
-* **[!UICONTROL Rights Requests.]** Zeigen Sie nur Inhalte mit den Rechten an, die durch Klicken auf das Kontrollkästchen erteilt wurden.
-* **[!UICONTROL Entered the queue.]** Filtern Sie Inhalte nach dem Zeitraum, in dem Inhalte an modq gesendet wurden. Der Zeitinhalt an modq ist nicht notwendigerweise der Zeitpunkt, an dem Inhalte an die App gepostet wurden.
+* **[!UICONTROL User Flags]** Filtern von Inhalten nach Benutzerflags Zu den Optionen gehören Offensive, Spam, Off-topic und Uneinigkeit.
+* **[!UICONTROL Rights Requests.]** Zeigt nur Inhalte mit Berechtigungen an, die durch Klicken auf das Kontrollkästchen erteilt wurden.
+* **[!UICONTROL Entered the queue.]** Filtern Sie den Inhalt nach dem Zeitraum, in dem der Inhalt an ModQ gesendet wurde. Der Zeitpunkt, zu dem Inhalte an ModQ gesendet wurden, ist nicht unbedingt der Zeitpunkt, zu dem Inhalte in der App veröffentlicht wurden.
 
-Die folgenden Optionen sind für das modq unter **[!UICONTROL Streams Premoderation]**:
+Die folgenden Optionen stehen für ModQ unter **[!UICONTROL Streams Premoderation]**:
 
-* **[!UICONTROL Social Source]** Filtern Sie Inhalte nach der sozialen Quelle, aus der der Inhalt stammt. Die Optionen für Social-Quellen umfassen beispielsweise Twitter, Instagram, Facebook und RSS.
+* **[!UICONTROL Social Source]** Filtern Sie Inhalte nach der sozialen Quelle, aus der der Inhalt stammt. Zu den Optionen sozialer Quellen gehören beispielsweise Twitter, Instagram, Facebook und RSS.
 
-Die folgende Option steht für das modq unter **[!UICONTROL Items]**:
+Die folgende Option steht für ModQ unter **[!UICONTROL Items]**:
 
 **[!UICONTROL Moderation Recommendations]**. Filtern Sie Inhalte nach der Empfehlung der automatisierten Moderationsempfehlung.
 
-Die folgenden Bilder zeigen, wie Moderationsempfehlungen in modq aussehen: ![](assets/mod_reco1.png)
+Die folgenden Bilder zeigen, wie Moderationsempfehlungen in ModQ aussehen:  ![](assets/mod_reco1.png)
 
-Die Moderationsempfehlung wird für Inhalte bereitgestellt, wenn sie in **[!UICONTROL Network Settings > Moderation]** und **[!UICONTROL Network Settings > ModQ]**.
+Die Moderationsempfehlung wird für Inhalte gegeben, wenn sie in und **[!UICONTROL Network Settings > Moderation]****[!UICONTROL Network Settings > ModQ]** eingerichtet wird.
 
-## Aktionen, die Sie in modq verwenden können {#section_h4g_wrn_z1b}
+## Aktionen, die Sie in ModQ verwenden können {#section_h4g_wrn_z1b}
 
-Sie können entscheiden, was mit jedem Inhaltselement im modq zu tun ist.
+Sie können entscheiden, was Sie mit jedem Inhaltselement im ModQ tun sollen.
 
 Wählen Sie eine der folgenden Optionen aus:
 
-* **[!UICONTROL Checkbox]** Das Symbol zur Genehmigung des Inhalts
-* **[!UICONTROL Trash can]** Das Symbol zum Senden des Inhalts an den Papierkorb
-* **[!UICONTROL Request Rights]** um die Rechte an den Inhalt des Inhalts des Inhalts anzufordern.
+* Das **[!UICONTROL Checkbox]** Symbol zum Genehmigen des Inhalts
+* Das **[!UICONTROL Trash can]** Symbol zum Senden des Inhalts in den Papierkorb
+* **[!UICONTROL Request Rights]** , um die Rechte an den Inhalten vom Eigentümer anzufordern.
 
    >[!NOTE]
    >
-   >Sie können keine Rechte in modq für Inhalte von Instagram anfordern. Sie müssen die Bibliothek oder App-Inhalte verwenden, um Rechte für Rechte von Instagram zu senden.
+   >Sie können keine Rechte in ModQ für Inhalte von Instagram anfordern. Sie müssen die Bibliotheks- oder App-Inhalte verwenden, um Berechtigungsanfragen für Inhalte von Instagram zu senden.
 
-* **[!UICONTROL Feature and Approve]** , um den Inhalt zu genehmigen und das Inhaltselement zu kennzeichnen.
-* **[!UICONTROL Product Tag and Approve]** zum Hinzufügen eines Produkts aus Ihrem Produktkatalog zum Inhalt und genehmigen Sie es dann.
-* **[!UICONTROL Mark as Pending]** , um den Inhalt als ausstehend zu markieren.
-
->[!NOTE]
->
->Sobald Sie einen Inhalt entdecken, werden das Inhaltselement und alle Antworten auf das Inhaltselement dauerhaft aus modq entfernt. Informationen zum Einfügen eines verschlüsselten Inhalts in eine App finden Sie unter [Hinzufügen eines Trendelements zurück zu einer App](/help/using/c-features-livefyre/c-about-moderation/t-add-trashed-item-back-into-app.md#t_add_trashed_item_back_into_app).
-
-Wenn sich der Inhalt bereits im gewünschten Status befindet, wird durch Auswahl von &quot;Papierkorb&quot; ,&quot; Bozo&quot; oder &quot;Genehmigen&quot; der Status bestätigt und das Element aus der Liste entfernt. Durch die Moderation eines Inhaltsbestandteils wird es sofort aus Ihrer Warteschlange entfernt und in den Warteschlangen anderer Moderatoren deaktiviert.
+* **[!UICONTROL Feature and Approve]** um den Inhalt zu genehmigen und auch den Inhalt zu kennzeichnen.
+* **[!UICONTROL Product Tag and Approve]** , um dem Inhalt ein Produkt aus Ihrem Produktkatalog hinzuzufügen und es dann zu genehmigen.
+* **[!UICONTROL Mark as Pending]** , um den Inhalt als ausstehend zu kennzeichnen.
 
 >[!NOTE]
 >
->Stream-Inhalte sind möglicherweise nicht Bozo&#39;d. Durch das Umbrechen von Stream-Inhalten wird sie dauerhaft aus dem Stream entfernt und kann nicht rückgängig gemacht werden.
+>Sobald Sie einen Inhalt abschaffen, werden der Inhalt und alle Antworten auf den Inhalt endgültig aus ModQ entfernt. Informationen zum Einfügen eines durchgestrichenen Inhalts in eine App finden Sie unter [Hinzufügen eines durchgestrichenen Elements zu einer App](/help/using/c-features-livefyre/c-about-moderation/t-add-trashed-item-back-into-app.md#t_add_trashed_item_back_into_app).
 
-Sobald der Inhalt moderiert wurde, wird er aus dem modq des Moderators entfernt und der Autor kann ihn nicht mehr im Stream bearbeiten. Wenn ein Moderator ein Element ausblendet oder dessen Kommentare löscht, wird es in Echtzeit in den Warteschlangen anderer Moderatoren grau angezeigt. Wenn der Inhalt grau ausgeblendet wurde, wird die **[!UICONTROL Clear Moderated]** Schaltfläche auf der Seite angezeigt, sodass Moderatoren diese aus ihren Listen entfernen und ihren Platz auf der Seite unabhängig von der anderen Moderatoraktivität behalten können.
+Wenn sich der Inhalt bereits im gewünschten Zustand befindet, wird durch Auswahl von "Papierkorb", "Bozo"oder "Genehmigen"der Status bestätigt und das Element aus der Liste entfernt. Wenn Sie ein Inhaltselement moderieren, wird es sofort aus der Warteschlange entfernt und in den Warteschlangen anderer Moderatoren deaktiviert.
 
-## Verwenden der Papierkorbfunktion in modq {#section_tpx_qgz_y1b}
+>[!NOTE]
+>
+>Stream-Inhalt darf nicht Bozo’d sein. Durch das Verfolgen von Stream-Inhalten wird dieser dauerhaft aus dem Stream entfernt und kann nicht rückgängig gemacht werden.
 
-Verwenden Sie den Abschnitt &quot;Einstellungen&quot; , um verfügbare Optionen auszuwählen, wenn der Inhalt als&quot; Trashed&quot; gekennzeichnet ist.
+Sobald der Inhalt moderiert wurde, wird er aus dem ModQ des Moderators entfernt und kann vom Autor nicht mehr aus dem Stream heraus bearbeitet werden. Wenn ein Moderator ein Element ablehnt oder ein Benutzer seinen Kommentar löscht, wird es in Echtzeit in den Warteschlangen anderer Moderatoren grau dargestellt. Wenn Inhalte ausgegraut wurden, wird die **[!UICONTROL Clear Moderated]** Schaltfläche auf der Seite angezeigt, sodass Moderatoren sie aus ihren Listen entfernen und unabhängig von anderen Moderatoraktivitäten ihren Platz auf der Seite behalten können.
 
-* ****[!UICONTROL Confirm Trash]**** Aktivieren Sie diese Option, damit Moderatoren die Aktion bestätigen müssen, wenn Inhalte in den Papierkorb gesetzt werden. Wenn diese Option aktiviert ist, **[!UICONTROL Trash]** wird für Inhalte ein Dialogfeld angezeigt, in dem nach einem **[!UICONTROL Reason for Moderation]** Feld gefragt wird, in welchem Feld **[!UICONTROL Note]** eine eingegeben wird.
+## Verwenden der Funktion "Papierkorb"in ModQ {#section_tpx_qgz_y1b}
+
+Wählen Sie im Abschnitt "Einstellungen"die Optionen aus, die verfügbar sind, wenn der Inhalt als "Papierkorb"markiert ist.
+
+* ****[!UICONTROL Confirm Trash]**** Aktivieren Sie diese Option, damit Moderatoren ihre Aktion bestätigen müssen, wenn sie Inhalte für den Papierkorb festlegen. Wenn diese Option aktiviert ist, wird bei Auswahl **[!UICONTROL Trash]** für Inhalte ein Dialogfeld angezeigt, in dem nach einem **[!UICONTROL Reason for Moderation]** Feld gefragt wird, und es wird ein Feld angeboten, in das ein Feld eingegeben werden **[!UICONTROL Note]** kann.
 
    (Diese Einstellung ist **[!UICONTROL only]** auf Netzwerkebene verfügbar und gilt für alle Websites in Ihrem Netzwerk.)
 
-* ****[!UICONTROL Hide Replies]**** Aktivieren Sie diese Option, um Antworten automatisch zu Papierkorb zu verschlüsseln, wenn ein übergeordneter Kommentar verschlüsselt oder &quot;Bozo&quot; ist.
+* ****[!UICONTROL Hide Replies]**** Aktivieren Sie diese Option, um Antworten automatisch zu löschen, wenn ein übergeordneter Kommentar abgeschnitten oder Bozo’d abgelegt wird.
 
-## Benutzerstatus in modq ändern {#section_tmw_lg1_z1b}
+## Ändern des Benutzerstatus in ModQ {#section_tmw_lg1_z1b}
 
-Klicken Sie im Bedienfeld &quot;Benutzerzusammenfassung&quot; auf die **[!UICONTROL User actions]** Schaltfläche, um den Benutzer stummzuschalten, zu sperren oder zu Whitelist.
+Klicken Sie auf die **[!UICONTROL User actions]** Schaltfläche "Benutzerzusammenfassung"in "Stummschalten", "Ban"oder "Whitelist"für den Benutzer.
 
-* **[!UICONTROL Mute:]** ermöglicht Ihnen das Stummschalten von Flags vom Benutzer, der das aufgeführte Inhaltselement markiert hat. Verwenden Sie diese Option, um die Flags des Benutzers aus Ihren Vormoderationsfiltern auszuschließen. Inhalte, die markiert sind, geben kein modq als Ergebnis des Flags ein, und ihre Flags werden nicht in die Kennzeichnungsregeln aufgenommen.
-* **[!UICONTROL Ban:]** ermöglicht es Ihnen, den aufgelisteten Benutzer von Ihrer Site oder Ihrem Netzwerk zu verbieten. (Nur Studio-Administratoren oder Benutzermanager können einen Benutzer Netzwerksperre erteilen.)
-* **[!UICONTROL Whitelist:]** können Sie den aufgelisteten Benutzer für Ihre Site oder Ihr Netzwerk freigeben. (Nur Studio-Administratoren oder Benutzermanager können die Whitelist eines Benutzers Netzwerkkonfigurationen vornehmen.)
+* **[!UICONTROL Mute:]** ermöglicht es Ihnen, Flags vom Benutzer zu stummschalten, der das aufgelistete Inhaltselement markiert hat. Verwenden Sie diese Option, um die Flags des Benutzers aus Ihren Vormoderationsfiltern auszuschließen. Inhalte, die sie als Flag kennzeichnen, werden aufgrund der Kennzeichnung nicht in ModQ eingegeben, und ihre Flags werden nicht in den Flag-Regeln enthalten sein.
+* **[!UICONTROL Ban:]** ermöglicht Ihnen, den aufgelisteten Benutzer von Ihrer Site oder Ihrem Netzwerk zu verbieten. (Nur Studio-Administratoren oder User-Manager können einen Benutzer über ein Netzwerk verbieten.)
+* **[!UICONTROL Whitelist:]** ermöglicht es Ihnen, den aufgelisteten Benutzer für Ihre Site oder Ihr Netzwerk zu weistelligen. (Nur Studio-Administratoren oder User-Manager können einen Benutzer mit der Whitelist-Liste verknüpfen.)
 
 
 
-Apps mit modq:
+Apps, die ModQ verwenden:
 
 * [Chat](/help/using/c-about-apps/c-chat-app/c-chat-app.md#c_chat_app)
 * [Kommentare](/help/using/c-about-apps/c-comments/c-comments.md)
 * [Reviews](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
-* [Zielgruppen](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
+* [Sir](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [Hochladen-Schaltfläche](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
 
