@@ -1,10 +1,10 @@
 ---
-description: Mit Übersetzungssätzen können Sie alternative Sprache für Apps angeben.
-seo-description: Mit Übersetzungssätzen können Sie alternative Sprache für Apps angeben.
+description: Mit Übersetzungssätzen können Sie eine andere Sprache für Apps festlegen.
+seo-description: Mit Übersetzungssätzen können Sie eine andere Sprache für Apps festlegen.
 seo-title: Übersetzungssätze
 solution: Experience Manager
 title: Übersetzungssätze
-uuid: 88 b 705 e 5-57 c 8-4065-8 a 41-a 73546 bd 929 a
+uuid: 88b705e5-57c8-4065-8a41-a73546bd929a
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
@@ -13,36 +13,32 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 # Übersetzungssätze{#translation-sets}
 
-Mit Übersetzungssätzen können Sie alternative Sprache für Apps angeben.
+Mit Übersetzungssätzen können Sie eine andere Sprache für Apps festlegen.
 
-Verwenden Sie Übersetzungseinstellungen, um Apps in verschiedenen Sprachen zu lokalisieren oder alternativen Text für mehrere Apps an einem Ort in Studio anzugeben. Sie können beispielsweise sicherstellen, dass alle spanischen Sites für alle App-Felder Spanisch-Sprache verwenden. Sie können den Text auch so ändern, dass alle Felder mit der Stimme Ihrer Site oder Ihrem Netzwerk übereinstimmen.
+Verwenden Sie Übersetzungseinstellungen, um Apps in verschiedenen Sprachen zu lokalisieren oder um alternativen Text für mehrere Apps von einer Position in Studio aus anzugeben. Sie können beispielsweise sicherstellen, dass alle Sites in spanischer Sprache für alle App-Felder Spanisch verwenden. Sie können den Text auch so ändern, dass alle Felder der Stimme und dem Gefühl Ihrer Site oder Ihres Netzwerks entsprechen.
 
-Sie können Übersetzungseinstellungen für alle Apps mit Ausnahme von Storify 2 angeben. Weitere Informationen zu den Feldern, die Sie lokalisieren können, finden Sie unter [Lokalisieren von Zeichenfolgen](/help/using/c-settings-other/c-translation-sets/c-localize-strings.md#c-localize-strings).
+Sie können Übersetzungseinstellungen für alle Apps mit Ausnahme von Storify 2 angeben. Weitere Informationen darüber, welche Felder lokalisiert werden können, finden Sie unter [Strings](/help/using/c-settings-other/c-translation-sets/c-localize-strings.md#c-localize-strings)lokalisieren.
 
-Kommentare, Live-Blog und Chat geben dieselbe Zeichenfolge in einem Übersetzungssatz frei.
+Kommentare, Live-Blog und Chat verwenden dieselben Zeichenfolgen innerhalb eines Übersetzungssatzes.
 
 Geben Sie einen Übersetzungssatz für ein Netzwerk, eine Site, eine App oder eine API an.
 
-Die Übersetzungssätze auf verschiedenen Ebenen setzen sich gegenseitig außer Kraft:
+Die Übersetzungssätze auf verschiedenen Ebenen setzen sich gegenseitig außer Kraft, indem sie diesem Muster folgen:
 
-Der API-Übersetzungssatz setzt alle Übersetzungssätze auf jeder Ebene (App-, Netzwerk- und Site-App)
-außer Kraft, wenn die Übersetzungs-Übersetzungs-Sets auf Netzwerkebene und auf Site-Ebene außer Kraft gesetzt werden.
-Übersetzungs-Sets auf Site-Ebene überschreiben die Übersetzungssätze auf Netzwerkebene.
+Der API-Übersetzungssatz setzt alle Übersetzungssätze auf allen Ebenen (App, Netzwerk und Site) außer Kraft. Der App-Übersetzungssatz setzt Übersetzungssätze auf Netzwerk- und Site-Ebene außer Kraft.
+Übersetzungssätze auf Site-Ebene setzen Übersetzungssätze auf Netzwerkebene außer Kraft.
 
 ## Textzeichenfolgen überprüfen {#c_review_text_strings}
 
 Anpassen der Textzeichenfolgen für Livefyre-Reviews.
 
-Auf dieser Seite werden die für die Anpassung verfügbaren Zeichenfolgen in den Review-Apps aufgeführt und beschrieben. Die hier aufgeführten Zeichenfolgen sind zusätzlich zu den Standardzeichenfolgen für Livefyre-Core-Apps, die in Zeichenfolgen-Anpassungen aufgeführt sind. Wenn Duplikate aufgeführt werden, sind die in diesen Tabellen aufgeführten Zeichenfolgen die Standardeinstellung für Review-Apps.
+Auf dieser Seite werden die zur Anpassung in Review-Apps verfügbaren Zeichenfolgen aufgeführt und beschrieben. Die hier aufgeführten Zeichenfolgen werden zusätzlich zu den Standardzeichenfolgen für Livefyre-Core-Apps und deren Überschreibungen angezeigt, die unter Zeichenfolgenanpassung aufgeführt sind. Wenn Duplikate aufgeführt sind, sind die in diesen Tabellen aufgeführten Zeichenfolgen die Standardwerte für Reviews-Apps.
 
-Fehler bei der Implementierung/Bewertung
-von Stream-Infofeld-Stream-Info-/Content
-Info-Benutzeraktionen
-- Fehlermeldungen
+ImplementationReview/Rating InterfaceStream InfoAuthor/Content InfoBenutzeraktionenPost-FunktionenFehler
 
 ## Implementierung {#section-vsy-1k4-xz}
 
-Übergeben Sie zur Implementierung dieser Funktion eine 1-1 Objektzuordnung der Zeichenfolgen, die Sie dem Javascript-Konfigurationsobjekt überschreiben möchten. Wenn Sie kein Feld angeben, wird der Standardtext verwendet.
+Übergeben Sie zur Implementierung dieser Funktion eine 1-1-Objektzuordnung der Zeichenfolgen, die Sie überschreiben möchten, an das JavaScript-Konfigurationsobjekt. Wenn Sie kein Feld angeben, wird der Standardtext verwendet.
 
 Beispiel:
 
@@ -57,96 +53,96 @@ networkConfig["strings"] = customStrings; fyre.conv.load(
 );
 ```
 
-## Review-/Bewertungsschnittstelle {#section_iyv_zj4_xz}
+## Benutzeroberfläche für Review/Bewertung {#section_iyv_zj4_xz}
 
-Für die Benutzeroberfläche &quot;Review and Rating&quot; verfügbare Zeichenfolgen.
+Für die Benutzeroberfläche "Review and Rating"verfügbare Zeichenfolgen.
 
 | Element | Schlüssel | Standardtext |
 |--- |--- |--- |
-| Schaltflächen | Editreviewbtn | Review bearbeiten |
-|  | Reviewbtn | Überprüfung schreiben |
-|  | Reviewsclosed | Überprüfungen geschlossen |
-|  | Showreviewbtn | Überprüfung anzeigen |
-|  | folgen | Ich bin interessiert |
-|  | Sharetext | Ich habe gerade einen Review geschrieben. Überprüfen Sie es! |
-| Quickinfos | Variabvalues | Ein Array. Standard = `[‘Poor’, ‘Poor’, ‘Fair’, ‘Fair’, ‘Average’, ‘Average’, ‘Good’, ‘Good’, ‘Excellent’, ‘Excellent’]`; <br>Hinweis: Werte im Array müssen dupliziert werden, um sowohl links als auch rechte Hälfte jedes Stern denselben Namen zuzuweisen. |
-| Bewertungsunterteilungen | Getrosubpartplaceholders | Ein Array. Standard = [] |
-|  | Getrosubparttitles | Ein Array. Standard = [] |
-|  | Reviewstreamtitle | Standardmäßig leer. Titel des Übersichtsabschnitts der Überprüfung. |
-| Misc | Averagerating | Durchschnittliche Benutzerbewertung |
-|  | Breakdownheader | Bewertungsaufschlüsselung |
-|  | hilfreich | % s von % s gefunden |
-|  | Helpfulplural | % s von % s gefunden |
-|  | Outof | / |
-|  | Variabtype | Stern |
+| Schaltflächen | editReviewBtn | Review bearbeiten |
+|  | reviewBtn | Überprüfung schreiben |
+|  | reviewsClosed | Abgeschlossene Reviews |
+|  | showReviewBtn | Review anzeigen |
+|  | follow | Ich interessiere mich |
+|  | shareText | Ich habe gerade eine Überprüfung geschrieben. Schau es dir an! |
+| QuickInfos zur Bewertung | ratingValues | Als Array. Standard = `[‘Poor’, ‘Poor’, ‘Fair’, ‘Fair’, ‘Average’, ‘Average’, ‘Good’, ‘Good’, ‘Excellent’, ‘Excellent’]`; <br>Hinweis: Die Werte im Array müssen dupliziert werden, damit sowohl die linke als auch die rechte Hälfte jedes Sterns denselben Namen erhalten. |
+| Bewertungsunterteile | ratingSubpartPlaceholders | Als Array. Standardeinstellung = [] |
+|  | ratingSubpartTitles | Als Array. Standardeinstellung = [] |
+|  | reviewStreamTitle | Standardmäßig leer. Titel des Übersichtsabschnitts der Überprüfung. |
+| Misc | averageRating | Durchschnittliche Benutzerbewertung |
+|  | breakHeader | Bewertungsaufschlüsselung |
+|  | help | %s von %s als hilfreich gefunden |
+|  | assistancePlural | %s von %s als hilfreich gefunden |
+|  | outOf | / |
+|  | ratingType | star |
 
 ## Stream-Info {#section_wmv_yj4_xz}
 
-Für Content Stream-Informationen verfügbare Zeichenfolgen und Anzeigen.
+Für Informationen und Anzeigen von Inhaltsströmen verfügbare Zeichenfolgen.
 
 | Element | Schlüssel | Standardtext |
 |---|---|---|
-| Sortieren | Sortby | *Standardmäßig leer.* |
-|  | Sorthighestrated | [Höchste Bewertung](https://d.pr/i/huTd) |
-|  | Sortlowestrated | [Niedrigste Bewertung](https://d.pr/i/huTd) |
-|  | Sortmomentarelpful | [Am nützlichsten](https://d.pr/i/huTd) |
-| Stream-Misc. | Showmore | Mehr anzeigen |
-| Hohe Geschwindigkeit streamen | Newcomment | Neue Überprüfung |
-|  | Newcomments | Neue Überprüfungen |
-| Listener-Zähler | Listenercount | Person Listening |
-|  | Listenercountplural | people listening |
-| Anzahl der Kommentare | Commentcountlabel | Livereviews<strong> | </strong>% s |
-|  | Commentcountlabelplural | Livereviews<strong> | </strong>% s |
-| Anzahl der Benachrichtigungsbenachrichtigungen | Commentnotifier | Neue Überprüfung |
-|  | Commentnotifierplural | Neue Überprüfungen |
+| Sortieren |  sortBy | *Standardmäßig leer.* |
+|  | sortHighestRated | [Höchste Bewertung](https://d.pr/i/huTd) |
+|  | sortLowestRated | [Niedrigste Bewertung](https://d.pr/i/huTd) |
+|  | sortMostHelpful | [Am meisten hilfreich](https://d.pr/i/huTd) |
+| Stream-Fehler. | showMore | Mehr anzeigen |
+| Stream mit hoher Geschwindigkeit | newComment | Neue Überprüfung |
+|  | newComments | Neue Reviews |
+| Listener-Zähler | listenerCount | Person hört |
+|  | listenerCountPlural | zuhörende Personen |
+| Anzahl der Kommentare | commentCountLabel | LiveReviews<strong> | </strong>%s |
+|  | commentCountLabelPlural | LiveReviews<strong> | </strong>%s |
+| Anzahl der Notifizierer | commentNotifier | Neue Überprüfung |
+|  | commentNotifierPlural | Neue Reviews |
 
-## Autoren-/Inhaltsinformationen {#section_osx_xj4_xz}
+## Autor-/Inhaltsinformationen {#section_osx_xj4_xz}
 
-Für Autor und individuelle Inhaltsinformationen verfügbare Stings.
+Stings verfügbar für Autor- und individuelle Inhaltsinformationen.
 
 | Element | Schlüssel | Standardtext |
 |---|---|---|
-| Thread-Aufteilung | Reviewscontentnotfoundmsg | [Diese Überprüfung ist nicht mehr sichtbar.](https://d.pr/i/svXs) |
-|  | Backtocomments | Zurück zu Reviews |
+| Thread-Aufschlüsselung | reviewsContentNotFoundMsg | [Diese Überprüfung ist nicht mehr sichtbar](https://d.pr/i/svXs) |
+|  | backToComments | Zurück zu Reviews |
 
 ## Benutzeraktionen {#section_tlx_wj4_xz}
 
-Für Benutzeraktionen verfügbare Zeichenfolgen: Markieren, Freigeben und Markieren bestehender Inhalte als nützlich.
+Für Benutzeraktionen verfügbare Zeichenfolgen: Kennzeichnung, Freigabe und Kennzeichnung vorhandener Inhalte als hilfreich.
 
 | Element | Schlüssel | Standardtext |
 |---|---|---|
-| Fußzeile | Wasreviewhelpful | [Hilfreich?](https://d.pr/i/Q0mA) |
-|  | Wasreviewhelpfulmobile | Hilfreich? |
-|  | Ownwasreviewhelpful | [Es wurde hilfreich gefunden.](https://d.pr/i/Q0mA) |
-|  | Reviewwasassist | [Ja](https://d.pr/i/Q0mA) |
-|  | Helpfuldivider | [&amp; amp; vert;](https://d.pr/i/Q0mA) |
-|  | Reviewwasnothelpful | [Nein](https://d.pr/i/Q0mA) |
-| Abstimmung modaler Stimmen | Votetitle | Wurde diese Überprüfung hilfreich? |
-|  | Votedownsession | Nein |
-|  | Votereplytitle | War diese Antwort hilfreich? |
-|  | Votetitle | War dieser Kommentar hilfreich? |
-|  | Voteupvoice | Ja |
-| Flag markieren | Flagtitle | Überprüfung von % s&#39;s |
-|  | Flagsuccessmsg | Überprüfung wurde gekennzeichnet. |
-| Markieren von Mobilgeräten | Flagconfirmationmessage | Die Überprüfung % s als % s kennzeichnen? |
-| Erwähnung von Modal | Mentiondefaulttext | Ich habe Sie in einer Livefyre-Überprüfung erwähnt! |
-| Modale Freigabe | Sharetitle | Überprüfung freigeben |
+| Fußzeile kommentieren | wasReviewHelpful | [Hilfreich?](https://d.pr/i/Q0mA) |
+|  | wasReviewHelpfulMobile | Hilfreich? |
+|  | ownWarReviewHelpful | [Hilfreich gefunden.](https://d.pr/i/Q0mA) |
+|  | reviewWarHelpful | [Ja](https://d.pr/i/Q0mA) |
+|  | assistDivider | [&amp;vert;](https://d.pr/i/Q0mA) |
+|  | reviewWarNotHelpful | [Nein](https://d.pr/i/Q0mA) |
+| modale Abstimmung | optTitle | War diese Überprüfung hilfreich? |
+|  | optionDownAbstimmung | Nein |
+|  | optionReplyTitle | War diese Antwort hilfreich? |
+|  | optTitle | War dieser Kommentar hilfreich? |
+|  | optionUpVT | Ja |
+| Modale Kennzeichnung | FlagTitle | Überprüfung von %s markieren |
+|  | FlagSuccessMsg | Die Überprüfung wurde markiert. |
+| Mobiles Flag | flagConfirmationMessage | %s Überprüfung als %s kennzeichnen? |
+| Erwähnungsmodal | ErwähnungDefaultText | Ich habe Sie in einem Livefyre Review erwähnt! |
+| Modal freigeben | shareTitle | Review freigeben |
 
-## Beitragsfunktionen {#section_yl1_wj4_xz}
+## Post-Funktionen {#section_yl1_wj4_xz}
 
-Für Benutzer verfügbare Zeichenfolgen.
+Zeichenfolgen für Benutzer, die Reviews posten.
 
 | Element | Schlüssel | Standardtext |
 |---|---|---|
-| Editor | Bodyplaceholder | Review schreiben… |
-|  | Posteditbutton | Bearbeiten |
-|  | Posteditcancelbutton | Abbrechen |
-|  | Postasbutton | Überprüfung als… |
-|  | Postbutton | Beitragsprüfung |
-|  | Postreplyasbutton | Als… posten |
-|  | Postreplybutton | Beitrag |
-|  | Sharebutton | Freigeben |
-|  | Titleplaceholder | Titel… |
+| Editor | bodyPlaceholder | Überprüfung schreiben... |
+|  | postEditButton | Vorlage      |
+|  | postEditCancelButton | Abbrechen |
+|  | postAsButton | Prüfung nach ... |
+|  | postButton | Beitragsüberprüfung |
+|  | postReplyAsButton | Posten als... |
+|  | postReplyButton | Posten |
+|  | shareButton | Freigabe |
+|  | titlePlaceholder | Titel… |
 
 ## Fehler {#section_jbc_vj4_xz}
 
@@ -154,42 +150,39 @@ Für allgemeine Fehlermeldungen verfügbare Zeichenfolgen.
 
 | Element | Schlüssel | Standardtext |
 |---|---|---|
-| Fehler | Erroralreadypublished | Sie können nur eine Überprüfung posten. |
-|  | Errorautherror | Sie sind nicht autorisiert, eine Überprüfung bei dieser Konversation zu posten. |
-|  | Errorcommentsnotallowed | Reviews können derzeit nicht veröffentlicht werden |
-|  | Errordislikeowncomment | Sie können Ihre eigene Überprüfung nicht stören. |
-|  | Errorduplicate | Genauso wie Sie Ihren Review bewertet haben, können Sie ihn nicht zweimal posten. |
-|  | Erroreditduplicate | Sie müssen den Text der Überprüfung ändern, wenn Sie sie bearbeiten. |
-|  | Erroreditnotallowed | Sie dürfen keine Reviews zu dieser Konversation bearbeiten. |
-|  | Erroredittimeexceeded | Der Review-Bearbeitungszeitraum ist abgelaufen. |
-|  | Errorempty | Anscheinend versuchen Sie, eine leere Überprüfung zu posten. |
-|  | Erroremptytitle | Anscheinend versuchen Sie, einen leeren Titel zu posten. |
-|  | Errorfieldrating | Bewertungssterne |
-|  | Errorfieldreview | lesen |
-|  | Errorfieldtitle | Titel |
-|  | Errormaxchars | Ihre Überprüfung ist zu lang. Bitte bearbeiten und versuchen Sie es erneut. |
-|  | Errormissingfields | Bitte ein |
-|  | Errorratingempty | Sie können keine leere Bewertung senden |
-|  | Errorvariabnotset | Alle Bewertungen müssen festgelegt werden |
-|  | Errorvariabnotvalid | Die Bewertung muss ein Objekt sein. |
-|  | Errorshowmore | Beim Laden weiterer Überprüfungen ist ein Fehler aufgetreten. |
-|  | Errortitlemaxchars | Der Titel ist zu lang. Bitte bearbeiten und versuchen Sie es erneut. |
-|  | Errorvoteowncomment | Sie können nicht über Ihre eigene Überprüfung abstimmen. |
+| Fehler | errorAlreadyPosted | Sie können nur einen Review posten. |
+|  | errorAuthError | Sie sind nicht berechtigt, einen Review zu dieser Unterhaltung zu posten |
+|  | errorCommentsNotAllowed | Reviews können derzeit nicht gepostet werden |
+|  | errorDislikeOwnComment | Sie können Ihre eigene Überprüfung nicht ablehnen |
+|  | errorDuplicate | So sehr Sie Ihren Review mögen, können Sie ihn nicht zweimal posten. |
+|  | errorEditDuplicate | Sie müssen den Text des Reviews ändern, wenn Sie ihn bearbeiten. |
+|  | errorEditNotAllowed | Sie dürfen keine Rezensionen zu dieser Unterhaltung bearbeiten. |
+|  | errorEditTimeExceeded | Ihre Revisionsbearbeitungszeit ist leider abgelaufen. |
+|  | errorEmpty | Es scheint, dass Sie versuchen, eine leere Überprüfung zu posten. |
+|  | errorEmptyTitle | Sie versuchen anscheinend, einen leeren Titel zu posten |
+|  | errorFieldRating | Sternbewertung |
+|  | errorFieldReview | überprüfen |
+|  | errorFieldTitle | title |
+|  | errorMaxChars | Entschuldige! Deine Überprüfung ist zu lang. Bearbeiten Sie die Datei und versuchen Sie es erneut. |
+|  | errorMissingFields | Bitte geben Sie eine |
+|  | errorRatingEmpty | Sie können keine leere Bewertung senden |
+|  | errorRatingNotSet | Alle Ratings müssen eingestellt werden |
+|  | errorRatingNotValid | Die Bewertung muss ein Objekt sein |
+|  | errorShowMore | Beim Laden weiterer Überprüfungen ist ein Fehler aufgetreten. |
+|  | errorTitleMaxChars | Tut mir leid, dein Titel ist zu lang. Bearbeiten Sie die Datei und versuchen Sie es erneut. |
+|  | errorVoteOwnComment | Sie können nicht über Ihre eigene Überprüfung abstimmen |
 
-## Textzeichenfolgen-Zeichenfolgen {#c_sidenotes_text_strings}
+## Seitenzeichenfolgen {#c_sidenotes_text_strings}
 
-Anpassen der Textzeichenfolgen für Livefyre-Kritiker
+Anpassen der Textzeichenfolgen für Livefyre Sibezeichnet
 
-Auf dieser Seite werden alle für die Anpassung in den DOM-Apps verfügbaren Zeichenfolgen aufgeführt und beschrieben. Informationen zu Zeichenfolgen für die Core-Livefyre-Apps finden Sie unter Zeichenfolgenanpassungen.
+Auf dieser Seite werden alle Zeichenfolgen aufgelistet, die für die Anpassung in Sidebar-Apps verfügbar sind. Informationen zu den für die Livefyre-Core-Apps verfügbaren Zeichenfolgen finden Sie unter Zeichenfolgen-Anpassungen.
 
-Moderationsoberflächen für Implementierungs-Authentifizierungs-/Content
-Info-Benutzeraktionen
-- Moderations-Benutzeraktionen
-- Fehler
+ImplementationAuthStream InfoAuthor/Content InfoBenutzeraktionenPost-FunktionenModerator-SchnittstelleFehler
 
 ## Implementierung {#section_wp2_ql4_xz}
 
-Übergeben Sie zur Implementierung dieser Funktion eine 1-1 Objektzuordnung der Zeichenfolgen, die Sie dem Javascript-Konfigurationsobjekt überschreiben möchten. Wenn Sie kein Feld angeben, wird der Standardtext verwendet.
+Übergeben Sie zur Implementierung dieser Funktion eine 1-1-Objektzuordnung der Zeichenfolgen, die Sie überschreiben möchten, an das JavaScript-Konfigurationsobjekt. Wenn Sie kein Feld angeben, wird der Standardtext verwendet.
 
 Beispiel:
 
@@ -207,110 +200,110 @@ networkConfig["strings"] = customStrings; fyre.conv.load(
 
 ## Authentifizierung {#section_pqf_3l4_xz}
 
-Für den Authentifizierungsprozess verfügbare Zeichenfolgen und aus den authentifizierten Benutzermenüs.
+Für den Authentifizierungsprozess verfügbare Zeichenfolgen und in den authentifizierten Benutzermenüs.
 
 | Element | Schlüssel | Standardtext |
 |---|---|---|
-| Auth-Menüzeichenfolgen | Menuauthsigninbtn | Anmelden |
-|  | Menuauthsignedinmsg | Sie müssen bei {action} angemeldet sein. |
-|  | Menuusereditprofile | Profil bearbeiten |
-|  | Menuuseradmin | Admin-Konsole |
-|  | Menuuserlogout | Abmelden |
-|  | Menuuserbackbtn | Alle |
+| Auth-Menüzeichenfolgen | menuAuthSignInBtn | Anmelden |
+|  | menuAuthSignedInMsg | Sie müssen bei {action} angemeldet sein |
+|  | menuUserEditProfile | Profil bearbeiten |
+|  | menuUserAdmin | Admin Console |
+|  | menuUserLogout | Abmelden |
+|  | menuUserBackBtn | Alle |
 
 ## Stream-Info {#section_wpy_gl4_xz}
 
-Für Content Stream-Informationen verfügbare Zeichenfolgen und Anzeigen.
+Für Informationen und Anzeigen von Inhaltsströmen verfügbare Zeichenfolgen.
 
 | Element | Schlüssel | Standardtext |
 |---|---|---|
-| Optionen für Infomenüs | Menuinfocopyright | © Livefyre, Inc. 2014 |
-|  | Menuinfohelp | Hilfe |
-|  | Menuinfolivefyrelink | Besuchen Sie Livefyre.com |
+| Optionen im Menü "Info" | menuInfoCopyright | © Livefyre, Inc. 2014 |
+|  | menuInfoHelp | Hilfe |
+|  | menuInfoLivefyreLink | Besuch Livefyre.com |
 
-## Autoren-/Inhaltsinformationen {#section_dhb_gl4_xz}
+## Autor-/Inhaltsinformationen {#section_dhb_gl4_xz}
 
-Für Autor und individuelle Inhaltsinformationen verfügbare Stings.
+Stings verfügbar für Autor- und individuelle Inhaltsinformationen.
 
 | Element | Schlüssel | Standardtext |
 |---|---|---|
-|  | Commentmoderatortag | Mod |
-|  | Commentpendingtag | Ausstehend |
-|  | Commentreadmorelink | Mehr lesen |
-|  | Commentreplylink | Siehe {number} Antworten |
-|  | Commentreplylinksing | Siehe Antwort |
-|  | Commentvotecount | Stimmen |
-|  | Commentvotecountsing | abstimmen |
-|  | Datetimeminuteprefix | m |
-|  | Datetimemonths | Ein Array. Standard =[ &#39; Januar &#39;,&#39; Februar &#39;,&#39; März &#39;,&#39; April &#39;,&#39; Mai &#39;,&#39; Juni &#39;,&#39; Juli &#39;,&#39; August &#39;,&#39; September &#39;,&#39; Oktober &#39;,&#39; November &#39;,&#39; Dezember &#39; ] |
-|  | Questionexplain | Sie können Kommentare jetzt direkt in Sätzen, Absätzen, Bildern und Anführungszeichen lesen und schreiben.<br><br><span class="&rdquo;lf-highlight-text&rdquo;">Markieren Sie Text</span> und klicken Sie auf das <span class="&rdquo;fycon-write&rdquo;"></span> Symbol oder klicken Sie am Ende jedes Absatzes auf das <span class="&rdquo;fycon-action-view&rdquo;"></span> Symbol. |
-|  | Questionmocktext | Was genau bekannt ist, wird nicht korrekt bekannt, sondern nur aus dem Grund, aus dem sie &quot;bekannt&quot; ist. |
-|  | Questiontitle | Was ist eine Sidenote? |
+|  | commentModeratorTag | Mod |
+|  | commentPendingTag | In Bearbeitung |
+|  | commentReadMoreLink | Weitere Info |
+|  | commentReplyLink | Siehe {number} Antworten |
+|  | commentReplyLinkSing | Siehe Antwort |
+|  | commentVoteCount | stimmen |
+|  | commentVoteCountSing | Stimme |
+|  | datetimeMinutePrefix | m |
+|  | datetimeMonths | Als Array. Default =[ ‘January’, ‘February’, ‘March’, ‘April’, ‘May’, ‘June’, ‘July’, ‘August’, ‘September’, ‘October’, ‘November’, ‘December’ ] |
+|  | QuestionExplanation | Sie können Kommentare jetzt direkt zu Sätzen, Absätzen, Bildern und Anführungszeichen lesen und schreiben.<br><br><span class="&rdquo;lf-highlight-text&rdquo;">Markieren Sie Text</span> und klicken Sie auf das <span class="&rdquo;fycon-write&rdquo;"></span> Symbol oder klicken Sie auf das <span class="&rdquo;fycon-action-view&rdquo;"></span> Symbol am Ende jedes Absatzes. |
+|  | QuestionMockText | Was "vertraut" ist, ist nicht richtig bekannt, nur weil es "vertraut" ist. |
+|  | QuestionTitle | Was ist ein Sidenote? |
 
 ## Benutzeraktionen {#section_qxd_fl4_xz}
 
-Für Benutzeraktionen verfügbare Zeichenfolgen: Kennzeichnung, Freigabe und Nutzung vorhandener Inhalte.
+Für Benutzeraktionen verfügbare Zeichenfolgen: Markieren, Freigeben und Verknüpfen vorhandener Inhalte.
 
 | Element | Schlüssel | Standardtext |
 |---|---|---|
-| Optionen für Antworten auf Antworten | Menurepliesviewtitle | Details |
-|  | Menurepliesviewreply | Besprechungen beantworten |
-| Optionen für Freigeben-Menüs | Menushareoptionfacebook | Facebook |
-|  | Menushareoptiontwitter | Twitter |
-|  | Menusharetitle | Freigeben |
-| Optionen für die Markierung | Menuflagoptiondisagree | Nicht zustimmen |
-|  | Menuflagoptionoffensive | Offensive |
-|  | Menuflagoptionofftopic | Aus Thema |
-|  | Menuflagoptionspam | Spam |
-|  | Menuflagtitle | Markieren als… |
-|  | Facebooksharecaption | Zielgruppen für &quot; {title} « |
-| Mobile Benutzeroptionen | Slidercommenttally | of |
-|  | Sliderinviteread | Lesen |
-|  | Sliderinvitewrite | Schreiben |
-|  | Sliderloading | Wird geladen… |
-|  | Sliderwritetext | Was glauben Sie? Zum Schreiben tippen. |
+| Optionen des Antwortmenüs | menuRepliesViewTitle | Details |
+|  | menuRepliesViewReply | Antwort auf Konversation |
+| Menüoptionen freigeben | menuShareOptionFacebook | Facebook |
+|  | menuShareOptionTwitter | Twitter |
+|  | menuShareTitle | Freigabe |
+| Optionen im Menü "Flag" | menuFlagOptionDismatch | widersprechen |
+|  | menuFlagOptionOffensive | Offensive |
+|  | menuFlagOptionOffTopic | Off-Thema |
+|  | menuFlagOptionSpam | Spam |
+|  | menuFlagTitle | Kennzeichnung als... |
+|  | facebookShareCaption | Simit auf "{title}" |
+| Mobile Benutzeroptionen | reglerCommentTally | of |
+|  | reglerInviteRead | Gelesen |
+|  | reglerInviteWrite | schreiben |
+|  | reglerLoading | Wird geladen… |
+|  | reglerWriteText | Was denkst du? Tippen Sie zum Schreiben. |
 
-## Beitragsfunktionen {#section_xzf_2l4_xz}
+## Post-Funktionen {#section_xzf_2l4_xz}
 
-Zeichenfolgen, die für Benutzer, die Inhalte posten, verfügbar sind.
+Für Benutzer, die Inhalte veröffentlichen, verfügbare Zeichenfolgen.
 
 | Element | Schlüssel | Standardtext |
 |---|---|---|
-|  | Editoreditbtn | Speichern |
-|  | Editoreditposting | Speichern… |
-|  | Editoreditreplytitle | Antwort bearbeiten |
-|  | Editoredittitle | Insider bearbeiten |
-|  | Editorplaceholder | Was glauben Sie? |
-|  | Editorpostbtn | Posts posten |
-|  | Editorpostbtnmobile | Beitrag |
-|  | Editorposting | Beitrag… |
-|  | Editorreplybtn | Post-Antwort |
-|  | Editorreplytitle | Antwort schreiben |
-|  | Editortitle | Autote schreiben |
-|  | Emptyimageblocktxt | Was glauben Sie? |
-|  | Emptytextblocktxt | + |
-|  | Replybtn | Antworten |
-|  | Threadreplybtn | Besprechungen beantworten |
-| Menüoptionen löschen | Menuconfirmaccept | Ja, {action} |
-|  | Menuconfirmcancel | Abbrechen |
-|  | Menuconfirmtitle | Sind Sie sicher? |
-| Menüoptionen | Menuetcoptionapprove | Genehmigen |
-|  | Menuetcoptiondelete | Löschen |
-|  | Menuetcoptionedit | Bearbeiten |
-|  | Menuetcoptionflag | Flag |
-|  | Menuetcoptionshare | Freigeben |
-|  | Menuetcpostedat | Gepostet am {date} |
-|  | Menuetctitle | Mehr |
+|  | editorEditBtn | Speichern |
+|  | editorEditPosting | Speichern... |
+|  | editorEditReplyTitle | Antwort bearbeiten |
+|  | editorEditTitle | Sidente bearbeiten |
+|  | editorPlaceholder | Was denkst du? |
+|  | editorPostBtn | Post Sidennote |
+|  | editorPostBtnMobile | Posten |
+|  | editorPosting | Beitrag… |
+|  | editorReplyBtn | Antworten |
+|  | editorReplyTitle | Antwort schreiben |
+|  | editorTitle | Sidenote schreiben |
+|  | emptyImageBlockTxt | Was denkst du? |
+|  | emptyTextBlockTxt | + |
+|  | responseBtn | Antwort |
+|  | threadReplyBtn | Antwort auf Konversation |
+| Menüoptionen löschen | menuConfirmAccept | Ja, {Aktion} |
+|  | menuConfirmCancel | Abbrechen |
+|  | menuConfirmTitle | Sind Sie sicher? |
+| Optionen des ETC-Menüs | menuEtcOptionApprove | Genehmigen |
+|  | menuEtcOptionDelete | Löschen |
+|  | menuEtcOptionEdit | Vorlage      |
+|  | menuEtcOptionFlag | Markierung |
+|  | menuEtcOptionShare | Freigabe |
+|  | menuEtcPostedAt | Gepostet am {Datum} |
+|  | menuEtcTitle | Mehr |
 
 ## Moderatorschnittstelle {#section_o5f_dl4_xz}
 
-Für die benutzerauthentifizierte Moderationsoberfläche verfügbare Zeichenfolgen.
+Zeichenfolgen, die für die benutzerdefinierte Moderatoroberfläche verfügbar sind.
 
 | Element | Schlüssel | Standardtext |
 |---|---|---|
-| Bestätigungsmeldungen im Menü &quot;Mehr « | Notificationapproved | Genehmigt |
-|  | Notificationdeleted | Gelöscht |
-|  | Notificationflag | Gekennzeichnet |
+| Bestätigungsmeldungen im Menü "Mehr" | notificationApproved | Genehmigt |
+|  | notificationDeleted | Gelöscht |
+|  | notificationGekennzeichnet | Gekennzeichnet |
 
 ## Fehler {#section_gtk_cl4_xz}
 
@@ -318,8 +311,8 @@ Für allgemeine Fehlermeldungen verfügbare Zeichenfolgen.
 
 | Element | Schlüssel | Standardtext |
 |---|---|---|
-|  | Errorconnection | Uh-oh. Sie haben keine gute Verbindung. |
-|  | Errorduplicate | Wir haben auch Ihre Notiz, aber Sie können sie nicht zweimal posten. |
-|  | Errorgeneral | Es ist ein Fehler aufgetreten. Bitte erneut versuchen. |
-|  | Errorserver | Bei unserem Server ist etwas falsch. Versuchen Sie es erneut? |
+|  | errorConnection | Oh-oh. Du scheinst keine gute Verbindung zu haben. |
+|  | errorDuplicate | Ihre Notiz gefällt uns ebenfalls, aber Sie können sie nicht zweimal posten. |
+|  | errorGeneral | Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut. |
+|  | errorServer | Etwas ist mit unserem Server schiefgelaufen. Versuch das noch einmal? |
 
