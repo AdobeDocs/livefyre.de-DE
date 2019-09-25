@@ -1,37 +1,37 @@
 ---
-description: Livefyre speichert Ihre Rechte für Rechte.
-seo-description: Livefyre speichert Ihre Rechte für Rechte.
-seo-title: Rights Activity History anzeigen
+description: Livefyre führt einen Prüfpfad zu Ihrer Rechteaktivität.
+seo-description: Livefyre führt einen Prüfpfad zu Ihrer Rechteaktivität.
+seo-title: Anzeigen des Rights Activity History
 solution: Experience Manager
-title: Rights Activity History anzeigen
-uuid: daa 587 d -8 d 7 f -431 d-bae 2-cd 73 c 0 de 15 f 0
+title: Anzeigen des Rights Activity History
+uuid: daa0587d-8d7f-431d-bae2-cd73c0de15f0
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Rights Activity History anzeigen{#view-rights-activity-history}
+# Anzeigen des Rights Activity History{#view-rights-activity-history}
 
-Livefyre speichert Ihre Rechte für Rechte.
+Livefyre führt einen Prüfpfad zu Ihrer Rechteaktivität.
 
-Livefyre-Spuren:
+Livefyre-Tracks:
 
 * An einen Benutzer im sozialen Netzwerk gesendete Anforderungen.
-* Antworten eines Benutzers sozialer Netzwerke auf Rechte für Rechte.
-* Inhaltsstatus ändert. Livefyre verfolgt, welcher Benutzer den Status geändert hat und wann er den Status geändert hat.
-* Anmerkungen, die von einem Benutzer in einer Rights Management-Anforderung eingegeben wurden.
+* Antworten eines Benutzers im sozialen Netzwerk auf Berechtigungsanfragen.
+* Inhaltsstatus ändert sich. Livefyre verfolgt, welcher Benutzer den Status geändert hat und wann er den Status geändert hat.
+* Hinweise, die ein Benutzer bei einer Anfrage zur Verwaltung von Rechten eingegeben hat.
 * Systemfehlermeldungen.
 
 >[!NOTE]
 >
->Livefyre verfolgt Rights Request automatisch nur für Instagram, wenn Sie ein Instagram-Geschäftskonto verwenden, um eine Suche oder einen Stream von einem Geschäftskonto-Autor durchzuführen. Wenn Sie Inhalte aus einer Instagram-Suche oder einem Stream nach Hashtag, URL oder Standort erhalten haben, verfolgt Livefyre nur manuelle Aktionen, die in Livefyre durchgeführt werden (z. B. Livefyre verfolgt, wenn Sie die Rechte manuell erteilen).
+>Livefyre verfolgt Berechtigungsanfragen für Instagram nur dann automatisch, wenn Sie ein Instagram-Geschäftskonto verwenden, um eine Suche oder einen Stream durch einen Geschäftskontoautor durchzuführen. Wenn Sie Inhalte von einer Instagram-Suche oder einem Stream über Hashtag, URL oder Standort erhalten haben, verfolgt Livefyre nur manuelle Aktionen, die in Livefyre ausgeführt werden (z. B. Livefyre-Tracks, wenn Sie manuell Rechte gewähren).
 
-1. Klicken Sie auf, **[!UICONTROL Library]** um auf die Asset-Bibliothek zuzugreifen.
-1. (Optional) Fügen Sie den Ordnern mithilfe der Social-Suche Inhalte hinzu.
-1. Öffnen Sie einen Ordner und klicken Sie auf einen Inhalt, den Sie über Twitter oder Instagram gespeichert haben. Sie können sehen, wo der Inhalt entstand, indem Sie das Symbol auf dem Inhaltselement betrachten. Beispielsweise hat ein Inhaltselement von Twitter das Twitter-Logo darauf.
-1. Klicken Sie auf das Auslassungssymbol, das angezeigt wird, wenn Sie den Mauszeiger **[!UICONTROL More Options]**über die Inhaltskarte bewegen.
-1. Klicken **[!UICONTROL Rights]** Sie auf, um das **[!UICONTROL Rights options]** Fenster zu öffnen.
+1. Klicken Sie auf **[!UICONTROL Library]** , um die Asset-Bibliothek aufzurufen.
+1. (Optional) Fügen Sie mithilfe der Social-Suche Inhalt zu Ordnern hinzu.
+1. Öffnen Sie einen Ordner und klicken Sie auf ein Inhaltselement, das Sie in Twitter oder Instagram gespeichert haben. Sie können sehen, woher der Inhalt stammt, indem Sie das Symbol auf dem Inhaltselement betrachten. Zum Beispiel steht ein Teil des Inhalts von Twitter mit dem Twitter-Logo.
+1. Klicken Sie auf das Auslassungssymbol, das angezeigt wird, wenn Sie den Mauszeiger über die Inhaltskarte für **[!UICONTROL More Options]** die Site bewegen.
+1. Klicken Sie auf **[!UICONTROL Rights]** , um das **[!UICONTROL Rights options]** Fenster zu öffnen.
 
 1. Zeigen Sie den Verlauf unter **[!UICONTROL Activity History]**.
 
