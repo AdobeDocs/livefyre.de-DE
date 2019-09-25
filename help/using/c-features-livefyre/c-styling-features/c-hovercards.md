@@ -1,34 +1,34 @@
 ---
-description: Aktivieren oder deaktivieren Sie Benutzer auf Ihrer gesamten Site.
-seo-description: Aktivieren oder deaktivieren Sie Benutzer auf Ihrer gesamten Site.
-seo-title: Hoverkarten
-title: Hoverkarten
-uuid: a 7336 a 4 d-b 92 f -4 b 3 b-a 3 de -713 aa 388 b 58 a
+description: Aktivieren oder deaktivieren Sie Benutzerhovercards auf Ihrer Site.
+seo-description: Aktivieren oder deaktivieren Sie Benutzerhovercards auf Ihrer Site.
+seo-title: Hovercards
+title: Hovercards
+uuid: a7336a4d-b92f-4b3b-a3de-713aa388b58a
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 
 
-# Hoverkarten{#hovercards}
+# Hovercards{#hovercards}
 
-Aktivieren oder deaktivieren Sie Benutzer auf Ihrer gesamten Site.
+Aktivieren oder deaktivieren Sie Benutzerhovercards auf Ihrer Site.
 
-Die Livefyre-Hoverkarte ist ein Popup, das eine schnelle Momentaufnahme der Benutzerinformationen anzeigt, einschließlich Anzeigename, biografischer, sozialer Netzwerke, Benutzervorlieben, Profilseiten-URL und einem Link zur Anzeige ihres vollständigen Profils. Hoverkarten sind für alle Livefyre-Streams verfügbar, einschließlich Kommentare, Live-Blog und Chat.
-
->[!NOTE]
->
->Hoverkarten können nur auf Netzwerkebene aktiviert oder deaktiviert werden und werden über alle Websites in Ihrem benutzerdefinierten Netzwerk implementiert oder deaktiviert. Wenden Sie sich an Ihren Kundenbetreuer, wenn Sie die Hoverkarten für Ihr Netzwerk aktivieren möchten.
-
-## Ansicht von Hoverkarten {#section_zjl_jtk_wy}
-
-Wenn Sie den Mauszeiger über den Avatar eines Benutzers in Kommentaren, Live Blog oder Chat bewegen, wird ihre Hovercard angezeigt.
-
-Durch Klicken **[!UICONTROL View Full Profile]** wird der Benutzer zur vollständigen Profilseite dieses Benutzers geleitet.
+Die Livefyre-Hovercard ist ein Popup, in dem eine schnelle Momentaufnahme der Benutzerinformationen angezeigt wird, einschließlich Anzeigename, Biografie, soziale Netzwerke, "Gefällt mir"-Klicks für Benutzer, Profilseite-URL und Link zum Anzeigen ihres vollständigen Profils. Hovercards sind für alle Livefyre-Streams verfügbar, einschließlich Kommentare, Live-Blog und Chat.
 
 >[!NOTE]
 >
->Mit den Hoverkarten werden die in Ihrem Benutzerprofilsystem enthaltenen Informationen angezeigt. Alle Felder, die nicht in diesem System enthalten sind, werden in den Hoverkarten nicht angezeigt. Wenn Sie keine öffentlichen Profilseiten haben, wird keine Seite angezeigt. Wenn Sie die Hoverkarten für Ihr benutzerdefiniertes Netzwerk deaktivieren möchten, wenden Sie sich bitte an Ihren technischen Kundenbetreuer.
+>Hovercards können nur auf Netzwerkebene ein- oder ausgeschaltet werden und werden auf allen Sites in Ihrem benutzerdefinierten Netzwerk implementiert oder deaktiviert. Wenden Sie sich an Ihren Kundenbetreuer, wenn Sie möchten, dass die Hovercards für Ihr Netzwerk eingeschaltet werden.
+
+## Ansicht von Hovercards {#section_zjl_jtk_wy}
+
+Wenn Sie den Mauszeiger über den Avatar eines Benutzers bei Kommentaren, Live-Blog oder Chat bewegen, wird dessen Hovercard angezeigt.
+
+Durch Klicken auf **[!UICONTROL View Full Profile]** wird der Benutzer zur vollständigen Profilseite für diesen Benutzer geleitet.
+
+>[!NOTE]
+>
+>Die Karten zeigen Informationen in Ihrem Benutzerprofilsystem an. Felder, die nicht in diesem System enthalten sind, werden nicht in den Hovercards angezeigt. Wenn Sie keine öffentlichen Profilseiten haben, wird keine Seite angezeigt. Wenn Sie die Hovercards für Ihr benutzerdefiniertes Netzwerk deaktivieren möchten, wenden Sie sich bitte an Ihren technischen Kundenbetreuer.
 
 
 
@@ -37,5 +37,5 @@ Apps, die diese Funktion verwenden:
 * [Chat](/help/using/c-about-apps/c-chat-app/c-chat-app.md#c_chat_app)
 * [Kommentare](/help/using/c-about-apps/c-comments/c-comments.md)
 * [Reviews](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
-* [Zielgruppen](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
+* [Sir](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 
