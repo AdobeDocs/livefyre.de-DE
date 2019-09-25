@@ -1,10 +1,10 @@
 ---
-description: Erlauben Sie Benutzern, ihre Benachrichtigungsfrequenz und den Inhalt auszuwählen.
-seo-description: Erlauben Sie Benutzern, ihre Benachrichtigungsfrequenz und den Inhalt auszuwählen.
+description: Erlauben Sie Benutzern, ihre Benachrichtigungsfrequenz und ihren Inhalt auszuwählen.
+seo-description: Erlauben Sie Benutzern, ihre Benachrichtigungsfrequenz und ihren Inhalt auszuwählen.
 seo-title: E-Mail-Benachrichtigungen
 solution: Experience Manager
 title: E-Mail-Benachrichtigungen
-uuid: 27 dad 133-bd 8 d -4949-8146-1254 c 160 d 3 af
+uuid: 27dad133-bd8d-4949-8146-1254c160d3af
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
@@ -13,97 +13,97 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 # E-Mail-Benachrichtigungen{#email-notifications}
 
-Erlauben Sie Benutzern, ihre Benachrichtigungsfrequenz und den Inhalt auszuwählen.
+Erlauben Sie Benutzern, ihre Benachrichtigungsfrequenz und ihren Inhalt auszuwählen.
 
 **Aktivieren Sie E-Mail-Benachrichtigungen für Ihre Benutzer und Moderatoren.**
 
-Mithilfe von Livefyre-Apps können Sie E-Email-Benachrichtigungen für Ihre Benutzer und Moderatoren aktivieren, basierend auf bestimmten Aktionen. Benachrichtigungen basieren auf dem Zeitpunkt, zu dem Inhalte im Stream gepostet werden, wodurch Ihre Benutzer an Unterhaltungen beteiligt bleiben, die sie interessiert, und benachrichtigt werden, wenn jemand einen ihrer Kommentare gefällt oder beantwortet.
+Mit Livefyre-Apps können Sie E-Mail-Benachrichtigungen für Benutzer und Moderatoren basierend auf bestimmten Aktionen aktivieren. Benachrichtigungen basieren auf dem Zeitpunkt, zu dem Inhalte in den Stream gepostet werden, und ermöglichen Ihren Benutzern, an Gesprächen teilzunehmen, die ihnen wichtig sind, und benachrichtigt zu werden, wenn jemand einen ihrer Kommentare gefällt oder darauf antwortet.
 
-Benutzer und Moderatoren können E-Email-Benachrichtigungen ein- oder auswählen und die Häufigkeit festlegen, mit der E-Emails empfangen werden. In diesem Abschnitt wird beschrieben, wie Sie diese E-Mail-Benachrichtigungen konfigurieren und anpassen.
+Benutzer und Moderatoren können die E-Mail-Benachrichtigung ein- oder abwählen und die Häufigkeit festlegen, mit der E-Mails empfangen werden. In diesem Abschnitt wird beschrieben, wie Sie diese E-Mail-Benachrichtigungen konfigurieren und anpassen.
 
-* Benutzer-E-Mail-Optionen: verfügbare Benutzerbenachrichtigungsoptionen.
-* Moderator-E-Mail-Optionen: verfügbare Moderatorbenachrichtigungsoptionen.
-* Optionen für Livefyre-Identitätse-Mails: E-Emails, die als Teil der Livefyre-Identität gesendet werden. Diese E-Emails sind nur für Livefyre-Identitätskunden relevant.
-* Datensynchronisierung mit Livefyre: Synchronisierung von Voreinstellungen mit Livefyre.
-* Anpassen von E-Mails: verfügbare E-Email-Anpassungen.
+* E-Mail-Optionen für Benutzer: verfügbare Benutzerbenachrichtigungsoptionen.
+* Moderator-E-Mail-Optionen: verfügbare Benachrichtigungsoptionen für Moderatoren.
+* Optionen für Livefyre-Identitäts-E-Mails: E-Mails, die als Teil von Livefyre Identity gesendet werden. Diese E-Mails sind nur für Livefyre Identity Customers relevant.
+* Datensynchronisierung mit Livefyre: die Voreinstellungen mit Livefyre synchronisieren.
+* E-Mails anpassen: verfügbare E-Mail-Anpassungen.
 
-Verwenden Sie **die Einstellungen &quot;Einstellungen&quot; &gt;&quot; Integrationseinstellungen&quot; &gt; &quot;E-Mail-Benachrichtigungs-Einstellungen** &quot; , um E-Email-Benachrichtigungen für Ihr Netzwerk anzupassen.
-
->[!NOTE]
->
->Um sicherzustellen, dass Endbenutzer keine unbeabsichtigte E-Mail erhalten, werden keine E-Email-Benachrichtigungen aus der UIN-Umgebung von Livefyre gesendet.
-
-**Benutzer-E-Mail-Optionen**
-
-Livefyre ermöglicht es Ihnen, Benutzern das Empfangen von E-Email-Benachrichtigungen über die Site-Aktivität zu ermöglichen. Verwenden Sie die Einstellungen für die Livefyre-bereitgestellte Benutzerprofile, damit Benutzer ihre Voreinstellungen für Benachrichtigungspläne auswählen können.
+Verwenden Sie die Optionen **Einstellungen &gt; Integrationseinstellungen &gt; E-Mail-Benachrichtigungseinstellungen** , um E-Mail-Benachrichtigungen für Ihr Netzwerk anzupassen.
 
 >[!NOTE]
 >
->E-Mails werden nur für Inhalte gesendet, die manuell im Stream veröffentlicht werden, nicht für Inhalte, die aus socialsync bezogen werden.
+>Um sicherzustellen, dass Ihre Endbenutzer keine unbeabsichtigte Post erhalten, werden keine E-Mail-Benachrichtigungen von der Livefyre UAT-Umgebung gesendet.
 
-Damit Benutzer ihre Benachrichtigungseinstellungen festlegen können, müssen Sie in den Benutzereinstellungen für Ihr Benutzerprofilsystem einen Abschnitt &quot;E-Mail-Benachrichtigungen&quot; angeben. Fügen Sie die entsprechenden Felder Ihrem Benutzerprofildatenbankschema hinzu und verwalten Sie dann Ihre Benutzereinstellungen mit Ping für Pull. (Wenden Sie sich an Ihren Technical Integration Manager, um Standardfrequenzen für Ihr Netzwerk zu definieren. Wenn Sie ein Kunde von Unternehmensprofilen sind, übergeben Sie die ausgewählte Standardeinstellung an Ihr Livefyre-Bereitstellungsteam, um es in der Livefyre-Datenbank zu konfigurieren.)
+**E-Mail-Optionen für Benutzer**
 
-Benutzer auf Ihrer Site können dann eine Unterhaltung befolgen und E-Mail-Benachrichtigungen empfangen, indem Sie auf die **[!UICONTROL +Follow]** Schaltfläche im Kommentareditor klicken. Benachrichtigungseinstellungen werden auf der Livefyre-Netzwerkebene definiert. Alle Benutzereinstellungen gelten für alle Sites und Unterhaltungen in Ihrem Netzwerk.
+Mit Livefyre können Sie Benutzern ermöglichen, E-Mail-Benachrichtigungen über Site-Aktivitäten zu erhalten. Verwenden Sie die in Livefyre bereitgestellten Einstellungen zur Benutzerprofilintegration, um Benutzern die Auswahl ihrer Voreinstellungen für Benachrichtigungspläne zu ermöglichen.
+
+>[!NOTE]
+>
+>E-Mails werden nur für Inhalte gesendet, die manuell in den Stream gepostet werden, nicht für Inhalte, die aus SocialSync abgerufen werden.
+
+Damit Benutzer ihre Benachrichtigungseinstellungen festlegen können, fügen Sie in den Benutzereinstellungen für Ihr Benutzerprofilsystem den Abschnitt "E-Mail-Benachrichtigung"ein. Fügen Sie die entsprechenden Felder zum Benutzerprofildatenbankschema hinzu und verwalten Sie dann Ihre Benutzereinstellungen mit Ping for Pull. (Arbeiten Sie mit Ihrem Technical Integration Manager zusammen, um Standardfrequenzen für Ihr Netzwerk zu definieren. Wenn Sie Enterprise Profiles-Kunde sind, übergeben Sie Ihre ausgewählten Standardwerte zur Konfiguration in der Livefyre-Datenbank an Ihr Livefyre-Bereitstellungsteam.)
+
+Benutzer auf Ihrer Site können dann eine Konversation verfolgen und E-Mail-Benachrichtigungen empfangen, indem sie im Kommentareditor auf die **[!UICONTROL +Follow]** Schaltfläche klicken. Benachrichtigungseinstellungen werden auf Livefyre-Netzwerkebene definiert. Alle Benutzereinstellungen gelten für alle Sites und Konversationen im Netzwerk.
 
 **Empfohlene Standardwerte**
 
-* Ein Kommentar in einer Unterhaltung, die ich behebe: ** stündliche Digest**
-* Jemand gefällt mir einen meiner Kommentare: ** stündliche Digest**
-* Antworten auf eine meiner Kommentare: ** sofort****
-* Konversationen automatisch folgen, wenn ich einen Kommentar leere: ** off** (nicht aktiviert)
+* Jemand kommentiert in einer Unterhaltung Ich bin:** Stündliche Zusammenfassung**
+* Einer meiner Kommentare gefällt:** Stündlich verdauen**
+* Jemand antwortet auf eine meiner Bemerkungen:** sofort**
+* Unterhaltungen automatisch ausführen, wenn ich einen Kommentar hinterlasse:*** off* (nicht markiert)
 
-**Hinweis**: E-Mail-Benachrichtigungen basieren auf dem zeitlichen Inhalt, der für die Einbindung in den Stream genehmigt wurde.
+**Hinweis**: E-Mail-Benachrichtigungen basieren auf dem Zeitpunkt, zu dem der Inhalt für die Aufnahme in den Stream genehmigt wurde.
 
-Livefyre bietet zwei E-Email-Häufigkeitsoptionen:
+Livefyre bietet zwei Optionen für die E-Mail-Frequenz:
 
 * Sofort
-* Stündliche Digest
+* Stündlich
 
 **Sofort**
 
-E-Mails, die sofort gesendet werden, zeigen den Text des Beitrags, den Artikeltitel, den Benutzernamen des Autors und einen **Antwort** -Link an, der den Benutzer zum Inhalt auf der Seite führt. Diese E-Emails enthalten auch einen Link **zum Abonnieren** der Fußzeile, sodass Benutzer sich von E-Email-Benachrichtigungen für diese Sammlung abmelden können. Durch Klicken auf** Abonnieren werden sie zu einer Bestätigungsseite geleitet, über die sie weiß, dass sie aus der Sammlung abonniert wurden.
+E-Mails, die sofort gesendet werden, zeigen den Text des Beitrags, den Artikeltitel, den Benutzernamen des Autors und einen Link zur **Antwort** an, über den der Benutzer zu den Inhalten auf der Seite gelangt. Diese E-Mails enthalten auch einen Link zum **Abmelden** in der Fußzeile, über den Benutzer sich von E-Mail-Benachrichtigungen für diese Sammlung abmelden können. Durch Klicken auf **Abbestellen **werden sie auf eine Bestätigungsseite geleitet, auf der sie wissen, dass sie von der Sammlung abgemeldet wurden.
 
-**Stündliche Digest**
+**Stündlich**
 
-E-Mails, die in einer stündlichen Digest gesendet werden, zeigen alle Inhalte, Antworten auf Inhalte und &quot;Gefällt mir&quot; -Klicks für den Inhalt innerhalb der letzten Stunde (oder) pro App an, die der Benutzer folgt. Wenn der Benutzer mehrere Apps im Netzwerk ist, erhalten sie für jede App eine E-Email mit einer Digest-E-Email.
+In einer stündlichen Zusammenfassung gesendete E-Mails zeigen alle Inhalte, Antworten auf Inhalte und "Gefällt mir"-Klicks innerhalb der letzten Stunde (oder so) pro App an, der der Benutzer folgt. Wenn der Benutzer mehrere Apps in Ihrem Netzwerk verfolgt, erhält er für jede App eine Digest-E-Mail.
 
 >[!NOTE]
 >
->In Unterhaltungen ohne neue Inhalte für mehr als mehrere Stunden werden Benutzer mit aktivierter stündlicher Digest sofort auf einem neuen Inhaltsbeitrag benachrichtigt.
+>Bei Konversationen ohne neuen Inhalt für mehr als mehrere Stunden erhalten Benutzer mit aktivierter stündlicher Zusammenfassung sofort eine Benachrichtigung bei einem neuen Inhaltsbeitrag.
 
 **Moderator-E-Mail-Optionen**
 
-Moderatoren können sich entscheiden, E-Emails für Inhalte zu erhalten, die in einer App veröffentlicht werden, und für Kommentare, die Spam oder Offensive in einer App kennzeichnen, die sie moderiert haben. **Hinweis:** Es werden keine E-Emails gesendet, wenn Benutzer einen Kommentar mit &quot;Nicht zutreffend&quot; oder&quot; Aus Thema&quot; markieren, da diese Kategorien für die Moderatorbenachrichtigung nicht als wichtig erachtet werden.
+Moderatoren können sich für den Erhalt von E-Mails für Inhalte entscheiden, die in einer App veröffentlicht werden, denen sie folgen, und für Kommentare, die in einer App als Spam oder Offensive gekennzeichnet sind, moderieren sie. **** Hinweis: Es werden keine E-Mails gesendet, wenn Benutzer einen Kommentar mit "Nicht einverstanden"oder "Nicht-Thema"kennzeichnen, da diese Kategorien für die Moderatorbenachrichtigung nicht als wichtig erachtet werden.
 
-Die Felder Moderator_ Kommentare und Moderator_ Flags sollten außerdem Ihrem Benutzerdatenbankschema für das Benutzerprofil für die Einstellungen von Moderatoren hinzugefügt werden, damit Ihre Moderatoren die Häufigkeit ihrer E-Mail-Benachrichtigungen aktualisieren und abwählen können, wenn sie gewünscht werden. Livefyre empfiehlt, dass Sie diese beiden Moderator-E-Email-Benachrichtigungsfelder nie auf **nie festlegen**. Zu den Optionen gehören **nie** (Standard), **sofort** und **häufig**.
+Die Felder "moderator_comments"und "moderator_flags"sollten auch dem Datenbankschema Ihrer Seite "Benutzerprofileinstellungen"für Moderatoren hinzugefügt werden, damit Ihre Moderatoren die Häufigkeit ihrer E-Mail-Benachrichtigungen aktualisieren können und die Möglichkeit haben, diese bei Bedarf abzuwählen. Livefyre empfiehlt, diese beiden E-Mail-Benachrichtigungsfelder des Moderators auf **nie** festzulegen. Zu den Optionen gehören **never** (Standard), **once** und **oft**.
 
 **Moderator-E-Mail (gekennzeichneter Inhalt):**
 
-Wenn der Inhalt in einer moderierten App gekennzeichnet wird, zeigt die an den Moderator gesendete E-Email den gekennzeichneten Inhalt an, den Benutzernamen, der den Inhalt gekennzeichnet hat, und einen Link zurück zur Inhaltsseite.
+Wenn Inhalte in einer moderierten App markiert werden, zeigt die E-Mail, die an den Moderator gesendet wird, den gekennzeichneten Inhalt, den Benutzernamen, der den Inhalt markiert hat, und einen Link zurück zur Inhaltsseite an.
 
-Wenn ein Benutzer ihre E-Email-Benachrichtigungseinstellungen auf Ihrer Site in Ihrem Profilsystem ändert, synchronisieren Sie das Update mit dem Remote-Profilsystem von Livefyre, indem Sie die Ping-Funktion von Livefyre verwenden.
+Wenn ein Benutzer seine Voreinstellungen für E-Mail-Benachrichtigungen auf Ihrer Site in Ihrem Profilsystem ändert, synchronisieren Sie das Update mit Livefyre Ping for Pull mit dem LiveFeyre-Remote-Profilsystem.
 
 **Datensynchronisierung mit Livefyre**
 
 ## Anpassen von E-Mails {#section_jxb_c5k_yy}
 
-Mehrere Felder in den E-Mail-Benachrichtigungsvorlagen können so geändert werden, dass sie Ihren Stil und Ihre Marke anpassen.
+Mehrere Felder in den E-Mail-Benachrichtigungsvorlagen können an Ihren Stil und Ihre Marke angepasst werden.
 
 * **[!UICONTROL From Email Address]**
 
-   Die &quot;von E-Mail-Adresse&quot; für alle E-Mail-Benachrichtigungen kann so angepasst werden, dass sie mit Ihrer Marke konsistent ist. Livefyre empfiehlt **noreply@customerdomain.com** und ersetzt **den customerdomainwith** Ihren Domänennamen. (Die Standardeinstellung lautet **noreply@livefyre.com**.) Bitte übergeben Sie Ihre bevorzugte &quot;from E-Email Address&quot; an Ihren Technical Integration Manager zur Konfiguration in der Livefyre-Datenbank für Ihr Netzwerk.
+   Die "Von-E-Mail-Adresse"für alle E-Mail-Benachrichtigungen kann an Ihre Marke angepasst werden. Livefyre empfiehlt, **noreply@customerdomain.com** zu ersetzen, indem **** customerdomainname durch Ihren Domänennamen ersetzt wird. (Die Standardeinstellung ist **noreply@livefyre.com**.) Bitte senden Sie zur Konfiguration in der Livefyre-Datenbank für Ihr Netzwerk Ihre bevorzugte "Von E-Mail-Adresse"an Ihren Technical Integration Manager.
 
    >[!NOTE]
    >
-   >Lassen Sie dieses Feld leer, um E-Mail-Benachrichtigungen für Ihr Netzwerk zu deaktivieren.
+   >Lassen Sie dieses Feld leer, um E-Mail-Benachrichtigungen für Ihr Netzwerk zu deaktivieren
 
 * **[!UICONTROL Email Logo]**
 
-   Das in E-Email-Benachrichtigungen angezeigte Logo kann so angepasst werden, dass es Ihr Unternehmenslogo statt des standardmäßigen Livefyre-Logos auf der Registerkarte **&quot;Netzwerkeinstellungen** &quot; von Studio anzeigt. Diese Anpassung ist nur auf Netzwerkebene, nicht auf der Site-Ebene verfügbar und steht nur für bezahlte Livefyre-Kunden zur Verfügung.
+   Das in E-Mail-Benachrichtigungen angezeigte Logo kann angepasst werden, um Ihr Firmenlogo anstelle des standardmäßigen Livefyre-Logos anzuzeigen, und zwar über die Registerkarte "Branding"auf der Seite " **Netzwerkeinstellungen** "von Studio. Diese Anpassung steht nur auf Netzwerkebene und nicht auf Site-Ebene zur Verfügung und ist nur für kostenpflichtige Livefyre-Kunden verfügbar.
 
 * **[!UICONTROL Custom Templates]**
 
-   Falls gewünscht, können Sie eine vollständig angepasste E-Mail-Vorlage implementieren. Dies erfordert jedoch einige Entwicklungsbemühungen und kann zu professionellen Diensten führen. Weitere Informationen erhalten Sie von Ihrem Kundenbetreuer.
+   Sie können auf Wunsch eine vollständig angepasste E-Mail-Vorlage implementieren. Dies erfordert jedoch gewisse Entwicklungsbemühungen und kann mit Kosten für freiberufliche Dienstleistungen verbunden sein. Weitere Informationen erhalten Sie von Ihrem Kundenbetreuer.
 
 
 
@@ -111,7 +111,7 @@ Apps, die diese Funktion verwenden:
 
 * [Karussell](/help/using/c-about-apps/c-carousel-app/c-carousel-app.md#c_carousel_app)
 * [Kommentare](/help/using/c-about-apps/c-comments/c-comments.md)
-* [Feature Card](/help/using/c-about-apps/c-feature-card-app/c-feature-card-app.md#c_feature_card_app)
-* [Medienpinnwand](/help/using/c-about-apps/c-media-wall-app/c-media-wall-app.md#c_media_wall_app)
+* [Funktionskarte](/help/using/c-about-apps/c-feature-card-app/c-feature-card-app.md#c_feature_card_app)
+* [Medienwall](/help/using/c-about-apps/c-media-wall-app/c-media-wall-app.md#c_media_wall_app)
 * [Reviews](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 
