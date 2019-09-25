@@ -1,17 +1,17 @@
 ---
 description: Versionshinweise für die Version vom 1. November 2018.
 seo-description: Versionshinweise für die Version vom 1. November 2018.
-seo-title: 1. November 2018
+seo-title: 1. November 2018
 solution: Experience Manager
-title: 1. November 2018
-uuid: ed 1 a 3 bf 1-b 3 f 1-4746-8462-07283723 ba 62
+title: 1. November 2018
+uuid: ed1a3bf1-b3f1-4746-8462-07283723ba62
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 
 
-# 1. November 2018{#november}
+# 1. November 2018{#november}
 
 Versionshinweise für die Version vom 1. November 2018.
 
@@ -19,31 +19,31 @@ Versionshinweise für die Version vom 1. November 2018.
 
 Die folgenden neuen Funktionen wurden in der Produktionsversion dieser Version veröffentlicht:
 
-* Video-Smart-Tags
+* Smart-Tags für Videos
 
-   Nutzen Sie die Vorteile der Technik für Computercomputervision, powered by Adobe Sensei, um Videoinhalte automatisch zu taggen, wenn Sie sie in der Bibliothek speichern. Mit intelligenten Tags können Sie UGC effektiver verwalten, aber auch sehr präzise Kuratierungsregeln (Streams) erstellen, die Inhalte basierend auf dem Inhalt des Videos erfassen, nicht nur den Text, sondern eine erhebliche Bemühung, unerwünschte Inhalte zu moderieren.
+   Nutzen Sie modernste Computer-Vision-Technologie mit Adobe Sensei, um Videoinhalte automatisch zu taggen, wenn Sie sie in der Bibliothek speichern. Intelligente Tags helfen Ihnen, UGC effektiver zu verwalten, erstellen aber auch extrem präzise Kurationsregeln (Streams), die Inhalte auf der Grundlage des Inhalts des Videos erfassen, nicht nur des Textes, was Ihnen erhebliche Anstrengungen bei der Moderation unerwünschter Inhalte ermöglicht.
 
    Funktionsdetails:
 
-   * Intelligente Tags werden automatisch zu Videos hinzugefügt, die aus Social-Suchen, Streams und hochgeladenen Videodateien in der Bibliothek gewonnen wurden. Anzeigen von Tags in den Asset-Details für ein einzelnes Video
-   * Taggen von Videos in den Formaten. MP 4. MOV und AVI
-   * Taggen von Videos bis zu 60 Sekunden oder 50 MB
-   * Für Videos gelten zwei Kategorien von intelligenten Tags: Funktionen (Tiere, Objekte, Orte usw.) und Aktionen (laufen, laufen, sintieren usw.)
-   Weitere Informationen finden [Sie unter Smart Tags.](/help/using/c-features-livefyre/c-smart-tags/c-smart-tags.md#c_smart_tags)
+   * Smart-Tags werden automatisch zu Videos hinzugefügt, die aus der Social-Suche, Streams und hochgeladenen Videodateien in der Bibliothek gewonnen wurden. Anzeigen von Tags in den Asset-Details für ein einzelnes Video
+   * Tags von Videos im Format MP4, MOV und AVI
+   * Tags von Videos bis zu 60 Sekunden oder 50 MB
+   * Für Videos gelten zwei Kategorien von Smarttags: Funktionen (Tiere, Objekte, Orte usw.) und Aktionen (Laufen, Gehen, Singen usw.)
+   For more information see [Smart Tags](/help/using/c-features-livefyre/c-smart-tags/c-smart-tags.md#c_smart_tags)
 
-* Instagram-Ratenbeschränkung
+* Begrenzung der Instagram-Rate
 
-   Instagram hat die Anzahl der Anforderungen geändert, die ein beliebiges Unternehmen, das die Instagram-API verwendet, einschließlich Livefyre, von 5.000 Anfragen pro Stunde pro Token bis zu 200 Anforderungen pro Stunde vornehmen kann. Dies wird als *Ratenbeschränkung bezeichnet*. Weitere Informationen finden Sie unter [Instagram-Rateneinschränkung](/help/using/c-streams/c-instagram-rate-limiting.md).
+   Instagram hat die Anzahl der Anfragen geändert, die ein Unternehmen, das die Instagram-API verwendet, einschließlich Livefyre, von 5.000 Anfragen pro Stunde pro Token auf 200 Anfragen pro Token stellen kann. Dies wird als *Ratenbegrenzung* bezeichnet. Weitere Informationen finden Sie unter Einschränkungen der [Instagram-Rate](/help/using/c-streams/c-instagram-rate-limiting.md).
 
 * Audiodateien in der Bibliothek
 
-   Sie können jetzt die folgenden Funktionen für Audiodateien aus dem Bibliothek-Bedienfeld ausführen:
+   Sie können jetzt die folgenden Funktionen für Audiodateien aus dem Bibliotheksbedienfeld ausführen:
 
    * Durchsuchen
    * Vorschau
    * Importieren
    * Filtern nach Audiodateien
-   * Drag &amp; Drop von Dateien in Designer
+   * Drag &amp; Drop von Dateien in den Designer
 
 ## Probleme {#section_ehw_ndt_wcb}
 
@@ -53,10 +53,10 @@ In der Produktionsversion dieser Version wurden keine neuen Probleme behoben. Si
 
 Die Probleme in den folgenden Tabellen wurden in der UAT-Version dieser Version behoben.
 
-| **Ausgabentyp** | **Komponente** | **Versionshinweise** |
+| **Art des Problems** | **Komponente** | **Versionshinweise** |
 |---|---|---|
-| Verbesserung | GDPR | Alle älteren Kunden innerhalb von Analytics zugewiesenen Daten werden gelöscht. |
-| Bug | Bibliothek | Es wurde ein Problem behoben, durch das ein in die Bibliothek hochgeladenes Video, das dann in der Asset-Details angezeigt wurde, nicht richtig angezeigt wurde. |
-| Bug | Mosaik | Es wurde ein Problem behoben, durch das Mosaic das letzte Inhaltselement aus einem Instagram-Karussell als Miniaturansicht anstelle einer Karte anzeigte. |
-| Bug | Social Search | Es wurde ein Problem behoben, durch das die Instagram Social Search nicht wie erwartet funktionierte. |
+| Verbesserung | GDPR | Alle Daten, die früheren Kunden in Analytics zugewiesen wurden, werden gelöscht. |
+| Fehler | Bibliothek | Es wurde ein Problem behoben, bei dem ein Video, das in die Bibliothek hochgeladen und dann im Detail angezeigt wurde, nicht korrekt angezeigt wurde. |
+| Fehler | Mosaik | Es wurde ein Problem behoben, bei dem ein Mosaic das letzte Inhaltselement eines Instagram-Karussells als Miniaturansicht anstatt als Karte anzeigte. |
+| Fehler | Social-Suche | Es wurde ein Problem behoben, bei dem die Suche in sozialen Instagram nicht wie erwartet funktionierte. |
 
