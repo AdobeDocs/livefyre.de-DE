@@ -1,23 +1,23 @@
 ---
 description: Diese Methode gibt die URN für den Benutzer dieses Netzwerks zurück.
 seo-description: Diese Methode gibt die URN für den Benutzer dieses Netzwerks zurück.
-seo-title: Geturnforuser-Netzwerkmethode
+seo-title: getUrnForUser-Netzwerkmethode
 solution: Experience Manager
-title: Geturnforuser-Netzwerkmethode
-uuid: b 70 b 8 b 0 f -2 b 3 a -4 a 1 d -90 d 0-93 a 97 a 137 ad 4
+title: getUrnForUser-Netzwerkmethode
+uuid: b70b8b0f-2b3a-4a1d-90d0-93a97a137ad4
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Geturnforuser-Netzwerkmethode{#geturnforuser-network-method}
+# getUrnForUser-Netzwerkmethode{#geturnforuser-network-method}
 
 Diese Methode gibt die URN für den Benutzer dieses Netzwerks zurück.
 
 | Variable | Typ | Beschreibung |
 |--- |--- |--- |
-| Userid | Zeichenfolge | Die in der URN zu verwendende userid. |
+| userId | Zeichenfolge | Die in der URL zu verwendende userId. |
 
 ## Java-Beispiel {#section_nyl_ycs_rz}
 
@@ -31,7 +31,7 @@ Beispielausgabe:
 "urn:livefyre:network=`example.fyre.co`:user=tester" 
 ```
 
-## Nodejs-Beispiel {#section_xkd_gds_rz}
+## NodeJS-Beispiel {#section_xkd_gds_rz}
 
 ```
 network.getUrnForUser(userId);
@@ -55,7 +55,7 @@ Beispielausgabe:
 "urn:livefyre:network=`example.fyre.co`:user=tester" 
 ```
 
-## Python Example {#section_dwg_gds_rz}
+## Python-Beispiel {#section_dwg_gds_rz}
 
 ```
 network.get_urn_for_user(userId) 
