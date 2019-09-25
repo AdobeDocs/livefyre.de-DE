@@ -4,7 +4,7 @@ seo-description: 'null '
 seo-title: Berechtigungen einrichten
 solution: Experience Manager
 title: Berechtigungen einrichten
-uuid: 688 af 27 e -97 ba -4 bff -8 edd -6 be 82 f 48 e 6 c 7
+uuid: 688af27e-97ba-4bff-8edd-6be82f48e6c7
 translation-type: tm+mt
 source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
@@ -13,8 +13,8 @@ source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 # Berechtigungen einrichten{#set-up-credentials}
 
-**Anmeldeinformationen** Im Berechtigungsbedienfeld werden Ihr Livefyre-Netzwerk und Ihre Site-Anmeldeinformationen angezeigt. Diese Felder werden während des Integrationsprozesses von Livefyre ausgefüllt und stehen hier zur Verfügung. Neue Sites, die über Studio hinzugefügt werden, werden ebenfalls auf dieser Seite angezeigt. Diese Werte sind schreibgeschützt.
-**Netzwerkanmeldeinformationen****:** Ihr Netzwerkschlüssel dient **nur** zur Generierung von userauth-Token und wird nicht für andere API-Aufrufe verwendet. Beim Erstellen von collectionmeta-Token wird der Site-Schlüssel verwendet. Weitere Informationen finden Sie unter [Entwickler &gt; Erste Schritte &gt; Erstellen eines Benutzerauthentifizierungstokens](https://answers.livefyre.com/developers/getting-started/tokens/auth/).
+**Berechtigungen** Im Bereich "Berechtigungen"werden Ihre Livefyre-Netzwerk- und Site-Anmeldeinformationen angezeigt. Diese Felder werden von Livefyre während des Integrationsprozesses ausgefüllt und stehen hier als Referenz zur Verfügung. Neue Sites, die über Studio hinzugefügt werden, werden ebenfalls auf dieser Seite aufgenommen. Diese Werte sind schreibgeschützt.
+**** Netzwerkanmeldeinformationen **** Hinweis: Ihr Netzwerkschlüssel wird **nur** zur Erstellung von userAuth-Token verwendet und nicht für andere API-Aufrufe. Beim Erstellen von collectionMeta-Token wird der Site-Schlüssel verwendet. Weitere Informationen finden Sie unter [Entwickler &gt; Erste Schritte &gt; Erstellen eines Auth-Tokens](https://answers.livefyre.com/developers/getting-started/tokens/auth/)für Benutzer.
 
 * Netzwerkdomäne
 * Netzwerkschlüssel
