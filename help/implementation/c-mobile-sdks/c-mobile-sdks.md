@@ -1,66 +1,66 @@
 ---
-description: Fügen Sie den nativen mobilen Apps Livefyre hinzu.
-seo-description: Fügen Sie den nativen mobilen Apps Livefyre hinzu.
-seo-title: Mobile sdks
+description: Fügen Sie Livefyre zu Ihren nativen mobilen Apps hinzu.
+seo-description: Fügen Sie Livefyre zu Ihren nativen mobilen Apps hinzu.
+seo-title: Mobile SDKs
 solution: Experience Manager
-title: Mobile sdks
-uuid: 84 c 7 ca 1 c -4401-492 a-bfa 5-62 b 996947 a 44
+title: Mobile SDKs
+uuid: 84c7ca1c-3401-492a-bfa5-62b996947a44
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Mobile sdks{#mobile-sdks}
+# Mobile SDKs{#mobile-sdks}
 
-Fügen Sie den nativen mobilen Apps Livefyre hinzu.
+Fügen Sie Livefyre zu Ihren nativen mobilen Apps hinzu.
 
-Es gibt verschiedene Optionen für Implementierungen mobiler Anwendungen, je nachdem, wie viel Anpassungen Sie vornehmen möchten:
+Es stehen verschiedene Optionen für mobile Implementierungen zur Verfügung, je nach Umfang der Anpassung, die Sie planen:
 
 * Mobile Web-Apps
-* Livefyre Android- oder ios-sdks
-* HTTP-apis
+* Livefyre Android- oder iOS-SDKs
+* HTTP-APIs
 
 ## Mobile Web-Apps {#section_t2k_vpb_11b}
 
-Kunden, die eine Webseite auf einem Mobilgerät öffnen, erhalten automatisch einen Livefyre-Inhaltsstream, der für Mobilgeräte optimiert ist, einschließlich der Formatierung, um die reduzierte Bildschirmgröße und Änderungen an Berührungsereignissen anzupassen.
+Kunden, die eine Webseite auf einem Mobilgerät öffnen, erhalten automatisch einen Livefyre-Inhaltsstream, der für Mobilgeräte optimiert ist. Dazu gehören die Formatierung, die an die reduzierte Bildschirmgröße angepasst wird, und Änderungen zur Handhabung von Berührungsereignissen.
 
 >[!NOTE]
 >
->Bei Verwendung einer Livefyre-App in einer Android webview muss der Parameter Android [websettings. setdomstorageenabled](https://developer.android.com/reference/android/webkit/WebSettings.html) auf true gesetzt werden. Wenn localstorage nicht aktiviert ist, kann Livefyre einen Benutzer nicht in der Livefyre-App protokollieren.
+>Bei Verwendung einer Livefyre-App in einer Android-WebView muss der Parameter Android [WebSettings.setDomStorageEnabled](https://developer.android.com/reference/android/webkit/WebSettings.html) auf true eingestellt sein. Wenn localStorage nicht aktiviert ist, kann Livefyre keinen Benutzer bei der Livefyre-App anmelden.
 
-Um für Mobilgeräte zu optimieren, schränkt Livefyre die Funktion Kommentare, Live Blog und Chat App ein:
+Zur Optimierung für Mobilgeräte beschränkt Livefyre die Funktionen "Kommentare", "Live-Blog"und "Chat-App"auf Folgendes:
 
-* Beitrag
-* Bearbeiten
-* Flag
+* Posten
+* Vorlage     
+* Markierung
 * Gefällt mir
-* Antworten
+* Antwort
 * Listener-Anzahl
-* Kommentaranzahl
-* Inline-ausstehende Moderation
-* Hoverkarten
-* Top-Kommentare
-* Hot Threads
+* Anzahl der Kommentare
+* Inline-Moderation ausstehend
+* Hovercards
+* Wichtigste Kommentare
+* Hotkeys
 * Warteschlangenkommentare
 
-In mobilen Web-Apps werden durch Klicken auf den Namen eines Autors die Hoverkarteninformationen auf einer neuen Seite geöffnet.
+Wenn Sie in mobilen Web-Apps auf den Namen eines Autors klicken, werden die Informationen zur Karte in einer neuen Seite geöffnet.
 
-## Livefyre Android SDK oder ios SDK {#section_zdz_spb_11b}
+## Livefyre Android SDK oder iOS SDK {#section_zdz_spb_11b}
 
-Livefyre stellt außerdem zwei mobile sdks bereit: ein ios-SDK und ein Android-SDK. Diese sdks sind Wrapper um unsere HTTP-Endpunkte, die eine einfachere Methode zum Senden und Empfangen von Daten bieten. Mit diesen sdks wird keine Schnittstelle bereitgestellt, wodurch mehr Flexibilität bei der Anzeige und Verwendung der Inhalte in Ihrer mobilen App gewährleistet wird.
+Livefyre bietet außerdem zwei mobile SDKs: ein iOS-SDK und ein Android-SDK. Diese SDKs sind Wrapper um unsere HTTP-Endpunkte herum, die eine einfachere Methode zum Senden und Empfangen von Daten bieten. Mit diesen SDKs wird keine Oberfläche bereitgestellt, was eine größere Flexibilität bei der Anzeige und Verwendung der Inhalte in Ihrer mobilen App ermöglicht.
 
-Die Android- und ios-sdks unterstützen die folgenden Funktionen für Kommentare, Live-Blog und Chat:
+Die Android- und iOS-SDKs unterstützen die folgenden Funktionen für Kommentare, Live-Blog und Chat:
 
-| Ios-Funktionen: | Android-Funktionen: |
+| iOS-Funktionen: | Android-Funktionen: |
 |--- |--- |
-| <ul><li> Beitrag </li><li>Bearbeiten </li><li>Flag </li><li>Gefällt mir </li><li>Antworten </li><li>Hot Threads</li></ul> | <ul><li>Beitrag </li><li>Bearbeiten </li><li>Gefällt mir </li><li>Antworten </li><li>Hot Threads</li></ul> |
+| <ul><li> Posten </li><li>Vorlage      </li><li>Markierung </li><li>Gefällt mir </li><li>Antwort </li><li>Hotkeys</li></ul> | <ul><li>Posten </li><li>Vorlage      </li><li>Gefällt mir </li><li>Antwort </li><li>Hotkeys</li></ul> |
 
-## HTTP-apis {#section_yqb_qpb_11b}
+## HTTP-APIs {#section_yqb_qpb_11b}
 
-Die HTTP-apis sind die Gruppe von Endpunkten, mit denen Sie Unterhaltungen und Inhalte auf der Livefyre-Plattform erstellen können. Außerdem werden alle Livefyre aus den Box-Streams entfernt. Diese Lösung erfordert mehr Entwicklungszeit von Ihrem Technikteam, bietet jedoch mehr Flexibilität bei der Verwendung der Livefyre-Produktsuite und ermöglicht eine native mobile Integration.
+Die HTTP-APIs sind die Gruppe von Endpunkten, mit denen Sie Konversationen und Inhalte auf der Livefyre-Plattform erstellen können. Außerdem werden alle Livefyre-Streams sofort einsatzbereit gemacht. Diese Lösung erfordert zwar mehr Entwicklungszeit von Ihrem Entwicklungsteam, bietet jedoch mehr Flexibilität bei der Verwendung der Livefyre-Produktsuite und ermöglicht die native Integration von Mobilgeräten.
 
 >[!IMPORTANT]
 >
->**Erstellen Sie** keine Benutzerauthentifizierungstoken im mobilen Client, da dies dazu erforderlich wäre, dass Sie den geheimen Livefyre-Schlüssel in einer nicht geschützten App bereitstellen. Eine solidere und sicherere Lösung finden Sie im Abschnitt Benutzerauthentifizierungstokens.
+>**Erstellen Sie keine** Benutzerauthentifizierungstoken im mobilen Client, da dies erfordert, dass Sie Ihren Livefyre-geheimen Netzwerkschlüssel in einer unbesicherten App verfügbar machen. Eine stabilere und sicherere Lösung finden Sie im Abschnitt Benutzerauthentifizierungstoken.
 
