@@ -1,10 +1,10 @@
 ---
-description: Präsentieren Sie Ihren besten Inhalt in einer horizontalen, durchlaufbaren Ansicht.
-seo-description: Präsentieren Sie Ihren besten Inhalt in einer horizontalen, durchlaufbaren Ansicht.
+description: Präsentieren Sie Ihre besten Inhalte in einer horizontalen, durchlaufbaren Ansicht.
+seo-description: Präsentieren Sie Ihre besten Inhalte in einer horizontalen, durchlaufbaren Ansicht.
 seo-title: Karussell
 solution: Experience Manager
 title: Karussell
-uuid: c 0704 fba -6119-44 ca -9 ad 1-1 e 2 cb 692 ebda
+uuid: c0704fba-6119-44ca-9ad1-1e2cb692ebda
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,19 +13,19 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Karussell{#carousel}
 
-Präsentieren Sie Ihren besten Inhalt in einer horizontalen, durchlaufbaren Ansicht.
+Präsentieren Sie Ihre besten Inhalte in einer horizontalen, durchlaufbaren Ansicht.
 
-Carousel ist eine Livefyre-App, mit der Sie Ihren besten Inhalt in einer horizontalen, durchlaufbaren Ansicht präsentieren können. Verwenden Sie diese App auf Seiten mit begrenztem Standort und laden Sie Personen ein, jeden Teil kuratierter Inhalte in Echtzeit einzeln zu erleben. Mit Karussell können Benutzer Inhalte durchsuchen und dann auf ein Element klicken und es in einem Popup-Modal öffnen.
+Carousel ist eine Livefyre-App, mit der Sie Ihre besten Inhalte in einer horizontalen, durchlaufbaren Ansicht präsentieren können. Verwenden Sie diese App auf Seiten mit beschränkter Grundstückszahl, um Personen einzuladen, jedes einzelne Stück kuratierten Inhalts einzeln und in Echtzeit zu erleben. Mit einem Karussell können Benutzer Inhalte durchsuchen und dann auf ein Element klicken, um es auszuwählen, und es in einem Popup-Modal öffnen.
 
-Bei weniger ablenkender Anzeige zeigt ein Karussell den neuesten Inhalt an und behält die aktuelle Ansicht bei, bis der Benutzer die nächste Gruppe von Elementen erneut lädt.
+Für eine weniger ablenkende Anzeige zeigt ein Karussell den neuesten Inhalt an und behält die aktuelle Ansicht bei, bis der Benutzer den nächsten Elementsatz neu lädt.
 
-In einem Karussell werden Livefyre und gestreamte Inhalte als horizontale Diashow angezeigt. Mit Karussell können Benutzer Inhalte durchsuchen und dann auf ein Element klicken und es in einem Popup-Modal öffnen.
+Bei einem Karussell werden Livefyre und Streaming-Inhalte als horizontale Diashow angezeigt. Mit einem Karussell können Benutzer Inhalte durchsuchen und dann auf ein Element klicken, um es auszuwählen, und es in einem Popup-Modal öffnen.
 
-Für eine optimale Anzeige zeigt ein Karussell den neuesten Inhalt an und behält die aktuelle Ansicht bei, bis der Benutzer die Seite aktualisiert.
+Um eine optimale Anzeige zu erzielen, zeigt ein Karussell den neuesten Inhalt an und behält die aktuelle Ansicht bei, bis der Benutzer die Seite aktualisiert.
 
-## Welche Art von Inhalt kann ich in einem Karussell veröffentlichen? {#section_ysb_4ym_wy}
+## Was für Inhalte kann ich in einem Karussell veröffentlichen? {#section_ysb_4ym_wy}
 
-Unterstützte Inhalte, die Folgendes enthalten:
+Unterstützte Inhalte mit:
 
 * Fotos
 * Videos
@@ -37,54 +37,54 @@ Unterstützte Inhaltsquellen:
 * Twitter
 * Instagram
 * Facebook
-* Youtube
+* YouTube
 * RSS
 * Tumblr
 * Livefyre
 * Weibo
 
-## Wie sieht der Site-Besucher Inhalte in einem Karussell? Kann ich Inhalte in ein Karussell einfügen? {#section_jvs_mnt_wy}
+## Wie sieht ein Site-Besucher Inhalte in einem Karussell? Kann ich Inhalte in ein Karussell streamen? {#section_jvs_mnt_wy}
 
-Ein Site-Besucher sieht Inhalte, die in einem Karussell aus Studio aus einem Studio-Stream oder einer Social-Suche gefüllt sind. Wenn der neue Inhalt auf der App veröffentlicht wird, während sich ein Site-Besucher auf der Seite befindet, muss der Site-Besucher die Seite aktualisieren, um den aktualisierten Inhalt anzuzeigen. Neue veröffentlichte Inhalte werden in der App nach bis zu 5 Minuten angezeigt.
+Ein Site-Besucher sieht Inhalte, die aus einem Studio-Stream oder einer Social-Suche in ein Karussell aus Studio gefüllt werden. Wenn neue Inhalte in der App veröffentlicht werden, während sich ein Sitebesucher auf der Seite befindet, muss der Sitebesucher die Seite aktualisieren, um den aktualisierten Inhalt anzuzeigen. Neue veröffentlichte Inhalte werden in der App nach bis zu 5 Minuten angezeigt.
 
-## Wie viele Zeichen werden für jede Karte in Karussell angezeigt? {#section_qsx_xrt_wy}
+## Wie viele Zeichen wird für jede Karte ein Karussell angezeigt? {#section_qsx_xrt_wy}
 
-Ein Karussell berechnet die Anzahl der Zeichen, die je nach Bildschirmgröße oder Containergröße angezeigt werden sollen, dynamisch. Wenn es mehr Zeichen gibt, als das Karussell angezeigt werden kann, endet ein Auslassungszeichen (&quot;…&quot; ) den angezeigten Text.
+Bei einem Karussell wird die Anzahl der anzuzeigenden Zeichen je nach Bildschirm- oder Containergröße dynamisch neu berechnet. Wenn mehr Zeichen vorhanden sind, als das Karussell anzeigen kann, wird der angezeigte Text mit einem Auslassungszeichen ("...") beendet.
 
 ## Wie sieht eine URL für eine Karte in einem Karussell aus? {#section_hnh_wrt_wy}
 
-Wenn eine URL vorhanden ist, wird die URL in einer Leiste hervorgehoben, wenn Sie auf den Inhalt klicken. Wenn mehrere Urls vorhanden sind, markiert die Karte nur eine URL. Alle zusätzlichen urls werden durch ein Auslassungszeichen (&quot;…&quot; ) abgeschnitten.
+Wenn eine URL vorhanden ist, wird die URL in einer Leiste markiert, wenn Sie auf den Inhalt klicken. Wenn es mehr als eine URL gibt, markiert die Karte nur eine URL. Alle zusätzlichen URLs werden durch ein Auslassungszeichen ("...") abgeschnitten.
 
 ## Wie sieht ein Karussell auf verschiedenen Plattformen aus? {#section_hpc_5rt_wy}
 
-Sie können den zu verwendenden Modus auswählen:
+Sie können den gewünschten Modus auswählen:
 
-* Responsive-Modus für Desktop
+* Reaktionsmodus für Desktop
 
    * Wenn der Inhalt größer als 600 Pixel ist, wird horizontal angezeigt
    * Wenn der Inhalt kleiner als 600 Pixel ist, wird vertikal angezeigt
 
-* Vertikaler Modus für Desktop: Immer vertikal, schrumpft während der Container kleiner
-* Mobil: Immer vertikal, vergrößert die Größe des Bildschirms
+* Vertikaler Desktop-Modus: Immer vertikal schrumpft, wenn der Container kleiner wird
+* Mobil: Immer vertikal schrumpft, um die Bildschirmgröße anzupassen
 
-## Was passiert, wenn ein Site-Besucher auf ein Element in einem Karussell klickt? {#section_xn3_2xm_wy}
+## Was passiert, wenn ein Site-Besucher auf einen Artikel in einem Karussell klickt? {#section_xn3_2xm_wy}
 
-Ein Site-Besucher kann:
+Ein Sitebesucher kann:
 
 * Klicken Sie auf ein Bild, um ein größeres Bild anzuzeigen.
 * Klicken Sie auf ein Video, um es anzuzeigen.
-* Klicken Sie auf den Inhalt mit mehreren Elementen, um durch die Elemente zu blättern.
+* Klicken Sie auf Inhalte mit mehreren Elementen, um durch die Elemente zu blättern.
 
-## Wodurch wird Inhalt in einem Karussell angezeigt? {#section_tdp_cxm_wy}
+## Was bewirkt das Hinzufügen von Inhalten mit Elementen in einem Karussell? {#section_tdp_cxm_wy}
 
-Inhalte mit einem &quot;hervorgehobenen&quot; Tag werden im Vordergrund angezeigt. Wenn Sie mehr als ein Inhaltselement verwenden, wird jedes Element in der Reihenfolge der App in der Reihenfolge des veröffentlichten Datums angezeigt.
+Inhalte mit dem Tag "Vorgestellt"werden vorne angezeigt. Wenn Sie mehr als ein Inhaltselement verwenden, wird jedes Element in der Reihenfolge des Veröffentlichungsdatums vor der App angezeigt.
 
-## Was sollte ich darüber erfahren, wie ein Karussell auf einer Website aussieht? {#section_r3q_bxm_wy}
+## Was soll ich noch darüber wissen, wie ein Karussell auf einer Website aussieht? {#section_r3q_bxm_wy}
 
-Inhaltsanzahl: Die Inhaltsanzahl bleibt am unteren Rand des Karussells und erhöht oder verringert sich, wenn ein Benutzer einen Bildlauf durchführt.
+Inhaltszähler: Die Anzahl der Inhalte bleibt am unteren Rand des Karussells und nimmt zu, wenn ein Benutzer blättert.
 
-Umschließen: Ein Karussell bricht vom letzten Element zum ersten Element um. Wenn im Karussell weniger als sechs Elemente vorhanden sind, stoppt das Karussell am sechsten Beitrag und wechselt nicht zurück zum ersten Beitrag.
+Umgehung: Ein Karussell umschließt das letzte Element bis zum ersten Element. Wenn im Karussell weniger als sechs Elemente vorhanden sind, wird das Karussell beim sechsten Beitrag angehalten und nicht wieder zum ersten Beitrag gedreht.
 
 ## Kann ich eine Upload-Schaltfläche zu einem Karussell hinzufügen? {#section_ozs_1xm_wy}
 
-Sie können einem Karussell eine Upload-Schaltfläche hinzufügen. Wenn Sie die Schaltfläche &quot;Hochladen&quot; auf der App veröffentlichen, während sich ein Site-Besucher auf der Seite befindet, muss der Site-Besucher die Seite aktualisieren, um den aktualisierten Inhalt anzuzeigen. Die Schaltfläche &quot;Hochladen&quot; wird in der App nach bis zu 5 Minuten angezeigt.
+Sie können einem Karussell eine Upload-Schaltfläche hinzufügen. Wenn Sie die Schaltfläche "Hochladen"in der App veröffentlichen, während sich ein Sitebesucher auf der Seite befindet, muss der Sitebesucher die Seite aktualisieren, um den aktualisierten Inhalt anzuzeigen. Die Schaltfläche "Hochladen"wird in der App nach bis zu 5 Minuten angezeigt.
