@@ -1,10 +1,10 @@
 ---
-description: Ermöglichen Sie Benutzern das Posten, Bearbeiten, Markieren, Löschen, Antworten auf und ähnliche Inhalte in Ihren Sammlungen mit einem vollständigen Bereich an Rich Text Formatierungsoptionen.
-seo-description: Ermöglichen Sie Benutzern das Posten, Bearbeiten, Markieren, Löschen, Antworten auf und ähnliche Inhalte in Ihren Sammlungen mit einem vollständigen Bereich an Rich Text Formatierungsoptionen.
+description: Ermöglichen Sie Benutzern, Inhalte in Ihren Sammlungen zu posten, zu bearbeiten, zu kennzeichnen, zu löschen, zu beantworten und zu "Gefällt mir"-Klicks zu wechseln, mit einer Reihe von Rich-Text-Formatierungsoptionen.
+seo-description: Ermöglichen Sie Benutzern, Inhalte in Ihren Sammlungen zu posten, zu bearbeiten, zu kennzeichnen, zu löschen, zu beantworten und zu "Gefällt mir"-Klicks zu wechseln, mit einer Reihe von Rich-Text-Formatierungsoptionen.
 seo-title: Benutzerbeiträge
 solution: Experience Manager
 title: Benutzerbeiträge
-uuid: 41242 f 4 d -614 c -4737-a 1 f 6-6 f 0 a 914 f 5 f 7 f
+uuid: 41242f4d-614c-4737-a1f6-6f0a914f5f7f
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
@@ -13,79 +13,79 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 # Benutzerbeiträge{#user-posts}
 
-Ermöglichen Sie Benutzern das Posten, Bearbeiten, Markieren, Löschen, Antworten auf und ähnliche Inhalte in Ihren Sammlungen mit einem vollständigen Bereich an Rich Text Formatierungsoptionen.
+Ermöglichen Sie Benutzern, Inhalte in Ihren Sammlungen zu posten, zu bearbeiten, zu kennzeichnen, zu löschen, zu beantworten und zu "Gefällt mir"-Klicks zu wechseln, mit einer Reihe von Rich-Text-Formatierungsoptionen.
 
-Mit Livefyre-Apps können Ihre Benutzer Inhalte nahtlos und intuitiv veröffentlichen und mit diesen interagieren. Die Livefyre-Oberfläche bietet Rich-Text- und Bildeingaben, die Möglichkeit zum &quot;Gefällt mir&quot; -Klicken, Kennzeichnen oder Antworten auf Kommentare anderer sowie die Möglichkeit, eigene Beiträge zu bearbeiten oder zu löschen.
+Mit Livefyre-Apps können Ihre Benutzer Inhalte nahtlos und intuitiv posten und damit interagieren. Die Livefyre-Oberfläche bietet Rich-Text- und Bildeingaben, die Möglichkeit, Kommentare anderer zu "Gefällt mir"-Klicks, "Markieren"oder "Antworten"zu beantworten sowie die Möglichkeit, Ihre eigenen, vorherigen Beiträge zu bearbeiten oder zu löschen.
 
-## Beitrag {#section_bty_ww2_wy}
+## Posten {#section_bty_ww2_wy}
 
-Benutzer können Inhalte bei der Anmeldung veröffentlichen, indem sie einen Kommentar oder einen Medienlink im Editor eingeben und klicken **[!UICONTROL Post comment]**.
+Benutzer können Inhalte veröffentlichen, wenn sie angemeldet sind, indem sie einen Kommentar- oder Medienlink in das Editor-Feld eingeben und auf **[!UICONTROL Post comment]**.
 
-Um Inhalte zu veröffentlichen, wenn sie nicht angemeldet sind, geben Benutzer einen Kommentar oder einen Medienlink im Editor ein und klicken **[!UICONTROL Post comment as…]** Sie auf. Das Anmeldefenster wird angezeigt, um eine Anmeldung anzufordern.
+Um Inhalte zu veröffentlichen, die nicht angemeldet sind, geben Benutzer einen Kommentar- oder Medienlink in den Editor ein und klicken auf **[!UICONTROL Post comment as…]**. Das Anmeldefenster wird angezeigt, um eine Anmeldung anzufordern.
 
-(Die meisten Browser gestatten 8.000 Zeichen; Internet Explorer ermöglicht 1.500 Zeichen.)
+(In den meisten Browsern sind 8.000 Zeichen zulässig. In Internet Explorer sind 1.500 Zeichen zulässig.)
 
 ## Rich-Text-Formatierung {#section_mg1_sw2_wy}
 
-Benutzer können Kommentare mit Rich-Text-Formatierung wie Fett, Kursiv, Unterstreichen und Nummerierung und Aufzählungslisten formatieren.
+Benutzer können Kommentare mit Rich-Text-Formatierung formatieren, einschließlich fett, kursiv, unterstrichen, nummeriert und mit Aufzählungszeichen versehen.
 
 >[!NOTE]
 >
 >Rich-Text-Formatierung ist auf Mobilgeräten nicht verfügbar.
 
-## Antworten {#section_ubz_pw2_wy}
+## Antwort {#section_ubz_pw2_wy}
 
-Benutzer können auf einen Kommentar in einem Thread antworten, indem sie auf den Link &quot;Antworten&quot; für diesen Kommentar klicken.
+Benutzer können auf Kommentare in einem Thread antworten, indem sie auf den Link Antworten für diesen Kommentar klicken.
 
-Bei Chat und Live Blog können Antworten mithilfe der Einstellungen der Kollektion in Studio aktiviert oder deaktiviert werden.
+Bei Chat und Live Blog können Antworten mithilfe der Einstellungen der Sammlung in Studio aktiviert oder deaktiviert werden.
 
 ## Gefällt mir {#section_its_kw2_wy}
 
-Benutzer müssen angemeldet sein, um den Inhalt eines anderen Benutzers anzuzeigen und möglicherweise nicht ihren eigenen Inhalt zu verwenden.
+Benutzer müssen angemeldet sein, um wie der Inhalt eines anderen Benutzers zu funktionieren, und möglicherweise nicht wie ihre eigenen Inhalte.
 
-Neben der **[!UICONTROL Like]** Schaltfläche werden die Anzahl der &quot;Gefällt mir&quot; -Klicks und bis zu vier Benutzeravatare angezeigt.
+Die Anzahl der "Gefällt mir"-Klicks und bis zu vier Benutzeravatare werden neben der **[!UICONTROL Like]** Schaltfläche angezeigt.
 
-When liking content, the **[!UICONTROL Like]** link will change to **[!UICONTROL Unlike]**. Durch Klicken **[!UICONTROL Unlike]** wird der Avatar für diesen Benutzer entfernt und die Zahl um 1 verringert.
+Bei "Gefällt mir"-Klicks ändert sich der **[!UICONTROL Like]** Link in **[!UICONTROL Unlike]**. Durch Klicken **[!UICONTROL Unlike]** wird der Avatar für diesen Benutzer entfernt und die Zahl um 1 verringert.
 
-## Bearbeiten {#section_ubt_qwx_vy}
+## Vorlage     {#section_ubt_qwx_vy}
 
-Standardmäßig können Benutzer ihren eigenen Inhalt innerhalb von 5 Minuten nach der Veröffentlichung bearbeiten, indem sie auf den **[!UICONTROL Edit]** Link klicken, um ein Textfeld zu öffnen.
+Standardmäßig können Benutzer ihre eigenen Inhalte innerhalb von 5 Minuten nach der Veröffentlichung bearbeiten, indem sie auf den **[!UICONTROL Edit]** Link klicken, um ein Textfeld "Bearbeiten"zu öffnen.
 
-Sie können diese Funktion auf der Sammlungsebene über das Einstellungsbedienfeld von Studio deaktivieren. Das Einstellungsbedienfeld kann auch verwendet werden, um die Zeit zu ändern, in der Kommentare auf Netzwerkebene bearbeitet werden können.
+Sie können diese Funktion auf Sammlungsebene über das Einstellungsbedienfeld von Studio deaktivieren. Das Einstellungsbedienfeld kann auch verwendet werden, um die Zeit zu ändern, in der Kommentare auf Netzwerkebene bearbeitet werden können.
 
-Moderatoren können Benutzerinhalte jederzeit bearbeiten, sowohl Inline im Stream als auch im Inhaltsbedienfeld.
+Moderatoren können Benutzerinhalte jederzeit bearbeiten, sowohl inline im Stream als auch im Inhaltsbedienfeld.
 
 ## Löschen {#section_gbr_pwx_vy}
 
-Benutzer können ihren eigenen Inhalt jederzeit löschen, indem sie auf **[!UICONTROL Delete]** (angezeigt werden, wenn der Mauszeiger über den Inhalt bewegt wird). Moderatoren können auf klicken, um **[!UICONTROL Delete]** den Inhalt eines beliebigen Benutzers zu entfernen. ( **[!UICONTROL Delete]** ist auf Mobilgeräten nicht verfügbar.)
+Benutzer können ihre eigenen Inhalte jederzeit löschen, indem sie auf klicken **[!UICONTROL Delete]** (angezeigt, wenn sie den Mauszeiger über den Inhalt bewegen). Moderatoren können auf klicken, **[!UICONTROL Delete]** um den Inhalt eines Benutzers zu entfernen. ( **[!UICONTROL Delete]** ist auf Mobilgeräten nicht verfügbar.)
 
 >[!NOTE]
 >
->Wenn ein Benutzer seinen eigenen Inhalt löscht, wird er aus Ihrem Netzwerk entfernt und nicht mehr in Studio angezeigt.
+>Wenn ein Benutzer seinen eigenen Inhalt löscht, wird er aus dem Netzwerk entfernt und nicht mehr in Studio angezeigt.
 
-## Flag {#section_j3l_qvx_vy}
+## Markierung {#section_j3l_qvx_vy}
 
-Benutzer können den Inhalt eines anderen Benutzers markieren, indem sie auf den **[!UICONTROL Flag]** Link klicken, der beim Bewegen des Mauszeigers über den Inhalt angezeigt wird.
+Benutzer können den Inhalt eines anderen Benutzers kennzeichnen, indem sie auf den **[!UICONTROL Flag]** Link klicken, der angezeigt wird, wenn Sie den Mauszeiger über den Inhalt bewegen.
 
-Durch Klicken auf diesen Link wird das Flag Flag gekennzeichnet, sodass Benutzer den Inhalt als **[!UICONTROL Offensive]****[!UICONTROL Disagree]**, **[!UICONTROL Off Topic]** oder **[!UICONTROL Spam]**. Mit dem Flag können eine optionale Notiz und eine E-Email-Adresse hinzugefügt werden.
+Wenn Sie auf diesen Link klicken, wird das Modal "Flag"angezeigt, sodass Benutzer den Inhalt als **[!UICONTROL Offensive]**, **[!UICONTROL Disagree]**, **[!UICONTROL Off Topic]** oder **[!UICONTROL Spam]** kennzeichnen können. Eine optionale Notiz und E-Mail-Adresse können mit dem Flag hinzugefügt werden.
 
-Benutzer müssen nicht angemeldet sein, um einen Kommentar zu kennzeichnen, sodass jeder einen Kommentar für die Moderation markieren kann, ohne ein Konto erstellen zu müssen.
+Benutzer müssen nicht angemeldet sein, um einen Kommentar zu kennzeichnen, sodass jeder einen Kommentar zur Moderation kennzeichnen kann, ohne ein Konto erstellen zu müssen.
 
-Um andere Benutzer daran zu hindern, gekennzeichnete Inhalte einfach zu markieren, wird die Anzeige durch Markierung eines Kommentars nicht geändert. Flags sind nur für Moderatoren sichtbar, die Studio zur Suche und Ansicht von Flag verwenden können. Moderatoren können E-Emails auch aktivieren, um sie sofort zu benachrichtigen, wenn ein Kommentar in moderierten Unterhaltungen gekennzeichnet wird.
+Um andere Benutzer davon abzuhalten, einfach gekennzeichnete Inhalte zu markieren, ändert das Kennzeichnen eines Kommentars seine Anzeige nicht. Flags sind nur für Moderatoren sichtbar, die mit Studio nach Flag suchen und anzeigen können. Moderatoren können E-Mails auch aktivieren, um sie sofort zu benachrichtigen, wenn ein Kommentar in moderierten Konversationen gekennzeichnet wird.
 
-Wenn ein Moderator einen Kommentar als Spam kennzeichnet, wird der Kommentar sofort auf den Bozo-Status gesetzt und aus dem Stream entfernt. Basierend auf dieser Aktion wird der Spam-Filter für Ihr Netzwerk aktualisiert und verbessert.
+Wenn ein Moderator einen Kommentar als Spam kennzeichnet, wird der Kommentar sofort auf den Bozo-Status gesetzt und aus dem Stream entfernt. Der Spam-Filter wird auf der Grundlage dieser Aktion für Ihr Netzwerk aktualisiert und verbessert.
 
-Sie können auch Moderationsregeln erstellen, um die Aktionen zu automatisieren, die bei gekennzeichneten Kommentaren durchgeführt wurden.
+Sie können auch Moderationsregeln erstellen, um die Aktionen zu automatisieren, die bei gekennzeichneten Kommentaren ausgeführt werden.
 
 ## Sortieren {#section_bpg_nwx_vy}
 
-Gestreamter Inhalt kann nach Alter sortiert werden, ganz oben (Standard) oder älteste zuerst, indem er auf die **[!UICONTROL Newest]** oder **[!UICONTROL Oldest]** Links oben im Stream klickt.
+Streaming-Inhalte können nach Alter, neuestem Ersten (Standard) oder Ältesten zuerst sortiert werden, indem Sie auf die **[!UICONTROL Newest]** oder **[!UICONTROL Oldest]** Links oben im Stream klicken.
 
 ## Reduzieren/Erweitern {#section_ypt_qr4_h1b}
 
 * **[!UICONTROL Collapse Replies]**
 
-   Antworten können im Stream durch Klicken auf **+/-** oberhalb der Antworten erweitert oder minimiert werden.
+   Antworten können im Stream durch Klicken auf die Schaltflächen **+ / -** über den Antworten erweitert oder reduziert werden.
 
 * **[!UICONTROL Collapsed View]**
 
@@ -96,7 +96,7 @@ Apps, die Benutzerbeiträge verwenden:
 * [Chat](/help/using/c-about-apps/c-chat-app/c-chat-app.md#c_chat_app)
 * [Kommentare](/help/using/c-about-apps/c-comments/c-comments.md)
 * [Reviews](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
-* [Zielgruppen](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
+* [Sir](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [Hochladen-Schaltfläche](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
 
