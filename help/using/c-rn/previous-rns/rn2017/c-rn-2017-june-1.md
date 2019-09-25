@@ -1,36 +1,36 @@
 ---
 description: Versionshinweise für die Version vom 1. Juni 2017.
 seo-description: Versionshinweise für die Version vom 1. Juni 2017.
-seo-title: 1. Juni 2017
-title: 1. Juni 2017
-uuid: 70 c 39 b 30-896 d -437 a -9852-80 eb 47 c 08892
+seo-title: 1. Juni 2017
+title: 1. Juni 2017
+uuid: 70c39b30-896d-437a-9852-80eb47c08892
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 ---
 
 
-# 1. Juni 2017{#june}
+# June 1, 2017{#june}
 
 Versionshinweise für die Version vom 1. Juni 2017.
 
 ## Produktionsversion
 
-| **Ausgabentyp** | **Komponente** | **Versionshinweise** |
+| **Art des Problems** | **Komponente** | **Versionshinweise** |
 |---|---|---|
-| Verbesserung | App-Inhalt | Es wurde eine Erweiterung hinzugefügt, mit der Benutzer in App-Inhalten native Videodateien herunterladen können, die in eine Livefyre-App und/oder über die Medien-API hochgeladen wurden. |
-| Bug | Mosaik | Es wurde ein Fehler in Mosaic behoben, der verhinderte, dass neu erstellte Mosaiken nach einer Seitenaktualisierung geladen wurden. |
-| Bug | Rights Management | Es wurde ein Fehler behoben, durch den Rights Management neu gelöschte/mit Markierungen versehene Instagram- und Twitter-Inhalte umgebrochen hat. |
-| Bug | Storify 2 | Die Sortierbezeichnungen in Storify 2 wurden dahingehend aktualisiert, dass sie dem erwarteten Verhalten entsprechen. &quot; Älteste nach neueste&quot; und &quot;Neueste bis Älteste&quot; heißt jetzt&quot; Erste bis Letzte&quot; und &quot;Letztes bis zuerst&quot; . Die Sortierreihenfolge basiert auf der Reihenfolge, die im Editor von Storify 2 festgelegt ist, nicht auf Veröffentlichungsdatum. |
+| Verbesserung | App-Inhalt | Es wurde eine Verbesserung hinzugefügt, die es Benutzern in App Content ermöglicht, native Videodateien herunterzuladen, die in eine Livefyre-App und/oder über die API zum Hochladen von Medien hochgeladen wurden. |
+| Fehler | Mosaik | Es wurde ein Fehler in Mosaic behoben, durch den das Laden neu erstellter Mosaics nach einer Seitenaktualisierung verhindert wurde. |
+| Fehler | Rights Management | Es wurde ein Fehler behoben, durch den Rights Management bei neu gelöschten/als privat markierten Instagram- und Twitter-Inhalten fehlschlug. |
+| Fehler | Storify 2 | Die Sortierbezeichnungen in Storify 2 wurden aktualisiert und entsprechen nun dem erwarteten Verhalten. "Älteste bis neueste"und "Neueste bis Älteste"werden jetzt "Erste bis letzte"und "Letzte bis erste"heißen. Die Sortierreihenfolge basiert auf der im Editor von Storify 2 angegebenen Reihenfolge, nicht auf dem Veröffentlichungsdatum. |
 
 ## UAT-Version
 
-| **Ausgabentyp** | **Komponente** | **Versionshinweise** |
+| **Art des Problems** | **Komponente** | **Versionshinweise** |
 |---|---|---|
-| Bug | Reviews | Es wurde ein Fehler in Reviews behoben, um sicherzustellen, dass Medien über HTTPS in allen Implementierungen geladen werden. |
-| Bug | Durchsuchen | Es wurde ein Fehler behoben, durch den Instagram Location Search-Ergebnisse doppelt angezeigt wurden. |
-| Bug | Zielgruppen | Verbesserte Sidesnotes zur Unterstützung der Frontend-Moderation. Das bedeutet, dass Moderatoren, die sich am Front-End bei der App angemeldet haben, Inhalte genehmigen oder löschen können. |
-| Bug | Stream-Regeln | Es wurde eine Erweiterung für Twitter-Streams hinzugefügt, sodass alle Speicherorte für Karten in der Regelzusammenfassung aufgeführt werden. |
-| Bug | Stream-Regeln | Es wurde ein Fehler behoben, durch den ein Twitter-Stream-Benutzer sowohl im &quot;wird von einem dieser Autoren gepostet&quot; als auch in der gleichen Zeit nicht von einem dieser beiden Felder gepostet wurde. |
-| Verbesserung | Stream-Regeln | Es wurde die Fähigkeit hinzugefügt, Tweets nach Sprache in Stream-Regeln zu filtern. |
+| Fehler | Reviews | Es wurde ein Fehler in Reviews behoben, um sicherzustellen, dass Medienladevorgänge über HTTPS in allen Implementierungen durchgeführt werden. |
+| Fehler | Durchsuchen | Es wurde ein Fehler behoben, der dazu führte, dass in den Ergebnissen der Instagram-Standortsuche Duplikate angezeigt wurden. |
+| Fehler | Sir | Verbesserte Sidesnotes zur Unterstützung der Front-End-Moderation. Das bedeutet, dass Moderatoren, die an der Front-End-App angemeldet sind, Inhalte genehmigen oder löschen können. |
+| Fehler | Stream-Regeln | Es wurde eine Verbesserung zu Twitter-Streams hinzugefügt, sodass alle Zuordnungspositionen in der Regelzusammenfassung aufgeführt werden |
+| Fehler | Stream-Regeln | Es wurde ein Fehler behoben, durch den ein Twitter-Stream-Benutzer sowohl in den Feldern "wird von einem dieser Autoren gepostet"als auch "wird von keinem dieser Autoren veröffentlicht"vorhanden sein konnte. |
+| Verbesserung | Stream-Regeln | Die Möglichkeit, Tweets nach Sprache in Stream-Regeln zu filtern, wurde hinzugefügt |
 
