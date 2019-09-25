@@ -1,25 +1,25 @@
 ---
 description: Die verfügbaren Ereignisse, an die Sie JavaScript für Konversations-Apps binden können (z. B. Kommentare, Chat, Live-Blog, Bewertungen und Anmerkungen).
 seo-description: Die verfügbaren Ereignisse, an die Sie JavaScript für Konversations-Apps binden können (z. B. Kommentare, Chat, Live-Blog, Bewertungen und Anmerkungen).
-seo-title: Javascript-Ereignisdefinitionen und Beispiele
+seo-title: Definitionen und Beispiele zu JavaScript-Ereignissen
 solution: Experience Manager
-title: Javascript-Ereignisdefinitionen und Beispiele
-uuid: 61 da 2 e 2 e -8 fcd -482 d -93 df-c 946 f 0475277
+title: Definitionen und Beispiele zu JavaScript-Ereignissen
+uuid: 61da2e2e-8fcd-482d-93df-c946f0475277
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Javascript-Ereignisdefinitionen und Beispiele{#javascript-events-definitions-and-examples}
+# Definitionen und Beispiele zu JavaScript-Ereignissen{#javascript-events-definitions-and-examples}
 
 Die verfügbaren Ereignisse, an die Sie JavaScript für Konversations-Apps binden können (z. B. Kommentare, Chat, Live-Blog, Bewertungen und Anmerkungen).
 
-Livefyre stellt javascript-Ereignisse zur Verfolgung von Benutzeraktivitäten in Ihren Livefyre-Apps bereit. Beispielsweise möchten Sie die Seite aktualisieren, wenn Benutzer Inhalte für Twitter oder Facebook verwenden oder wenn neue Inhalte veröffentlicht werden.
+Livefyre bietet JavaScript-Ereignisse zur Verfolgung von Benutzeraktivitäten in Ihren Livefyre-Apps. Beispielsweise können Sie die Seite aktualisieren, wenn Benutzer Inhalte auf Twitter oder Facebook teilen oder wenn neue Inhalte veröffentlicht werden.
 
-Livefyre ermöglicht Ihnen außerdem, Ereignisse zu Analytics-Integrationen von Drittanbietern (Adobe Analytics JS, Google Analytics, Dynamisches Tag-Management etc.) zur Verfolgung von App-Ereignissen hinzuzufügen. Für weitere Informationen wenden Sie sich an Ihren Integrationsmanager von Drittanbietern, um die richtigen Ereignisse bereitzustellen.
+Mit Livefyre können Sie außerdem Ereignisse zu Analytics-Integrationen von Drittanbietern (Adobe Analytics JS, Google Analytics, dynamisches Tag-Management usw.) hinzufügen, um App-Ereignisse zu verfolgen. Weitere Informationen erhalten Sie, wenn Sie mit Ihrem Integrationsmanager eines Drittanbieters die richtigen Ereignisse bereitstellen.
 
-Um an diese Ereignisse zu binden, fügen Sie der Seite den folgenden Code hinzu, wenn Sie Ihre App auf einer Seite instanziieren. Ersetzen Sie den Ereignisnamen `{eventName}`für:
+Fügen Sie der Seite den folgenden Code hinzu, wenn Sie Ihre App auf einer Seite instanziieren, um sie an diese Ereignisse zu binden. Ersetzen Sie den Ereignisnamen für `{eventName}`:
 
 ```
 Livefyre.require(['fyre.conv#3'], function(Conv) { 
@@ -33,14 +33,14 @@ Livefyre.require(['fyre.conv#3'], function(Conv) {
 
 >[!NOTE]
 >
->Datenobjekte werden für alle Ereignishandler bereitgestellt. Beispiel-Datenobjekte folgen jedem Ereignis.
+>Datenobjekte werden für alle Ereignishandler bereitgestellt. Für jedes Ereignis folgen Beispieldatenobjekte.
 
-## Commentpublished {#section_qfr_51p_xz}
+## commentPosted {#section_qfr_51p_xz}
 
-Ein Benutzer hat einen Kommentar gepostet.
+Ein Benutzer hat einen Kommentar veröffentlicht.
 
 * Ein übergeordnetes Element von null ist ein neuer Kommentar.
-* Ein übergeordnetes Element von &quot;None&quot; ist ein Kommentar, der bearbeitet wurde.
+* Ein übergeordnetes Element von "Keine"ist ein Kommentar, der bearbeitet wurde.
 * Eine Zahl für übergeordnete Elemente ist die übergeordnete ID der Antwort.
 
 ```
@@ -56,9 +56,9 @@ data = {
 } 
 ```
 
-## Commentflag {#section_szy_s1p_xz}
+## commentGekennzeichnet {#section_szy_s1p_xz}
 
-Ein Benutzer hat einen Kommentar gekennzeichnet.
+Ein Benutzer hat einen Kommentar markiert.
 
 ```
 data = { 
@@ -68,9 +68,9 @@ data = {
 }
 ```
 
-## Commentliked {#section_vc1_r1p_xz}
+## commentLiked {#section_vc1_r1p_xz}
 
-Ein Benutzer hat einen Kommentar gelistet.
+Einem Benutzer gefiel ein Kommentar.
 
 ```
 data = { 
@@ -80,9 +80,9 @@ data = {
 } 
 ```
 
-## Commentshared {#section_nqb_31p_xz}
+## commentShared {#section_nqb_31p_xz}
 
-Ein Benutzer hat einen Kommentar aus dem Stream freigegeben. (Dieses Ereignis wird nicht ausgelöst, wenn Benutzer im Kommentar-Editor freigeben.) Dieses Ereignis wird ausgelöst, wenn auf die Schaltfläche &quot;Freigeben&quot; geklickt wird.
+Ein Benutzer hat einen Kommentar aus dem Stream freigegeben. (Dieses Ereignis wird nicht ausgelöst, wenn Benutzer im Kommentareditor freigeben.) Dieses Ereignis wird ausgelöst, wenn auf die Schaltfläche "Freigeben"geklickt wird.
 
 ```
 data = { 
@@ -92,15 +92,15 @@ data = {
 }
 ```
 
-## Commentcountupdated {#section_qdq_f1p_xz}
+## commentCountUpdated {#section_qdq_f1p_xz}
 
-Die Gesamtzahl der sichtbaren Kommentare in dieser Konversation wurde geändert (entweder inkrementiert oder dekrementiert).
+Die Gesamtzahl der sichtbaren Kommentare in dieser Unterhaltung hat sich geändert (inkrementiert oder dekrementiert).
 
 ```
 data: 34 // The total number of visible comments in the conversation (integer). 
 ```
 
-## Userloggedin {#section_yjt_vz4_xz}
+## userLoggedIn {#section_yjt_vz4_xz}
 
 Ein Benutzer hat sich angemeldet.
 
@@ -114,15 +114,15 @@ data = {
 }
 ```
 
-## Userloggedout {#section_tsg_5z4_xz}
+## userLoggedOut {#section_tsg_5z4_xz}
 
 Ein Benutzer hat sich abgemeldet.
 
-nicht definiert.
+nicht definiert ist.
 
-## Socialmention {#section_a1w_tz4_xz}
+## socialMention {#section_a1w_tz4_xz}
 
-Ein Benutzer enthielt einen @ mention in einem Kommentar. Gibt ein Array der folgenden Werte zurück:
+Ein Benutzer hat in einem Kommentar eine @Erwähnung hinzugefügt. Gibt ein Array der folgenden Elemente zurück:
 
 ```
 data = { 
@@ -134,9 +134,9 @@ data = {
 } 
 ```
 
-## Commentfeatworth
+## commentFeatured
 
-Ein Moderator hat einen Kommentar angegeben. Gibt ein Array der folgenden Werte zurück:
+Ein Moderator-Benutzer gab einen Kommentar heraus. Gibt ein Array der folgenden Elemente zurück:
 
 ```
 data = { 
@@ -146,21 +146,21 @@ data = {
 }
 ```
 
-## Initialrendercomplete {#section_odc_4z4_xz}
+## initialRenderComplete {#section_odc_4z4_xz}
 
-Der Kommentarstream wurde geladen und der erste Satz von Inhalten wurde vom Server abgerufen und dem Benutzer angezeigt.
+Der Kommentarstream wurde geladen und der ursprüngliche Inhaltssatz wurde vom Server abgerufen und dem Benutzer angezeigt.
 
-nicht definiert.
+nicht definiert ist.
 
-## Showmore {#section_pqg_nz4_xz}
+## showMore {#section_pqg_nz4_xz}
 
-Ein Benutzer hat auf die **[!UICONTROL Show More]** Schaltfläche geklickt.
+Ein Benutzer klickte auf die **[!UICONTROL Show More]** Schaltfläche.
 
-nicht definiert.
+nicht definiert ist.
 
-## Userfollowed {#section_xxw_jz4_xz}
+## userFollowed {#section_xxw_jz4_xz}
 
-Gibt &quot;true&quot; zurück, wenn ein Benutzer auf die **[!UICONTROL Follow]** Schaltfläche klickt, und false, wenn der Inhalt im Stream gepostet wird.
+Gibt TRUE zurück, wenn ein Benutzer auf die **[!UICONTROL Follow]** Schaltfläche klickt, und FALSE, wenn Inhalte in den Stream gepostet werden.
 
 ```
 data = { 
@@ -169,9 +169,9 @@ data = {
 }
 ```
 
-## Userunfollowed {#section_wm1_gz4_xz}
+## userUnfollowed {#section_wm1_gz4_xz}
 
-Gibt &quot;true&quot; zurück, wenn ein Benutzer **auf** die Schaltfläche&quot; Nicht folgen&quot; klickt, und false, wenn der Inhalt im Stream gepostet wird.
+Gibt TRUE zurück, wenn ein Benutzer auf die Schaltfläche " **Unbefolgt** "klickt, und FALSE, wenn Inhalte in den Stream gepostet werden.
 
 ```
 data = { 
