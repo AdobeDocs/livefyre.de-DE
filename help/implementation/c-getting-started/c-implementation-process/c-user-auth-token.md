@@ -1,40 +1,40 @@
 ---
-description: In diesem Abschnitt wird beschrieben, wie Sie das JSON-Objekt "userauth" generieren, das das Token für die Benutzerauthentifizierung erstellt, das zum Protokollieren von Benutzern in Ihren Apps erforderlich ist.
-seo-description: In diesem Abschnitt wird beschrieben, wie Sie das JSON-Objekt "userauth" generieren, das das Token für die Benutzerauthentifizierung erstellt, das zum Protokollieren von Benutzern in Ihren Apps erforderlich ist.
-seo-title: Benutzerauthentifizierungstoken
+description: In diesem Abschnitt wird beschrieben, wie Sie das UserAuth JSON-Objekt generieren, das das Benutzerauthentifizierungstoken erstellt, das zum Anmelden von Benutzern in Ihren Apps erforderlich ist.
+seo-description: In diesem Abschnitt wird beschrieben, wie Sie das UserAuth JSON-Objekt generieren, das das Benutzerauthentifizierungstoken erstellt, das zum Anmelden von Benutzern in Ihren Apps erforderlich ist.
+seo-title: Auth-Token des Benutzers
 solution: Experience Manager
-title: Benutzerauthentifizierungstoken
-uuid: 6483 debd -453 c -4780-b 19 c -1 d 8041693617
+title: Auth-Token des Benutzers
+uuid: 6483debd-453c-4780-b19c-1d8041693617
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Benutzerauthentifizierungstoken{#user-auth-token}
+# Auth-Token des Benutzers{#user-auth-token}
 
-In diesem Abschnitt wird beschrieben, wie Sie das JSON-Objekt &quot;userauth&quot; generieren, das das Token für die Benutzerauthentifizierung erstellt, das zum Protokollieren von Benutzern in Ihren Apps erforderlich ist.
+In diesem Abschnitt wird beschrieben, wie Sie das UserAuth JSON-Objekt generieren, das das Benutzerauthentifizierungstoken erstellt, das zum Anmelden von Benutzern in Ihren Apps erforderlich ist.
 
-In diesem Abschnitt wird beschrieben, wie Sie das JSON-Objekt &quot;userauth&quot; generieren, das das Token für die Benutzerauthentifizierung erstellt, das zum Protokollieren von Benutzern in Ihren Apps erforderlich ist.
+In diesem Abschnitt wird beschrieben, wie Sie das UserAuth JSON-Objekt generieren, das das Benutzerauthentifizierungstoken erstellt, das zum Anmelden von Benutzern in Ihren Apps erforderlich ist.
 
-Um das Token zu erstellen, verwenden Sie die bevorzugte Sprachbibliothek, um die folgenden Parameter zu übermitteln:
+Verwenden Sie zum Erstellen des Tokens Ihre bevorzugte Sprachbibliothek, um die folgenden Parameter einzugeben:
 
 | Parameter | Typ | Beschreibung |
 |---|---|---|
-| Networkname | Zeichenfolge *erforderlich* | Der Name des Livefyre-Netzwerks (von Livefyre bereitgestellt). |
-| Networkkey | Zeichenfolge *erforderlich* | Der geheime Schlüssel für dieses spezifische Netzwerk (von Livefyre bereitgestellt). |
-| Userid | Zeichenfolge *erforderlich* | Die ID des Benutzers, der im Benutzerverwaltungssystem gespeichert ist (nur alphanumerische, Bindestrich, Unterstrich und Punktzeichen sind zulässig): [a-zA-Z 0-9_-.]). **Hinweis:** Die userid muss eindeutig sein. |
-| läuft ab | Ganzzahl *erforderlich* | Wenn das Token ab sofort ablaufen sollte (in Sekunden). **Hinweis:** Dieser Wert kann auch als float weitergegeben werden. Das erzeugte JSON-Webtoken speichert diesen Wert in der UNIX-Epoche. |
-| Displayname | Zeichenfolge *erforderlich* | Text, der diesen Benutzer in der Benutzeroberfläche und in den Kommentaren identifiziert. (Maximale Anzahl von Zeichen: 50.) |
+| networkName | Zeichenfolge *erforderlich* | Der Name des Livefyre-Netzwerks (bereitgestellt von Livefyre). |
+| networkKey | Zeichenfolge *erforderlich* | Der geheime Schlüssel für dieses spezifische Netzwerk (bereitgestellt von Livefyre). |
+| userId | Zeichenfolge *erforderlich* | Die ID des Benutzers, der sich anmeldet, wie in Ihrem Benutzerverwaltungssystem gespeichert (nur alphanumerische Zeichen, Bindestriche, Unterstriche und Punktzeichen sind zulässig: [a-zA-Z0-9_-.]). **** Hinweis: Die userId muss eindeutig sein. |
+| expires | Ganzzahl *erforderlich* | Wenn das Token von jetzt an ablaufen soll (in Sekunden). **** Hinweis: Dieser Wert kann auch als Float übergeben werden. Der erzeugte JSON-Webtoken speichert diesen Wert in UNIX Epochenzeit. |
+| displayName | Zeichenfolge *erforderlich* | Text zur Identifizierung dieses Benutzers in der Benutzeroberfläche und in Kommentaren. (Höchstanzahl Zeichen: 50.) |
 
-## Java {#section_b42_mjz_1cb}
+## Java {#section_b42_mjz_1cb}
 
 ```
 network.buildUserAuthToken(userId, displayName, expires); 
  
 ```
 
-## Nodejs {#section_c42_mjz_1cb}
+## NodeJS {#section_c42_mjz_1cb}
 
 ```
 network.buildUserAuthToken(userId, displayName, expires); 
@@ -60,5 +60,5 @@ network.build_user_auth_token(userId, displayName, expires)
 
 >[!NOTE]
 >
->Netzwerkschlüssel werden für Livefyre-Demosite-Konten nicht freigegeben. Sie erhalten einen Netzwerkschlüssel, nachdem Livefyre eine Umgebung für Sie bereitgestellt hat. Dieser Schlüssel sollte privat sein.
+>Netzwerkschlüssel werden für Livefyre-Demosite-Konten nicht freigegeben. Sie erhalten einen Netzwerkschlüssel, sobald Livefyre eine Umgebung für Sie bereitgestellt hat. Dieser Schlüssel sollte privat aufbewahrt werden.
 
