@@ -4,7 +4,7 @@ seo-description: Erfahren Sie, wie Sie von einem Konversations-App-Typ zu einem 
 seo-title: Core-App-Typen wechseln
 solution: Experience Manager
 title: Core-App-Typen wechseln
-uuid: 442 a 517 c -3809-46 c 5-bb 5 f -6668 a 29 dc 3 e 8
+uuid: 442a517c-3809-46c5-bb5f-8668a29dc3e8
 translation-type: tm+mt
 source-git-commit: fcee9dc152e7f8284e64248fdcc5bf81d39618ff
 
@@ -15,9 +15,9 @@ source-git-commit: fcee9dc152e7f8284e64248fdcc5bf81d39618ff
 
 Erfahren Sie, wie Sie von einem Konversations-App-Typ zu einem anderen wechseln.
 
-Mit Lifefyre können Sie Sammlungen von einem Livefyre-Core-Anwendungstyp in einen anderen ändern (Kommentare, Live-Blog oder Chat), indem Sie nur einige Einstellungen in Ihren `collectionMeta` Daten ändern.
+Mit LiveCycle können Sie Sammlungen von einem Livefyre-Core-Anwendungstyp in einen anderen ändern (Kommentare, Live-Blog oder Chat), indem Sie einfach einige Einstellungen in Ihren `collectionMeta` Daten ändern.
 
-Um einen bestimmten App-Typ zu implementieren, fügen Sie Ihrem `collectionMeta` Objekt ein neues Feld hinzu. Kommentare sind die Standardeinstellung, damit Sie diese Aktualisierungen nicht vornehmen müssen, wenn dies Ihre gewünschte App ist. Um nach dem Erstellen einer Sammlung zu einer anderen App zu wechseln, übergeben Sie während der App-Initialisierung einen Prüfsummenwert. Weitere Informationen zum Erstellen eines Prüfsummenwerts in unserer `collectionMeta` Token-Dokumentation.
+Um einen bestimmten App-Typ zu implementieren, fügen Sie Ihrem `collectionMeta` Objekt ein neues Feld hinzu. Kommentare ist die Standardeinstellung. Daher müssen Sie diese Aktualisierungen nicht vornehmen, wenn dies Ihre gewünschte App ist. Um nach dem Erstellen einer Sammlung zu einer anderen App zu wechseln, übergeben Sie während der App-Initialisierung einen Prüfsummenwert. Lesen Sie mehr über das Erstellen eines Prüfsummenwerts in unserer `collectionMeta` Token-Dokumentation.
 
 ## Live-Blog {#section_kvj_3jj_11b}
 
@@ -51,7 +51,7 @@ $convConfig = array(
 );
 ```
 
-### Python Example
+### Python-Beispiel
 
 ```
 from livefyre import Livefyre 
@@ -142,7 +142,7 @@ $convConfig = array(
 );
 ```
 
-### Python Example
+### Python-Beispiel
 
 ```
 from livefyre import Livefyre 
@@ -234,7 +234,7 @@ $convConfig = array(
 );
 ```
 
-### Python Example
+### Python-Beispiel
 
 ```
 from livefyre import Livefyre 
