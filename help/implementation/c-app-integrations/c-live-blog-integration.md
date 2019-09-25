@@ -1,10 +1,10 @@
 ---
-description: Mit Live-Blog können Sie Echtzeitaktualisierungen und Bilder aus den eigenen Editoren Ihrer Site ausführen, wenn Sie ein Live-Ereignis behandeln.
-seo-description: Mit Live-Blog können Sie Echtzeitaktualisierungen und Bilder aus den eigenen Editoren Ihrer Site ausführen, wenn Sie ein Live-Ereignis behandeln.
+description: Mit dem Live-Blog können Sie Echtzeit-Aktualisierungen und Bilder von den Editoren Ihrer Site anzeigen, wenn Sie ein Live-Ereignis abdecken.
+seo-description: Mit dem Live-Blog können Sie Echtzeit-Aktualisierungen und Bilder von den Editoren Ihrer Site anzeigen, wenn Sie ein Live-Ereignis abdecken.
 seo-title: Live-Blog
 solution: Experience Manager
 title: Live-Blog
-uuid: 5 ca 373 f 1-2008-45 ab -9 ec 2-1 e 295 af 4 e 368
+uuid: 5ca373f1-2008-45ab-9ec2-1e295af4e368
 translation-type: tm+mt
 source-git-commit: 987e682f9c7cd94543fd269f386fd2a971ee9934
 
@@ -13,17 +13,17 @@ source-git-commit: 987e682f9c7cd94543fd269f386fd2a971ee9934
 
 # Live-Blog{#live-blog}
 
-Mit Live-Blog können Sie Echtzeitaktualisierungen und Bilder aus den eigenen Editoren Ihrer Site ausführen, wenn Sie ein Live-Ereignis behandeln.
+Mit dem Live-Blog können Sie Echtzeit-Aktualisierungen und Bilder von den Editoren Ihrer Site anzeigen, wenn Sie ein Live-Ereignis abdecken.
 
 ## Live-Blog {#topic_574DEE2125A94B85BFB5C3D2C57C337E}
 
-Mit Live-Blog können Sie Echtzeitaktualisierungen und Bilder aus den eigenen Editoren Ihrer Site ausführen, wenn Sie ein Live-Ereignis behandeln.
+Mit dem Live-Blog können Sie Echtzeit-Aktualisierungen und Bilder von den Editoren Ihrer Site anzeigen, wenn Sie ein Live-Ereignis abdecken.
 
-## Integration{#c_live_blog_integration}
+## Integration {#c_live_blog_integration}
 
-Mit Live-Blog können Sie Echtzeitaktualisierungen und Bilder aus den eigenen Editoren Ihrer Site ausführen, wenn Sie ein Live-Ereignis behandeln.
+Mit dem Live-Blog können Sie Echtzeit-Aktualisierungen und Bilder von den Editoren Ihrer Site anzeigen, wenn Sie ein Live-Ereignis abdecken.
 
-Zum Einbetten einer Live Blog-App befolgen Sie das Verfahren zum Einbetten einer App. Siehe [Einbetten einer App](/help/implementation/c-livefyre-identity-comp/t-using-studio-to-connect-your-social-apps-to-your-livefyre-implementation.md). Im Folgenden sehen Sie ein Beispiel für eine eingebettete Live Blog-App.
+Um eine Live-Blog-App einzubetten, befolgen Sie das Verfahren zum Einbetten einer App. Siehe [Einbetten einer App](/help/implementation/c-livefyre-identity-comp/t-using-studio-to-connect-your-social-apps-to-your-livefyre-implementation.md). Im Folgenden finden Sie ein Beispiel für das Aussehen einer eingebetteten Live-Blog-App.
 
 ### Beispiel 
 
@@ -62,7 +62,7 @@ Zum Einbetten einer Live Blog-App befolgen Sie das Verfahren zum Einbetten einer
 </html>
 ```
 
-Collectionmeta ist ein kodiertes JSON-Objekt. Im obigen Beispiel akzeptiert das JSON-Objekt das folgende Format, bevor es JWT-kodiert ist:
+CollectionMeta ist ein kodiertes JSON-Objekt. Im obigen Beispiel nimmt das JSON-Objekt das folgende Format vor, bevor es JWT-kodiert wird:
 
 ```
 { 
@@ -73,94 +73,94 @@ Collectionmeta ist ein kodiertes JSON-Objekt. Im obigen Beispiel akzeptiert das 
 }
 ```
 
-## Networkconfig-Objekt {#c-networkconfig-object}
+## NetworkConfig-Objekt {#c-networkconfig-object}
 
-Das `NetworkConfig` Objekt ist ein JSON-Objekt, das das Authentifizierungssystem für Netzwerkbenutzer anpasst.
+Das `NetworkConfig` Objekt ist ein JSON-Objekt, das das Authentifizierungssystem für Netzwerkbenutzer angepasst.
 
-`NetworkConfig` Das Objekt ist ein JSON-Objekt mit den folgenden Parametern:
+Das `NetworkConfig` Objekt ist ein JSON-Objekt, das die folgenden Parameter enthält:
 
 | Parameter | Typ | Beschreibung |
 |---|---|---|
-| **Authdelegate** | *Erforderliches* Objekt | Dient zum Anpassen des Authentifizierungssystems für benutzerdefinierte Netzwerkbenutzer. |
-| **Netzwerk** | *Erforderliche* Zeichenfolge Ein von Livefyre bereitgestellter Netzwerkname. Beispiel: *yourname. fyre. co.* |
-| **Attachmentdelegate** | *Optionales* Objekt | Wird verwendet, um die im App-Stream sichtbaren Medienanlagen anzugeben. Weitere Informationen finden Sie unter [Medieneinschränkung](../c-app-customizations/c-restrict-media.md#c_restrict_media). |
-| **Zeichenfolgen** | *Optionales* Objekt | Dient zum Anpassen von Textzeichenfolgen der HTML-Elemente in einem der Livefyre-Core-Apps. Weitere Informationen finden Sie unter [Zeichenfolgenanpassungen](/help/using/c-settings-other/c-translation-sets/c-localize-strings.md). |
+| **authDelegate** | *erforderliches* Objekt | Dient zum Anpassen des Authentifizierungssystems für benutzerdefinierte Netzwerkbenutzer. |
+| **network** | *erforderliche* Zeichenfolge Ein Livefyre-bereitgestellter Netzwerkname. Beispiel: *yourname.fyre.co.* |
+| **attachmentDelegate** | *optionales* Objekt | Dient zum Festlegen der Arten von Medienanlagen, die im App-Stream sichtbar sind. Weitere Informationen finden Sie unter [Eingrenzen von Medien](../c-app-customizations/c-restrict-media.md#c_restrict_media). |
+| **strings** | *optionales* Objekt | Used to customize text strings of the HTML elements in any of the Livefyre Core Apps. Weitere Informationen finden Sie unter [Zeichenfolgenanpassung](/help/using/c-settings-other/c-translation-sets/c-localize-strings.md). |
 
-## Convconfig-Objekt {#c-convconfig-object}
+## ConvConfig-Objekt {#c-convconfig-object}
 
-Das `convConfig` Objekt ist ein JSON-Objekt, mit dem der Inhalt angegeben wird, den die Livefyre-App auf der Seite wiedergibt.
+Das `convConfig` Objekt ist ein JSON-Objekt, mit dem der Inhalt, den die Livefyre-App auf der Seite wiedergibt, angegeben wird.
 
 >[!NOTE]
 >
->Die hier aufgeführten `convConfig` Objektparameter gelten nicht für die Review-App. Informationen zur Integration der App-App mit dem `convConfig` Objekt finden Sie unter Review-Integration.
+>Die hier aufgeführten `convConfig` Objektparameter gelten nicht für die Reviews-App. Integrationsinformationen zur Reviews-App mit dem `convConfig` Objekt finden Sie unter Integration von Reviews.
 
 Das `ConvConfig` Objekt enthält die folgenden erforderlichen Parameter:
 
 | Parameter | Typ | Beschreibung |
 |--- |--- |--- |
-| **Articleid** | *erforderliche* Zeichenfolge | Identifiziert eindeutig eine Sammlung innerhalb Ihrer Site. Normalerweise entspricht dies einem primären Schlüssel oder einer Post-ID in Ihrem CMS. Beispiel: &quot; post -42&quot; . Max. 255 Zeichen. Hinweis: Wenn Sie die Artikel-URL als ihleid verwenden, stellen Sie sicher, dass die Zeichenfolge MD 5 oder SHA -1 kodiert ist. |
-| **Collectionmeta** | *erforderliche* Zeichenfolge | JWT-kodierte Metadaten zur Sammlung. Weitere Informationen finden Sie unter collectionmeta-Objekt. |
+| **articleId** | *erforderliche* Zeichenfolge | Identifiziert eine Sammlung innerhalb Ihrer Site eindeutig. Normalerweise entspricht dies einem primären Datenbankschlüssel oder einer Post-ID in Ihrem CMS. Beispiel: "post-42". Längenbeschränkung von 255 Zeichen.  Hinweis:  Wenn Sie die Artikel-URL als articleId verwenden, stellen Sie sicher, dass die Zeichenfolge MD5- oder SHA-1-kodiert ist. |
+| **collectionMeta** | *erforderliche* Zeichenfolge | JWT-kodierte Metadaten zur Sammlung. Weitere Informationen finden Sie unter CollectionMeta-Objekt. |
 | **el** | *erforderliche* Zeichenfolge | Die ID eines DOM-Elements, an das der Inhaltsstream gerendert wird. |
-| **Siteid** | *erforderliche* Zeichenfolge | Die von Livefyre bereitgestellte ID für die Website oder Anwendung, zu der die Sammlung gehört. Beispiel: &quot; 303617&quot; . |
+| **siteId** | *erforderliche* Zeichenfolge | Die von Livefyre bereitgestellte ID für die Website oder Anwendung, zu der die Sammlung gehört. Beispiel: "303617". |
 
 >[!NOTE]
 >
->Der `app` Parameter ist für die Implementierung einer Kommentar-App nicht erforderlich.
+>Der `app` Parameter ist für eine Comments App-Implementierung nicht erforderlich.
 
 Das `ConvConfig` Objekt kann auch die folgenden optionalen Parameter enthalten:
 
 | Parameter | Typ | Beschreibung |
 |--- |--- |--- |
-| **Actionbuttons** | *Optionales* Array | Ein Array von benutzerdefinierten Aktionsschaltflächen, die einem Inhaltselement neben den Schaltflächen &quot;Freigeben&quot; und&quot; Markieren&quot; hinzugefügt werden können. Weitere Informationen finden Sie unter Hinzufügen benutzerdefinierter Schaltflächen. |
-| **Animationen** | *Optionales* Boolesches Zeichen | Definiert, ob Animationen in der Livefyre-App ausgeführt werden. Legen Sie &quot;false&quot; fest, um Animationen zu deaktivieren. Der Standardwert ist &quot;true&quot; . |
-| **Anonymousflaggingenabled** | boolescher Wert | Definiert, ob Gastbenutzer über die Option zum Kennzeichnen von Inhalten verfügen. Der Standardwert ist &quot;true&quot; . |
-| Browsertype | *optionale* Zeichenfolge | Definiert das Gerät, für das Inhalte angezeigt werden sollen. Dies führt dazu, dass die CSS und einige Funktionen an den Eingabegerätetyp angepasst werden. Die Optionen sind Desktop, Mobilgerät oder Tablet. (Falls leer, wird standardmäßig die Google Agent-Bestimmung für das Anzeigeformat verwendet.) |
-| **checksum** | *optionale* Zeichenfolge (empfohlen) | Gibt den aktuellen Status der collectionmeta an. Wenn Sie diesen Wert ändern, aktualisiert Livefyre die Daten auf dem Server mit den neuen Werten in collectionmeta. |
-| **Datetimeformat** | *optionale* Zeichenfolgenobjekt, Funktion | Gibt das Datums-Uhrzeitformat für gestreamte Inhalte an. Weitere Informationen finden Sie unter Datum und Uhrzeitstempel anpassen. |
-| Disableavatars | *Optionales* Boolesches Zeichen | Verhindert, dass Avatare im App-Stream wiedergegeben werden, wodurch die Anzahl der in den Browser geladenen Elemente verringert wird. Der Standardwert ist &quot;false&quot; . |
-| disableIE8Shim | *Optionales* Boolesches Zeichen | Deaktiviert den standardmäßigen Shiv, der von Livefyre verwendet wird, um Internet Explorer 8 zu füllen, damit HTML 5-Elemente unterstützt werden. Livefyre verwendet das folgende Projekt: [https://github.com/aFarkas/html5shiv](https://github.com/aFarkas/html5shiv) . Der Standardwert ist &quot;false&quot; . Hinweis: Wenn dieser Wert false ist, muss die Polyfüllung einiger Sortiervorgänge verwendet werden, bevor Livefyre Chat für den Internet Explorer 8-Support aufgerufen wird. |
-| **Disablethirdpartyanalytics** | *Optionales* Boolesches Zeichen | Deaktiviert Analytics-Systeme (Quantserve und Google Analytics) von Drittanbietern, die von Livefyre für interne Messungen verwendet werden können. Der Standardwert ist &quot;false&quot; . |
-| **Editorcss** | *Optionales* Objekt | Wird verwendet, um den Stil des Kommentareditors anzupassen. Sie können die Hintergrundfarbe des Editors sowie die Schriftfarbe, -größe und -familie im Editor gestalten. Beispiel: {background: &#39; # ccc &#39;, color: &#39; red &#39;, font: &#39; 30 px «Helvetica New», Helvetica, Arial, Geneva, sans-serif &#39;} |
-| **Initialnumvisible** | *optionale* Ganzzahl | Hiermit können Sie die Standardmäßige Anzahl der in Ihrer App sichtbaren Kommentare beim Laden festlegen. Dies kann eine Ganzzahl von 1 bis 50 sein. |
-| **Initialnumvisiblelegacy** | *optionale* Ganzzahl | Hiermit können Sie die Standardanzahl älterer Inhaltselemente, die in Ihrer App angezeigt werden, beim Laden festlegen. Dies kann eine Ganzzahl von 1 bis 50 sein. Wenn dieser Parameter nicht angegeben ist, ist der Standardwert initialnumvisible. Beispiel: Wenn Ihre Sammlung 100 aktive und 100 Legacy-Kommentare enthält, legen Sie initalnumvisible fest: 10 und initialnumvisiblelegacy: 5, um 10 aktive Kommentare (mit der Schaltfläche &quot;Mehr anzeigen&quot; ) + 5 Archivkommentare (mit der Schaltfläche&quot; Mehr anzeigen&quot; ) anzuzeigen. |
-| **Maxvisible** | *optionale* Ganzzahl | Legt die maximale Anzahl an sichtbaren Elementen der obersten Ebene in der Chat-App fest. Wenn neue Elemente des Inhalts in enthalten sind, werden Inhalte am unteren Rand des Streams aus der Seite entfernt. Wenn die Schaltfläche Mehr… angeklickt wird, wird der Parameter ignoriert und der Benutzer kann so viele Inhalte wie gewünscht anzeigen. (Mit diesem Parameter steuern Sie die Anzahl der Elemente, die auf der Seite in hohen Geschwindigkeitsstreams angezeigt werden.) |
-| **Posttobuttons** | *Optionales* Array | Wird verwendet, um zu konfigurieren, welche Anbieter beim Einbetten der Live Blog-App angezeigt werden. Verfügbare Optionen sind tw (Twitter), fb (Facebook) und li (linkedin). Standard ist [ tw, fb ]. |
-| **Readonly** | *Optionales* Boolesches Zeichen | Deaktiviert alle Interaktivität für die Sammlung. Wenn &quot;true&quot; , können Benutzer sich nicht im Stream anmelden und können Inhalt nicht posten, bearbeiten, auf Antworten oder&quot; Gefällt mir&quot; klicken. Wenn &quot;true&quot; , können Benutzer Inhalte kennzeichnen und freigeben. Der Standardwert ist &quot;false&quot; . |
-| **Stream** | *Optionales* Objekt | Enthält Optionen zum Konfigurieren der App. |
-| stream. catchup | *optionale* Ganzzahl | Gibt an, wie viele Sekunden vor dem aktuellen Zeitpunkt der Stream geladen werden soll. Standardmäßig lädt Livefyre 50 Inhaltselemente und lädt dann alle zwischen diesen und der aktuellen Zeit gesendeten Inhalte. In sehr schnellen Anwendungsfällen kann der Inhalt zu schnell gepostet werden, damit die App auf die vorhandene Weise abfängt. Verwenden Sie diese Einstellung, um die Anzahl der Sekunden zu definieren, für die Inhalte veröffentlicht werden (nach dem anfänglichen Ladevorgang für Inhalte). |
-| **stream. delay** | *optionale* Ganzzahl | Gibt die Anzahl der Sekunden zwischen den Streaming-Anforderungen an. Verwenden Sie diesen Parameter, um den Inhaltsfluss zu steuern und zu verzögern, wie oft das DOM aktualisiert wird. Hinweis: Wenn der Stream zu groß ist, kann er hinter den Erwartungen zurückbleiben. |
+| **actionButtons** | *optionales* Array | Ein Array mit benutzerdefinierten Aktionsschaltflächen, die einem Inhaltselement neben den Schaltflächen "Freigeben"und "Flag"hinzugefügt werden. Weitere Informationen finden Sie unter Hinzufügen benutzerdefinierter Schaltflächen. |
+| **Animationen** | *optional* boolesch | Definiert, ob Animationen innerhalb der Livefyre-App ausgeführt werden. Auf "false"setzen, um Animationen zu deaktivieren. Der Standardwert ist true. |
+| **anonymousFlaggingEnabled** | Boolescher Wert | Definiert, ob Gastbenutzer die Möglichkeit haben, Inhalte zu kennzeichnen. Der Standardwert ist "true". |
+| browserType | *optional* String | Definiert das Gerät, für das Anzeigeninhalte generiert werden sollen. Dies führt dazu, dass sich das CSS und einige Funktionen an den Gerätetyp anpassen. Die Optionen sind Desktop, Mobil oder Tablet. (Wenn das Feld leer gelassen wird, wird standardmäßig die Google Agent-Bestimmung für das Anzeigeformat verwendet.) |
+| **checksum** | *Optionale* Zeichenfolge (empfohlen) | Gibt den aktuellen Status von CollectionMeta an. Wenn Sie diesen Wert ändern, aktualisiert Livefyre die Daten auf dem Server mit den neuen Werten in CollectionMeta. |
+| **datetimeFormat** | *Optionale* Zeichenfolgenobjektfunktion | Gibt das Datumsformat des Streaminhalts an. Weitere Informationen finden Sie unter Anpassen von Datums- und Uhrzeitstempeln. |
+| disableAvatars | *optional* boolesch | Verhindert, dass Avatare im App-Stream wiedergegeben werden, und verringert so die Anzahl der Elemente, die in den Browser geladen werden. Standard ist „false“. |
+| disableIE8Shim | *optional* boolesch | Deaktiviert die standardmäßige Shiv-Datei, die von Livefyre zum Polyfill von Internet Explorer 8 verwendet wird, sodass HTML5-Elemente unterstützt werden. Livefyre verwendet das folgende Projekt:  [https://github.com/aFarkas/html5shiv](https://github.com/aFarkas/html5shiv) . Standard ist „false“.  Hinweis:  Wenn dieser Wert "false"ist, muss eine Art von Polyfill verwendet werden, bevor Livefyre Chat für die Unterstützung von Internet Explorer 8 aufgerufen wird. |
+| **disableThirdPartyAnalytics** | *optional* boolesch | Deaktiviert Analysesysteme von Drittanbietern (Quantserve und Google Analytics), die Livefyre für interne Messungen verwenden kann. Standard ist „false“. |
+| **editorCss** | *optionales* Objekt | Dient zum Anpassen der Formatierung des Kommentareditors. Sie können die Hintergrundfarbe des Editors sowie die Schriftfarbe, -größe und -familie des Textes im Editor gestalten.  Beispiel: {background: ‘#ccc’, Farbe: "red", Schriftart: ’30px "Helvetica Neue", Helvetica, Arial, Genf, sans-serif"} |
+| **initialNumVisible** | *optional* ganze | Damit können Sie die Standardanzahl der Kommentare festlegen, die beim Laden in Ihrer App angezeigt werden. Dies kann eine Ganzzahl von 1 bis 50 sein. |
+| **initialNumVisibleLegacy** | *optional* ganze | Ermöglicht Ihnen, die Standardanzahl der Elemente aus alten Inhalten festzulegen, die beim Laden in Ihrer App sichtbar sind. Dies kann eine Ganzzahl von 1 bis 50 sein. Wenn dieser Parameter nicht angegeben ist, wird standardmäßig initialNumVisible verwendet.  Beispiel: Wenn Ihre Sammlung 100 aktive und 100 ältere Kommentare enthält, stellen Sie initalNumVisible:10 und initialNumVisibleLegacy:5 ein, um 10 aktive Kommentare (mit der Schaltfläche "Mehr anzeigen") und 5 Archivkommentare (mit der Schaltfläche "Mehr anzeigen") anzuzeigen. |
+| **maxVisible** | *optional* ganze | Legt die maximale Anzahl sichtbarer Inhalte der obersten Ebene in der Chat-App fest. Wenn neue Inhaltselemente in den Stream eindringen, werden Inhalte am unteren Rand des Streams von der Seite entfernt. Wenn auf die Schaltfläche Mehr... anzeigen geklickt wird, wird der Parameter ignoriert und der Benutzer kann so viele Inhalte wie gewünscht anzeigen. (Verwenden Sie diesen Parameter, um die Anzahl der Elemente zu steuern, die in Hochgeschwindigkeits-Streams auf der Seite angezeigt werden.) |
+| **postToButtons** | *optionales* Array | Dient zum Konfigurieren der Anbieter, die beim Einbetten der Live-Blog-App angezeigt werden. Verfügbare Optionen sind zwei (Twitter), fb (Facebook) und li (LinkedIn). Die Standardeinstellung ist [ tw , fb ]. |
+| **readOnly** | *optional* boolesch | Deaktiviert alle Interaktivität für die Sammlung. Wenn "true", können sich Benutzer nicht beim Stream anmelden und können keine Inhalte posten, bearbeiten, beantworten oder "Gefällt mir"-Klicks verwenden. Wenn "true", können Benutzer Inhalte kennzeichnen und freigeben. Standard ist „false“. |
+| **stream** | *optionales* Objekt | Enthält Optionen zum Konfigurieren des Streaming der App. |
+| stream.catchup | *optional* ganze | Gibt an, wie viele Sekunden vor dem aktuellen Moment der Stream geladen werden soll. Standardmäßig lädt Livefyre 50 Inhaltselemente und lädt dann alle zwischen diesen und der aktuellen Zeit gesendeten Inhalte. In sehr schnellen Anwendungsfällen können Inhalte zu schnell veröffentlicht werden, um der App eine "Aufholung"zu ermöglichen. Verwenden Sie diese Einstellung, um die Anzahl der Sekunden vor dem ersten Laden festzulegen, für die Inhalte veröffentlicht werden (nach dem ersten Laden). |
+| **stream.delay** | *optional* ganze | Gibt die Anzahl der Sekunden zwischen Streaming-Anforderungen an. Verwenden Sie diesen Parameter, um den Inhaltsfluss zu steuern und zu verzögern, wie oft das DOM aktualisiert wird.  Hinweis:  Wenn der Stream zu groß ist, kann er zurückfallen. |
 
 
 >[!NOTE]
 >
->Sie können ein oder mehrere `convConfig` Objekte während der App-Initialisierung übergeben, um mehrere Apps auf derselben Seite anzuzeigen. Beachten Sie, dass zusätzliche Apps Browserressourcen verwenden und die Leistung beim Anstieg möglicherweise beeinträchtigt wird.
+>Sie können ein oder mehrere `convConfig` Objekte während der App-Initialisierung übergeben, um mehrere Apps auf derselben Seite anzuzeigen. Beachten Sie, dass zusätzliche Apps Browser-Ressourcen verwenden und die Leistung abnehmen kann, wenn die Anzahl steigt.
 
-## Collectionmeta-Objekt {#c-collectionmeta-object}
+## CollectionMeta-Objekt {#c-collectionmeta-object}
 
-`CollectionMeta` Das Objekt ist ein JSON-Objekt, das Metadaten angibt, die in der Sammlung gespeichert werden sollen.
+Das `CollectionMeta` Objekt ist ein JSON-Objekt, das die in der Sammlung zu speichernden Metadaten angibt.
 
-`CollectionMeta` immer kodiert wird, bevor sie an Livefyre zur Sicherheit übergeben werden. Der kodierte Wert wird an das oben aufgeführte `ConvConfig` Objekt übergeben.
+`CollectionMeta` wird immer kodiert, bevor sie zur Sicherheit an Livefyre übergeben wird. Der kodierte Wert wird an das oben dargestellte `ConvConfig` Objekt übergeben.
 
 >[!NOTE]
 >
->Sie müssen serverseitigen Code hinzufügen, um das `CollectionMeta` JSON-Objekt zu kodieren. Weitere Informationen finden Sie unter Erstellen serverseitiger Token.
+>Sie müssen serverseitigen Code hinzufügen, um das JSON- `CollectionMeta` Objekt zu kodieren. Weitere Informationen finden Sie unter Erstellen von serverseitigen Tokens.
 
 | Parameter | Typ | Beschreibung |
 |--- |--- |--- |
-| **Articleid** | *erforderliche* Zeichenfolge | Eine eindeutige ID für die Sammlung. |
-| **Titel** | *erforderliche* Zeichenfolge | Der Titel, den Sie auf die Sammlung anwenden möchten. Dies entspricht häufig dem Titel der Seite, auf der die App angezeigt wird. Beispiel: &quot; Integration ist so viel Spaß! » Hinweis: Die maximale Zeichenlänge für den Titel beträgt 255 Zeichen. Das Titelfeld unterstützt keine HTML-Entitäten. Bitte Sonderzeichen mit UTF -8 kodieren. |
-| **url** | *erforderliche* Zeichenfolge | Die kanonische absolute URL, die an diese Sammlung angehängt werden soll. Diese URL wird verwendet, um Links aus Inhalten, die auf Facebook und Twitter, E-Email-Benachrichtigungen und Livefyre Studio freigegeben wurden, wiederherzustellen. Hinweis: Livefyre erfordert die Verwendung eines vollständig qualifizierten Domänennamens; die Anschlussnummer oder ein Rückruf zur Auflösung der lokalen Einrichtung nicht erforderlich ist. Sollten Sie lokal testen, sollten Sie sicher sein, eine gültige Basis-URL-Domäne zu verwenden. (Beispiel: `https://customer.com` ist gültig, `https://localhost:5995` aber nicht.) Nachdem Sie einen lokalen Webserver eingerichtet haben, um einen vollständig qualifizierten Domänennamen zu akzeptieren, sind keine Rückrufe oder Auflösungen erforderlich und die lokale Entwicklung kann wie erwartet fortgesetzt werden. |
-| **type** | *erforderliche* Zeichenfolge | Der Sammlungstyp. Muss Livechat sein. |
+| **articleId** | *erforderliche* Zeichenfolge | A unique ID for the Collection. |
+| **Titel** | *erforderliche* Zeichenfolge | Der Titel, den Sie auf die Sammlung anwenden möchten. Dies entspricht oft dem Titel der Seite, auf der die App angezeigt wird.  Beispiel: "Integration macht so viel Spaß!"  Hinweis:  Die maximale Zeichenlänge für den Titel beträgt 255 Zeichen. Das Titelfeld unterstützt keine HTML-Entitäten. Bitte kodieren Sie Sonderzeichen mit UTF-8. |
+| **url** | *erforderliche* Zeichenfolge | Die kanonische absolute URL, die Sie dieser Sammlung hinzufügen möchten. Diese URL wird verwendet, um aus Inhalten, die auf Facebook und Twitter freigegeben wurden, E-Mail-Benachrichtigungen und Livefyre Studio Links zur App zu generieren.  Hinweis:  Livefyre erfordert die Verwendung eines vollständig qualifizierten Domänennamens; die Anschlussnummer oder ein Rückruf zur Auflösung des lokalen Setups ist nicht erforderlich. Stellen Sie bei lokalen Tests sicher, dass eine gültige Basis-URL-Domäne verwendet wird. (Beispiel: ist gültig, `https://customer.com` `https://localhost:5995` nicht jedoch.) Nachdem Sie Ihren lokalen Webserver so eingerichtet haben, dass er einen vollständig qualifizierten Domänennamen akzeptiert, sind keine Rückrufe oder Lösungen erforderlich und die lokale Entwicklung kann wie erwartet fortgesetzt werden. |
+| **type** | *required* String | Der Sammlungstyp. Muss livechat sein. |
 
 Das `CollectionMeta` Objekt kann auch den folgenden optionalen Parameter enthalten:
 
 | Parameter | Typ | Beschreibung |
 |---|---|---|
-| **Tags** | *optionale* Zeichenfolge | Eine kommagetrennte Liste mit einzelnen Suchbegriffen oder -phrasen. Suchen Sie Sammlungen nach Tags in Studio oder mit der Such-API. **Hinweis:** Während Tags, die über Studio hinzugefügt wurden, Leerzeichen enthalten können, können Tags, die über die API eingegeben wurden, nicht verwendet werden. Verwenden Sie Unterstriche, um Tags zu definieren, die in der Benutzeroberfläche Leerzeichen anzeigen. (Beispiel: use Monday_ Quarterback to Display Monday Quarterback in Studio.) |
+| **Tags** | *optionale* Zeichenfolge | Eine kommagetrennte Liste mit einzelnen Suchbegriffen oder Ausdrücken. Suchen Sie Sammlungen nach Tags in Studio oder mit der Such-API. **** Hinweis: Tags, die über Studio hinzugefügt werden, können zwar Leerzeichen enthalten, Tags, die über die API eingegeben wurden, können jedoch nicht verwendet werden. Verwenden Sie Unterstriche, um Tags zu definieren, die Leerzeichen in der Benutzeroberfläche anzeigen. (Beispiel: Montag_Quarterback verwenden, um Montag Quarterback in Studio anzuzeigen.) |
 
 ## Hinzufügen eines Ereignishandlers {#concept_D835C710A7214F6D921571E0770B6BC5}
 
-Um Ereignishandler zu registrieren, verwenden Sie den Aufruf widget. on innerhalb der Callback-Funktion der App.
+Um Ereignishandler zu registrieren, verwenden Sie den widget.on-Aufruf in der Rückruffunktion der App.
 
 Beispiel:
 
