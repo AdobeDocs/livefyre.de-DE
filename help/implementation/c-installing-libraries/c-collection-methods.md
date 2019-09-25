@@ -1,32 +1,32 @@
 ---
-description: Um die Daten in der Sammlung zu aktualisieren, ändern Sie den Inhalt der Methoden der Collection-Klasse.
-seo-description: Um die Daten in der Sammlung zu aktualisieren, ändern Sie den Inhalt der Methoden der Collection-Klasse.
-seo-title: Sammlungsklassenmethoden
+description: Um die Daten in der Sammlung zu aktualisieren, ändern Sie den Inhalt der Objektmethoden der Collection-Klasse.
+seo-description: Um die Daten in der Sammlung zu aktualisieren, ändern Sie den Inhalt der Objektmethoden der Collection-Klasse.
+seo-title: Methoden der Sammlungsklasse
 solution: Experience Manager
-title: Sammlungsklassenmethoden
-uuid: fd 3163 c 6-981 f -44 b 3-a 7 ba -6 b 4 e 85 b 0830 d
+title: Methoden der Sammlungsklasse
+uuid: fd3163c6-981f-44b3-a7ba-6b4e85b0830d
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Sammlungsklassenmethoden{#collection-class-methods}
+# Methoden der Sammlungsklasse{#collection-class-methods}
 
-Um die Daten in der Sammlung zu aktualisieren, ändern Sie den Inhalt der Methoden der Collection-Klasse.
+Um die Daten in der Sammlung zu aktualisieren, ändern Sie den Inhalt der Objektmethoden der Collection-Klasse.
 
-Anweisungen zum Erstellen eines Collection-Objekts finden Sie in den Methoden der Site-Klasse. Der Rest der Seite geht davon aus, dass Sie in Ihrer Sitzung ein instanziiertes Collection-Objekt haben.
+Anweisungen zum Erstellen eines Collection-Objekts finden Sie unter Site-Klassenmethoden. Der Rest der Seite geht davon aus, dass Sie ein instanziiertes Collection-Objekt in Ihrer Sitzung haben.
 
-* [Createorupdate Collection-Methode](#r_createorupdate_collection_method)
-* [Buildcollectionmetatoken-Erfassungsmethode](#r_buildcollectionmetatoken_collection_method)
-* [Buildchecksum-Erfassungsmethode](#r_buildchecksum_collection_method)
-* [Getcollectioncontent Collection Method](#t_getcollectioncontent_collection_method)
-* [Erfassungssammlungsmethode](#r_geturn_collection_method)
+* [createOrUpdate-Erfassungsmethode](#r_createorupdate_collection_method)
+* [buildCollectionMetaToken-Erfassungsmethode](#r_buildcollectionmetatoken_collection_method)
+* [buildChecksum-Erfassungsmethode](#r_buildchecksum_collection_method)
+* [getCollectionContent Collection-Methode](#t_getcollectioncontent_collection_method)
+* [getUrn-Erfassungsmethode](#r_geturn_collection_method)
 
-Jede dieser Methoden ist für die folgenden Codetypen verfügbar:
+Jede dieser Methoden steht für die folgenden Codetypen zur Verfügung:
 
-* Java 
-* Nodejs
+* Java
+* NodeJS
 * PHP
 * Python
 * Ruby
