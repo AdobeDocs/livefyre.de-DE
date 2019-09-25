@@ -1,27 +1,27 @@
 ---
-description: Integrieren Sie eine App für ein Blog-App, indem Sie einen ähnlichen Prozess wie Core Applications befolgen.
-seo-description: Integrieren Sie eine App für ein Blog-App, indem Sie einen ähnlichen Prozess wie Core Applications befolgen.
-seo-title: Integration von Sidenotes
+description: Integrieren Sie eine SIR-App, indem Sie einen ähnlichen Prozess wie Core-Anwendungen ausführen.
+seo-description: Integrieren Sie eine SIR-App, indem Sie einen ähnlichen Prozess wie Core-Anwendungen ausführen.
+seo-title: Integration von Sizilien
 solution: Experience Manager
-title: Integration von Sidenotes
-uuid: 4 aa 14 ada -402 a -482 d-b 43 e -96 f 37 afa 6 c 53
+title: Integration von Sizilien
+uuid: 4aa14ada-402a-482d-b43e-96f37afa6c53
 translation-type: tm+mt
 source-git-commit: fcee9dc152e7f8284e64248fdcc5bf81d39618ff
 
 ---
 
 
-# Integration von Sidenotes{#sidenotes-integration}
+# Integration von Sizilien{#sidenotes-integration}
 
-Integrieren Sie eine App für ein Blog-App, indem Sie einen ähnlichen Prozess wie Core Applications befolgen.
+Integrieren Sie eine SIR-App, indem Sie einen ähnlichen Prozess wie Core-Anwendungen ausführen.
 
-Allgemein gilt: Wenn die Core-Anwendungsintegration abgeschlossen ist, kann der Code, der zur Generierung des `collectionMeta` Objekts geschrieben wurde, für die Zielgruppe wiederverwendet werden.
+Wenn Ihre Core-Anwendungsintegration abgeschlossen ist, kann der zum Generieren des `collectionMeta` Objekts geschriebene Code in der Regel für Siegels wiederverwendet werden.
 
-Sie können Ihre vorhandenen `auth` Delegierten auch wiederverwenden, indem Sie einen `auth` mit `fyre.conv` den Autoren erstellten Delegieren im (optional) `authDelegate` Feld bereitstellen.
+Sie können Ihre vorhandenen `auth` Delegaten auch wiederverwenden, indem Sie einen `auth` Delegaten bereitstellen, der mit Siegels im Feld (optional) erstellt `fyre.conv` wurde `authDelegate` .
 
 >[!NOTE]
 >
->Mithilfe von Sidenotes können Sie ein `network`einzelnes Objekt einbeziehen, `siteId`und `articleId` nicht in anderen Teilen des Konstruktors weiterleiten.
+>Mit Sidentifier können Sie `network`, `siteId`und `articleId` in ein einzelnes Objekt einschließen, anstatt sie separat in andere Teile des Konstruktors zu übergeben.
 
 ```
 <!DOCTYPE html> 
@@ -53,7 +53,7 @@ Livefyre.require(['sidenotes#1', 'auth'], function (Sidenotes, Auth) {
 </html>
 ```
 
-Wie im Abschnitt &quot;Erstellen `collectionMeta` « `collectionMeta` angegeben, ist ein kodiertes JSON-Objekt. Im obigen Beispiel akzeptiert das JSON-Objekt das folgende Format, bevor es JWT-kodiert ist.
+Wie im `collectionMeta` Abschnitt "Erstellen"angegeben, `collectionMeta` ist ein kodiertes JSON-Objekt. Im obigen Beispiel nimmt das JSON-Objekt das folgende Format vor, bevor es JWT-kodiert wird.
 
 ```
 { 
@@ -67,9 +67,9 @@ Wie im Abschnitt &quot;Erstellen `collectionMeta` « `collectionMeta` angegeben,
 
 Weitere Informationen finden Sie im `collectionMeta` Token.
 
-## Mobilgerät einrichten
+## Mobileinrichtung
 
-Die Zielgruppen wurden für die Verwendung auf Mobilgeräten optimiert. Die besten Ergebnisse bei mobilen Versionen Ihrer Livefyre-App erzielen Sie, wenn Sie die Option für benutzerskalierbare Anwendungen auf Nein setzen. Beispiel:
+Sidentin wurde für die Verwendung auf Mobilgeräten optimiert. Um optimale Ergebnisse mit mobilen Versionen Ihrer Livefyre-App zu erzielen, setzen Sie die Option "Benutzerskalierbar"auf "Nein". Beispiel:
 
 ```
 <meta name="viewport" content="width=device-width, user-scalable=no">
