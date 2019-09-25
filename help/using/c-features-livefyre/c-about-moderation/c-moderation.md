@@ -1,93 +1,93 @@
 ---
-description: Die Livefyre Spam- und die Missbrauchsfilterengine (SAFE) sind ein Hintergrundprozess, der alle eingehenden Inhalte analysiert und für alle Livefyre-Kunden aktiviert ist.
-seo-description: Die Livefyre Spam- und die Missbrauchsfilterengine (SAFE) sind ein Hintergrundprozess, der alle eingehenden Inhalte analysiert und für alle Livefyre-Kunden aktiviert ist.
-seo-title: SAFE RULES
-title: SAFE RULES
-uuid: 2 f 91 d 0 d 4-dffe -4651-88 af -79 bbb 96 c 1 b 5 c
+description: Die Livefyre Spam and Missuse Filtering Engine (SAFE) ist ein Hintergrundprozess, der alle eingehenden Inhalte analysiert und für alle Livefyre-Kunden aktiviert ist.
+seo-description: Die Livefyre Spam and Missuse Filtering Engine (SAFE) ist ein Hintergrundprozess, der alle eingehenden Inhalte analysiert und für alle Livefyre-Kunden aktiviert ist.
+seo-title: SAFE-Regeln
+title: SAFE-Regeln
+uuid: 2f91d0d4-dffe-4651-88af-79bb96c1b5c
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 
 
-# SAFE RULES{#safe-rules}
+# SAFE-Regeln{#safe-rules}
 
-Die Livefyre Spam- und die Missbrauchsfilterengine (SAFE) sind ein Hintergrundprozess, der alle eingehenden Inhalte analysiert und für alle Livefyre-Kunden aktiviert ist.
+Die Livefyre Spam and Missuse Filtering Engine (SAFE) ist ein Hintergrundprozess, der alle eingehenden Inhalte analysiert und für alle Livefyre-Kunden aktiviert ist.
 
 
 
-SAFE verwendet Musterregeln sowie statistische Modelle, um Spam, Missbrauch, Gewinn- und Massen-Beiträge (wiederholte) Beiträge zu erkennen. Es wird von Zeit zu Zeit in anderen Livefyre-Produkten referenziert, insbesondere in den Inhaltsmoderationstools und in modq.
+SAFE verwendet Musterregeln sowie statistische Modelle, um Spam, Missbrauch, Ernsthaftigkeit und (wiederholte) Massenbeiträge zu erkennen. Es wird von Zeit zu Zeit in anderen Livefyre-Produkten, insbesondere den Content-Moderationstools und ModQ, referenziert.
 
 >[!NOTE]
 >
->SAFE ist nur für Englisch vorgesehen, außer für die Massen-Maililing-Klassifizierung. Wenn Sie Unterstützung für andere Sprachen benötigen, wenden Sie sich bitte an Ihren strategischen Kundenbetreuer.
+>SAFE ist nur auf Englisch verfügbar, mit Ausnahme der Bulk Mailing Classification. Wenn Sie Unterstützung für andere Sprachen benötigen, wenden Sie sich bitte an Ihren Strategischen Kundenbetreuer.
 
 ## Studio-Komponenten mit SAFE {#section_k34_4tx_vy}
 
-Durch SAFE angewendete Flags können mit den folgenden Studio-Komponenten verwendet werden:
+Flags, die von SAFE angewendet werden, können mit den folgenden Studio-Komponenten verwendet werden:
 
 * Regeln
 
-   Sie können SAFE-Regeln definieren, um Inhalte automatisch zu kennzeichnen und zu definieren, wie gekennzeichnete Inhalte im Abschnitt verarbeitet **[!UICONTROL Network Settings]** werden sollen.
+   Sie können SAFE-Regeln definieren, um Inhalte automatisch zu kennzeichnen und zu definieren, wie gekennzeichnete Inhalte im **[!UICONTROL Network Settings]** Bericht behandelt werden sollen.
 
-   Beispiel: Eine Site kann eine sehr niedrige Toleranz für Gewinn festlegen und SAFE Rules definieren, die den gesamten Inhalt als &quot;Profit&quot; auf&quot; Bozo&quot; setzen. Andere Sites können Regeln definieren, die festlegen, dass Ppane-Inhalte vor der Eingabe des Streams bereits moderiert werden.
+   Beispielsweise kann eine Site eine sehr niedrige Toleranz für Profitabilität festlegen und SAFE-Regeln definieren, die alle als Profane gekennzeichneten Inhalte als Bozo’d festlegen. Andere Sites können Regeln definieren, mit denen Profane-Inhalte vormoderiert werden, bevor sie in den Stream gelangen.
 
-* Modq
+* ModQ
 
-   Sie können durch SAFE-Regeln gekennzeichnete Inhalte und andere Prämoderationsregeln (z. B. SPAM, Gewinn usw.) im modq moderieren.
+   Sie können Inhalte, die mit SAFE-Regeln und anderen Vormoderationsregeln gekennzeichnet sind (z. B. SPAM, Rentabilität usw.), im ModQ moderieren.
 
-* App-Inhalte in der Bibliothek
+* App-Inhalt in der Bibliothek
 
-   Der von SECURE markierte Inhalt wird im App-Inhalt auf der **[!UICONTROL Library]** Registerkarte aufgeführt. Sie können Inhalte nach Flags filtern, um Inhalte zu moderieren.
+   Die von SAFE gekennzeichneten Inhalte werden auf der **[!UICONTROL Library]** Registerkarte "App-Inhalt"aufgeführt. Sie können Inhalte nach Flags filtern, um Inhalte zu moderieren.
 
-## Optionen für SAFE Filter {#section_pg5_ttx_vy}
+## SAFE-Filteroptionen {#section_pg5_ttx_vy}
 
-SAFE wendet die folgenden Flags auf gefilterte Inhalte an und kann verwendet werden, um Regeln zu erstellen und Inhalte aus Livefyre Studio zu moderieren.
+SAFE wendet die folgenden Flags auf gefilterten Inhalt an und kann verwendet werden, um Regeln und moderaten Inhalt aus Livefyre Studio zu erstellen.
 
-* **[!UICONTROL Profanity List]**: von einer Liste mit englischsprachigen Suchbegriffen, wie in einer Liste der englischen Suchbegriffe definiert.
+* **[!UICONTROL Profanity List]**: Profane Inhalte, wie durch eine Liste mit englischen Suchbegriffen definiert, basierend auf der allgemeinen Verwendung.
 
-   Der Gewinn-Filter sucht anhand einer getesteten Wortliste nach Profit-Sprache. Wenn der Inhalt erkannt wird, wird er als Gewinn gekennzeichnet.
-
-   >[!NOTE]
-   >
-   >Livefyre bietet außerdem einen zweiten Gewinnspiellistenfilter, der sowohl auf der Site- als auch auf der Netzwerkebene angepasst werden kann. Mit der Gewinn-Liste erstellte Regeln haben Vorrang vor automatisierten Regeln, die aus dem Filter SICHERER GEWINN stammen. Weitere Informationen finden Sie im Abschnitt &quot;Gewinnspiel-Liste&quot; in der Einstellungsdokumentation.
-
-* **[!UICONTROL Mild Profanity]**: Wörter und Ausdrücke sind in polieren Unterhaltungen im Allgemeinen nicht akzeptabel, sind aber in sporadischen Unterhaltungen normalerweise akzeptabel. Im Allgemeinen sind diese Wörter und Ausdrücke im Netzwerkfernseher zulässig.
-* **[!UICONTROL Strong Profanity]**: Eine sehr starke Sprache, z. B. Expletive und Ausdrücke, die im Netzwerkfernseher nicht zulässig sind und sparsam in R-bewertet-Filmen und ausgefüllten Kabelfernsehgeräten verwendet werden. Im Allgemeinen werden diese Wörter nicht in polieren oder sporadischen Unterhaltungen verwendet und in einer impolierten Unterhaltung mit Absicht gesagt, den Listener zu beschädigen.
-* **[!UICONTROL SPAM]**: Unleserlich, normalerweise kommerzieller Inhalt. Es verwendet ein statistisches Modell, das auf einer Vielzahl von Funktionen basiert (einschließlich Kommentarinhalt und urls), um einen Inhalt als SPAM zu kennzeichnen. Sie können Spam-Schwellenwerte anpassen, um SPAM-Tagging-Raten für Ihr Netzwerk oder Ihre Site auf Anforderung anzupassen.
-* **[!UICONTROL Mild Insult]**: Isolieren von Inhalten, wie in einer Liste mit Suchbegriffen und Wortmustern definiert.
-* **[!UICONTROL Strong Insult]**: Isolieren von Inhalten, wie in einer Liste mit Suchbegriffen und Wortmustern definiert.
-* **[!UICONTROL Hate Speech]**: Eine auf der ethnischen Zugehörigkeit oder Religion basierende Beleidigung, insbesondere wenn sich die Zielgruppenzugehörigkeit in einer Minderheit oder in einer geschützten Gruppe befindet.
-* **[!UICONTROL ALL CAPS]**: Text, der in allen Großbuchstaben angezeigt wird (als Yelling gelesen).
-* **[!UICONTROL Mild Threat]**: Eine Bedrohung oder Beleidigung, die normalerweise eine Art Mild-Profit enthält, die an eine andere Person gerichtet ist. Diese Option kennzeichnet mögliche Bedrohungen häufiger, hat aber auch eine höhere Falsch-Positiv-Rate als **[!UICONTROL Strong Threat]**.
-
-* **[!UICONTROL Strong Threat]**: Eine ernsthafte Bedrohung oder Beleidigung, die einem oder mehreren Menschen nachvollziehbaren Schaden schadet, häufig mit starker Gewinnbereitschaft. Diese Option kennzeichnet mögliche Bedrohungen weniger häufig, hat aber auch eine niedrigere Falsch-Positiv-Rate als **[!UICONTROL Mild Threat]**.
-
-* **[!UICONTROL Probable Nudity]**: Ein Bild, das ggf. etwas Nusity enthält. Diese Option kennzeichnet die Nuance seltener, hat aber auch eine niedrigere Falsch-Positiv-Rate als **[!UICONTROL Possible Nudity]**.
-
-* **[!UICONTROL Possible Nudity]**: Ein Bild, das ggf. etwas Nusity enthält. Diese Option markiert die Nuance häufiger, hat aber auch eine höhere Falsch-Positiv-Rate als **[!UICONTROL Probable Nudity]**.
-
-* **[!UICONTROL PII]** (Personenbezogene Informationen): Informationen, die den Benutzer identifizieren können. Dies kann eine E-Email-Adresse, physische Adresse, Sozialversicherungsnummer (für US-Kunden), Kreditkartennummer, ein Kennwort oder alles, was zum Betrug verwendet werden kann, oder zum Erlangen der Identität eines Benutzers beinhalten.
-* **[!UICONTROL Livefyre Recommends Trash]**. Legen Sie die Aktion fest, die das System durchführt, wenn die automatisierte Moderationsempfehlung Inhalte zur Ablehnung identifiziert. ![](assets/mod_reco1.png)
+   Der Profanity-Filter sucht auf der Grundlage einer getesteten Wortliste nach professioneller Sprache. Wenn der Inhalt erkannt wird, wird er als Profane gekennzeichnet.
 
    >[!NOTE]
    >
-   >Wenden Sie sich an Ihren Adobe Livefyre-Support-Mitarbeiter, um die Moderationsempfehlungen zu aktivieren.
+   >Livefyre bietet auch einen zweiten Profanity-Listenfilter, den Sie sowohl auf Site- als auch auf Netzwerkebene anpassen können. Regeln, die mit der Profanity-Liste erstellt wurden, haben Vorrang vor automatisierten Regeln, die aus dem SAFE-Profanity-Filter stammen. Weitere Informationen finden Sie im Abschnitt "Profilliste"in der Einstellungsdokumentation.
 
-## Verarbeiten von Inhalt, der nicht durch SAFE erfasst wird {#section_pjy_5tx_vy}
+* **[!UICONTROL Mild Profanity]**: Wörter und Ausdrücke sind in der Regel nicht akzeptabel in höflichen Unterhaltungen, sondern in der Regel akzeptabel in Gelegenheitsgesprächen. Im Allgemeinen sind diese Wörter und Ausdrücke im Netzwerk-Fernsehen zulässig.
+* **[!UICONTROL Strong Profanity]**: Sehr starke Sprache, wie zum Beispiel Ausdrucke und Phrasen, die nicht im Netzwerk-Fernsehen erlaubt und sparsam in R-bewerteten Filmen und reife Kabel-TV-Shows verwendet werden. Im Allgemeinen werden diese Wörter nicht in höflichen oder zufälligen Gesprächen verwendet und in einem unhöflichen Gespräch mit der Absicht, dem Zuhörer zu schaden, gesagt.
+* **[!UICONTROL SPAM]**: Unerbetene, meist kommerzielle Inhalte. Es verwendet ein statistisches Modell, das auf einer Vielzahl von Funktionen (einschließlich Kommentarinhalt und URLs) basiert, um einen Inhalt als SPAM zu kennzeichnen. Sie können Spam-Schwellenwerte anpassen, um die SPAM-Tagging-Raten für Ihr Netzwerk oder Ihre Site auf Anfrage anzupassen.
+* **[!UICONTROL Mild Insult]**: Insulting content, wie durch eine Liste von Suchbegriffen und Wortmustern definiert.
+* **[!UICONTROL Strong Insult]**: Insulting content, wie durch eine Liste von Suchbegriffen und Wortmustern definiert.
+* **[!UICONTROL Hate Speech]**: Eine Beleidigung, die auf ethnischer oder religiöser Herkunft beruht, insbesondere wenn die Mitgliedschaft in der Zielgruppe in einer Minderheit oder geschützt ist.
+* **[!UICONTROL ALL CAPS]**: Text in Großbuchstaben (geleert).
+* **[!UICONTROL Mild Threat]**: Eine Drohung oder Beleidigung, die normalerweise eine Art milde Abstammung gegen eine andere Person beinhaltet. Diese Option markiert mögliche Bedrohungen häufiger, weist aber auch eine höhere Falsch-Positiv-Rate auf als **[!UICONTROL Strong Threat]**.
 
-Es gibt mehrere Möglichkeiten zur effektiven Handhabung von Inhalten, die nicht von diesem Filter erfasst werden. Die unten aufgeführten Optionen werden in der empfohlenen Reihenfolge des Prozesses aufgeführt.
+* **[!UICONTROL Strong Threat]**: Eine ernsthafte Bedrohung oder Beleidigung, die einen oder mehrere Menschen, oft mit starker Ernsthaftigkeit, mit einem umsetzbaren Körper schädigen. Diese Option markiert mögliche Bedrohungen weniger häufig, weist aber auch eine niedrigere Falsch-Positiv-Rate auf als **[!UICONTROL Mild Threat]**.
+
+* **[!UICONTROL Probable Nudity]**: Ein Bild, in dem es möglicherweise Nuancen aufweist. Diese Option markiert die Nacktheit weniger oft, hat aber auch eine niedrigere Falsch-Positiv-Rate als **[!UICONTROL Possible Nudity]**.
+
+* **[!UICONTROL Possible Nudity]**: Ein Bild, in dem es möglicherweise Nuancen aufweist. Diese Option markiert Nacktheit häufiger, weist aber auch eine höhere Falsch-Positiv-Rate auf als **[!UICONTROL Probable Nudity]**.
+
+* **[!UICONTROL PII]** (Persönlich identifizierbare Informationen): Informationen, die den Benutzer identifizieren können. Dazu können eine E-Mail-Adresse, eine physische Adresse, eine Sozialversicherungsnummer (für US-Kunden), eine Kreditkartennummer, ein Passwort oder alles andere gehören, das in Betrug verwendet werden kann oder um eine Identität zu erhalten.
+* **[!UICONTROL Livefyre Recommends Trash]**. Legen Sie die Aktion fest, die das System ausführt, wenn die automatische Moderationsempfehlung Inhalte zur Ablehnung identifiziert.  ![](assets/mod_reco1.png)
+
+   >[!NOTE]
+   >
+   >Wenden Sie sich an Ihren Adobe Livefyre-Supportmitarbeiter, um Moderationsempfehlungen zu aktivieren.
+
+## Umgang mit Inhalten, die nicht von SAFE erfasst werden {#section_pjy_5tx_vy}
+
+Es gibt mehrere Möglichkeiten, um Inhalte effektiv zu behandeln, die von diesem Filter nicht erfasst werden. Die unten aufgeführten Optionen sind in der empfohlenen Reihenfolge aufgeführt.
 
 1. Entfernen Sie als Moderator den Inhalt aus dem Stream.
-1. Erstellen Sie eine Flag-Regel, die besagt, dass ein Inhaltselement von fünf Benutzern als Spam oder Offensive gekennzeichnet ist, indem Sie es auf &quot;Bozo&quot; setzen.
-1. Sperren Sie den Benutzer, der unerwünschte Inhalte veröffentlicht, sodass alle Inhalte direkt in den Bozo-Zustand gelangen.
-1. Fügen Sie spezifische Wörter hinzu, die immer in Ihrer Gewinn-Liste gefiltert werden sollten.
+1. Erstellen Sie eine Flag-Regel, die besagt, wenn ein Inhaltselement von fünf Benutzern als Spam oder Offensive gekennzeichnet wird, setzen Sie sie auf Bozo.
+1. Verbieten Sie den Benutzer, der unerwünschte Inhalte veröffentlicht, damit alle Inhalte direkt in den Bozo-Status gelangen.
+1. Fügen Sie bestimmte Wörter hinzu, die immer in Ihrer Liste der Schätze gefiltert werden sollen.
 
 >[!NOTE]
 >
->Wenn ein Moderator Inhalt von unserem Spam-Filter erfasst, wird er dennoch als Spam gekennzeichnet, wird jedoch automatisch genehmigt und wird nicht auf &quot;Bozo&quot; eingestellt.
+>Wenn ein Moderator Inhalte postet, die von unserem Spam-Filter erfasst werden, wird sie weiterhin als Spam gekennzeichnet, aber automatisch genehmigt und nicht auf Bozo eingestellt.
 
-Wenn Sie Trends oder Muster von nicht von SAFE abgedeckten Inhalten bemerken, senden Sie Ihre csms mit den Kommentar-IDs und Text per E-Email.
+Wenn Sie Trends oder Muster von Inhalten feststellen, die nicht von SAFE erfasst werden, senden Sie eine E-Mail mit den Kommentar-IDs und dem Text an Ihre CSMs.
 
 
 
@@ -96,12 +96,12 @@ Apps, die diese Funktion verwenden:
 * [Karussell](/help/using/c-about-apps/c-carousel-app/c-carousel-app.md#c_carousel_app)
 * [Chat](/help/using/c-about-apps/c-chat-app/c-chat-app.md#c_chat_app)
 * [Kommentare](/help/using/c-about-apps/c-comments/c-comments.md)
-* [Feature Card](/help/using/c-about-apps/c-feature-card-app/c-feature-card-app.md#c_feature_card_app)
-* [Map](/help/using/c-about-apps/c-map-app/c-map-app.md#c_map_app)
-* [Medienpinnwand](/help/using/c-about-apps/c-media-wall-app/c-media-wall-app.md#c_media_wall_app)
+* [Funktionskarte](/help/using/c-about-apps/c-feature-card-app/c-feature-card-app.md#c_feature_card_app)
+* [Landkarte](/help/using/c-about-apps/c-map-app/c-map-app.md#c_map_app)
+* [Medienwall](/help/using/c-about-apps/c-media-wall-app/c-media-wall-app.md#c_media_wall_app)
 * [Mosaik](/help/using/c-about-apps/c-mosaic-app/c-mosaic-app.md#c_mosaic_app)
 * [Reviews](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
-* [Zielgruppen](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
+* [Sir](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [Hochladen-Schaltfläche](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
 
