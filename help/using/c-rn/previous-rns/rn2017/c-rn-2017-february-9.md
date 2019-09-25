@@ -3,50 +3,50 @@ description: Versionshinweise für die Version vom 9. Februar 2017.
 seo-description: Versionshinweise für die Version vom 9. Februar 2017.
 seo-title: 9. Februar 2017
 title: 9. Februar 2017
-uuid: cbbf 10 f 3-d 8 ca -4 c 10-849 e-fa 7208 f 987 be
+uuid: cbf10f3-d8ca-4c10-849e-fa7208f987be
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 ---
 
 
-# 9. Februar 2017{#february}
+# February 9, 2017{#february}
 
 Versionshinweise für die Version vom 9. Februar 2017.
 
-## Socialsync für Twitter {#section_nv4_yry_wy}
+## SocialSync für Twitter {#section_nv4_yry_wy}
 
-Socialsync für Twitter ist seit mehreren Jahren Teil unserer Kernfunktion. Da unser Produkt jedoch im Laufe der Zeit entwickelt und erweitert wurde, ist socialsync für Twitter zu einer Funktion niedriger Wertefunktion, die derzeit nur sehr klein unserer Kundenbasis verwendet wird. Um die Gesamterfahrung von Livefyre für unsere Kunden zu verbessern und Entwicklungsressourcen in Bereichen mit dem größten Wert zu fokussieren, wird die socialsync für Twitter-Funktion am 24. Februar eingestellt. Socialsync für Facebook wird von diesem Update nicht beeinflusst. Wenn Sie Fragen oder Bedenken zu diesem Update haben, wenden Sie sich an Ihren Livefyre-CSM.
+SocialSync für Twitter gehört seit mehreren Jahren zu unseren Kernfunktionen. Da unser Produkt jedoch im Laufe der Zeit entwickelt und gewachsen ist, hat sich SocialSync für Twitter zu einer Funktion von geringerem Wert entwickelt, die derzeit von einem sehr kleinen Teil unserer Kundenbasis verwendet wird. Um die Gesamterfahrung von Livefyre für unsere Kunden zu verbessern und Entwicklungsressourcen auf Bereiche von größtem Wert zu konzentrieren, werden wir die Funktion SocialSync für Twitter am 24. Februar einstellen. SocialSync für Facebook wird von diesem Update nicht betroffen sein. Wenn Sie Fragen oder Bedenken zu diesem Update haben, wenden Sie sich bitte an Ihren Livefyre CSM.
 
 ## Produktionsversion {#section_r24_1m2_wy}
 
-| Ausgabentyp | Komponente | Versionshinweise |
+| Art des Problems | Komponente | Versionshinweise |
 |--- |--- |--- |
-| Bug | Medienpinnwand | Es wurde ein Fehler behoben, durch den Facebook-Videos ordnungsgemäß abgespielt werden konnten. |
-| Bug | Modq | Es wurde ein Fehler behoben, durch den E-Mail-Themen nicht im E-Mail-Stream-Inhalt angezeigt wurden. |
-| Bug | Mosaik | Mosaic unterstützt zusätzliche Barrierefreiheit, damit Benutzer die Registerkarte zwischen Inhaltskarten wechseln können. |
-| Bug | Reviews | Es wurde ein Fehler behoben, durch den keine Überprüfung der Überprüfung ordnungsgemäß angezeigt wurde. |
-| Bug | Social Search | Es wurde ein Fehler behoben, durch den die Schaltfläche Mehr anzeigen bei Twitter-Listen-Suchergebnissen abgeschnitten wurde. |
-| Verbesserung | Storify 2 | Verbesserte Storify 2 zur Unterstützung der kostenlosen Inhaltssuche. Kostenlose Suchen in Flickr, Noun Project, Kuler, Pixabay und Unsplash für kostenlose Bilder. |
-| Bug | Streams | Es wurde ein Fehler behoben, durch den Tumblr-Stream-Regeln nicht gespeichert wurden. |
-| Bug | Streams | Es wurde ein Fehler behoben, durch den in der Collection JSON für RSS Feeds falsche Generator-Ids erzeugt wurden. |
-| Verbesserung | Streams | Es wurde eine Anpassung an der Einstellung &quot;Nur bestätigte Konten&quot; vorgenommen, die standardmäßig deaktiviert werden soll. |
-| Verbesserung | Streams | Es wurde eine neue Funktion hinzugefügt, mit der Inhaltskategorien (über eine Stream-Regel) zugelassen und die Moderation umgehen können. |
-| Bug | Streams | Es wurde ein Fehler behoben, durch den die Einstellungen &quot;Premoderation&quot; und&quot; Media Premoderation&quot; in eine neu erstellte Stream-Regel übernommen wurden. |
+| Fehler | Medienwall | Es wurde ein Fehler behoben, durch den Facebook-Videos ordnungsgemäß abgespielt werden konnten. |
+| Fehler | ModQ | Es wurde ein Fehler behoben, der verhinderte, dass E-Mail-Subjekte nicht im E-Mail-Stream-Inhalt angezeigt wurden. |
+| Fehler | Mosaik | Mosaic wurde zusätzliche Barrierefreiheitsunterstützung hinzugefügt, damit Benutzer die Registerkarte zwischen Inhaltskarten wechseln können. |
+| Fehler | Reviews | Es wurde ein Fehler behoben, der verhinderte, dass Rating-Bearbeitungen korrekt angezeigt wurden. |
+| Fehler | Social-Suche | Es wurde ein Fehler behoben, der dazu führte, dass die Schaltfläche Mehr anzeigen in den Suchergebnissen der Twitter-Liste abgeschnitten wurde. |
+| Verbesserung | Storify 2 | Erweiterter Storify 2, um die Suche nach kostenlosen Inhalten zu unterstützen. Kopieren Sie die kostenlose Suche über Flickr, Noun Project, Kuler, Pixabay und Unsplash nach kopierbaren Bildern. |
+| Fehler | Streams | Es wurde ein Fehler behoben, durch den Tumblr-Stream-Regeln nicht gespeichert werden konnten. |
+| Fehler | Streams | Es wurde ein Fehler behoben, der zu falschen Generator-IDs im Collection-JSON für RSS-Feeds führte. |
+| Verbesserung | Streams | Die Einstellung der Option "Nur verifizierte Konten"wurde entsprechend angepasst und ist standardmäßig deaktiviert. |
+| Verbesserung | Streams | Es wurde eine neue Funktion hinzugefügt, mit der Inhaltskategorien (über eine Stream-Regel) in die Positivliste eingetragen werden können und Moderationen umgangen werden können. |
+| Fehler | Streams | Es wurde ein Fehler behoben, der dazu führte, dass die Einstellungen "Vormäßig"und "Medien vormäßig"in eine neu erstellte Stream-Regel übernommen wurden. |
 
 ## UAT-Version {#section_dyx_yl2_wy}
 
-| Ausgabentyp | Komponente | Versionshinweise |
+| Art des Problems | Komponente | Versionshinweise |
 |--- |--- |--- |
-| Bug | Unterhaltungsapps | Verbesserte Unterhaltungsapps, um immer mit Benutzerprofilen zu verknüpfen, selbst ohne eine vollständige Authentifizierung. |
-| Bug | Mosaik | Es wurde ein Fehler behoben, der jetzt alle Twitter-Bilder über HTTPS bereitstellt. |
-| Bug | Social Search | Es wurde ein Fehler behoben, durch den das grüne &quot;gespeicherte&quot; Häkchen nicht angezeigt wurde, wenn Assets in Social Search gespeichert und Assets in der Bibliothek angezeigt wurden. |
-| Bug | Social Search | Es wurde ein Fehler behoben, durch den die Option &quot;Explizite Bilder verkleinern&quot; nicht ordnungsgemäß funktionierte. |
-| Verbesserung | Storify 2 | Verbesserte Storify 2, um Permalinks zu unterstützen, die ein Modal öffnen (zuvor würde die App zum Post-Ort auf der Seite führen). In Designer von Storify 2 haben wir eine Konfiguration hinzugefügt, um zwischen dem Verhalten &quot;Scroll&quot; und&quot; Modal&quot; zu wechseln. Das Verhalten von modalen Permalink ist ein Standardverhalten. |
-| Verbesserung | Storify 2 | Die Storify 2 Google AMP-Integration wurde verbessert, um eine kleinere CSS-Datei zu erstellen. |
-| Bug | Streams | Verbesserte Inhalte (Bilder und Videos) aus E-Mail-Stream-Regeln, die über HTTPS verfügbar sein können. |
-| Bug | Streams | Es wurde eine Beschriftung für den Meilensteinwert in Maps in den Twitter Stream-Regeln hinzugefügt. |
-| Bug | Streams | Es wurde ein Fehler mit den Facebook- und Facebook-Seitenbibliotheksregeln behoben, mit dem Beiträge mit mehreren Medienanlagen ordnungsgemäß abgerufen werden konnten. |
-| Bug | Studio | Es wurde ein Fehler behoben, durch den mehrere &amp; s an die URL angehängt wurden, wenn Filter in Studio verwendet wurden. |
-| Bug | Studio | Es wurde ein Fehler behoben, durch den bestimmte Kontrollkästchen in Studio-Filtern nicht aktiviert werden konnten. |
+| Fehler | Konvertierungs-Apps | Erweiterte Konversations-Apps, um immer eine Verknüpfung zu Benutzerprofilen herzustellen, auch ohne vollständige Integration. |
+| Fehler | Mosaik | Es wurde ein Fehler behoben, durch den jetzt alle Twitter-Bilder über HTTPS bereitgestellt werden. |
+| Fehler | Social-Suche | Es wurde ein Fehler behoben, der dazu führte, dass das grüne Häkchen "gespeichert"beim Speichern von Assets in der Social-Suche und beim Anzeigen von Assets in der Bibliothek nicht angezeigt wurde. |
+| Fehler | Social-Suche | Es wurde ein Fehler behoben, durch den die Option "Explizite Bilder konfigurieren"nicht ordnungsgemäß funktionierte. |
+| Verbesserung | Storify 2 | Erweiterter Storify 2, um Permalinks zu unterstützen, die ein modales Öffnen unterstützen (zuvor scrollte die App zur Position des Beitrags auf der Seite). In Storify 2's Designer haben wir eine Konfiguration hinzugefügt, um zwischen Scroll- und Modal Permalink-Verhalten umzuschalten. Modales Permalink-Verhalten ist das Standardverhalten. |
+| Verbesserung | Storify 2 | Die Storify 2-Google AMP-Integration wurde erweitert, um eine kleinere CSS-Datei zu erstellen. |
+| Fehler | Streams | Verbesserter Inhalt (Bilder und Videos) aus E-Mail-Stream-Regeln, der über HTTPS verfügbar ist. |
+| Fehler | Streams | Es wurde eine Beschriftung für den Wert "Mile Radius"in Maps in Twitter-Stream-Regeln hinzugefügt. |
+| Fehler | Streams | Es wurde ein Fehler bei Facebook- und Facebook-SeitenSteam-Regeln behoben, der dazu führte, dass Beiträge mit mehreren Medienanlagen entsprechend abgerufen wurden. |
+| Fehler | Studio | Es wurde ein Fehler behoben, der dazu führte, dass mehrere &amp; s nicht an die URL angehängt wurden, wenn Filter in Studio verwendet wurden. |
+| Fehler | Studio | Es wurde ein Fehler behoben, durch den bestimmte Kontrollkästchen in Studio-Filtern nicht deaktiviert werden konnten. |
 
