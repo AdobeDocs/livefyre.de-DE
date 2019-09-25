@@ -1,29 +1,29 @@
 ---
-description: Verknüpfen Sie Ihr Studio-Konto mit Ihrem Livefyre-Konto, um alle Ihre Livefyre-Sites oder -netzwerke von einem einzelnen Standort aus moderieren oder verwalten zu können.
-seo-description: Verknüpfen Sie Ihr Studio-Konto mit Ihrem Livefyre-Konto, um alle Ihre Livefyre-Sites oder -netzwerke von einem einzelnen Standort aus moderieren oder verwalten zu können.
-seo-title: Verknüpfen von Benutzerkonten
+description: Verknüpfen Sie Ihr Studio-Konto mit Ihrem Livefyre-Konto, um alle Livefyre-Sites oder Netzwerke von einem einzigen Standort aus zu moderieren oder zu verwalten.
+seo-description: Verknüpfen Sie Ihr Studio-Konto mit Ihrem Livefyre-Konto, um alle Livefyre-Sites oder Netzwerke von einem einzigen Standort aus zu moderieren oder zu verwalten.
+seo-title: Benutzerkonten verknüpfen
 solution: Experience Manager
-title: Verknüpfen von Benutzerkonten
-uuid: f 1106367-64 f 9-4304-aa 04-f 931 f 79 ffd 6 d
+title: Benutzerkonten verknüpfen
+uuid: f1106367-64f9-4304-aa04-f931f79ffd6d
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Verknüpfen von Benutzerkonten{#link-user-accounts}
+# Benutzerkonten verknüpfen{#link-user-accounts}
 
-Verknüpfen Sie Ihr Studio-Konto mit Ihrem Livefyre-Konto, um alle Ihre Livefyre-Sites oder -netzwerke von einem einzelnen Standort aus moderieren oder verwalten zu können.
+Verknüpfen Sie Ihr Studio-Konto mit Ihrem Livefyre-Konto, um alle Livefyre-Sites oder Netzwerke von einem einzigen Standort aus zu moderieren oder zu verwalten.
 
 >[!NOTE]
 >
->Um mit einer Livefyre-App zu interagieren (z. B. hinterlassen eines Kommentars, Hinzufügen einer Sidenote oder Freigeben von Inhalten), müssen Sie sich mit Ihrem Livefyre-Kontobenutzernamen und -kennwort und nicht mit Ihrem Studio-Konto und Kennwort anmelden.
+>Um mit einer Livefyre-App zu interagieren (z. B. einen Kommentar hinterlassen, einen Sidenote hinzufügen oder Inhalte freigeben), müssen Sie sich mit Ihrem Livefyre-Konto-Benutzernamen und -Kennwort anmelden und nicht mit Ihrem Studio-Konto-Benutzernamen und -Kennwort.
 
 So verknüpfen Sie Konten:
 
 1. Melden Sie sich bei Studio an, nachdem Sie ein Livefyre-Benutzerprofil in Ihrem Netzwerk erstellt haben.
-1. Navigieren Sie zu **[!UICONTROL Users]** Ihrem Benutzerprofil und doppelklicken Sie, um Details anzuzeigen.
-1. Klicken **[!UICONTROL Connect account]** Sie auf.
+1. Gehen Sie zu **[!UICONTROL Users]**, suchen Sie Ihr Benutzerprofil und doppelklicken Sie auf , um Details anzuzeigen.
+1. Klicken Sie auf **[!UICONTROL Connect account]**.
 1. Wählen Sie im daraufhin geöffneten Fenster das Benutzerkonto aus, das mit diesem Konto verknüpft werden soll.
-1. Bestätigen Sie die **[!UICONTROL Link Profile]** Informationen und klicken **[!UICONTROL Link]** Sie auf. ![](assets/UsersConnectAccount-1024x311.png)
+1. Bestätigen Sie die **[!UICONTROL Link Profile]** Informationen und klicken Sie auf **[!UICONTROL Link]**. ![](assets/UsersConnectAccount-1024x311.png)
 
