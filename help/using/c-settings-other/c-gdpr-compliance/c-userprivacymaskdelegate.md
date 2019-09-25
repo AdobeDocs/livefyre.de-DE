@@ -1,27 +1,27 @@
 ---
-description: Sie können den Warntext ändern, der bei Videomasken angezeigt wird.
-seo-description: Sie können den Warntext ändern, der bei Videomasken angezeigt wird.
-seo-title: Userprivacymaskdelegate
+description: Sie können den Warnungstext ändern, der auf Videomasken angezeigt wird.
+seo-description: Sie können den Warnungstext ändern, der auf Videomasken angezeigt wird.
+seo-title: userPrivacyMaskDelegate
 solution: Experience Manager
-title: Userprivacymaskdelegate
-uuid: 8 e 5 a 2750-bf 45-4 e 70-a 5 f 9-37 f 5 e 7 c 61 f 8 e
+title: userPrivacyMaskDelegate
+uuid: 8e5a2750-bf45-4e70-a5f9-37f5e7c61f8e
 translation-type: tm+mt
-source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
+source-git-commit: 9e01dd4515c01154e3566a39b367b8efa4ec082a
 
 ---
 
 
-# Userprivacymaskdelegate{#userprivacymaskdelegate}
+# userPrivacyMaskDelegate{#userprivacymaskdelegate}
 
-Sie können den Warntext ändern, der bei Videomasken angezeigt wird.
+Sie können den Warnungstext ändern, der auf Videomasken angezeigt wird.
 
-Dieser Text ist vorhanden, um die GDPR-Regel einzuhalten. Wenn eine Quelle einen Proxy nicht unterstützt, zeigt Livefyre diesen Text und eine Maske auf dem Inhalt an, es sei denn, ein Benutzer klickt auf das Video und genehmigt die potenzielle Verfolgung aus dieser Quelle.
+Dieser Text entspricht der GDPR-Verordnung. Wenn eine Quelle keinen Proxy unterstützt, zeigt Livefyre diesen Text und eine Maske für den Inhalt an, es sei denn, ein Benutzer klickt auf das Video und genehmigt die potenzielle Verfolgung aus dieser Quelle.
 
 Wenn Sie nicht verwenden `userPrivacyMaskDelegate`, wird der folgende Standardtext angezeigt:
 
-Hinzufügen `userPrivacyMaskDelegate` nach `userPrivacyOptOut`. Sie können alle Livefyre-Datenschutzmarkierungen gleichzeitig als Teil eines Livefyre-Objekts hinzufügen.
+Fügen Sie `userPrivacyMaskDelegate` nach `userPrivacyOptOut`. Sie können alle Livefyre-Datenschutzkennzeichnungen gleichzeitig als Teil eines Livefyre-Objekts hinzufügen.
 
-Hier sehen Sie ein Beispiel für die Verwendung `userPrivacyMaskDelegate`:
+Hier ein Beispiel für die Verwendung `userPrivacyMaskDelegate`:
 
 ```
 userPrivacyMaskDelegate: function () { 
