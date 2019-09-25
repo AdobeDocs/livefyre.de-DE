@@ -1,31 +1,31 @@
 ---
 seo-title: Livefyre-Hilfe
 solution: Experience Manager
-title: Livefyre-Implementierungshilfe
-uuid: ccdede 9 b -88 d 3-4 e 6 e -9105-662 e 984002 d 5
+title: Hilfe zur Livefyre-Implementierung
+uuid: ccdede9b-88d3-4e6e-9105-662e984002d5
 translation-type: tm+mt
 source-git-commit: bf49abcfe0d29a1fa332161179d37ea14e7efb09
 
 ---
 
 
-# Experience Manager Livefyre-Implementierungshandbuch {#livefyre-help}
+# Experience Manager Livefyre Implementierungshandbuch {#livefyre-help}
 
-Implementieren Sie Livefyre Studio und Livefyre-Apps auf Ihrer Website mithilfe von Developer Tools, um Ihr Erlebnis anzupassen.
+Implementieren Sie Livefyre Studio- und Livefyre-Apps mithilfe von Entwicklerwerkzeugen, um Ihr Erlebnis anzupassen.
 
-Informationen zum Verwenden von Livefyre Studio und Livefyre Apps in Livefyre Studio finden Sie im [*Adobe Experience Manager Livefyre Benutzerhandbuch*](/help/using/home.md).
+Informationen zur Verwendung von Livefyre Studio und Livefyre-Apps in Livefyre Studio finden Sie im [*Adobe Experience Manager Livefyre-Benutzerhandbuch*](/help/using/home.md).
 
-## Beliebte Themen
+## Häufige Themen
 
 * [Erste Schritte mit der Implementierung](c-getting-started/c-getting-started.md)
 
 * [Verwenden von Livefyre-Apps mit Adobe Experience Manager](https://helpx.adobe.com/experience-manager/6-4/sites/administering/using/livefyre.html)
 
-* [Android SDK für Mobile](c-mobile-sdks/c-android-sdk.md)
+* [Android SDK for Mobile](c-mobile-sdks/c-android-sdk.md)
 
-* [Integration von Kommentaren mit den Developer Tools](/help/implementation/c-app-integrations/c-comments-integration/c-comments-integration.md)
+* [Integrieren von Kommentaren mit den Entwicklerwerkzeugen](/help/implementation/c-app-integrations/c-comments-integration/c-comments-integration.md)
 
-* [Integrieren von Apps mit Developer Tools](/help/implementation/c-getting-started/c-implementation-process/c-implementation-process.md)
+* [Integrieren von Apps mit den Developer Tools](/help/implementation/c-getting-started/c-implementation-process/c-implementation-process.md)
 
 * [Verwenden von Livefyre mit Analytics-Werkzeugen](/help/implementation/livefyre-analytics/livefyre-analytics.md)
 
