@@ -1,23 +1,23 @@
 ---
-description: Gibt ein Collection-Objekt zurück, das als Zähltyp instanziiert wird. Führen Sie create_ or_ update () aus dem Collection-Objekt aus, um den Build-Prozess abzuschließen.
-seo-description: Gibt ein Collection-Objekt zurück, das als Zähltyp instanziiert wird. Führen Sie create_ or_ update () aus dem Collection-Objekt aus, um den Build-Prozess abzuschließen.
-seo-title: Buildcountingcollection-Site-Methode
-title: Buildcountingcollection-Site-Methode
-uuid: e 293 d 66 a -0025-4230-997 e -295 ce 4625713
+description: Gibt ein Collection-Objekt zurück, das als Zählungstyp instanziiert wurde. Führen Sie create_or_update() vom Collection-Objekt aus, um den Build-Prozess abzuschließen.
+seo-description: Gibt ein Collection-Objekt zurück, das als Zählungstyp instanziiert wurde. Führen Sie create_or_update() vom Collection-Objekt aus, um den Build-Prozess abzuschließen.
+seo-title: buildCountingCollection-Site-Methode
+title: buildCountingCollection-Site-Methode
+uuid: e293d66a-0025-4230-997e-295ce4625713
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Buildcountingcollection-Site-Methode{#buildcountingcollection-site-method}
+# buildCountingCollection-Site-Methode{#buildcountingcollection-site-method}
 
-Gibt ein Collection-Objekt zurück, das als Zähltyp instanziiert wird. Führen Sie create_ or_ update () aus dem Collection-Objekt aus, um den Build-Prozess abzuschließen.
+Gibt ein Collection-Objekt zurück, das als Zählungstyp instanziiert wurde. Führen Sie create_or_update() vom Collection-Objekt aus, um den Build-Prozess abzuschließen.
 
 | Variable | Typ | Beschreibung |
 |--- |--- |--- |
-| Titel | Zeichenfolge | Der Titel für die Sammlung. |
-| Articleid | Zeichenfolge | Eine eindeutige Artikel-ID, die Sie zur Identifizierung einer Sammlung innerhalb Ihrer Site auswählen. |
+| title | Zeichenfolge | Der Titel der Sammlung. |
+| articleId | Zeichenfolge | Eine eindeutige Artikel-ID, die Sie zur Identifizierung einer Sammlung auf Ihrer Site gewählt haben. |
 | url | Zeichenfolge | Die kanonische absolute URL für diese Sammlung. |
 
 ## Java-Beispiel {#section_nyl_ycs_rz}
@@ -26,7 +26,7 @@ Gibt ein Collection-Objekt zurück, das als Zähltyp instanziiert wird. Führen 
 Collection collection = site.buildCountingCollection(title, articleId, url); 
 ```
 
-## Nodejs-Beispiel {#section_xkd_gds_rz}
+## NodeJS-Beispiel {#section_xkd_gds_rz}
 
 ```
 var collection = site.buildCountingCollection(title, articleId, url); 
@@ -38,7 +38,7 @@ var collection = site.buildCountingCollection(title, articleId, url);
 $collection = site->buildCountingCollection(title, articleId, url); 
 ```
 
-## Python Example {#section_dwg_gds_rz}
+## Python-Beispiel {#section_dwg_gds_rz}
 
 ```
 collection = site.build_counting_collection(title, articleId, url) 
