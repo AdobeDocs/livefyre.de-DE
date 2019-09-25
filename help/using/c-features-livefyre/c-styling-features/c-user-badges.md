@@ -1,9 +1,9 @@
 ---
-description: Verwenden Sie CSS mit Benutzertags, um Benutzerzeichen für Mitglieder Ihrer Community zu erstellen.
-seo-description: Verwenden Sie CSS mit Benutzertags, um Benutzerzeichen für Mitglieder Ihrer Community zu erstellen.
+description: Verwenden Sie CSS mit Benutzer-Tags, um Benutzerzeichen für Mitglieder Ihrer Community zu erstellen.
+seo-description: Verwenden Sie CSS mit Benutzer-Tags, um Benutzerzeichen für Mitglieder Ihrer Community zu erstellen.
 seo-title: Benutzerzeichen
 title: Benutzerzeichen
-uuid: ff 1451 e 1-7 eb 3-45 dc -8 c 5 a -1 a 6 d 1313 e 344
+uuid: ff1451e1-7eb3-45dc-8c5a-1a6d1313e344
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -12,14 +12,14 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Benutzerzeichen{#user-badges}
 
-Verwenden Sie CSS mit Benutzertags, um Benutzerzeichen für Mitglieder Ihrer Community zu erstellen.
+Verwenden Sie CSS mit Benutzer-Tags, um Benutzerzeichen für Mitglieder Ihrer Community zu erstellen.
 
-Benutzerabzeichen sind benutzerdefinierte Formatierungsfunktionen, mit denen Sie Livefyre-Inhalte, die von bestimmten Benutzertypen gepostet werden (z. B. Moderatoren, Editoren oder andere Benutzergruppen, die Sie definieren möchten) auf Livefyre Chat, Kommentare, Reviews oder Live-Blog-Apps festlegen können. Dadurch können Sie diesen Inhalt Ihren Benutzern hervorheben.
+Benutzerabzeichen sind benutzerdefinierte Gestaltungsfunktionen, mit denen Sie Livefyre-Inhalte gestalten können, die von bestimmten Benutzertypen (wie Moderatoren, Editoren oder anderen Benutzergruppen, die Sie definieren möchten) in Livefyre-Chat, -Kommentare, -Reviews oder Live-Blog-Apps veröffentlicht wurden. Dadurch können Sie diese Inhalte für Ihre Benutzer hervorheben.
 
 Apps, die diese Funktion verwenden:
 
 * [Chat](../../c-about-apps/c-chat-app/c-chat-app.md#c_chat_app)
 * [Kommentare](/help/using/c-about-apps/c-comments/c-comments.md)
 * [Reviews](../../c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
-* [Zielgruppen](../../c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
+* [Sir](../../c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 
