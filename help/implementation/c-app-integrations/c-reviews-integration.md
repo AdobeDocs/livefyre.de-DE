@@ -1,10 +1,10 @@
 ---
-description: Kunden können Ihre Produktangebote bewerten und überprüfen.
-seo-description: Kunden können Ihre Produktangebote bewerten und überprüfen.
+description: Ermöglichen Sie Kunden, Ihre Produktangebote zu bewerten und zu überprüfen.
+seo-description: Ermöglichen Sie Kunden, Ihre Produktangebote zu bewerten und zu überprüfen.
 seo-title: Reviews
 solution: Experience Manager
 title: Reviews
-uuid: b 740 ee 28-f 6 f 9-4 ae 7-9 fe 7-61 a 5 cde 97 bbb
+uuid: b740ee28-f6f9-4ae7-9fe7-61a5cde97bb
 translation-type: tm+mt
 source-git-commit: 987e682f9c7cd94543fd269f386fd2a971ee9934
 
@@ -13,13 +13,13 @@ source-git-commit: 987e682f9c7cd94543fd269f386fd2a971ee9934
 
 # Reviews {#reviews}
 
-Kunden können Ihre Produktangebote bewerten und überprüfen.
+Ermöglichen Sie Kunden, Ihre Produktangebote zu bewerten und zu überprüfen.
 
-Mithilfe von Reviews können Mitglieder Ihrer Community Bewertungssterne und Qualitätsprüfungen für beliebige Produkte oder Dienstleistungen durchführen.
+Reviews ermöglichen es Mitgliedern Ihrer Community, Sternbewertungen und qualitative Rezensionen für jedes Produkt oder jede Dienstleistung beizutragen.
 
-## Integration{#section_kk5_15b_c1b}
+## Integration {#section_kk5_15b_c1b}
 
-Um eine Review-App zu integrieren, befolgen Sie das Verfahren zur Integration einer Konversation-App. Siehe [Einbetten einer App](/help/implementation/c-livefyre-identity-comp/t-using-studio-to-connect-your-social-apps-to-your-livefyre-implementation.md). Im Folgenden finden Sie ein Beispiel für eine eingebettete Review-App.
+Gehen Sie zum Integrieren einer Reviews-App wie folgt vor, um eine Konversations-App zu integrieren. Siehe [Einbetten einer App](/help/implementation/c-livefyre-identity-comp/t-using-studio-to-connect-your-social-apps-to-your-livefyre-implementation.md). Im Folgenden finden Sie ein Beispiel für eine eingebettete Reviews-App.
 
 ### Beispiel 
 
@@ -48,7 +48,7 @@ Livefyre.require(['fyre.conv#3'], function (Review) {
 });
 ```
 
-Wie im Abschnitt &quot;Erstellen `CollectionMeta` « `CollectionMeta` angegeben, ist ein kodiertes JSON-Objekt. Im obigen Beispiel akzeptiert das JSON-Objekt das folgende Format, bevor es JWT-kodiert ist:
+Wie im `CollectionMeta` Abschnitt "Erstellen"angegeben, `CollectionMeta` ist ein kodiertes JSON-Objekt. Im obigen Beispiel nimmt das JSON-Objekt das folgende Format vor, bevor es JWT-kodiert wird:
 
 ```
 { 
@@ -60,44 +60,44 @@ Wie im Abschnitt &quot;Erstellen `CollectionMeta` « `CollectionMeta` angegeben,
 }
 ```
 
-## Convconfig-Objekt {#section_pzv_ytb_c1b}
+## convConfig-Objekt {#section_pzv_ytb_c1b}
 
-Wenn Sie den Abschnitt Erste Schritte bereits abgeschlossen haben, sollten Sie mit dem contconfig-Objekt vertraut sein. Um Reviews zu aktivieren, aktualisieren Sie das contconfig mit den folgenden Feldern:
+Wenn Sie den Abschnitt "Erste Schritte"bereits abgeschlossen haben, sollten Sie mit dem convConfig-Objekt vertraut sein. Um Reviews zu aktivieren, aktualisieren Sie convConfig mit den folgenden Feldern:
 
-* **Alwaysshoweditor** *optionaler* boolescher Wert: Der Review-Editor wird standardmäßig erst angezeigt, wenn der Benutzer die Schaltfläche &quot;Lesen&quot; drückt. Legen Sie diesen Parameter auf true fest, um den Editor immer anzuzeigen.
+* **alwaysShowEditor** *optional* boolean: Standardmäßig wird der Überprüfungs-Editor nur angezeigt, wenn der Benutzer auf die Schaltfläche "Überprüfung schreiben"klickt. Setzen Sie diesen Parameter auf true, um den Editor immer anzuzeigen.
 
-* **App** *erforderliche* Zeichenfolge: Der für Überprüfungen zu verwendende App-Name. Muss &quot;reviews&quot; lauten.
+* **App** - *erforderliche* Zeichenfolge: Der App-Name, der für Reviews verwendet wird. Muss "Reviews" sein.
 
-* **Defaultsoptionale**** Zeichenfolge: Ermöglicht die Auswahl der Standardsortieroption für Reviews. Mögliche Werte sind: Momentarelpful, highestrated, lowestrated, newest und älteste.
+* **defaultSort** *optional* string: Ermöglicht die Auswahl der Standardsortierungsoption für Reviews. Mögliche Werte sind: mostHelpful, maximumRated, niedrigsteRated, neueste und älteste.
 
-* **Disabletitle** *optionaler* boolescher Wert: Deaktiviert und blendet das Titelfeld im Editor für Überprüfungen aus, das standardmäßig erforderlich und sichtbar ist. Der Standardwert ist &quot;true&quot; .
+* **disableTitle** *optional* boolean: Deaktiviert und blendet das Titelfeld im Überprüfungseditor aus, was standardmäßig erforderlich und sichtbar ist. Der Standardwert ist "true".
 
-* **Enablehalfrating** *optionaler* Boolescher Wert: Wird verwendet, um die Hälfte am Standard-Star-Auswahlmodul zu aktivieren. Der Standardwert ist &quot;true&quot; .
+* **enableHalfRating** *optional* boolean: Dient zum Aktivieren von Halbwerten im Standardauswahlmodul für Stern. Der Standardwert ist "true".
 
-* **Hideshowreviewbutton** *optionaler* boolescher Wert: Steuert, ob die [!UICONTROL Show My Review] Schaltfläche angezeigt wird. Legen Sie &quot;true&quot; fest, damit Ihre Benutzer auswählen können, ob ihre eigenen Überprüfungen angezeigt oder angezeigt werden sollen.
+* **hideShowReviewButton** *optional* boolean: Steuert, ob die [!UICONTROL Show My Review] Schaltfläche angezeigt wird. Auf "true"setzen, damit Ihre Benutzer auswählen können, ob sie eigene Reviews anzeigen oder anzeigen möchten.
 
-* **Optionale** ** integer-Ganzzahl Verwendet, um die Anzahl der Sterne festzulegen, die im Standard-Stern-Auswahlmodul angezeigt werden. Der Standardwert ist 5. Dies kann bis zu 100 konfiguriert werden.
+* **maxRating** *optional* integer Wird verwendet, um die Anzahl der Sterne festzulegen, die im Standard-Stern-Auswahlmodul angezeigt werden. Standardwert ist 5. Diese kann bis zu 100 konfiguriert werden.
 
-* **Variabsummaryenable** *optionaler* boolescher Wert: Wird verwendet, um die Übersicht über die Bewertungszusammenfassung über der Übersichts-App anzuzeigen. Dies muss für die Verwendung der variabsummarydelegate aktiviert werden. Der Standardwert ist &quot;true&quot; .
+* **ratingSummaryEnabled** *optional* boolean: Wird verwendet, um die Ansicht der Bewertungszusammenfassung über der Reviews-App anzuzeigen. Dies muss aktiviert sein, damit ratingSummaryDelegate verwendet werden kann. Der Standardwert ist "true".
 
-## Überprüfungsmetadaten überprüfen {#section_k1s_sqb_c1b}
+## Sammlungsmetadaten überprüfen {#section_k1s_sqb_c1b}
 
-* **type:***erforderliche* Zeichenfolge: Definiert den Sammlungstyp. `reviews`Muss sein.
+* **** type: *erforderliche* Zeichenfolge: Definiert den Sammlungstyp. Muss `reviews`sein.
 
-* **Variabdimensions** *optionales* Array: Ein Array von Zeichenfolgen für jeden Dimensionstyp, den diese Sammlung verwendet. Wenn dies nicht angegeben ist, wird nur 1 Dimension zugelassen.
+* **ratingDimensions** *optional* array: Ein Zeichenfolgen-Array für jeden Dimensionstyp, den diese Sammlung verwenden wird. Wenn dies nicht angegeben ist, ist nur 1 Dimension zulässig.
 
-   Damit beispielsweise Benutzer Ihr Produkt unter &quot;Design&quot; ,&quot; Funktionen&quot; und &quot;Leistung&quot; bewerten können, legen Sie das Array auf: `ratingDimensions: [‘design’, ‘features’, ‘performance’]`
+   Damit Benutzer Ihr Produkt z. B. nach "Design", "Funktionen"und "Leistung"bewerten können, setzen Sie das Array auf: `ratingDimensions: [‘design’, ‘features’, ‘performance’]`
 
-* **Variabsubparts** *optionale* Ganzzahl: Anzahl der im Textfeld der Überprüfung anzuzeigenden Partitionen. Die Unterteilbeschriftungen werden wie unten dargestellt mit dem Parameter weitergegeben.
+* **ratingSubparts** *optional* integer: Anzahl der im Textfeld des Reviews anzuzeigenden Partitionen. Die Teilteilbezeichnungen werden mit dem Parameter wie unten dargestellt weitergegeben.
 
    >[!NOTE]
-   >Sie müssen Beschriftungen für jeden Teilabschnitt definieren.
+   >Sie müssen für jeden Unterabschnitt Bezeichnungen definieren.
 
-* **Variabsubpartsids** *optionales* Array: Ermöglicht es Ihnen, eine ID für jeden Teilabschnitt in Ihrer Ratings-Sammlung zu definieren, der verwendet werden kann, um diese Unterteilelemente in Ihrem CSS und javascript abzuzielen. Wenn Benutzer Überprüfungen beisteuern, wird jeweils `ratingSubpart` das Attribut &quot; `data-lf-subpart-id`«enthalten, das mit dieser ID ausgefüllt wird.
+* **ratingSubpartsIds** *optional* array: Ermöglicht Ihnen die Definition einer ID für jeden Unterteil in Ihrer Ratings-Sammlung, der verwendet werden kann, um diese Unterteilelemente in Ihrer CSS und JavaScript als Ziel festzulegen. Wenn Benutzer Reviews posten, `ratingSubpart` wird auf jedem das Attribut " `data-lf-subpart-id`"mit dieser ID gefüllt.
 
 >[!NOTE]
 >
->Zur Verwendung `ratingSubpartsIds`muss der `ratingSubparts` Parameter ebenfalls definiert werden und die Länge der beiden Arrays muss übereinstimmen.
+>Zur Verwendung `ratingSubpartsIds`muss auch der `ratingSubparts` Parameter definiert werden und die Länge der beiden Arrays muss übereinstimmen.
 
 ```
 networkConfig["strings"] = { 
@@ -115,26 +115,26 @@ fyre.conv.load(networkConfig, [{
 
 >[!NOTE]
 >
->Wenn Sie verwenden `ratingDimensions`, müssen SIE DIE, `ratingSelectionDelegate``ratingDisplayDelegate`UND ( `ratingSummaryDelegate` wenn Sie die Bewertungszusammenfassung anzeigen möchten) verwenden.
+>Wenn Sie `ratingDimensions`die Bewertungszusammenfassung verwenden, MÜSSEN Sie die `ratingSelectionDelegate`, `ratingDisplayDelegate`und verwenden `ratingSummaryDelegate` (wenn Sie die Bewertungszusammenfassung anzeigen möchten).
 
-## Reviews anpassen {#section_khz_xmb_c1b}
+## Korrekturanpassung {#section_khz_xmb_c1b}
 
-### Konfigurieren von Stern-Bildern
+### Star-Bilder konfigurieren
 
-Um das Bild für vollständige Sterne zu ändern, lautet `goog-ratings-star`die Klasse. Ändern Sie das Hintergrundbild in das gewünschte Bild. Standardmäßig sind Sterne 28 x 28 Pixel.
+Um das Bild für volle Sterne zu ändern, ist die Klasse `goog-ratings-star`. Ändern Sie das Hintergrundbild in das gewünschte Bild. Standardmäßig sind die Sterne 28 x 28 Pixel groß.
 
-### Konfigurieren von Stern-Bildern mit Halbsterne
+### Konfigurieren von Star-Bildern mit Half-Sternen
 
-Bei Halbwertern gibt es zwei Klassen, eine für jede Seite des Stern. Die linke Seite des halben Stern ist und `fyre-rating-half-odd``fyre-rating-half-even`die rechte Seite. Standardmäßig sind die Halbsterne 28 x 14 Pixel.
+Mit halben Sternen gibt es zwei Klassen, eine für jede Seite des Sterns. Die linke Seite des Halbsterns ist `fyre-rating-half-odd` und die rechte Seite ist `fyre-rating-half-even`. Standardmäßig sind halbe Sterne 28 x 14 Pixel groß.
 
-### Quickinfo-Werte für Sterne konfigurieren
+### QuickInfo-Werte für Sterne konfigurieren
 
-Zum Konfigurieren der quickinfo-Werte für die Sterne folgen Sie dem in der Zeichenfolgenanpassung beschriebenen benutzerdefinierten Text. Sobald Sie diese Einstellung eingerichtet haben, verwenden Sie den Schlüssel `ratingValues` und den Wert ein Array, das die quickinfo-Zeichenfolgen enthält. Wenn Sie über die Hälfte Sterne deaktiviert haben, muss die Anzahl der Elemente im Array mit `maxRating` dem Wert (oben) übereinstimmen. Wenn Sie die Hälfte der Sterne aktiviert haben, sollte die Anzahl der Elemente 2 x `maxRating`betragen. Das erste Element im Array entspricht dem Sternchen (oder halber Stern) und fährt von links nach rechts fort.
+Um die QuickInfo-Werte für die Sterne zu konfigurieren, folgen Sie dem unter Zeichenfolgenanpassung beschriebenen benutzerdefinierten Text. Verwenden Sie nach der Einrichtung den Schlüssel `ratingValues` und den Wert eines Arrays, das die QuickInfo-Zeichenfolgen enthält. Wenn Halbsterne deaktiviert sind, sollte die Anzahl der Elemente im Array mit der `maxRating` (oben) identisch sein. Wenn Halbsterne aktiviert sind, sollte die Anzahl der Elemente 2x `maxRating`betragen. Das erste Element im Array entspricht dem Element mit dem linken Stern (oder dem halben Stern) und fährt von links nach rechts fort.
 
-### Option &quot;Meine Überprüfung anzeigen&quot; aktivieren/deaktivieren
+### Die Option "Überprüfung anzeigen"aktivieren/deaktivieren
 
 Um die [!UICONTROL Show My Review] Option ein- oder auszuschalten, wählen Sie den `hideShowReviewButton` Parameter in der App-Konfiguration aus.
 
 ### Texteditor standardmäßig anzeigen
 
-Der Review-Editor wird erst angezeigt, wenn der Benutzer die [!UICONTROL write review] Schaltfläche drückt. Um dieses Formular standardmäßig anzuzeigen, wählen Sie den `alwaysShowEditor` Parameter in der App-Konfiguration aus.
+Der Überprüfungs-Editor wird nur angezeigt, wenn der Benutzer auf die [!UICONTROL write review] Schaltfläche klickt. Um dieses Formular standardmäßig anzuzeigen, wählen Sie den `alwaysShowEditor` Parameter in der App-Konfiguration aus.
