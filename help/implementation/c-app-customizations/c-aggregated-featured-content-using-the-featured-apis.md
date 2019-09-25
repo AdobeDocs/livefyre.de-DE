@@ -1,23 +1,23 @@
 ---
-description: Livefyre bietet vier spezielle apis, mit denen Sie die 50 zuletzt hervorgehobenen Elemente für das Eingabenetzwerk, die Site oder die Sammlung abrufen können, oder die beiden Inhaltselemente oben in einer Eingabesammlung.
-seo-description: Livefyre bietet vier spezielle apis, mit denen Sie die 50 zuletzt hervorgehobenen Elemente für das Eingabenetzwerk, die Site oder die Sammlung abrufen können, oder die beiden Inhaltselemente oben in einer Eingabesammlung.
-seo-title: Aggregierte Inhalte mit den speziellen apis
+description: Livefyre bietet vier spezielle APIs, mit denen Sie die 50 zuletzt hervorgehobenen Inhaltselemente für das Eingabenetzwerk, die Site oder die Sammlung oder die beiden Inhaltselemente, die oben in einer Eingabesammlung vorgestellt werden, abrufen können.
+seo-description: Livefyre bietet vier spezielle APIs, mit denen Sie die 50 zuletzt hervorgehobenen Inhaltselemente für das Eingabenetzwerk, die Site oder die Sammlung oder die beiden Inhaltselemente, die oben in einer Eingabesammlung vorgestellt werden, abrufen können.
+seo-title: Aggregierte spezielle Inhalte mit den speziellen APIs
 solution: Experience Manager
-title: Aggregierte Inhalte mit den speziellen apis
-uuid: e 9 c 9 ff 26-37 b 6-4328-af 85-aa 550 e 7 ffdfd
+title: Aggregierte spezielle Inhalte mit den speziellen APIs
+uuid: e9c9ff26-37b6-4328-af85-aa550e7ffdfd
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Aggregierte Inhalte mit den speziellen apis{#aggregated-featured-content-using-the-featured-apis}
+# Aggregierte spezielle Inhalte mit den speziellen APIs{#aggregated-featured-content-using-the-featured-apis}
 
-Livefyre bietet vier spezielle apis, mit denen Sie die 50 zuletzt hervorgehobenen Elemente für das Eingabenetzwerk, die Site oder die Sammlung abrufen können, oder die beiden Inhaltselemente oben in einer Eingabesammlung.
+Livefyre bietet vier spezielle APIs, mit denen Sie die 50 zuletzt hervorgehobenen Inhaltselemente für das Eingabenetzwerk, die Site oder die Sammlung oder die beiden Inhaltselemente, die oben in einer Eingabesammlung vorgestellt werden, abrufen können.
 
-## Empfohlen (Netzwerk) {#section_cgm_1nw_xz}
+## Vorgestellt (Netzwerk) {#section_cgm_1nw_xz}
 
-Ruft die 50 aktuellsten Artikel (und deren Autoren) für das Eingabenetzwerk ab. (Verwenden Sie Paging, um den gesamten Inhalt zurückzugeben, statt nur die letzten 50.)
+Ruft die 50 aktuellsten Teile mit speziellen Inhalten (und deren Autoren) für das Eingabenetzwerk ab. (Verwenden Sie Paging, um alle Inhalte zurückzugeben, anstatt nur die letzten 50.)
 
 **Ressource**
 
@@ -151,9 +151,9 @@ GET https://{networkName}.bootstrap.fyre.co/bs3/v3.1/{network}/featured
 }
 ```
 
-## Empfohlen (Site) {#section_lq5_ymw_xz}
+## Vorgestellt (Site) {#section_lq5_ymw_xz}
 
-Gibt die 50 aktuellsten Elemente von (und dessen Autoren) für die Eingabesite zurück. (Verwenden Sie Paging, um den gesamten Inhalt zurückzugeben, statt nur die letzten 50.)
+Gibt die 50 aktuellsten Teile des speziellen Inhalts (und dessen Autoren) für die Eingabe-Site zurück. (Verwenden Sie Paging, um alle Inhalte zurückzugeben, anstatt nur die letzten 50.)
 
 **Ressource**
 
@@ -253,9 +253,9 @@ GET https://{networkName}.bootstrap.fyre.co/bs3/v3.1/{network}/{siteId}/featured
 }
 ```
 
-## Empfohlen (Sammlung) {#section_kgc_xmw_xz}
+## Vorgestellt (Sammlung) {#section_kgc_xmw_xz}
 
-Gibt die 50 aktuellsten Elemente von (und dessen Autoren) für die Eingabesammlung zurück. (Verwenden Sie Paging, um den gesamten Inhalt zurückzugeben, statt nur die letzten 50.)
+Gibt die 50 aktuellsten Teile des speziellen Inhalts (und dessen Autoren) für die Eingabesammlung zurück. (Verwenden Sie Paging, um alle Inhalte zurückzugeben, anstatt nur die letzten 50.)
 
 **Ressource**
 
@@ -355,9 +355,9 @@ GET https://{networkName}.bootstrap.fyre.co/bs3/v3.1/{network}/{siteId}/{b64arti
 }
 ```
 
-## Empfohlen (Head) {#section_n4b_lmw_xz}
+## Vorgestellt (Head) {#section_n4b_lmw_xz}
 
-Gibt die beiden zuletzt hervorgehobenen Inhaltselemente für die Eingabesammlung zurück.
+Gibt die beiden zuletzt herausgegebenen Inhaltselemente für die Eingabesammlung zurück.
 
 **Ressource**
 
