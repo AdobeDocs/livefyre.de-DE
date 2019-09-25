@@ -1,26 +1,26 @@
 ---
-description: Sie können Ihre Videodomäne mit einer Whitelist versehen.
-seo-description: Sie können Ihre Videodomäne mit einer Whitelist versehen.
-seo-title: Userprivacyvideowhitelist
+description: Sie können Ihre Videodomäne mit der Whitelist .
+seo-description: Sie können Ihre Videodomäne mit der Whitelist .
+seo-title: userPrivacyVideoWhitelist
 solution: Experience Manager
-title: Userprivacyvideowhitelist
-uuid: adfead 18-b 73 b -4 ac 4-97 a 0-d 39 f 528 b 7606
+title: userPrivacyVideoWhitelist
+uuid: adfead18-b73b-4ac4-97a0-d39f528b7606
 translation-type: tm+mt
-source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Userprivacyvideowhitelist{#userprivacyvideowhitelist}
+# userPrivacyVideoWhitelist{#userprivacyvideowhitelist}
 
-Wenn Sie Ihre eigenen Videos und Player als Teil der Videos verwenden, die in einer Livefyre-Visualisierungsapp angezeigt werden, können Sie Ihre Videodomäne whitelist. Durch die Whitelisting Ihrer Videodomäne wird die Videomaske für Ihre benutzerdefinierten Videos und Player entfernt.
+Wenn Sie Ihre eigenen Videos und Player als Teil der Videos verwenden, die in einer Livefyre-Visualisierungs-App angezeigt werden, können Sie Ihre Videodomäne auf eine Whitelist setzen. Wenn Sie Ihre Videodomäne freigeben, wird die Videomaske für Ihre benutzerdefinierten Videos und Player entfernt.
 
 >[!NOTE]
 >
->Verwenden Sie spezifische Pfade, um sicherzustellen, dass nur sichere Videos in der Positivliste aufgeführt werden. Wenn Sie einen weit reichenden Pfad bereitstellen (z. B. sampledomain.com), können Sie möglicherweise unsichere Videos verwenden.
+>Verwenden Sie bestimmte Pfade, um sicherzustellen, dass nur die sicheren Videos in die Positivliste aufgenommen werden. Wenn Sie einen breiten Pfad angeben (z. B. sampledomain.com), können Sie unsichere Videos auf die Whitelist setzen.
 
-* Hinzufügen `userPrivacyVideoWhitelist` nach `userPrivacyOptOut`. Sie können alle Livefyre-Datenschutzmarkierungen gleichzeitig als Teil eines Livefyre-Objekts hinzufügen.
-* `userPrivacyVideoWhitelist` gilt nur für Inhalte, die nicht aus sozialen Medien eingebettet werden.
+* Fügen Sie `userPrivacyVideoWhitelist` nach `userPrivacyOptOut`. Sie können alle Livefyre-Datenschutzkennzeichnungen gleichzeitig als Teil eines Livefyre-Objekts hinzufügen.
+* `userPrivacyVideoWhitelist` gilt nur für Inhalte, die nicht in sozialen Medien eingebettet sind.
 
 Im folgenden Beispiel werden Videos, die in Apps mit dem `sampledomain.com/cdn/videos` Pfad angezeigt werden, in die Positivliste aufgenommen:
 
