@@ -1,21 +1,21 @@
 ---
-description: Beim Einbetten der Kommentarapp wird der Vorgang zum Einbetten einer Core-App ausgeführt.
-seo-description: Beim Einbetten der Kommentarapp wird der Vorgang zum Einbetten einer Core-App ausgeführt.
-seo-title: Kommentarapp einbetten
+description: Das Einbetten der Kommentaranwendung erfolgt nach dem Einbetten einer Core-App.
+seo-description: Das Einbetten der Kommentaranwendung erfolgt nach dem Einbetten einer Core-App.
+seo-title: Kommentaranwendung einbetten
 solution: Experience Manager
-title: Kommentarapp einbetten
-uuid: e 4982 ad 3-cab 1-4805-a 55 c -594 cca 3 b 7203
+title: Kommentaranwendung einbetten
+uuid: e4982ad3-cab1-4805-a55c-594cca3b7203
 translation-type: tm+mt
 source-git-commit: 268dc91369d346a254b7120706264eb91da8257e
 
 ---
 
 
-# Kommentarapp einbetten{#embed-a-comments-app}
+# Kommentaranwendung einbetten{#embed-a-comments-app}
 
-Beim Einbetten der Kommentarapp wird der Vorgang zum Einbetten einer Core-App ausgeführt.
+Das Einbetten der Kommentaranwendung erfolgt nach dem Einbetten einer Core-App.
 
-Einbetten der Kommentarapp folgt dem Einbetten einer Core-App, die unter &quot;App [einbetten&quot; beschrieben wird.](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md)
+Das Einbetten der Kommentaranwendung erfolgt nach dem Einbetten einer Core-App, wie unter [Einbetten einer App beschrieben.](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md)
 
 ## Beispiel 
 
@@ -54,7 +54,7 @@ Einbetten der Kommentarapp folgt dem Einbetten einer Core-App, die unter &quot;A
 </html>
 ```
 
-Wie im Abschnitt &quot;Erstellen von collectionmeta&quot; vermerkt, ist collectionmeta ein kodiertes JSON-Objekt. Im obigen Beispiel akzeptiert das JSON-Objekt das folgende Format, bevor es JWT-kodiert ist:
+Wie im Abschnitt zum Erstellen von CollectionMeta angegeben, ist CollectionMeta ein kodiertes JSON-Objekt. Im obigen Beispiel nimmt das JSON-Objekt das folgende Format vor, bevor es JWT-kodiert wird:
 
 ```
 { 
