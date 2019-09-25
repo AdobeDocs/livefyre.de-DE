@@ -1,10 +1,10 @@
 ---
-description: Erfahren Sie, wie der benutzergenerierte Inhalt, der durch das Livefyre-System fließt, überwacht und gespeichert wird.
-seo-description: Erfahren Sie, wie der benutzergenerierte Inhalt, der durch das Livefyre-System fließt, überwacht und gespeichert wird.
+description: Erfahren Sie, wie Sie die benutzergenerierten Inhalte überwachen und speichern, die über das Livefyre-System fließen.
+seo-description: Erfahren Sie, wie Sie die benutzergenerierten Inhalte überwachen und speichern, die über das Livefyre-System fließen.
 seo-title: Aktivitäts-Stream
 solution: Experience Manager
 title: Aktivitäts-Stream
-uuid: f 40 deec 1-58 ab -41 c 9-aac 4-d 2 d 8 c 9192 bb 9
+uuid: f40deec1-58ab-41c9-aac4-d2d8c9192bb9
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,17 +13,17 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Aktivitäts-Stream {#activity-stream}
 
-Erfahren Sie, wie der benutzergenerierte Inhalt, der durch das Livefyre-System fließt, überwacht und gespeichert wird.
+Erfahren Sie, wie Sie die benutzergenerierten Inhalte überwachen und speichern, die über das Livefyre-System fließen.
 
-Verwenden Sie die Activity Stream-API, um benutzergenerierte Daten zu nutzen, die durch das Livefyre-System in Ihrem Netzwerk oder Ihrer Site generiert werden. Beispiel: verwenden Sie Daten aus dieser API, um Ihre Suchindizes basierend auf Bewertungen zu aktualisieren oder die Markierungen von Benutzern in einem Drittanbietersystem basierend auf ihrer Aktivität zu verwalten.
+Verwenden Sie die Activity Stream-API, um vom Benutzer erstellte Daten zu nutzen, die über das Livefyre-System in Ihrem Netzwerk oder Ihrer Site fließen. Beispiel: Verwenden Sie Daten aus dieser API, um Ihre Suchindizes auf Grundlage von Bewertungen zu aktualisieren oder um die Abzeichen von Benutzern in einem Drittanbietersystem auf Grundlage ihrer Aktivität zu verwalten.
 
-Aktivitäts-Stream-API:
+Activity Stream-API:
 
-Eine vollständige Liste der verfügbaren Endpunkte finden Sie im Abschnitt &quot;Livefyre-API-Referenz&quot; .
+Eine vollständige Liste der verfügbaren Endpunkte finden Sie im Abschnitt zur Livefyre API-Referenz.
 
 ## Ressourcen {#section_aql_n4l_b1b}
 
-Es gibt zwei Endpunkte, eine für die Staging-Umgebung und eine für die Produktion.
+There are two endpoints, one for the staging environment, and one for production.
 
 ### Staging
 
@@ -39,38 +39,38 @@ GET https://bootstrap.livefyre.com/api/v3.1/activity/
 
 ### Parameter
 
-* **resource:***String* A URN des Objekts, für das Sie Aktivitätsdaten anfordern.
+* **** resource: *Zeichenfolge* Eine URL des Objekts, für das Sie Aktivitätsdaten anfordern.
 
-* **seit:***Integer* A 64-Bit Integer, der die ID des zuletzt empfangenen Ereignisses darstellt. Geben Sie &quot;0&quot; an, wenn keine vorherigen Daten vorliegen.
+* **** Seit: *integer* Eine 64-Bit-Ganzzahl, welche die ID des letzten empfangenen Ereignisses darstellt. Geben Sie "0"an, wenn Sie keine vorherigen Daten haben.
 
 ## URN-Zeichenfolgen {#section_skl_q4l_b1b}
 
 Beispiele:
 
-* **urn: livefyre:**`example.fyre.co` Der Aktivitätsstream für `example.fyre.co`.
-* **urn: livefyre:**`example.fyre.co:site=54321` Der Aktivitätsstream für Site 54321 im `example.fyre.co` Netzwerk.
+* **** urn:livefyre: `example.fyre.co` Der Aktivitätsstream für `example.fyre.co`.
+* **** urn:livefyre: `example.fyre.co:site=54321` Der Aktivitätsstrom für den Standort 54321 im `example.fyre.co` Netzwerk.
 
 ## Token-Richtlinien {#section_nwh_c5j_11b}
 
-Die Activity Stream-API verwendet ein oauth Bearer-Token zur Authentifizierung. Inhabertoken sind Teil der oauth 2.0-Spezifikation und werden hier offiziell beschrieben [](https://tools.ietf.org/html/rfc6750#section-1.2).
+Die Activity Stream-API verwendet ein OAuth-Träger-Token zur Authentifizierung. InhaberToken sind Teil der OAuth 2.0 Spezifikation und werden [hier](https://tools.ietf.org/html/rfc6750#section-1.2)offiziell beschrieben.
 
 Ein Token enthält mehrere Elemente:
 
-* Wer das Token erstellt hat.
-* Wem ein Token zugewiesen wurde.
-* Eine Zeit, an der sie nicht mehr gültig ist.
-* Das, an dem wir arbeiten.
-* Eine Liste der gewährten Berechtigungen.
+* Wer hat das Token erstellt.
+* Wem wurde ein Token gegeben.
+* Ein Zeitpunkt, zu dem er nicht mehr gültig ist.
+* Das, woran wir arbeiten.
+* Eine Liste der erteilten Berechtigungen.
 
 ### Schritte
 
-Zu den Schritten zum Erstellen eines oauth Bearer Token gehören:
+Die Schritte zum Erstellen eines OAuth-Platzhalter-Tokens umfassen Folgendes:
 
-* Erstellen Sie eine Zuordnung/ein Wörterbuch, das den Aussteller, die Zielgruppe, den Betreff, den Ablauf und den Scope enthält.
+* Erstellen Sie eine Karte/ein Wörterbuch, die den Aussteller, die Zielgruppe, das Thema, den Ablauf und den Umfang enthält.
 * Verwenden Sie die JWT-Bibliothek mit Ihrem geheimen Schlüssel, um ein JWT-Token zu kodieren.
-* &quot; Authentifizierung: &quot; Bearer&quot; zu Ihrer HTTP-Anforderung.
+* Hinzufügen von "Authentifizierung: Bearer" auf Ihre HTTP-Anforderung.
 
-Das folgende Codebeispiel zeigt die oben beschriebenen Schritte in Python:
+The code sample below demonstrates the above steps in Python:
 
 ```
 import time 
@@ -93,13 +93,13 @@ data = dict(iss=network_urn, aud=network_urn, sub=network_urn, scope=api_urn, ex
 token = jwt.encode(data, key=network_secret)
 ```
 
-Dabei sind die Platzhalter-Token-Schlüssel wie folgt definiert:
+Wenn die Inhabertoken-Schlüssel wie folgt definiert werden:
 
-* **iss** *(Issuer)* Eine Entität mit der Berechtigung zum Generieren von Token. Dies kann Livefyre, eine Site oder ein Netzwerk sein. (Damit eine Notiz endet, ist sie Ihre übergeordnete Person.)
-* **aud** *(Zielgruppe)* Die Person, für die dieses Token generiert wurde. Wenn Sie das Token selbst erstellen, ist es die Site oder das Netzwerk.
-* **sub** *(Betreff)* Der Betreff, für den Berechtigungen gewährt werden sollen. Wenn Sie beispielsweise an einer Sammlung arbeiten, muss der Betreff der Bezeichner für die Sammlung sein. (In der Notiz ist dies ein Beispiel für Sie.)
-* **exp** *(Ablauf)* Ein Zeitpunkt, an dem das Token nicht mehr gültig ist.
-* **scope** *(Scope)* Dies ist eine Liste der auf dem Betreff gewährten Berechtigungen. &quot; Late for School&quot; ist ein Beispiel. Der Name einer API ist ein weiteres Beispiel.
+* **is** *(Issuer)* Eine Entität, die berechtigt ist, Token zu generieren. Dies kann Livefyre, eine Site oder ein Netzwerk sein. (Damit eine Nachricht zu spät in die Schule kommt, ist sie Ihr Elternteil.)
+* **aud** *(Zielgruppe)* Die Person, für die dieses Token generiert wurde. Wenn Sie das Token selbst erstellen, ist es die Website oder das Netzwerk.
+* **Unter** *(Betreff)* Der Gegenstand, für den Berechtigungen erteilt werden sollen. Wenn Sie beispielsweise eine Sammlung bearbeiten, muss der Betreff die ID für die Sammlung sein. (In der Beschreibung aus dem Schulbeispiel sind Sie es.)
+* **exp** *(Ablauf)* Ein Zeitpunkt, zu dem das Token nicht mehr gültig ist.
+* **scope** *(Scope)* Dies ist eine Liste der Berechtigungen, die dem Thema erteilt wurden. "Spät für Schule" ist ein Beispiel. Der Name einer API ist ein weiteres Beispiel.
 
 ## Beispiel {#section_dhl_ytj_11b}
 
@@ -272,9 +272,9 @@ Eine Antwort mit neuen Daten seit der letzten Anforderung:
 
 ## Hinweise {#section_hj3_crj_11b}
 
-* Ein erfolgreicher Aufruf der API ergibt einen HTTP 200-Statuscode. Alle anderen Statuscodes sollten als Fehler betrachtet werden.
-* Wenn Sie nicht null sind, verwenden Sie den Wert als `data.meta.cursor.next``since` Parameter der nächsten Anforderung.
-* Wenn der Wert von `data.meta.cursor.next` null ist, bedeutet dies, dass keine neuen Daten vorhanden sind. Sie sollten später mit demselben `since` Wert erneut anfordern, um zu sehen, ob neue Daten eingetroffen sind.
-* Sie sollten sofort mehr Daten anfordern, wenn der `data.meta.cursor.next` Wert nicht null ist.
-* Über diese API in der Produktion sind ca. zwei Stunden aktuelle Daten verfügbar.
-* Sie sollten Ihre Prozesse so einrichten, dass dieser Endpunkt häufig auf dem Cronjob abgefragt wird, um fehlende Daten zu vermeiden. Ein Intervall von fünf Minuten sollte für die meisten Implementierungen perfekt geeignet sein.
+* Bei einem erfolgreichen Aufruf der API wird ein HTTP 200-Statuscode zurückgegeben. Alle anderen Statuscodes sollten als Fehler betrachtet werden.
+* Wenn nicht null, verwenden Sie den Wert aus `data.meta.cursor.next` als `since` Parameter Ihrer nächsten Anforderung.
+* Wenn der Wert von null `data.meta.cursor.next` ist, bedeutet dies, dass keine neuen Daten zu verwenden sind. Sie sollten später erneut denselben `since` Wert anfordern, um zu sehen, ob neue Daten vorliegen.
+* In der Praxis sollten Sie sofort mehr Daten anfordern, wenn der `data.meta.cursor.next` Wert nicht null ist.
+* Über diese API stehen in der Produktion Daten im Wert von rund zwei Stunden zur Verfügung.
+* Sie sollten Ihre Prozesse so einrichten, dass dieser Endpunkt häufig am Cronjob abgefragt wird, um fehlende Daten zu vermeiden. Ein Intervall von fünf Minuten sollte für die meisten Implementierungen vollkommen ausreichend sein.
