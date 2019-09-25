@@ -1,10 +1,10 @@
 ---
-description: Wenn ein Benutzer zum Zugriff auf Livefyre eingeladen wird, verwendet der Benutzer den Link in der E-Email, um ihre Anmeldung und Ihr Konto zu erstellen.
-seo-description: Wenn ein Benutzer zum Zugriff auf Livefyre eingeladen wird, verwendet der Benutzer den Link in der E-Email, um ihre Anmeldung und Ihr Konto zu erstellen.
+description: Wenn ein Benutzer zum Zugriff auf Livefyre eingeladen wird, verwendet der Benutzer den Link in der E-Mail, um seine Anmeldung und sein Konto zu erstellen.
+seo-description: Wenn ein Benutzer zum Zugriff auf Livefyre eingeladen wird, verwendet der Benutzer den Link in der E-Mail, um seine Anmeldung und sein Konto zu erstellen.
 seo-title: Einladung zum Erstellen eines Studio-Kontos annehmen
 solution: Experience Manager
 title: Einladung zum Erstellen eines Studio-Kontos annehmen
-uuid: 7 c 3 d 11 a 3-9799-43 ae-a 63 c -9 ce 2 cb 15782 c
+uuid: 7c3d11a3-9799-43ae-a63c-9ce2cb15782c
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,7 +13,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Einladung zum Erstellen eines Studio-Kontos annehmen{#accept-an-invitation-to-create-a-studio-account}
 
-Wenn ein Benutzer zum Zugriff auf Livefyre eingeladen wird, verwendet der Benutzer den Link in der E-Email, um ihre Anmeldung und Ihr Konto zu erstellen.
+Wenn ein Benutzer zum Zugriff auf Livefyre eingeladen wird, verwendet der Benutzer den Link in der E-Mail, um seine Anmeldung und sein Konto zu erstellen.
 
-1. Livefyre sendet eine E-Email-Einladung zum Erstellen eines Studio-Kontos.
-1. Bestehende Benutzer klicken auf den Link, um ein neues Studio-Konto zu erstellen, das mit ihrem bestehenden Livefyre-Konto verknüpft ist. Neue Benutzer erstellen ein Konto, das eine Verbindung zu ihren Studio-Konto- und Benutzerrollenberechtigungen herstellt.
+1. Livefyre gibt eine E-Mail-Einladung aus, um ein Studio-Konto zu erstellen.
+1. Vorhandene Benutzer klicken auf den Link, um ein neues Studio-Konto zu erstellen, das mit ihrem bestehenden Livefyre-Konto verknüpft ist. Neue Benutzer erstellen ein Konto, das eine Verbindung zu ihrem Studio-Konto und ihren Benutzerrollenberechtigungen herstellt.
