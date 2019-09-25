@@ -1,19 +1,19 @@
 ---
-description: Fügen Sie dem Konto ein Benutzertag hinzu, um Benutzerzeichen anzuwenden.
-seo-description: Fügen Sie dem Konto ein Benutzertag hinzu, um Benutzerzeichen anzuwenden.
-seo-title: Benutzertags zu einem Konto hinzufügen
-title: Benutzertags zu einem Konto hinzufügen
-uuid: 737907 ff -4958-489 d-acef-fab 531 ebd 526
+description: Fügen Sie dem Konto ein Benutzer-Tag hinzu, um Benutzerzeichen anzuwenden.
+seo-description: Fügen Sie dem Konto ein Benutzer-Tag hinzu, um Benutzerzeichen anzuwenden.
+seo-title: Hinzufügen von Benutzer-Tags zu einem Konto
+title: Hinzufügen von Benutzer-Tags zu einem Konto
+uuid: 737907ff-4958-489d-acef-fab531ebd526
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Benutzertags zu einem Konto hinzufügen{#add-user-tags-to-an-account}
+# Hinzufügen von Benutzer-Tags zu einem Konto{#add-user-tags-to-an-account}
 
-Fügen Sie dem Konto ein Benutzertag hinzu, um Benutzerzeichen anzuwenden.
+Fügen Sie dem Konto ein Benutzer-Tag hinzu, um Benutzerzeichen anzuwenden.
 
-1. Erstellen Sie Eigentümer und Moderatoren über Studio, um das **[!UICONTROL Moderator]** Benutzertag dem Konto zuzuweisen.
-1. Erstellen Sie Benutzergruppen und fügen Sie ihnen dann Benutzer über Studio hinzu, um Tags auf den Gruppennamen für die ausgewählten Benutzer anzuwenden.
-1. Wenden Sie Benutzertags direkt auf Konten mithilfe des HTTP-Aufrufs &quot;Benutzer-Tag hinzufügen&quot; oder&quot; Ping&quot; für Pull an.
+1. Erstellen Sie Inhaber und Moderatoren mit Studio, um dem Konto das **[!UICONTROL Moderator]** Benutzer-Tag zuzuweisen.
+1. Erstellen Sie Benutzergruppen und fügen Sie ihnen dann über Studio Benutzer hinzu, um Tags mit dem Gruppennamen auf die ausgewählten Benutzer anzuwenden.
+1. Wenden Sie Benutzer-Tags mithilfe des HTTP-Aufrufs "Tag hinzufügen"oder Ping für Pull direkt auf Konten an.
