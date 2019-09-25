@@ -1,29 +1,29 @@
 ---
-description: Positionieren Sie das Livefyre-Logo auf Ihrer Seite.
-seo-description: Positionieren Sie das Livefyre-Logo auf Ihrer Seite.
-seo-title: Verschieben des Livefyre-Logos
+description: Positionieren Sie das Livefyre-Logo auf Ihrer Seite neu.
+seo-description: Positionieren Sie das Livefyre-Logo auf Ihrer Seite neu.
+seo-title: Das Livefyre-Logo verschieben
 solution: Experience Manager
-title: Verschieben des Livefyre-Logos
-uuid: 807304 ae -6070-4505-87 db -169 a 925 f 714 c
+title: Das Livefyre-Logo verschieben
+uuid: 807304ae-6070-4505-87db-169a925f714c
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Verschieben des Livefyre-Logos{#move-the-livefyre-logo}
+# Das Livefyre-Logo verschieben{#move-the-livefyre-logo}
 
-Positionieren Sie das Livefyre-Logo auf Ihrer Seite.
+Positionieren Sie das Livefyre-Logo auf Ihrer Seite neu.
 
-Wenn Ihr Einverständnis mit Livefyre gestattet ist, können Sie das Livefyre-Logo von oben nach unten verschieben.
+Wenn Ihr Vertrag mit Livefyre dies zulässt, können Sie das Livefyre-Logo von der Oberseite des Inhaltsstreams nach unten verschieben.
 
-Fügen Sie beispielsweise unmittelbar hinter dem Element, das die Livefyre-App enthält, die folgende HTML zu Ihrer Seite hinzu:
+Fügen Sie Ihrer Seite beispielsweise unmittelbar nach dem Element mit der Livefyre-App den folgenden HTML-Code hinzu:
 
 ```
 <div id="powered_by_livefyre_new"><a href="https://livefyre.com" target="_blank">Powered by Livefyre</a></div>
 ```
 
-Fügen Sie dann Folgendes dem Stylesheet Ihrer Seite hinzu:
+Fügen Sie dann dem Stylesheet Ihrer Seite Folgendes hinzu:
 
 ```
 /* Hide the top logo */ 
