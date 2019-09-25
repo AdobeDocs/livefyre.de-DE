@@ -1,23 +1,23 @@
 ---
 description: Passen Sie den Stil und die Art und Weise an, wie Kommentare in Ihrem Live-Blog angezeigt werden.
 seo-description: Passen Sie den Stil und die Art und Weise an, wie Kommentare in Ihrem Live-Blog angezeigt werden.
-seo-title: Anpassungen an Live Blog
+seo-title: Anpassung des Live-Blogs
 solution: Experience Manager
-title: Anpassungen an Live Blog
-uuid: f 07 d 4 c 33-4 aef -4 d 69-b 9 dd -3 fd 3 c 27 ffd 6 d
+title: Anpassung des Live-Blogs
+uuid: f07d4c33-4aef-4d69-b9dd-3fd3c27ffd6d
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Anpassungen an Live Blog{#live-blog-customizations}
+# Anpassung des Live-Blogs{#live-blog-customizations}
 
 Passen Sie den Stil und die Art und Weise an, wie Kommentare in Ihrem Live-Blog angezeigt werden.
 
 
 
-Verwenden Sie Live Blog, um Echtzeit-Aktualisierungen für laufende Geschichten zu veröffentlichen und Ihre Website in eine ansprechende Live-Nachrichtenquelle umzuwandeln.
+Mit dem Live-Blog können Sie aktuelle Meldungen in Echtzeit veröffentlichen und Ihre Site in eine ansprechende Live-News-Quelle verwandeln.
 
 * **[!UICONTROL Number of comments to load]**
 
@@ -25,15 +25,15 @@ Verwenden Sie Live Blog, um Echtzeit-Aktualisierungen für laufende Geschichten 
 
 * **[!UICONTROL Comments appear in cards]**
 
-   Wenn diese Option aktiviert ist, werden Beiträge mit einem umgebenden Feld angezeigt und die Hintergrundfarbe wird durch die **angewendete** Designauswahl vorgegeben.
+   Wenn diese Option aktiviert ist, werden Beiträge mit einem umgebenden Feld und der durch die Auswahl des **Designs** vorgegebenen Hintergrundfarbe angezeigt.
 
 * **[!UICONTROL Nest levels for replies]**
 
-   Legt die Anzahl der verschachtelten Ebenen fest, die für Antworten (2 oder 3) angezeigt werden.
+   Definiert die Anzahl der Nestebenen, die für Antworten angezeigt werden (2 oder 3).
 
 * **[!UICONTROL Expand media]**
 
-   Wenn diese Option aktiviert ist, werden Medienanlagen als vollständig erweiterte Medien im Stream angezeigt. Wenn deaktiviert, werden Medien nur als Links angezeigt.
+   Wenn diese Option aktiviert ist, werden Medienanlagen als vollständig erweiterte Medien inline im Stream angezeigt. Wenn diese Option deaktiviert ist, werden Medien nur als Links angezeigt.
 
 * **[!UICONTROL Number of listeners]**
 
@@ -41,15 +41,15 @@ Verwenden Sie Live Blog, um Echtzeit-Aktualisierungen für laufende Geschichten 
 
 * **[!UICONTROL User tags]**
 
-   Sofern aktiviert, werden Benutzertags mit veröffentlichten Inhalten angezeigt.
+   Wenn diese Option aktiviert ist, werden Benutzer-Tags mit veröffentlichten Inhalten angezeigt.
 
 * **[!UICONTROL User avatars]**
 
-   Sofern aktiviert, werden Benutzeravatare mit veröffentlichten Inhalten angezeigt.
+   Wenn diese Option aktiviert ist, werden Benutzeravatare mit veröffentlichten Inhalten angezeigt.
 
 * **[!UICONTROL Users can reply to posts]**
 
-   Falls aktiviert, können Benutzer auf Live Blog-Beiträge antworten.
+   Wenn diese Option aktiviert ist, können Benutzer auf Live-Blog-Beiträge antworten.
 
 * **[!UICONTROL Users may upload photos]**
 
@@ -57,11 +57,11 @@ Verwenden Sie Live Blog, um Echtzeit-Aktualisierungen für laufende Geschichten 
 
 * **[!UICONTROL Users may share comments]**
 
-   Wenn diese Option aktiviert ist, können Benutzer gepostete Inhalte für Twitter, Facebook oder linkedin freigeben. Weitere Informationen zur Aktivierung der Freigabe finden Sie unter Einstellungen &gt; Integrationseinstellungen &gt; Social Sharing.
+   Falls aktiviert, können Benutzer gepostete Inhalte für Twitter, Facebook oder LinkedIn freigeben. Weitere Informationen zum Aktivieren der Freigabe finden Sie unter Einstellungen &gt; Integrationseinstellungen &gt; Social Sharing.
 
-Sie können Live Blog mithilfe von:
+Sie können das Live-Blog anpassen, indem Sie:
 
-* **[!UICONTROL Style]** und **[!UICONTROL Config]** Optionen für alle Apps im **[!UICONTROL App Designer]**. Weitere Informationen zum Standard **[!UICONTROL Style]** und den **[!UICONTROL Config]** Optionen für alle Apps im **[!UICONTROL App Designer]** Abschnitt finden Sie unter Anpassen von Apps.
+* **[!UICONTROL Style]** und **[!UICONTROL Config]** Optionen für alle Apps im **[!UICONTROL App Designer]**. Weitere Informationen zu den Standard- **[!UICONTROL Style]** und **[!UICONTROL Config]** -Optionen für alle Apps im Abschnitt Anpassen von Apps finden Sie unter **[!UICONTROL App Designer]**.
 
-* Integrationswerkzeuge. Weitere Informationen zum Anpassen von Apps mithilfe von Integrationstools finden Sie unter Live Blog.
+* Integrationstools. Weitere Informationen zum Anpassen von Apps mit Integrationstools finden Sie im Live-Blog.
 
