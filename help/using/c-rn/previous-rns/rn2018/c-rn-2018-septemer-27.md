@@ -1,17 +1,17 @@
 ---
 description: Versionshinweise für die Version vom 27. September 2018.
 seo-description: Versionshinweise für die Version vom 27. September 2018.
-seo-title: 27. September 2018
+seo-title: 27. September 2018
 solution: Experience Manager
-title: 27. September 2018
-uuid: 8 d 3 b 01 fe -6 d 1 f -4123-aaaf -3009 e 7 c 6599 f
+title: 27. September 2018
+uuid: 8d3b01fe-6d1f-4123-aaf-3009e7c6599f
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 ---
 
 
-# 27. September 2018{#september}
+# 27. September 2018{#september}
 
 Versionshinweise für die Version vom 27. September 2018.
 
@@ -19,7 +19,7 @@ Versionshinweise für die Version vom 27. September 2018.
 
 Die folgenden neuen Funktionen wurden in der Produktionsversion dieser Version veröffentlicht:
 
-* Es wurde die Möglichkeit hinzugefügt, eine Audiodatei als Karte hinzuzufügen, die anzeigt, dass es sich um eine Audiodatei zu den folgenden Apps handelt: Medienpinnwand, Karussell, Feature Card, Mosaic, Filmstrip, Storify 2, Kommentare, Liveblog und Livechat.
+* Es wurde die Möglichkeit hinzugefügt, eine Audiodatei als Karte hinzuzufügen, die anzeigt, dass es sich um eine Audiodatei zu den folgenden Apps handelt: Medienwall, Karussell, Feature Card, Mosaic, Filmstreifen, Storify 2, Kommentare, Liveblog und Livechat.
 
 ## Probleme {#section_ehw_ndt_wcb}
 
@@ -27,22 +27,22 @@ Die Probleme in den folgenden Tabellen wurden in der Produktionsversion dieser V
 
 ## Produktionsversion
 
-| Ausgabentyp | Komponente | Versionshinweise |
+| Art des Problems | Komponente | Versionshinweise |
 |--- |--- |--- |
-| Bug | Kommentare | Es wurde ein Problem behoben, durch das Kommentare in einem Mobile-Browser nicht wie erwartet funktionierten. |
-| Bug | Medienpinnwand | Es wurde ein Problem behoben, durch das Bilder und Text nicht wie erwartet einer Medienpinnwand über ein Stream-Hashtag veröffentlicht wurden. |
-| Bug | Medienpinnwand | Es wurde ein Problem behoben, durch das hochgeladenes Video nicht in einer Medienpinnwand wiedergegeben wurde, obwohl es in der Asset-Bibliothek wiedergabe war. |
-| Bug | Storify | Es wurde ein Problem behoben, durch das Storify 2-Klicks nicht auf sicheren Domänen verwendet wurden. |
-| Bug | Streams | Es wurde ein Problem behoben, durch das standardmäßige NSFW-Filter nicht hinzugefügt wurden, wenn die NSFW-Filterfunktion deaktiviert war und die NSFW-Standardfilter hinzugefügt wurden, wenn die NSFW-Funktion aktiviert war. |
-| Geschichte | Streams | Folgende Aktualisierungen für die Streams von Facebook-Seiten wurden vorgenommen: </br><ul><li>Die Zeitdauer für Apps wurde erhöht, sobald sie die API-Rate von 1 Minute auf eine Stunde erreicht haben. </li><li>Der Zeitpunkt, zu dem Seiten und Beiträge für die Verarbeitung von 10 Minuten auf eine Stunde gesendet werden, wurde erhöht.</li></ul> |
+| Fehler | Kommentare | Es wurde ein Problem behoben, bei dem Kommentare in einem Mobile-Browser nicht wie erwartet funktionierten. |
+| Fehler | Medienwall | Es wurde ein Problem behoben, bei dem Bilder und Text nicht wie erwartet über ein Stream-Hashtag auf einer Medienwand veröffentlicht wurden. |
+| Fehler | Medienwall | Es wurde ein Problem behoben, durch das hochgeladene Videos auf einer Medienmanagerseite nicht wiedergegeben werden konnten, obwohl sie in der Asset-Bibliothek abspielbar waren. |
+| Fehler | Storify | Es wurde ein Problem behoben, bei dem "Gefällt mir"-Klicks für Storify 2 auf sicheren Domänen nicht funktionierten. |
+| Fehler | Streams | Es wurde ein Problem behoben, bei dem keine standardmäßigen NSFW-Filter hinzugefügt wurden, wenn die NSFW-Filterfunktion deaktiviert und die standardmäßigen NSFW-Filter hinzugefügt wurden, wenn die NSFW-Funktion aktiviert wurde. |
+| Geschichte | Streams | Folgende Aktualisierungen für Facebook-Seitenstreams wurden vorgenommen:  </br><ul><li>Die Zeit, die Apps schlafen, nachdem sie die API-Rate von einer Minute auf eine Stunde begrenzt haben, wurde verlängert. </li><li>Die Zeit, die Seiten und Beiträge zur Verarbeitung gesendet werden, wurde von 10 Minuten auf eine Stunde verlängert.</li></ul> |
 
 
 ## UAT-Version {#section_EE91B0C9313E45C5B4CBD59CFBCCFCFE}
 
 Die Probleme in den folgenden Tabellen wurden in der UAT-Version dieser Version behoben.
 
-| **Ausgabentyp** | **Komponente** | **Versionshinweise** |
+| **Art des Problems** | **Komponente** | **Versionshinweise** |
 |---|---|---|
-| Bug | AEM | Es wurde ein Problem behoben, durch das in AEM Assets über Livefyre importierte Tweets Links beschädigten. |
-| Verbesserung | Bibliothek | Es wurde die Fähigkeit hinzugefügt, Videos in der Bibliothek nach Video-Tags zu filtern. |
+| Fehler | AEM | Es wurde ein Problem behoben, bei dem Tweets, die über Livefyre in AEM Assets importiert wurden, beschädigte Links aufwiesen. |
+| Verbesserung | Bibliothek | Es wurde die Möglichkeit hinzugefügt, Videos in der Bibliothek nach Video-Tags zu filtern. |
 
