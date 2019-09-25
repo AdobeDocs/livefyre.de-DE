@@ -1,10 +1,10 @@
 ---
-description: Begrenzen Sie den Medientyp, der in den App-Stream gelangt.
-seo-description: Begrenzen Sie den Medientyp, der in den App-Stream gelangt.
+description: Beschränken Sie den Medientyp, der in den App-Stream gelangt.
+seo-description: Beschränken Sie den Medientyp, der in den App-Stream gelangt.
 seo-title: Medien beschränken
 solution: Experience Manager
 title: Medien beschränken
-uuid: c 470 c 985-d 221-4 f 39-8 bd 4-4 e 44 ec 14 db 95
+uuid: c470c985-d221-4f39-8bd4-4e44ec14db95
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,15 +13,15 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Medien beschränken{#restrict-media}
 
-Begrenzen Sie den Medientyp, der in den App-Stream gelangt.
+Beschränken Sie den Medientyp, der in den App-Stream gelangt.
 
-Standardmäßig können alle Medienanlagen in Apps eingebettet werden. Mit Livefyre können Sie diese Option ändern, um zu verhindern, dass Benutzer ausgewählte Anhänge in Ihre Apps veröffentlichen.
+Standardmäßig können alle Medienanlagen in Apps eingebettet werden. Mit Livefyre können Sie diese Option ändern, um zu verhindern, dass Benutzer ausgewählte Anlagentypen in Ihren Apps veröffentlichen.
 
 >[!NOTE]
 >
->Livefyre-Partner mit Embedly for Media Integration. Weitere Informationen finden Sie unter Content Integration &gt; Integration einbetten. Wenden Sie sich an Ihren Technical Account Manager, um Fragen zur Erweiterung von Links oder zu Quellen zu erhalten.
+>Livefyre arbeitet mit Embedly zusammen, um Medienintegration zu ermöglichen. Weitere Informationen finden Sie unter Inhaltsintegration &gt; Einbetten-Integration. Wenden Sie sich an Ihren technischen Kundenbetreuer, wenn Sie Fragen zur Linkerweiterung oder zu den Quellen haben.
 
-In diesem Beispiel werden youtube- und Vimeo-Einbettungsvorgänge aus Ihrem Kommentarstream blockiert:
+In diesem Beispiel werden YouTube- und Vimeo-Einbettungen aus Ihrem Kommentarstream blockiert:
 
 ```
 var attachmentDelegate = function(embedObj) { 
