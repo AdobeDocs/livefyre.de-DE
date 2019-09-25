@@ -1,10 +1,10 @@
 ---
-description: Studio speichert automatisch alle Änderungen, die alle Editoren vorgenommen haben, und generiert für jede Änderung, die Sie sehen können, eine neue Version.
-seo-description: Studio speichert automatisch alle Änderungen, die alle Editoren vorgenommen haben, und generiert für jede Änderung, die Sie sehen können, eine neue Version.
+description: Studio speichert automatisch alle Änderungen, die von allen Editoren vorgenommen wurden, und generiert eine neue Version für jede Änderung, die Sie sehen können.
+seo-description: Studio speichert automatisch alle Änderungen, die von allen Editoren vorgenommen wurden, und generiert eine neue Version für jede Änderung, die Sie sehen können.
 seo-title: Überprüfungsverlauf
 solution: Experience Manager
 title: Überprüfungsverlauf
-uuid: c 2 f 8 a 45 b -54 c 1-4667-893 a-b 3 bd 4 be 4546 a
+uuid: c2f8a45b-54c1-4667-893a-b3bd4be4546a
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,14 +13,14 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Überprüfungsverlauf{#review-history}
 
-Studio speichert automatisch alle Änderungen, die alle Editoren vorgenommen haben, und generiert für jede Änderung, die Sie sehen können, eine neue Version.
+Studio speichert automatisch alle Änderungen, die von allen Editoren vorgenommen wurden, und generiert eine neue Version für jede Änderung, die Sie sehen können.
 
 >[!NOTE]
 >
->Ihre App wird möglicherweise nicht bearbeitet, während der Versionsverlauf geöffnet ist.
+>Ihre App wird möglicherweise nicht bearbeitet, während der Bereich Versionsverlauf geöffnet ist.
 
-1. Klicken **[!UICONTROL History]** Sie auf, um ein Bedienfeld zu öffnen, in dem alle Versionen Ihrer App aufgelistet sind. In den aufgeführten Versionen werden der Editor der einzelnen Versionen sowie deren Alter angezeigt.
+1. Klicken Sie auf **[!UICONTROL History]** , um ein Bedienfeld zu öffnen, in dem alle Versionen Ihrer App aufgelistet sind. Die aufgelisteten Versionen zeigen den Editor der einzelnen Versionen und das Alter an.
 1. Klicken Sie auf eine Version, um sie auszuwählen, und aktualisieren Sie die Vorschau im rechten Bereich.
-1. Klicken **[!UICONTROL Restore Version]** Sie auf, wenn Sie die ausgewählte Version klonen möchten, und beginnen Sie mit der Arbeit daran.
-1. Klicken Sie im **[!UICONTROL Version History]** Bereich auf die Schaltfläche &quot;Zurück&quot; , um zu Ihrem Arbeitsentwurf zurückzukehren.
-1. Klicken **[!UICONTROL Share]** Sie auf, um eine URL für die Vorschau zu generieren, die an Kollegen oder Freunde zur Überprüfung gesendet werden kann.
+1. Klicken Sie auf **[!UICONTROL Restore Version]** , wenn Sie die ausgewählte Version klonen möchten, und beginnen Sie damit, davon zu arbeiten.
+1. Klicken Sie auf die Schaltfläche "Zurück"im **[!UICONTROL Version History]** Bereich, um zu Ihrem Arbeitsentwurf zurückzukehren.
+1. Klicken Sie auf **[!UICONTROL Share]** , um eine URL für die Vorschau zu generieren, die möglicherweise zur Überprüfung an Kollegen oder Freunde gesendet wird.
