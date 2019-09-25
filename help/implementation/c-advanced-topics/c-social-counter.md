@@ -4,7 +4,7 @@ seo-description: Zählen Sie die Anzahl der kuratierten sozialen Elemente.
 seo-title: Social-Zähler
 solution: Experience Manager
 title: Social-Zähler
-uuid: fa 9 aa 1 a 8-6 a 04-4 bc 1-9 bfe-e 42 c 1250 fd 48
+uuid: fa9aa1a8-6a04-4bc1-9bfe-e42c1250fd48
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,9 +13,9 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Social-Zähler{#social-counter}
 
-Zählen Sie die Anzahl der kuratierten sozialen Elemente. Eine vollständige Liste der verfügbaren Endpunkte finden Sie im Abschnitt &quot;Livefyre [-API-Referenz](https://api.livefyre.com/docs) &quot; .
+Zählen Sie die Anzahl der kuratierten sozialen Elemente. Eine vollständige Liste der verfügbaren Endpunkte finden Sie im Abschnitt zur Livefyre- [API-Referenz](https://api.livefyre.com/docs) .
 
-Die Social-Zähler-API gibt in einer bestimmten Sammlung für Intervalle über einen bestimmten Zeitraum Zählungen für übereinstimmende Kuratierungsregeln zurück.
+Die Social-Zähler-API gibt für eine bestimmte Sammlung für Intervalle über einen bestimmten Zeitraum Zählungen für übereinstimmende Kurationsregeln zurück.
 
 >[!NOTE]
 >
@@ -33,29 +33,29 @@ Social-Zähler-API:
 GET https://{networkName}.bootstrap.fyre.co/api/v3.0/stats.collections.curate/{query}.json
 ```
 
-* **Networkname:** Ihr Livefyre-bereitgestellter Netzwerkname. Beispiel: *in*`labs.fyre.co`.
-* **Abfrage:** Der URL-sichere Base 64-kodierte Hash aller Site, Artikel-ID, Regeltyp-Tupel, für die Zählinformationen abgerufen werden sollen (vorkodiert)
+* **** networkName:Ihr Livefyre hat den Netzwerknamen angegeben. Beispiel: *Laboratorien* in `labs.fyre.co`.
+* **** query: Der url-sichere base64-kodierte Hash aller Seiten, Artikel-ID- und Regeltypen, für die Zählungsinformationen abgerufen werden sollen (vorkodiert)
 
    ```
    {site ID}:{article ID};{rule-type},  {article ID};{rule-type}|{site ID}:{article ID};{rule-type}
    ```
 
    >[!NOTE]
-   >Die Abfrage ist auf 10 Site, Artikel-ID, Richtlinientypen für Regeln beschränkt. (Das vorherige Beispiel würde 3 Tupfel enthalten.)
+   >Die Abfrage ist auf 10 Site-, Artikel-ID-, Regel-Typ-Tupel beschränkt. (Das vorherige Beispiel würde 3 Tupel enthalten.)
 
-* **gibt** `(optional)` den relativen oder absoluten Zeitraum für das Diagramm an. &quot; von&quot; gibt den Anfang und Standardwert vor 24 Stunden an, wenn nicht angegeben.
-* **bis zur** `(optional)` Angabe des relativen oder absoluten Zeitraums zum Diagramm; bis zur Angabe des Beginns und der Standardeinstellung bis zur aktuellen Zeit (jetzt), wenn nicht angegeben.
+* **from** gibt den relativen oder absoluten Zeitraum bis zum Diagramm an `(optional)` ; from gibt den Anfang an und ist standardmäßig auf vor 24 Stunden eingestellt, wenn kein Wert angegeben wird.
+* **bis** `(optional)` der relative oder absolute Zeitraum für das Diagramm angegeben ist; bis gibt den Anfang an und standardmäßig die aktuelle Zeit (jetzt) an, falls nicht angegeben.
 
 ### Relative Zeit
 
 | Abkürzung | Einheit |
 |---|---|
-| s | Sekunden |
+| s- | Sekunden |
 | min | Minuten |
 | h | Stunden |
 | d | Tage |
 | w | Wochen |
-| mo | 30 Tage (Monat) |
+| mon | 30 Tage (Monat) |
 | y | 365 Tage (Jahr) |
 
 Beispiel:
@@ -66,13 +66,13 @@ https://labs-t402.bootstrap.fyre.co/api/v3.0/stats.collections.curate/MTIzNDU2On
 
 ## Absolute Zeit {#section_xqr_jgc_11b}
 
-FORMAT: HH: MM_ YYYYMMDD
+FORMAT: HH:MM_JJJMMTT
 
-| Abkürzung | Bedeutung |
+| Abkürzung | Beschreibung |
 |---|---|
-| HH | Stunden (im 24 h Uhrzeitformat) |
+| HH | Stunden (im 24-Stunden-Format) |
 | MM | Minuten |
-| YYYY | Vierstellige Jahreszahl |
+| YYYY | 4-stelliges Jahr |
 | MM | Monat |
 | DD | Tag |
 
@@ -90,7 +90,7 @@ https://labs-t402.bootstrap.fyre.co/api/v3.0/stats.collections.curate/MTIzNDU2On
 
 Beispiel:
 
-So erhalten Sie Zählungen über die letzte Minute für Site `123456` und Artikel-ID `some-article-id` und Regeltyp `2`, z. B.: `123456:some-article-id;2:`
+So erhalten Sie Zählungen über die letzte Minute für die Site- `123456` und Artikel-ID `some-article-id` und den Regeltyp `2`, z. B.: `123456:some-article-id;2:`
 
 ```
 curl -XGET "https://labs-t402.bootstrap.fyre.co/api/v3.0/stats.collections.curate/MTIzNDU2OnNvbWUtYXJ0aWNsZS1pZDsy.json&from=-1min" 
