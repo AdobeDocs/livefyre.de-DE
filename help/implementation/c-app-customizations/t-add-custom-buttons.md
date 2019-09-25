@@ -4,7 +4,7 @@ seo-description: Fügen Sie Ihren Livefyre-Apps benutzerdefinierte Aktionen hinz
 seo-title: Benutzerdefinierte Schaltflächen hinzufügen
 solution: Experience Manager
 title: Benutzerdefinierte Schaltflächen hinzufügen
-uuid: 27 d 24 c 21-d 83 f -49 df -9 b 3 f -15 d 7 abbd 2 bd 7
+uuid: 27d24c21-d83f-49df-9b3f-15d7abbd2bd7
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -15,11 +15,11 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Fügen Sie Ihren Livefyre-Apps benutzerdefinierte Aktionen hinzu.
 
-Mit Livefyre können Sie benutzerdefinierte Schaltflächen neben den vorhandenen Aktionsschaltflächen (z **[!UICONTROL Share]**. B. und **[!UICONTROL Flag]**) auf einem Inhaltselement hinzufügen.
+Mit Livefyre können Sie benutzerdefinierte Schaltflächen neben den vorhandenen Aktionsschaltflächen (z. B. **[!UICONTROL Share]** und **[!UICONTROL Flag]**) zu einem Inhaltselement hinzufügen.
 
-Verwenden Sie das Argument Mobilgerät, um festzulegen, ob die Schaltfläche auf Mobilgeräten angezeigt werden soll.
+Verwenden Sie das mobile Argument, um zu definieren, ob die Schaltfläche auf Mobilgeräten angezeigt wird.
 
-Um beispielsweise eine benutzerdefinierte Aktionsschaltfläche für die Benutzeroberfläche Ihres Mobilgeräts hinzuzufügen:
+So fügen Sie beispielsweise eine benutzerdefinierte Aktionsschaltfläche für die Benutzeroberfläche Ihres Mobilgeräts hinzu:
 
 ```
 var convConfig = {...}; // Should have siteId, articleId, etc. 
@@ -39,8 +39,8 @@ convConfig.actionButtons = [
 fyre.conv.load(networkConfig, [convConfig]);
 ```
 
-1. Übergeben Sie ein zusätzliches Argument im Kontextconfig-Objekt actionbuttons, das ein Array von Objekten enthält, die die einzelnen Schaltflächen beschreiben, die Sie hinzufügen möchten.
-1. Definieren Sie einen Schlüssel für den für die einzelnen Schaltflächen anzuzeigenden Text.
-1. Fügen Sie einen Rückruf hinzu, der bei einem Klickereignis für jede Schaltfläche aufgerufen wird.
+1. Übergeben Sie ein zusätzliches Argument im ConvConfig-Objekt mit dem Namen actionButtons, das ein Array von Objekten enthält, das die einzelnen Schaltflächen beschreibt, die Sie hinzufügen möchten.
+1. Definieren Sie einen Schlüssel für den für jede Schaltfläche anzuzeigenden Text.
+1. Fügen Sie für jede Schaltfläche einen Rückruf hinzu, der bei einem click-Ereignis aufgerufen wird.
 
 Der Rückruf wird mit einem Objekt mit zwei Schlüsseln aufgerufen: `authorId` und `contentId`.
