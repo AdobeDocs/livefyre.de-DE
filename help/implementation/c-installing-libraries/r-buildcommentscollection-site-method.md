@@ -1,24 +1,24 @@
 ---
-description: Gibt ein Collection-Objekt zurück, das als Kommentartyp instanziiert wird. Führen Sie createorupdate () aus dem Collection-Objekt aus, um den Build-Prozess abzuschließen.
-seo-description: Gibt ein Collection-Objekt zurück, das als Kommentartyp instanziiert wird. Führen Sie createorupdate () aus dem Collection-Objekt aus, um den Build-Prozess abzuschließen.
-seo-title: Buildcommentscollection-Site-Methode
+description: Gibt ein Collection-Objekt zurück, das als Kommentartyp instanziiert wurde. Führen Sie createOrUpdate() vom Collection-Objekt aus, um den Build-Prozess abzuschließen.
+seo-description: Gibt ein Collection-Objekt zurück, das als Kommentartyp instanziiert wurde. Führen Sie createOrUpdate() vom Collection-Objekt aus, um den Build-Prozess abzuschließen.
+seo-title: buildCommentsCollection-Site-Methode
 solution: Experience Manager
-title: Buildcommentscollection-Site-Methode
-uuid: 0 e 5 c 062 e -960 d -4 ab 0-ba 32-0965731 a 1571
+title: buildCommentsCollection-Site-Methode
+uuid: 0e5c062e-960d-4ab0-ba32-0965731a1571
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Buildcommentscollection-Site-Methode{#buildcommentscollection-site-method}
+# buildCommentsCollection-Site-Methode{#buildcommentscollection-site-method}
 
-Gibt ein Collection-Objekt zurück, das als Kommentartyp instanziiert wird. Führen Sie createorupdate () aus dem Collection-Objekt aus, um den Build-Prozess abzuschließen.
+Gibt ein Collection-Objekt zurück, das als Kommentartyp instanziiert wurde. Führen Sie createOrUpdate() vom Collection-Objekt aus, um den Build-Prozess abzuschließen.
 
 | Variable | Typ | Beschreibung |
 |--- |--- |--- |
-| Titel | Zeichenfolge | Der Titel für die Sammlung. |
-| Articleid | Zeichenfolge | Eine eindeutige Artikel-ID, die Sie zur Identifizierung einer Sammlung innerhalb Ihrer Site auswählen. |
+| title | Zeichenfolge | Der Titel der Sammlung. |
+| articleId | Zeichenfolge | Eine eindeutige Artikel-ID, die Sie zur Identifizierung einer Sammlung auf Ihrer Site gewählt haben. |
 | url | Zeichenfolge | Die kanonische absolute URL für diese Sammlung. |
 
 ## Java-Beispiel {#section_nyl_ycs_rz}
@@ -27,7 +27,7 @@ Gibt ein Collection-Objekt zurück, das als Kommentartyp instanziiert wird. Füh
 Collection collection = site.buildCommentsCollection(title, articleId, url);
 ```
 
-## Nodejs-Beispiel {#section_xkd_gds_rz}
+## NodeJS-Beispiel {#section_xkd_gds_rz}
 
 ```
 var collection = site.buildCommentsCollection(title, articleId, url); 
@@ -39,7 +39,7 @@ var collection = site.buildCommentsCollection(title, articleId, url);
 $collection = site->buildCommentsCollection(title, articleId, url); 
 ```
 
-## Python Example {#section_dwg_gds_rz}
+## Python-Beispiel {#section_dwg_gds_rz}
 
 ```
 collection = site.build_comments_collection(title, articleId, url) 
