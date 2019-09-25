@@ -4,7 +4,7 @@ seo-description: Einige Beispiele zur Verwendung der Bibliotheken.
 seo-title: Beispiele
 solution: Experience Manager
 title: Beispiele
-uuid: 94 e 38 dab -6234-43 a 2-a 840-13 a 87 f 0237 f 1
+uuid: 94e38dab-6234-43a2-a840-13a87f0237f1
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -103,7 +103,7 @@ public static void main(String...args) {
 }
 ```
 
-## Nodejs-Beispiel {#section_xkd_gds_rz}
+## NodeJS-Beispiel {#section_xkd_gds_rz}
 
 ```
 var Livefyre = require('./lib/livefyre');
@@ -280,7 +280,7 @@ class LivefyreExample {
 }
 ```
 
-## Python Example {#section_dwg_gds_rz}
+## Python-Beispiel {#section_dwg_gds_rz}
 
 ```
 from livefyre import Livefyre 
