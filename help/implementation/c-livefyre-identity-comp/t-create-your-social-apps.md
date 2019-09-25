@@ -1,20 +1,20 @@
 ---
 description: 'null '
 seo-description: 'null '
-seo-title: Erstellen von Social-Apps
+seo-title: Social-Apps erstellen
 solution: Experience Manager
-title: Erstellen von Social-Apps
-uuid: b 3698 e 44-19 ba -489 f-a 4 d 2-072 ba 5430974
+title: Social-Apps erstellen
+uuid: b3698e44-19ba-489f-a4d2-072ba5430974
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Erstellen von Social-Apps{#create-your-social-apps}
+# Social-Apps erstellen{#create-your-social-apps}
 
-So aktivieren Sie Ihren Benutzern die Anmeldung mit ihren Anmeldeinformationen für diese Anbieter sozialer Dienste:
+Damit sich Ihre Benutzer mit ihren Anmeldeinformationen für diese Anbieter sozialer Dienste anmelden können:
 
 1. Erstellen Sie Apps für die Verwendung mit Livefyre.
-1. Melden Sie sich bei der Entwicklersite für Ihre ausgewählten Anbieter an.
-1. Erstellen Sie die Apps, die Ihren Benutzern zur Anmeldung mit ihren Social-Anmeldeinformationen dienen sollen.
+1. Melden Sie sich bei den ausgewählten Anbietern auf der Developer-Site an.
+1. Erstellen Sie die Apps, die erforderlich sind, damit sich Ihre Benutzer mit ihren Social-Anmeldedaten anmelden können.
