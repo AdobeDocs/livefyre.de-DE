@@ -1,23 +1,23 @@
 ---
-description: Passen Sie Kommentare an, um Echtzeitunterhaltungen auf Ihrer Site einzubetten.
-seo-description: Passen Sie Kommentare an, um Echtzeitunterhaltungen auf Ihrer Site einzubetten.
-seo-title: Kommentaranpassungen
+description: Passen Sie Kommentare an, um Echtzeit-Unterhaltungen auf Ihrer Site einzubetten.
+seo-description: Passen Sie Kommentare an, um Echtzeit-Unterhaltungen auf Ihrer Site einzubetten.
+seo-title: Kommentaranpassung
 solution: Experience Manager
-title: Kommentaranpassungen
-uuid: 7 ec 08 aaf -553 f -49 a 2-b 237-d 4 bdcb 7714 ff
+title: Kommentaranpassung
+uuid: 7ec08aaf-553f-49a2-b237-d4bdcb5714ff
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Kommentaranpassungen{#comments-customizations}
+# Kommentaranpassung{#comments-customizations}
 
-Passen Sie Kommentare an, um Echtzeitunterhaltungen auf Ihrer Site einzubetten.
+Passen Sie Kommentare an, um Echtzeit-Unterhaltungen auf Ihrer Site einzubetten.
 
 
 
-Verwenden Sie verfügbare Optionen, damit Ihre Benutzer Inhalte über Twitter, Facebook und linkedin teilen und ihre Freunde in den Stream ziehen können.
+Verwenden Sie verfügbare Optionen, damit Ihre Benutzer Inhalte über Twitter, Facebook und LinkedIn teilen und ihre Freunde in den Stream ziehen können.
 
 * **[!UICONTROL Number of comments to load]**
 
@@ -25,15 +25,15 @@ Verwenden Sie verfügbare Optionen, damit Ihre Benutzer Inhalte über Twitter, F
 
 * **[!UICONTROL Nest level for replies]**
 
-   Legt die Anzahl der verschachtelten Ebenen fest, die für Antworten angezeigt werden: 2, 3 oder 4. (Der Standardwert ist 4.)
+   Definiert die Anzahl der verschachtelten Ebenen, die für Antworten angezeigt werden: 2, 3 oder 4. (Standardwert ist 4.)
 
 * **[!UICONTROL Posts appear in cards]**
 
-   Wenn diese Option aktiviert ist, werden Beiträge in einem umgebenden Feld angezeigt und die Hintergrundfarbe wird durch die angewendete **[!UICONTROL Theme]** Auswahl vorgegeben.
+   Wenn diese Option aktiviert ist, werden Beiträge in einem umgebenden Feld angezeigt und die Hintergrundfarbe wird durch die **[!UICONTROL Theme]** Auswahl festgelegt.
 
 * **[!UICONTROL Expand media]**
 
-   Wenn diese Option aktiviert ist, werden Medienanlagen als vollständig erweiterte Medien im Stream angezeigt. Wenn deaktiviert, werden Medien nur als Links angezeigt.
+   Wenn diese Option aktiviert ist, werden Medienanlagen als vollständig erweiterte Medien inline im Stream angezeigt. Wenn diese Option deaktiviert ist, werden Medien nur als Links angezeigt.
 
 * **[!UICONTROL Number of listeners]**
 
@@ -41,39 +41,39 @@ Verwenden Sie verfügbare Optionen, damit Ihre Benutzer Inhalte über Twitter, F
 
 * **[!UICONTROL User tags]**
 
-   Sofern aktiviert, werden Benutzertags mit veröffentlichten Inhalten angezeigt.
+   Wenn diese Option aktiviert ist, werden Benutzer-Tags mit veröffentlichten Inhalten angezeigt.
 
 * **[!UICONTROL User avatars]**
 
-   Sofern aktiviert, werden Benutzeravatare mit veröffentlichten Inhalten angezeigt.
+   Wenn diese Option aktiviert ist, werden Benutzeravatare mit veröffentlichten Inhalten angezeigt.
 
 * **[!UICONTROL Number of replies to load]**
 
-   Die Anzahl der Antworten auf einen zu ladenden Kommentar. Alle weiteren Antworten auf einen Kommentar werden reduziert, wobei die Anzahl der Antworten angezeigt wird.
+   Die Anzahl der Antworten auf einen zu ladenden Kommentar. Alle weiteren Antworten auf einen Kommentar nach dieser Nummer werden reduziert, mit einem Zähler, um die Anzahl der Antworten anzuzeigen.
 
 * **[!UICONTROL Users may upload photos]**
 
-   Wenn aktiviert, können Benutzer Fotos hochladen.
+   If enabled users may upload photos.
 
 * **[!UICONTROL Users may share posts]**
 
-   Wenn aktiviert, können Benutzer Beiträge freigeben. Wenn diese Option aktiviert ist, können Benutzer gepostete Inhalte für Twitter, Facebook oder linkedin freigeben. Weitere Informationen zur Aktivierung der Freigabe finden Sie unter Einstellungen &gt; Integrationseinstellungen &gt; Social Sharing.
+   If enabled users may share posts. If enabled, users may share posted content to Twitter, Facebook, or LinkedIn. For more information on enabling sharing, see Settings &gt; Integration Settings &gt; Social Sharing.
 
 * **[!UICONTROL Featured content at top of stream]**
 
-   Wenn diese Option aktiviert ist, werden dargestellte Inhalte über dem Editor in der App angezeigt.
+   When enabled, Featured content will be displayed above the editor in the App.
 
 * **[!UICONTROL High velocity comment queuing]**
 
-   Ermöglicht es Ihnen, die Geschwindigkeit zu steuern, mit der Kommentare auf der Seite angezeigt werden und die am besten für eine hohe Geschwindigkeit verwendet werden. Bei Aktivierung listet Livefyre die Anzahl neuer Kommentare oben im Stream auf, anstatt den gesamten Inhalt anzuzeigen. Durch Klicken auf diese Zahl werden die 10 ältesten Kommentare im Stream angezeigt.
+   Allows you to control the speed with which comments are displayed on the page, and is best used for high velocity conversations. When enabled, Livefyre will list the number of new comments at the top of the stream, rather than displaying content in its entirety. Clicking this number will display the 10 oldest comments in the stream.
 
 * **[!UICONTROL Most liked comment sort]**
 
-   Sofern aktiviert, können Benutzer nach **[!UICONTROL Top Comments]** oder **[!UICONTROL Hot Threads]** nach (zusätzlich zu den Standard **[!UICONTROL Newest]** - und **[!UICONTROL Oldest]** Sortieroptionen) sortieren.
+   If enabled, allows users to sort by  or  (in addition to the default  and  sort options).**[!UICONTROL Top Comments]****[!UICONTROL Hot Threads]****[!UICONTROL Newest]****[!UICONTROL Oldest]**
 
-Sie können Kommentare mithilfe von:
+You can customize Comments using:
 
-* **[!UICONTROL Style]** und **[!UICONTROL Config]** Optionen für alle Apps im **[!UICONTROL App Designer]**. Weitere Informationen zum Standard **[!UICONTROL Style]** und den **[!UICONTROL Config]** Optionen für alle Apps im **[!UICONTROL App Designer]** Abschnitt finden Sie unter Anpassen von Apps.
+* **[!UICONTROL Style]** and  options for all Apps in the . **[!UICONTROL Config]****[!UICONTROL App Designer]** See Customizing Apps for details on the standard  and  options for all Apps in the .**[!UICONTROL Style]****[!UICONTROL Config]****[!UICONTROL App Designer]**
 
-* **[!UICONTROL Integration tools]**. Weitere Informationen zum Anpassen von Kommentaren mit Integrationswerkzeugen finden Sie unter Kommentare.
+* **[!UICONTROL Integration tools]**. See Comments for more on how to customize Comments using Integration Tools.
 
