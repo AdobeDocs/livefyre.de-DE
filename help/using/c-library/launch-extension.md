@@ -3,7 +3,7 @@ description: Hier erfahren Sie, wie Sie die Adobe Livefyre Extension for Adobe L
 seo-description: Hier erfahren Sie, wie Sie die Adobe Livefyre Extension for Adobe Launch konfigurieren.
 seo-title: Adobe Launch Livefyre Extension
 title: Adobe Launch Livefyre Extension
-uuid: 98108 ddb -5710-4331-891 b -7 e 1 bbb 106059
+uuid: 98108db-5710-4331-891b-7e1bb106059
 translation-type: tm+mt
 source-git-commit: 155791af94c277e7afdbd51521e00da77169911e
 
@@ -13,6 +13,6 @@ source-git-commit: 155791af94c277e7afdbd51521e00da77169911e
 
 Hier erfahren Sie, wie Sie die Adobe Livefyre Extension for Adobe Launch konfigurieren.
 
-Launch ist die nächste Generation von Website-Tag- und mobilen SDK-Verwaltungsfunktionen von Adobe. Mit dem Start erhalten Kunden eine einfache Möglichkeit, alle Analyse-, Marketing- und Anzeigenintegrationen bereitzustellen und zu verwalten, die für relevante Kundenerfahrungen erforderlich sind.
+Launch umfasst die nächste Generation von Adobe-Verwaltungsfunktionen für Website-Tags und mobile SDKs. Mit Launch erhalten Kunden eine einfache Möglichkeit, alle Integrationen in den Bereichen Analyse, Marketing und Werbung bereitzustellen und zu verwalten, die für die Nutzung relevanter Kundenerlebnisse erforderlich sind.
 
-Mit Launch können Sie Ihre eigenen Integrationen mit dem Namen &quot;Erweiterungen&quot; erstellen und verwalten. Diese Erweiterungen sind für Web- und mobile Startkunden in einem App Store-Erlebnis verfügbar, sodass Kunden ihre Integrationen schnell installieren, konfigurieren und bereitstellen können. Informationen zum Implementieren und Konfigurieren der Livefyre-Erweiterung finden Sie in der [Adobe Launch-Dokumentation für die Livefyre-Erweiterung](https://docs.adobelaunch.com/extension-reference/web/adobe-livefyre-extension).
+Mit Launch kann jeder eigene Integrationen, auch Erweiterungen genannt, erstellen und verwalten. Diese Erweiterungen stehen Web- und mobilen Launch-Kunden in einer App-Store-Oberfläche zur Verfügung, damit sie ihre Integrationen schnell installieren, konfigurieren und bereitstellen können. Informationen zum Implementieren und Konfigurieren der Livefyre-Erweiterung finden Sie in der Dokumentation [Adobe Launch für die Livefyre-Erweiterung](https://docs.adobelaunch.com/extension-reference/web/adobe-livefyre-extension).
