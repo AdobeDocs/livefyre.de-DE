@@ -1,24 +1,24 @@
 ---
 description: 'null '
 seo-description: 'null '
-seo-title: Rechte für Assets manuell über die Asset-Bibliothek erteilen oder sperren
+seo-title: Rechte für ein Asset aus der Asset-Bibliothek manuell erteilen oder widerrufen
 solution: Experience Manager
-title: Rechte für Assets manuell über die Asset-Bibliothek erteilen oder sperren
-uuid: 1 f 70 ab 9 a -239 d -4 a 9 c-a 17 c-d 2 bc 54 ff 3859
+title: Rechte für ein Asset aus der Asset-Bibliothek manuell erteilen oder widerrufen
+uuid: 1f70ab9a-239d-4a9c-a17c-d2bc54ff3859
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Rechte für Assets manuell über die Asset-Bibliothek erteilen oder sperren{#manually-grant-or-revoke-rights-for-an-asset-from-the-asset-library}
+# Rechte für ein Asset aus der Asset-Bibliothek manuell erteilen oder widerrufen{#manually-grant-or-revoke-rights-for-an-asset-from-the-asset-library}
 
 >[!NOTE]
 >
->Die manuelle Erteilung von Rechten für ein Inhaltselement gibt an, dass Sie Eigentümer des Inhalts sind. Gewähren Sie keine Rechte manuell, ohne dass Sie prüfen müssen, ob Sie den Inhalt besitzen.
+>Die manuelle Erteilung von Rechten für einen Inhalt bedeutet, dass Sie Eigentümer des Inhalts sind. Gewähren Sie keine Rechte manuell, ohne zu überprüfen, ob Sie Eigentümer des Inhalts sind.
 
-1. Klicken Sie auf, **[!UICONTROL Library]** um **[!UICONTROL Asset Library]** auf den Link zuzugreifen.
-1. Öffnen Sie einen Ordner und klicken Sie auf einen Inhalt, den Sie über Twitter oder Instagram gespeichert haben. Sie können sehen, wo der Inhalt entstand, indem Sie das Symbol auf dem Inhaltselement betrachten. Beispielsweise hat ein Inhaltselement von Twitter das Twitter-Logo darauf.
-1. Klicken Sie auf das Auslassungssymbol, das angezeigt wird, wenn Sie den Mauszeiger **[!UICONTROL More Options]**über die Inhaltskarte bewegen.
-1. Klicken **[!UICONTROL Rights]** Sie auf, um das **[!UICONTROL Rights options]** Fenster zu öffnen.
-1. Klicken **[!UICONTROL Manually Grant Rights]** Sie auf.
+1. Klicken Sie auf **[!UICONTROL Library]** , um auf die **[!UICONTROL Asset Library]**.
+1. Öffnen Sie einen Ordner und klicken Sie auf ein Inhaltselement, das Sie in Twitter oder Instagram gespeichert haben. Sie können sehen, woher der Inhalt stammt, indem Sie das Symbol auf dem Inhaltselement betrachten. Zum Beispiel steht ein Teil des Inhalts von Twitter mit dem Twitter-Logo.
+1. Klicken Sie auf das Auslassungssymbol, das angezeigt wird, wenn Sie den Mauszeiger über die Inhaltskarte für **[!UICONTROL More Options]** die Site bewegen.
+1. Klicken Sie auf **[!UICONTROL Rights]** , um das **[!UICONTROL Rights options]** Fenster zu öffnen.
+1. Klicken Sie auf **[!UICONTROL Manually Grant Rights]**.
