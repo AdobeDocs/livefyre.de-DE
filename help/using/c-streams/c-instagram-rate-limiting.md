@@ -1,30 +1,27 @@
 ---
-description: Instagram hat die Anzahl der Anforderungen geändert, die ein beliebiges Unternehmen, das die Instagram-API verwendet, einschließlich Livefyre, von 5.000 Anfragen pro Stunde pro Token bis zu 200 Anforderungen pro Stunde vornehmen kann. Dies wird als Ratenbeschränkung bezeichnet.
-seo-description: Instagram hat die Anzahl der Anforderungen geändert, die ein beliebiges Unternehmen, das die Instagram-API verwendet, einschließlich Livefyre, von 5.000 Anfragen pro Stunde pro Token bis zu 200 Anforderungen pro Stunde vornehmen kann. Dies wird als Ratenbeschränkung bezeichnet.
-seo-title: Instagram-Ratenbeschränkung
-title: Instagram-Ratenbeschränkung
-uuid: 98108 ddb -5710-4331-891 b -7 e 1 bbb 106059
+description: Instagram hat die Anzahl der Anfragen geändert, die ein Unternehmen, das die Instagram-API verwendet, einschließlich Livefyre, von 5.000 Anfragen pro Stunde pro Token auf 200 Anfragen pro Token stellen kann. Dies wird als Ratenbegrenzung bezeichnet.
+seo-description: Instagram hat die Anzahl der Anfragen geändert, die ein Unternehmen, das die Instagram-API verwendet, einschließlich Livefyre, von 5.000 Anfragen pro Stunde pro Token auf 200 Anfragen pro Token stellen kann. Dies wird als Ratenbegrenzung bezeichnet.
+seo-title: Begrenzung der Instagram-Rate
+title: Begrenzung der Instagram-Rate
+uuid: 98108db-5710-4331-891b-7e1bb106059
 translation-type: tm+mt
 source-git-commit: e9f672ba6e5f4338c58256e2d46ed023e84f340f
 
 ---
 
 
-# Fehlerbehebung: Beschränkungen für Instagram-Inhalte {#instagram-rate-limiting}
+# Fehlerbehebung: Einschränkungen bei Instagram-Inhalten {#instagram-rate-limiting}
 
-Instagram hat die Anzahl der Anforderungen geändert, die ein beliebiges Unternehmen, das die instagram API verwendet, einschließlich Livefyre, von 5.000 Anfragen pro Stunde pro Token bis zu 200 Anforderungen pro Stunde vornehmen kann. Dies wird als *Ratenbeschränkung bezeichnet*.
+Instagram hat die Anzahl der Anfragen geändert, die ein Unternehmen, das die INstagram API verwendet, einschließlich Livefyre, von 5.000 Anfragen pro Stunde pro Token auf 200 Anfragen pro Stunde und Token stellen kann. Dies wird als *Ratenbegrenzung* bezeichnet.
 
-Ein Token ist mit einem Instagram-Konto identisch.
+Ein Token ist dasselbe wie ein Instagram-Konto.
 
-Sie können einen Fehler ausführen, der Ihre Fähigkeit zum Suchen oder Abrufen von Inhalten aus Instagram einschränkt, da Sie:
+Es kann vorkommen, dass Sie einen Fehler ausführen, der Ihre Fähigkeit, Inhalte aus Instagram zu suchen oder abzurufen, einschränkt, weil Sie:
 
-* Verwenden eines Kontos für mehr als einen Stream
-* Eine große Anzahl von Instagram-Streams haben
-* Verwendung von Hashtags mit hohem Volumen (z. B `#cats` . oder `#beach`)
+* Verwenden Sie ein Konto für mehr als einen Stream
+* Eine große Anzahl Instagram-Streams
+* Kann Hashtags mit hohem Volumen verwenden (z. B. `#cats` oder `#beach`)
 
-So reduzieren Sie die Auswirkung der Instagram-Ratenbeschränkung:
+So reduzieren Sie die Auswirkung der Instagram-Ratenbegrenzung:
 
-* Verbinden Sie mehrere Instagram-Konten mit Ihrem Netzwerk. Informationen zum Hinzufügen von Instagram-Konten in Ihrem Netzwerk finden Sie unter [Instagram-Konten](/help/using/c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md)
-deaktivieren Sie Instagram-Streams, die Sie nicht verwenden,
-um sicherzustellen, dass Streams auf die richtigen Suchbegriffe ausgerichtet sind, und verwenden Sie Smart Tag-Filter, um Abfragen genauer zu machen. Weitere Informationen zur Verwendung intelligenter Tag-Filter finden Sie unter [Intelligente Tags](/help/using/c-features-livefyre/c-smart-tags/c-smart-tags.md)
-Minimieren, wenn mehrere Personen dasselbe Instagram-Konto in einem Netzwerk verwenden, um Instagram-Inhalte zu kuratieren.
+* Verbinden Sie mehrere Instagram-Konten mit Ihrem Netzwerk. Informationen zum Hinzufügen von Instagram-Konten in Ihrem Netzwerk finden Sie unter Instagram-Konten[](/help/using/c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md)Deaktivieren von Instagram-Streams, die Sie nicht verwendenStellen Sie sicher, dass Streams mit den richtigen Suchbegriffen abgestimmt sind, und verwenden Sie Smart-Tag-Filter, um Abfragen genauer zu gestalten. Weitere Informationen zur Verwendung von Smart-Tag-Filtern finden Sie unter [Smart-Tags](/help/using/c-features-livefyre/c-smart-tags/c-smart-tags.md)Minimieren von Zeiten, wenn mehrere Personen dasselbe Instagram-Konto in einem Netzwerk verwenden, um Instagram-Inhalte zu kuratieren.
