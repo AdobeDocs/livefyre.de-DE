@@ -1,22 +1,22 @@
 ---
-description: Whitelist ein Benutzer, der es ihnen ermöglicht, direkt zu Apps zu posten, ohne moderatiert zu werden.
-seo-description: Whitelist ein Benutzer, der es ihnen ermöglicht, direkt zu Apps zu posten, ohne moderatiert zu werden.
-seo-title: Whitelist ein Benutzer
+description: Whitelist ein Benutzer, damit er direkt in Apps posten kann, ohne moderiert zu werden.
+seo-description: Whitelist ein Benutzer, damit er direkt in Apps posten kann, ohne moderiert zu werden.
+seo-title: Whitelist für Benutzer
 solution: Experience Manager
-title: Whitelist ein Benutzer
-uuid: c 58 f 7279-5 fde -419 a-a 833-3 c 639 d 469421
+title: Whitelist für Benutzer
+uuid: c58f7279-5fde-419a-a833-3c639d469421
 translation-type: tm+mt
 source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 ---
 
 
-# Whitelist ein Benutzer{#whitelist-a-user}
+# Whitelist für Benutzer{#whitelist-a-user}
 
-Whitelist ein Benutzer, der es ihnen ermöglicht, direkt zu Apps zu posten, ohne moderatiert zu werden.
+Whitelist ein Benutzer, damit er direkt in Apps posten kann, ohne moderiert zu werden.
 
-Mit der Whitelisting-Funktion können Sie direkt Ihren Apps posten. Inhalte, die von Benutzern der Positivliste veröffentlicht werden, werden nicht durch die SAFE, Profit oder Premoderation von Livefyre weitergeleitet und werden automatisch genehmigt und der App hinzugefügt.
+Mit der Whitelist können Benutzer direkt in Ihre Apps posten. Inhalte, die von Benutzern in der Positivliste gepostet werden, werden nicht durch die SAFE-, Profitabilität- oder Vormoderationsfilter von Livefyre weitergeleitet und werden automatisch genehmigt und der App hinzugefügt.
 
-1. Klicken **[!UICONTROL +Add]****[!UICONTROL Whitelists]** Sie für.
-1. Es wird ein Popup angezeigt, mit dem Sie den Benutzer für das gesamte Netzwerk oder für eine bestimmte Site freigeben können. (Verwenden Sie die CTR- oder Befehlstaste, um mehrere Sites auszuwählen.)
-1. Klicken **[!UICONTROL Whitelist]** Sie auf, um den Vorgang abzuschließen.
+1. Klicken Sie **[!UICONTROL +Add]** auf **[!UICONTROL Whitelists]**.
+1. Es wird ein Popup angezeigt, mit dem Sie den Benutzer für das gesamte Netzwerk oder für eine bestimmte Site auf eine weiße Liste setzen können. (Verwenden Sie die CTR- oder Befehlstaste, um mehrere Sites auszuwählen.)
+1. Klicken Sie auf **[!UICONTROL Whitelist]** , um den Vorgang abzuschließen.
