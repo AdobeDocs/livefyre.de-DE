@@ -1,23 +1,20 @@
 ---
 description: Gibt ein neues Site-Objekt zurück.
 seo-description: Gibt ein neues Site-Objekt zurück.
-seo-title: Getsite-Netzwerkmethode
+seo-title: getSite-Netzwerkmethode
 solution: Experience Manager
-title: Getsite-Netzwerkmethode
-uuid: 67 de 781 e -5240-4 be 5-9 e 93-c 614828 e 0 bb 5
+title: getSite-Netzwerkmethode
+uuid: 67de781e-5240-4be5-9e93-c614828e0bb5
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Getsite-Netzwerkmethode{#getsite-network-method}
+# getSite-Netzwerkmethode{#getsite-network-method}
 
 Gibt ein neues Site-Objekt zurück.
-| Variable | Typ | Beschreibung|
-|— |— |— |
-| Siteid | String | Die Livefyre-bereitgestellte ID für die Website oder Anwendung, zu der die Sammlung gehört. Beispiel: 303617. |
-| Sitekey | String | Die Geheimer geheimer Schlüssel für siteid. |
+|Variable|Typ|Beschreibung||—|—|—||siteId|String|Die Livefyre-angegebene ID für die Website oder Anwendung, zu der die Sammlung gehört. Beispiel: 303617.  ||siteKey|String|Der von Livefyre bereitgestellte geheime Schlüssel für siteId.  |
 
 ## Java-Beispiel {#section_nyl_ycs_rz}
 
@@ -25,7 +22,7 @@ Gibt ein neues Site-Objekt zurück.
 Site site = network.getSite(siteId, siteKey); 
 ```
 
-## Nodejs-Beispiel {#section_xkd_gds_rz}
+## NodeJS-Beispiel {#section_xkd_gds_rz}
 
 ```
 var site = network.getSite(siteId, siteKey); 
@@ -37,7 +34,7 @@ var site = network.getSite(siteId, siteKey);
 $site = $network->getSite(siteId, siteKey);
 ```
 
-## Python Example {#section_dwg_gds_rz}
+## Python-Beispiel {#section_dwg_gds_rz}
 
 ```
 site = network.get_site(siteId, siteKey) 
