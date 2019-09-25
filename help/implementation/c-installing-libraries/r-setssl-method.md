@@ -1,23 +1,23 @@
 ---
-description: Setzt SSL für API-Aufrufe ein oder aus.
-seo-description: Setzt SSL für API-Aufrufe ein oder aus.
-seo-title: Setssl Network-Methode
+description: Legt SSL fest, damit API-Aufrufe ein- oder ausgeschaltet werden.
+seo-description: Legt SSL fest, damit API-Aufrufe ein- oder ausgeschaltet werden.
+seo-title: setSSL-Netzwerkmethode
 solution: Experience Manager
-title: Setssl Network-Methode
-uuid: 8 d 989 e 63-c 859-456 a -99 ca -8 d 87933913 ba
+title: setSSL-Netzwerkmethode
+uuid: 8d989e63-c859-456a-99ca-8d87933913ba
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Setssl Network-Methode{#setssl-network-method}
+# setSSL-Netzwerkmethode{#setssl-network-method}
 
-Setzt SSL für API-Aufrufe ein oder aus.
+Legt SSL fest, damit API-Aufrufe ein- oder ausgeschaltet werden.
 
 | Variable | Typ | Beschreibung |
 |--- |--- |--- |
-| ssl | Boolescher Wert | Der Standardwert ist &quot;true&quot; . Wenn SSL aktiviert ist, andernfalls false. <br><ul><li>True - SSL </li><li>False - SSL deaktiviert</li></ul> |
+| ssl | Boolesch | Der Standardwert ist "true". wenn SSL aktiviert sein soll, andernfalls false. <br><ul><li>True - SSL unter </li><li>False - SSL deaktiviert</li></ul> |
 
 ## Java-Beispiel {#section_nyl_ycs_rz}
 
@@ -25,7 +25,7 @@ Setzt SSL für API-Aufrufe ein oder aus.
 network.setSsl(ssl); 
 ```
 
-## Nodejs-Beispiel {#section_xkd_gds_rz}
+## NodeJS-Beispiel {#section_xkd_gds_rz}
 
 ```
 network.ssl = false; 
@@ -37,7 +37,7 @@ network.ssl = false;
 $network->setSsl(false); 
 ```
 
-## Python Example {#section_dwg_gds_rz}
+## Python-Beispiel {#section_dwg_gds_rz}
 
 ```
 network.ssl = False 
