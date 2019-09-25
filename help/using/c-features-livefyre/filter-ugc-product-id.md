@@ -1,18 +1,18 @@
 ---
-description: Durch das Filtern von UGC nach Produkt-ID können Sie die exakte App auf mehreren Seiten einbetten und gleichzeitig verschiedene produktspezifische UGC für jede Seite anzeigen.
-seo-description: Durch das Filtern von UGC nach Produkt-ID können Sie die exakte App auf mehreren Seiten einbetten und gleichzeitig verschiedene produktspezifische UGC für jede Seite anzeigen.
-seo-title: FILC nach Produkt-ID filtern
-title: FILC nach Produkt-ID filtern
-uuid: 98108 ddb -5710-4331-891 b -7 e 1 bbb 106059
+description: Wenn Sie UGC nach Produkt-ID filtern, können Sie die gleiche App auf mehreren Seiten einbetten und dabei für jede Seite eine andere produktspezifische UGC anzeigen.
+seo-description: Wenn Sie UGC nach Produkt-ID filtern, können Sie die gleiche App auf mehreren Seiten einbetten und dabei für jede Seite eine andere produktspezifische UGC anzeigen.
+seo-title: UGC nach Produkt-ID filtern
+title: UGC nach Produkt-ID filtern
+uuid: 98108db-5710-4331-891b-7e1bb106059
 translation-type: tm+mt
 source-git-commit: 76efa427b59a709009a3c2d3744ea65e0c959816
 
 ---
 
 
-# FILC nach Produkt-ID filtern {#filter-ugc-product-id}
+# UGC nach Produkt-ID filtern {#filter-ugc-product-id}
 
-Durch das Filtern von UGC nach Produkt-ID können Sie die exakte App auf mehreren Seiten einbetten und gleichzeitig verschiedene produktspezifische UGC für jede Seite anzeigen.
+Wenn Sie UGC nach Produkt-ID filtern, können Sie die gleiche App auf mehreren Seiten einbetten und dabei für jede Seite eine andere produktspezifische UGC anzeigen.
 
 Gehen Sie wie folgt vor, um UGC nach Produkt-ID zu filtern:
 
@@ -20,27 +20,27 @@ Gehen Sie wie folgt vor, um UGC nach Produkt-ID zu filtern:
 
 1. Wählen Sie die App aus, die Sie ändern möchten.
 
-1. Wählen Sie in der linken Leiste die Registerkarte &quot;Designer&quot; aus.
+1. Wählen Sie in der linken Leiste die Registerkarte "Designer".
 
 1. Enable **[!UICONTROL Filter UGC by Product ID]**.
 
 ![](assets/filter-ugc-product-id.png)
 
-1. Wählen Sie die Produktordner der obersten Ebene aus, die das Produkt oder die Produkte enthalten, nach denen Sie UGC filtern möchten.
-Verwenden Sie Strg/Befehl + Klicken, um mehrere Ordner auszuwählen.
+1. Wählen Sie die Produktordner auf der obersten Ebene aus, die das Produkt oder die Produkte enthalten, nach denen Sie UGC filtern möchten.
+Verwenden Sie STRG/Befehl + Klicken, um mehrere Ordner auszuwählen.
 
 1. Disable **[!UICONTROL Show related content]**.
-Wenn diese Option aktiviert ist, wird der mit dem `data-lf-attr-product` Attribut gefilterte Inhalt zuerst angezeigt, gefolgt von allen anderen Inhalten in der App.
+Wenn diese Option aktiviert ist, werden zuerst Inhalte angezeigt, die mit dem `data-lf-attr-product` -Attribut gefiltert werden, gefolgt von allen anderen Inhalten in der App.
 
-1. Klicken **[!UICONTROL Publish]** Sie auf.
+1. Klicken Sie auf **[!UICONTROL Publish]**.
 
-1. Fügen Sie die Produkt-IDs, die Sie filtern möchten, in den resultierenden Code ein.
+1. Fügen Sie die Produkt-IDs, nach denen Sie filtern möchten, in den resultierenden Code ein.
 
 >[!NOTE]
 >
->Navigieren Sie zum Suchen nach Produkt-IDs **[!UICONTROL Settings > Products]** zu. Suchen Sie das gewünschte Produkt und wählen Sie es aus und die ID wird angezeigt.
+>Um Produkt-IDs zu suchen, navigieren Sie zu **[!UICONTROL Settings > Products]**. Suchen Sie das gewünschte Produkt und wählen Sie es aus, und die ID wird angezeigt.
 
-Der folgende Code wird beispielsweise für eine Media Wall-App generiert:
+Beispielsweise wird der folgende Code für eine Media Wall App generiert:
 
 ```
 <script type="text/javascript" src="https://cdn.livefyre.com/
@@ -53,9 +53,9 @@ env="prod" data-lf-read-only="" data-lf-attr-product="<product
  {embed.el.onload(embed.getConfig());}});});</script>
 ```
 
-Um ein Produkt zu taggen, ersetzen `<product 1>` Sie im `data-lf-attr-product` Attribut durch die gewünschte Produkt-ID. Sie können ein Produkt oder mehr taggen, indem Sie zusätzliche kommagetrennte Produkt-IDs hinzufügen. Produkte müssen im Produktordner oder in den in Schritt 5 ausgewählten Ordnern der obersten Ebene enthalten sein.
+Um ein Produkt zu taggen, ersetzen Sie `<product 1>` im `data-lf-attr-product` Attribut die gewünschte Produkt-ID. Sie können ein Produkt oder mehrere Produkte mit Tags versehen, indem Sie zusätzliche durch Kommas getrennte Produkt-IDs hinzufügen. Produkte müssen im Produktordner oder in den Ordnern der obersten Ebene enthalten sein, die in Schritt 5 ausgewählt wurden.
 
-Das geänderte Codesegment würde wie folgt angezeigt:
+Das geänderte Codesegment würde wie folgt aussehen:
 
 ```
 <script type="text/javascript" src="https://cdn.livefyre.com/
@@ -68,4 +68,4 @@ Livefyre.js"></script><div class="lf-app-embed" data-lfapp="
  {embed.el.onload(embed.getConfig());}});});</script>
 ```
 
-Die App zeigt jetzt nur die mit Tags versehenen Produkt-IDs an.
+Die App zeigt jetzt nur die getaggten Produkt-IDs an.
