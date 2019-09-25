@@ -1,35 +1,35 @@
 ---
-description: Das Confiotes-Konfigurationsobjekt ist ein JSON-Objekt, mit dem der Inhalt angegeben wird, den die Livefyre-App auf der Seite wiedergibt.
-seo-description: Das Confiotes-Konfigurationsobjekt ist ein JSON-Objekt, mit dem der Inhalt angegeben wird, den die Livefyre-App auf der Seite wiedergibt.
-seo-title: Optionen für die Konfiguration von Gruppen
+description: Das Config-Objekt "SiHiermit"ist ein JSON-Objekt, mit dem der von der Livefyre-App auf der Seite wiedergegebene Inhalt angegeben wird.
+seo-description: Das Config-Objekt "SiHiermit"ist ein JSON-Objekt, mit dem der von der Livefyre-App auf der Seite wiedergegebene Inhalt angegeben wird.
+seo-title: Sidebar-Konfigurationsoptionen
 solution: Experience Manager
-title: Optionen für die Konfiguration von Gruppen
-uuid: 067 e 51 e 6-9720-4226-a 805-c 7 a 07 c 8 cdaa 0
+title: Sidebar-Konfigurationsoptionen
+uuid: 067e51e6-9720-4226-a805-c7a07c8cdaa0
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Optionen für die Konfiguration von Gruppen{#sidenotes-configuration-options}
+# Sidebar-Konfigurationsoptionen{#sidenotes-configuration-options}
 
-Das Confiotes-Konfigurationsobjekt ist ein JSON-Objekt, mit dem der Inhalt angegeben wird, den die Livefyre-App auf der Seite wiedergibt.
+Das Config-Objekt "SiHiermit"ist ein JSON-Objekt, mit dem der von der Livefyre-App auf der Seite wiedergegebene Inhalt angegeben wird.
 
 Das Objekt enthält die folgenden Parameter:
 
 | Parameter | Typ | Beschreibung |
 |--- |--- |--- |
-| Authdelegate | *Erforderliches* Objekt | Neue oder alte Stilisierungsdelegierungsupdate. |
-| Collectionmeta | *Erforderliches* Objekt | Weitere Informationen finden Sie unter collectionmeta-Token. |
-| Customicon | *optionale* Zeichenfolge | Legt die URL eines benutzerdefinierten Starter-Symbols fest. Die Standardeinstellung ist &quot;Livefyre-Bubble&quot; . |
-| Customstyles | *Optionales* Objekt | Fügt benutzerdefinierte Stile hinzu, um das Erscheinungsbild von Sidenotes zu ändern. Weitere Informationen finden Sie unter Benutzerdefinierte Stile. |
-| Disablestream | *Optionales* Boolescher Wert | Wenn &quot;true&quot; , wird das Echtzeit-Streaming in dieser&quot; Sidenotes&quot; -Instanz deaktiviert (nicht in anderen Kommentarstreams). Der Standardwert ist &quot;false&quot; . |
-| Umgebung | *optionale* Zeichenfolge | Gibt die Livefyre-UIN-Umgebung an. Der einzige mögliche Wert `t402.livefyre.com`ist. Für die Produktion muss dieser Parameter entfernt werden. |
-| Iconvisibility | *optionales* Objekt oder eine optionale Zeichenfolge | Definiert, ob das Symbol &quot;Sidenotes&quot; beim Mauszeiger oder statisch sichtbar ist. Ist dies eine Zeichenfolge, wird sie für beide Versionen des Blocksymbols verwendet (leer und hat &quot;Sidenotes&quot; ). Bei einem Objekt müssen Sie jeden Typ angeben: {empty: &#39; hover &#39;, num: &#39; static &#39;}. Der Standardwert ist statisch. |
-| Inlinethreads | *Optionales* Boolesches Zeichen | Wenn &quot;true&quot; , werden Mohamote threads direkt nach dem Block eingefügt, mit dem sie verknüpft sind. Der Standardwert ist &quot;false&quot; . |
-| Numsidenotesel | *optionales* Objekt, Zeichenfolge oder Array | Gibt an, welches Element das Widget &quot;Sidenotes&quot; dekorieren soll. (Dieses Widget zeigt die Anzahl der Follower auf der Seite und Informationen zu den Autoren.) Wenn die Zeichenfolgenauswahl mehr als ein Element entspricht, wird das erste Element ausgewählt. (Verwendet CSS 3 DOM Selector spec.) |
-| position | *optionale* Zeichenfolge | Legt die Position des Popupfensters fest, wenn auf ein Element geklickt wird, auf das die &quot;Sidenotes&quot; aktiviert ist. Mögliche Werte sind &quot;smart&quot; ,&quot; left&quot; , &quot;right&quot; und&quot; bottom&quot; . Der Standardwert ist &quot;smart&quot; , der das Popup rechts von der Seite ausrichten wird, sofern nicht ausreichend Leerzeichen vorhanden sind (in diesem Fall wird er unter den Inhalt verschoben). |
-| Selektoren | *Erforderliches* Objekt, Zeichenfolge oder Array | Gibt die Elemente an, auf denen Starter-Symbole angezeigt werden sollen. (Verwendet CSS 3 DOM Selector spec.) Wenn das Objekt den Abschnitt &quot;enthält&quot; enthält und der Abschnitt&quot; Schließt&quot; den CSS-Selektor für jede Übereinstimmung anwendet, und entfernen Sie alle Elemente, die den Ausschluss-Elementen entsprechen. Bei der Zeichenfolge werden alle übereinstimmenden Elemente auf der Seite eingeschlossen. Wenn Array, werden die einzuschließenden Elemente aufgelistet. |
-| Zeichenfolgen | *Optionales* Objekt | Fügt benutzerdefinierte Textzeichenfolgen hinzu, um eine Sprache oder einen Text in der gesamten Anwendung zu ändern. Weitere Informationen finden Sie unter Benutzerdefinierte Zeichenfolgen. |
-| Threadcontainerel | *optionales* Objekt, Zeichenfolge oder Array | Gibt ein Element an, in dem der Thread-Thread angezeigt wird. Mit diesem Parameter können Sie den Thread neu positionieren. Wenn die Zeichenfolgenauswahl mehr als ein Element entspricht, wird das erste Element ausgewählt. (Verwendet CSS 3 DOM Selector spec.) |
+| authDelegate | *erforderliches* Objekt | Initialisierter Authentifizierungs-Delegate für neuen oder alten Stil. |
+| collectionMeta | *erforderliches* Objekt | Weitere Informationen finden Sie unter collectionMeta-Token. |
+| customIcon | *optionale* Zeichenfolge | Legt die URL eines benutzerdefinierten Startersymbols fest. Der Standardwert ist Livefyre-Blase. |
+| customStyles | *optionales* Objekt | Fügt benutzerdefinierte Stile hinzu, um das Erscheinungsbild von Siegels zu ändern. Weitere Informationen finden Sie unter Benutzerdefinierte Stile. |
+| disableStream | *optional* Boolean | Wenn "true", wird das Echtzeit-Streaming in dieser Instanz des Siegels deaktiviert (nicht in anderen Kommentarstreams). Standard ist „false“. |
+| Umgebung | *optionale* Zeichenfolge | Gibt die UAT-Umgebung von Livefyre an. Der einzig mögliche Wert ist `t402.livefyre.com`. Für die Produktion muss dieser Parameter entfernt werden. |
+| iconVisibility | *optionales* Objekt oder Zeichenfolge | Legt fest, ob das Siegels-Symbol beim Bewegen des Mauszeigers oder bei einem statischen Symbol sichtbar sein soll. Wenn es sich um eine Zeichenfolge handelt, wird sie für beide Versionen des Blocksymbols verwendet (leer und hat Sir). Bei einem Objekt müssen Sie jeden Typ angeben: {leer: "hover", num: "statisch"}. Die Standardeinstellung ist statisch. |
+| inlineThreads | *optional* boolesch | Wenn "true", werden Sidenote-Threads direkt nach dem Block eingefügt, mit dem sie verknüpft sind. Standard ist „false“. |
+| numSigibtEl | *optionales* Objekt, String oder Array | Gibt an, welches Element das Widget "Sikennzeichenanzahl"verzieren soll. (Dieses Widget zeigt die Anzahl der Präsidentschaften auf der Seite und Informationen zu Siegels an.) Wenn der String-Selektor mit mehr als einem Element übereinstimmt, wird das erste Element ausgewählt. (Verwendet CSS3 DOM-Selektorspezifikationen.) |
+| position | *optionale* Zeichenfolge | Bestimmt die Position des Popups, wenn auf ein Element geklickt wird, für das "Siegels"aktiviert ist. Mögliche Werte sind "smart", "left", "right", "bottom". Der Standardwert ist "smart", wodurch das Popup rechts von der Seite ausgerichtet wird, es sei denn, es ist nicht genügend Platz vorhanden (in diesem Fall wird es unter den Inhalt verschoben). |
+| Selektoren | *erforderliches* Objekt, String oder Array | Gibt die Elemente an, auf denen Startersymbole angezeigt werden sollen. (Verwendet CSS3 DOM-Selektorspezifikationen.) Enthält ein Objekt den Abschnitt "Includes"und den Abschnitt "Ausschluss", der den CSS-Selektor auf alle übereinstimmenden Einschlüsse anwendet, und entfernt alle Elemente, die mit den Ausschlüssen übereinstimmen. Bei einer Zeichenfolge werden alle passenden Elemente auf der Seite eingefügt. Wenn Array, werden die einzuschließenden Elemente aufgelistet. |
+| Strings | *optionales* Objekt | Fügt benutzerdefinierte Textzeichenfolgen hinzu, um eine beliebige Sprache oder Text in der Anwendung zu ändern. Weitere Informationen finden Sie unter Benutzerdefinierte Zeichenfolgen. |
+| threadContainerEl | *optionales* Objekt, String oder Array | Gibt ein Element an, in dem der Thread von "sidences"angezeigt wird. Mit diesem Parameter können Sie den Thread neu positionieren. Wenn der String-Selektor mit mehr als einem Element übereinstimmt, wird das erste Element ausgewählt. (Verwendet CSS3 DOM-Selektorspezifikationen.) |
 
