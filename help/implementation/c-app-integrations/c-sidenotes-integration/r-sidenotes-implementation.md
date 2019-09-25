@@ -1,21 +1,21 @@
 ---
 description: Implementieren von Anmerkungen mithilfe der .js-Implementierung.
 seo-description: Implementieren von Anmerkungen mithilfe der .js-Implementierung.
-seo-title: Implementierung von Sidenotes
+seo-title: Implementierung von Sizilien
 solution: Experience Manager
-title: Implementierung von Sidenotes
-uuid: aa 13852 e-e 2 b 0-4 a 86-97 cd-d 08 ab 5 e 2 cfab
+title: Implementierung von Sizilien
+uuid: aa13852e-e2b0-4a86-97cd-d08ab5e2cfab
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Implementierung von Sidenotes{#sidenotes-implementation}
+# Implementierung von Sizilien{#sidenotes-implementation}
 
 ## Implementieren von Anmerkungen mithilfe der .js-Implementierung
 
-Übergeben Sie zur Implementierung dieser Funktion eine 1-1 Objektzuordnung der Zeichenfolgen, die Sie dem Javascript-Konfigurationsobjekt überschreiben möchten. Wenn Sie kein Feld angeben, wird der Standardtext verwendet.
+Übergeben Sie zur Implementierung dieser Funktion eine 1-1-Objektzuordnung der Zeichenfolgen, die Sie überschreiben möchten, an das JavaScript-Konfigurationsobjekt. Wenn Sie kein Feld angeben, wird der Standardtext verwendet.
 
 ### Beispiel 
 
