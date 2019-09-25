@@ -1,29 +1,29 @@
 ---
-description: Verwenden Sie Social Search, um nach youtube-Inhalten zu suchen, die in Ihre Asset-Bibliothek aufgenommen oder in Apps veröffentlicht werden sollen.
-seo-description: Verwenden Sie Social Search, um nach youtube-Inhalten zu suchen, die in Ihre Asset-Bibliothek aufgenommen oder in Apps veröffentlicht werden sollen.
-seo-title: Suchen nach youtube-Inhalten
-title: Suchen nach youtube-Inhalten
-uuid: a 99 c 2 c 0 d -4647-4432-8 f 67-8 c 2 fc 29 fe 245
+description: Verwenden Sie die Social-Suche, um nach YouTube-Inhalten zu suchen, die in Ihre Asset-Bibliothek aufgenommen oder in Apps veröffentlicht werden sollen.
+seo-description: Verwenden Sie die Social-Suche, um nach YouTube-Inhalten zu suchen, die in Ihre Asset-Bibliothek aufgenommen oder in Apps veröffentlicht werden sollen.
+seo-title: Suchen nach YouTube-Inhalten
+title: Suchen nach YouTube-Inhalten
+uuid: a99c2c0d-4647-4432-8f67-8c2fc29fe245
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Suchen nach youtube-Inhalten{#search-for-youtube-content}
+# Suchen nach YouTube-Inhalten{#search-for-youtube-content}
 
-Verwenden Sie Social Search, um nach youtube-Inhalten zu suchen, die in Ihre Asset-Bibliothek aufgenommen oder in Apps veröffentlicht werden sollen.
+Verwenden Sie die Social-Suche, um nach YouTube-Inhalten zu suchen, die in Ihre Asset-Bibliothek aufgenommen oder in Apps veröffentlicht werden sollen.
 
-1. **[!UICONTROL Social Search]** Navigieren Sie zu.
-1. Wählen **[!UICONTROL YouTube]** Sie diese Option, um youtube-Inhalte zu suchen.
-1. Geben Sie einen Suchbegriff ein und klicken Sie auf &quot;Zurückgeben&quot; .
-1. Klicken **[!UICONTROL Show Filter]** Sie auf, um die Suche zu verfeinern.
+1. Navigieren Sie zu **[!UICONTROL Social Search]**.
+1. Wählen Sie **[!UICONTROL YouTube]** zum Durchsuchen von YouTube-Inhalten.
+1. Geben Sie einen Suchbegriff ein und klicken Sie auf "Zurück".
+1. Klicken Sie auf **[!UICONTROL Show Filter]** , um die Suche zu verfeinern.
 
-   * ****[!UICONTROL Sort By:]können Sie auswählen, ob zurückgegebene Ergebnisse nach **[!UICONTROL Relevance, Recently Added]** oder **[!UICONTROL Views]****[!UICONTROL Rating]****[!UICONTROL Title]** nach sortiert werden sollen.
+   * **[!UICONTROL Sort By:]**ermöglicht Ihnen die Auswahl, ob die zurückgegebenen Ergebnisse nach **[!UICONTROL Relevance, Recently Added]**, **[!UICONTROL Views]** oder **[!UICONTROL Rating]****[!UICONTROL Title]** sortiert werden sollen.
 
-   * ****[!UICONTROL Quality:]ermöglicht es Ihnen, zurückgegebene Videos auf diejenigen in hoher Definition ( **[!UICONTROL HD]**) zu beschränken.
+   * **[!UICONTROL Quality:]**ermöglicht Ihnen, zurückgegebene Videos auf Videos in High Definition zu beschränken ( **[!UICONTROL HD]**).
 
-   * ****[!UICONTROL Duration:]erlaubt es Ihnen, zurückgegebene Videos zu beschränken, die mit einer Dauer von **[!UICONTROL <4 mins]**, **[!UICONTROL 4 mins- 20 mins]** oder **[!UICONTROL >20 mins]**.
+   * **[!UICONTROL Duration:]**ermöglicht es Ihnen, zurückgegebene Videos zu beschränken, die eine Dauer von **[!UICONTROL <4 mins]**, **[!UICONTROL 4 mins- 20 mins]** oder **[!UICONTROL >20 mins]** haben.
 
-   * ****[!UICONTROL License:]ermöglicht es Ihnen, zurückgegebene Videos basierend auf **[!UICONTROL Any]** der Lizenz zu begrenzen oder **[!UICONTROL Creative Commons]****[!UICONTROL YouTube Standard License]**.
+   * **[!UICONTROL License:]**ermöglicht Ihnen, zurückgegebene Videos basierend auf **[!UICONTROL Any]** Lizenz **[!UICONTROL Creative Commons]** oder **[!UICONTROL YouTube Standard License]** zu begrenzen.
 
