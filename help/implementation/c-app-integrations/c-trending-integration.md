@@ -1,10 +1,10 @@
 ---
-description: Präsentieren Sie die aktivsten Sammlungen auf Ihrer Site oder Ihrem Netzwerk.
-seo-description: Präsentieren Sie die aktivsten Sammlungen auf Ihrer Site oder Ihrem Netzwerk.
+description: Zeigen Sie die aktivsten Sammlungen auf Ihrer Site oder im Netzwerk an.
+seo-description: Zeigen Sie die aktivsten Sammlungen auf Ihrer Site oder im Netzwerk an.
 seo-title: Trends
 solution: Experience Manager
 title: Trends
-uuid: 3031523 d-b 487-4 eea-bba 6-5 d 8 f 9971874 f
+uuid: 3031523d-b487-4eea-bba6-5d8f9971874f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,15 +13,15 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Trends{#trending}
 
-Präsentieren Sie die aktivsten Sammlungen auf Ihrer Site oder Ihrem Netzwerk.
+Zeigen Sie die aktivsten Sammlungen auf Ihrer Site oder im Netzwerk an.
 
-Verwenden Sie Trend, um die Sammlungen mit der neuesten Aktivität in Ihrer Site oder Ihrem Netzwerk anzuzeigen.
+Verwenden Sie Trendansicht, um die Sammlungen mit der neuesten Aktivität in Ihrer Site oder Ihrem Netzwerk zu präsentieren.
 
-## Integration{#section_wtz_whb_c1b}
+## Integration {#section_wtz_whb_c1b}
 
-Die schnelle Integration mit der Trendansicht ist die Verwendung der erstellten Version, die auf dem CDN von Livefyre gehostet wird.
+Die schnellste Möglichkeit zur Integration in Trending besteht darin, die auf Livefyre’s CDN gehostete Version zu verwenden.
 
-Fügen Sie [zunächst Livefyre. js](https://github.com/Livefyre/Livefyre.js) zu Ihrer Seite hinzu.
+Fügen Sie Ihrer Seite zunächst [Livefyre.js](https://github.com/Livefyre/Livefyre.js) hinzu.
 
 ```
 <script src="//cdn.livefyre.com/Livefyre.js"></script> 
@@ -33,7 +33,7 @@ Positionieren Sie dann das Element, in dem die App angezeigt wird.
 <div id="trending"></div>
 ```
 
-Zum Erstellen `Livefyre.require` der Komponente verwenden.
+Verwenden Sie schließlich `Livefyre.require` zum Erstellen der Komponente.
 
 ```
 <script> 
@@ -49,13 +49,13 @@ Livefyre.require([
 </script>
 ```
 
-Sie haben jetzt eine Trendapp! Sehen Sie sich dies in diesem [Beispiel alles](https://codepen.io/gobengo/pen/GijEy)an.
+Sie haben jetzt eine Trending App! Sehen Sie dies alles in Aktion in [diesem Beispiel](https://codepen.io/gobengo/pen/GijEy).
 
 ## Konfiguration {#section_k5k_qhb_c1b}
 
 `network`
 
-Das Netzwerk, aus dem Sammlungen gezogen werden. (Erforderlich.)
+Das Netzwerk, aus dem Sammlungen abgerufen werden. (Erforderlich.)
 
 ```
 var trending = new Trending({ 
@@ -66,7 +66,7 @@ var trending = new Trending({
 
 `siteId`
 
-Geben Sie die Site-ID an, um Sammlungen nur von einer einzelnen Site innerhalb Ihres Netzwerks anzuzeigen. (Optional.)
+Geben Sie die Site-ID ein, damit Sammlungen nur von einer einzigen Site in Ihrem Netzwerk angezeigt werden. (Optional.)
 
 ```
 var trending = new Trending({ 
