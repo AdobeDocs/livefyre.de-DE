@@ -1,29 +1,29 @@
 ---
-description: Storify verwaltet mehrere gleichzeitige Editoren, wodurch versehentliche Überschreibungen vermieden oder Bearbeitungen verloren gehen.
-seo-description: Storify verwaltet mehrere gleichzeitige Editoren, wodurch versehentliche Überschreibungen vermieden oder Bearbeitungen verloren gehen.
-seo-title: Mit mehreren Editoren auf derselben Meldung arbeiten
+description: Storify verwaltet mehrere gleichzeitige Editoren, wodurch versehentliche Überschreibungen oder verlorene Änderungen verhindert werden.
+seo-description: Storify verwaltet mehrere gleichzeitige Editoren, wodurch versehentliche Überschreibungen oder verlorene Änderungen verhindert werden.
+seo-title: Arbeiten mit mehreren Editoren in derselben Meldung
 solution: Experience Manager
-title: Mit mehreren Editoren auf derselben Meldung arbeiten
-uuid: c 9 b 8 bf 70-84 c 3-4 e 58-bbd 0-f 3 d 0 ea 74 fc 68
+title: Arbeiten mit mehreren Editoren in derselben Meldung
+uuid: c9b8bf70-84c3-4e58-bbd0-f3d0ea74fc68
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Mit mehreren Editoren auf derselben Meldung arbeiten{#working-with-multiple-editors-on-the-same-story}
+# Arbeiten mit mehreren Editoren in derselben Meldung{#working-with-multiple-editors-on-the-same-story}
 
-Storify verwaltet mehrere gleichzeitige Editoren, wodurch versehentliche Überschreibungen vermieden oder Bearbeitungen verloren gehen.
+Storify verwaltet mehrere gleichzeitige Editoren, wodurch versehentliche Überschreibungen oder verlorene Änderungen verhindert werden.
 
-Storify ermöglicht es mehreren Editoren, Inhalte für eine einzelne Story zu bearbeiten, zu bearbeiten und zu kuratieren. Änderungen werden in Echtzeit angezeigt und mit dem Benutzernamen und dem Avatar des Editors getaggt.
+Mit Storify können mehrere Editoren für eine einzelne Meldung zusammenarbeiten, Inhalte bearbeiten und kuratieren. Die Bearbeitung ist in Echtzeit sichtbar und mit dem Benutzernamen und Avatar des Editors versehen.
 
-Mehrere Editoren, die an einer einzelnen Story arbeiten, sehen andere, die in Echtzeit auf der Seite arbeiten. Neue Elemente, Textänderungen und Formatierungsänderungen werden während der Hinzufügung angezeigt, wobei der Speicherort des Editors auf der Seite mit einer farbcodierten Textauswahl, einem Namensbanner und einem Avatar (falls verfügbar) angegeben wird.
+Mehrere Redakteure, die an einem Artikel arbeiten, sehen, wie andere an der Seite in Echtzeit arbeiten. Neue Elemente, Textbearbeitungen und Formatierungsänderungen werden beim Hinzufügen angezeigt, wobei die Position des Editors auf der Seite mit einer farbkodierten Textauswahl, einem Namensbanner und einer Avatar (falls verfügbar) gekennzeichnet ist.
 
-Alle Editors verfügen über sämtliche Rechte und Rechte zum Bearbeiten Ihrer Story, einschließlich der rechte zu:
+Alle Editoren haben alle Rechte und Rechte, Ihre Story zu bearbeiten, einschließlich des Rechts auf:
 
-* Rückgängig und Wiederholen Sie die Arbeit anderer.
+* Rückgängig und Wiederholen der Arbeit anderer.
 * Veröffentlichen neuer Inhalte oder Änderungen
-* Löschen von Inhalten
-* Textblöcke bearbeiten.
-* Überschriften hinzufügen.
+* Inhalt löschen
+* Textblöcke bearbeiten
+* Fügen Sie Überschriften hinzu.
 
