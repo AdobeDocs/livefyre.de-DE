@@ -1,10 +1,10 @@
 ---
-description: Wählen Sie ausgewählte Inhalte in Ihre Livefyre-Apps oder in die Studio-Bibliothek.
-seo-description: Wählen Sie ausgewählte Inhalte in Ihre Livefyre-Apps oder in die Studio-Bibliothek.
+description: Wählen Sie den ausgewählten Inhalt in Ihre Livefyre-Apps oder Studio-Bibliothek aus.
+seo-description: Wählen Sie den ausgewählten Inhalt in Ihre Livefyre-Apps oder Studio-Bibliothek aus.
 seo-title: Streams
 solution: Experience Manager
 title: Streams
-uuid: 01 ea 5 d 33-5 ec 1-46 f 4-b 724-8431 cda 443 a 1
+uuid: 01ea5d33-5ec1-46f4-b724-8431cda443a1
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,21 +13,21 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Streams{#streams}
 
-Wählen Sie ausgewählte Inhalte in Ihre Livefyre-Apps oder in die Studio-Bibliothek.
+Wählen Sie den ausgewählten Inhalt in Ihre Livefyre-Apps oder Studio-Bibliothek aus.
 
-Mit Streams können Sie Regeln erstellen, um Inhalte von Websites sozialer Medien abzurufen und diesen Inhalt an Ihre Asset-Bibliothek oder eine ausgewählte Livefyre-App zu übertragen.
+Mit Streams können Sie Regeln erstellen, um Inhalte von Social-Media-Websites abzurufen und diese Inhalte in Ihre Asset-Bibliothek oder in eine ausgewählte Livefyre-App zu übertragen.
 
 (Die Regeloptionen variieren je nach Quelltyp.)
 
 Mit Ordnerzielen definierte Streams speichern Inhalte als Assets in Ihrer Asset-Bibliothek.
 
-Mehrere Streams können in ein einzelnes Ziel verschoben werden (Ordner oder App).
+Mehrere Streams können an ein einzelnes Ziel (Ordner oder App) gesendet werden.
 
-Durch App-Ziele definierte Streams leiten Inhalte direkt an Ihre App weiter und stehen auf der Registerkarte &quot;Veröffentlicht&quot; in Ihrer Bibliothek zur Verfügung.
+Mit App-Zielen definierte Streams senden Inhalte direkt an Ihre App und sind über die Registerkarte "Veröffentlicht"in Ihrer Bibliothek verfügbar.
 
-Verwenden Sie die Streams-Oberfläche, um Regeln zu definieren, mit denen Studio ausgewählte Inhalte in Ihre Livefyre-Apps oder Asset-Bibliothek einfügen kann.
+Verwenden Sie die Streams-Oberfläche, um Regeln zu definieren, nach denen Studio ausgewählte Inhalte an Ihre Livefyre-Apps oder Asset-Bibliothek weiterleitet.
 
 >[!NOTE]
 >
->Inhalte, die während des aktiven Streams erstellt wurden, werden in Ihren Apps angezeigt. Inhalte, die erstellt wurden, bevor Regeln definiert wurden und der Stream aktiv ist oder nachdem ein Stream deaktiviert wurde, werden in Ihren Apps nicht angezeigt.
+>Inhalte, die erstellt wurden, während Ihr Stream aktiv ist, werden in Ihren Apps angezeigt. Inhalte, die erstellt wurden, bevor Regeln definiert wurden und der Stream aktiv ist oder nachdem ein Stream deaktiviert wurde, werden in Ihren Apps nicht angezeigt.
 
