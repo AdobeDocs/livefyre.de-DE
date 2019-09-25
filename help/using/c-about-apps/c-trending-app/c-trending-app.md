@@ -1,10 +1,10 @@
 ---
-description: Verwenden Sie Trend, um Ihre aktivsten Sammlungen anzuzeigen.
-seo-description: Verwenden Sie Trend, um Ihre aktivsten Sammlungen anzuzeigen.
+description: Verwenden Sie Trendansicht, um Ihre aktivsten Sammlungen zu präsentieren.
+seo-description: Verwenden Sie Trendansicht, um Ihre aktivsten Sammlungen zu präsentieren.
 seo-title: Trends
 solution: Experience Manager
 title: Trends
-uuid: 7 c 0 bc 020-46 a 3-4 ac 6-a 8 db -9532 a 4 fa 83 b 1
+uuid: 7c0bc020-46a3-4ac6-a8db-9532a4fa83b1
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,4 +13,4 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Trends{#trending}
 
-Verwenden Sie Trends, um die aktivsten Sammlungen über eine bestimmte Site zu präsentieren, um den Site-Traffic zu Ihren aktivsten Diskussionen zu bringen oder Leser auf einen Blick zu messen. Die Anwendung zeigt die obersten Sammlungen von am meisten bis am geringsten an, wobei ein Balkendiagramm die relative Beliebtheit der einzelnen Sammlungen anzeigt. Anhand der Trends können Leser feststellen, wo die meisten Unterhaltungen stattfinden, und sie zu diesen Unterhaltungen weiterleiten.
+Verwenden Sie Trending, um die aktivsten Sammlungen auf einer bestimmten Site zu präsentieren, um den Site-Traffic zu Ihren aktivsten Diskussionen zu steigern oder um Lesern zu ermöglichen, die Site-Aktivität auf einen Blick zu messen. In der Anwendung werden die obersten Sammlungen von den am wenigsten aktiven bis zu den am wenigsten aktiven Sammlungen angezeigt, wobei ein Balkendiagramm die relative Beliebtheit jeder Sammlung anzeigt. Trends helfen Lesern, festzustellen, wo die meisten Gespräche stattfinden, und leiten sie zu diesen Unterhaltungen.
