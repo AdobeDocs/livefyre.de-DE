@@ -1,9 +1,9 @@
 ---
-description: Das Auth-Paket von Livefyre. js stellt sicher, dass alle sozialen Komponenten auf Ihrer Seite eine einzige Authentifizierungsintegration entdecken.
-seo-description: Das Auth-Paket von Livefyre. js stellt sicher, dass alle sozialen Komponenten auf Ihrer Seite eine einzige Authentifizierungsintegration entdecken.
+description: Das Livefyre.js Auth-Paket stellt sicher, dass alle sozialen Komponenten auf Ihrer Seite eine einzige Authentifizierungsintegration entdecken können.
+seo-description: Das Livefyre.js Auth-Paket stellt sicher, dass alle sozialen Komponenten auf Ihrer Seite eine einzige Authentifizierungsintegration entdecken können.
 seo-title: Livefyre-Identität initialisieren
 title: Livefyre-Identität initialisieren
-uuid: 9365 d 827-2734-4 a 84-bfe 7-9 be 573 b 2 b 03 e
+uuid: 9365d827-2734-4a84-bfe7-9be573b2b03e
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -12,12 +12,12 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Livefyre-Identität initialisieren{#initialize-livefyre-identity}
 
-Das Auth-Paket von Livefyre. js stellt sicher, dass alle sozialen Komponenten auf Ihrer Seite eine einzige Authentifizierungsintegration entdecken.
+Das Livefyre.js Auth-Paket stellt sicher, dass alle sozialen Komponenten auf Ihrer Seite eine einzige Authentifizierungsintegration entdecken können.
 
-Livefyre stellt ein `lfep-auth-delegate` Paket bereit, das eine geeignete Authentifizierung für Sie vornimmt. Auth muss ein authdelegobjekt zur Durchführung von Authentifizierungsaktionen wie Anmeldung und Abmeldung bereitstellen.
+Livefyre bietet ein `lfep-auth-delegate` Paket, das einen entsprechenden Auth-Delegate für Sie bereitstellt. Auth muss ein AuthDelegate-Objekt zur Verfügung gestellt werden, das Authentifizierungsaktionen wie Anmeldung und Abmeldung durchführen kann.
 
-1. Fügen Sie Ihrer Webseite Livefyre. js hinzu.
-1. Um Auth mitzuteilen, dass diese Aktionen an Livefyre-Identität delegiert werden sollen, fügen Sie Folgendes hinzu:
+1. Fügen Sie Ihrer Webseite Livefyre.js hinzu.
+1. Um Auth anzuweisen, diese Aktionen an Livefyre Identity zu delegieren, fügen Sie Folgendes hinzu:
 
    ```
    Livefyre.require([ 
