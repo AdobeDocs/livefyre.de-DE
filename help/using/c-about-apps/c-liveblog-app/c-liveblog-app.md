@@ -1,10 +1,10 @@
 ---
-description: Mit Live-Blog können Autoren und Redakteure Echtzeit-Updates veröffentlichen und Ihre Site in eine ansprechende Live-Nachrichtenquelle umwandeln.
-seo-description: Mit Live-Blog können Autoren und Redakteure Echtzeit-Updates veröffentlichen und Ihre Site in eine ansprechende Live-Nachrichtenquelle umwandeln.
+description: Mit dem Live-Blog können Autoren und Redakteure Echtzeit-Aktualisierungen veröffentlichen und so Ihre Site in eine ansprechende Live-News-Quelle verwandeln.
+seo-description: Mit dem Live-Blog können Autoren und Redakteure Echtzeit-Aktualisierungen veröffentlichen und so Ihre Site in eine ansprechende Live-News-Quelle verwandeln.
 seo-title: Live-Blog
 solution: Experience Manager
 title: Live-Blog
-uuid: 40 ae 3120-c 630-440 e-b 224-49 cd 99677 dc 2
+uuid: 40ae3120-c630-440e-b224-49cd99677dc2
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,19 +13,19 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Live-Blog{#live-blog}
 
-Mit Live-Blog können Autoren und Redakteure Echtzeit-Updates veröffentlichen und Ihre Site in eine ansprechende Live-Nachrichtenquelle umwandeln.
+Mit dem Live-Blog können Autoren und Redakteure Echtzeit-Aktualisierungen veröffentlichen und so Ihre Site in eine ansprechende Live-News-Quelle verwandeln.
 
-Beiträge Ihres Teams, Rich mit Bildern, Video, Audio, Audio und eingebettetem Inhalt, werden zur Quelle für neue Unterhaltungen und Threads. Live-Blog ist perfekt, wenn es für Produkteinblicke, Lizenzprogramme und Sportveranstaltungen bereitgestellt wird.
+Beiträge Ihres Teams, die reich an Bildern, Videos, Audio und eingebetteten Inhalten sind, werden zur Quelle für neue Konversationen und Threads. Der Live-Blog eignet sich hervorragend für die Bereitstellung von Produktanzeigen, Prämienprogrammen und Sportveranstaltungen.
 
-Live Blog unterscheidet sich von Kommentaren wie folgt:
+Der Live-Blog unterscheidet sich wie folgt von Kommentaren:
 
-* Das Kommentarfeld kann nur Inhaber und Moderatoren anzeigen und Beiträge auf oberster Ebene erstellen.
-* Benutzerantworten können deaktiviert werden, um ein Nur-Blogernis zu erstellen.
-* Benutzer können entweder Fotos schreiben, Fotos hochladen oder einbettbare Links von ihrem Computer oder Mobilgerät aus veröffentlichen.
-* Die Kommentarschrift ist größer und Avatare sind kleiner, um den Inhalt hervorzuheben.
-* Avatare können ggf. deaktiviert werden.
+* Nur Inhaber und Moderatoren können das Kommentarfeld anzeigen und Beiträge auf der obersten Ebene erstellen.
+* Die Benutzerantworten können deaktiviert werden, um ein Erlebnis zu erstellen, das nur Blogger enthält.
+* Benutzer können von ihrem Computer oder mobilen Gerät aus Fotos schreiben, hochladen oder eingebettete Links posten.
+* Kommentarschriftart ist größer und Avatare sind kleiner, um den Inhalt hervorzuheben.
+* Avatare können bei Bedarf deaktiviert werden.
 
-Bei einem weiteren Snowstorming wollte Slate den Lesern sofort Updates über die wilden Wetterfluktuationen auf der Ostküste bereitstellen. Mit einem Live-Blog konnten Slate-Editoren sofort Updates für den Sturm freigeben, einschließlich ihrer eigenen Fotos, Tweets und Informationen zum Snowherbst. Der Live Blog war so nützlich, dass er die Vorderseite der Slate-Site traf.
+Mit einem weiteren Schneesturm wollte Slate den Lesern sofort über die Wetterschwankungen an der Ostküste informieren. Mit einem Live-Blog konnten Slate-Editoren sofort Updates über den Sturm teilen, einschließlich ihrer eigenen Fotos, Benutzertweets und Informationen über den Schneefall. Der Live-Blog war so nützlich, dass er die Titelseite von Slate's Website machte.
 
 ![](assets/LiveBlogSlate_example.png)
 
