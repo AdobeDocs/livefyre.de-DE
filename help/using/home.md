@@ -2,7 +2,7 @@
 seo-title: Livefyre-Benutzerhandbuch
 solution: Experience Manager
 title: Livefyre-Benutzerhandbuch
-uuid: ccdede 9 b -88 d 3-4 e 6 e -9105-662 e 984002 d 5
+uuid: ccdede9b-88d3-4e6e-9105-662e984002d5
 translation-type: tm+mt
 source-git-commit: 155791af94c277e7afdbd51521e00da77169911e
 
@@ -11,21 +11,21 @@ source-git-commit: 155791af94c277e7afdbd51521e00da77169911e
 
 # Experience Manager Livefyre Benutzerhandbuch {#livefyre-help}
 
-Verwenden Sie Livefyre Studio, um Apps zu erstellen, benutzergenerierte Inhalte zu erfassen und Inhalte zu moderieren.
+Verwenden Sie Livefyre Studio, um Apps zu erstellen, benutzerdefinierte Inhalte zu sammeln und Inhalte zu moderieren.
 
-Informationen zum Implementieren und Anpassen von Livefyre-Apps auf Ihrer Site mithilfe von Developer Tools finden Sie im [*Adobe Experience Manager Livefyre-Implementierungshandbuch*](/help/implementation/home.md).
+Informationen zum Implementieren und Anpassen von Livefyre-Apps mithilfe von Entwicklerwerkzeugen auf Ihrer Site finden Sie im [*Adobe Experience Manager Livefyre-Implementierungshandbuch*](/help/implementation/home.md).
 
-## Beliebte Themen
+## Häufige Themen
 
 * [Mitteilungen](c-anouncements.md#c_anouncements)
 
-* [Info zu Livefyre](c-product.md#c_product)
+* [Über Livefyre](c-product.md#c_product)
 
    Verwenden Sie Livefyre Studio, um Apps, Benutzer und Inhalte zu verwalten.
 
 * [Arbeiten mit Apps](c-about-apps/c-about-apps.md#c_about_apps)
 
-   Erstellen und Veröffentlichen von Livefyre-Apps (einschließlich Kommentare).
+   Erstellen und veröffentlichen Sie Livefyre-Apps (einschließlich Kommentare).
 
 * [Verwenden von Livefyre-Apps mit Adobe Experience Manager](https://helpx.adobe.com/experience-manager/6-4/sites/administering/using/livefyre.html)
 
