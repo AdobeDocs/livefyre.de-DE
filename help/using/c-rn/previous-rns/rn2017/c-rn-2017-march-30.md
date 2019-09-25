@@ -1,46 +1,46 @@
 ---
 description: Versionshinweise für die Version vom 30. März 2017.
 seo-description: Versionshinweise für die Version vom 30. März 2017.
-seo-title: 30. März 2017
-title: 30. März 2017
-uuid: 2 adf 04 a 9-6 c 52-4 fa 1-a 0 c 9-b 2 d 3886305 e 9
+seo-title: 30. März 2017
+title: 30. März 2017
+uuid: 2adf04a9-6c52-4fa1-a0c9-b2d3886305e9
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 ---
 
 
-# 30. März 2017{#march}
+# March 30, 2017{#march}
 
 Versionshinweise für die Version vom 30. März 2017.
 
 ## Produktionsversion
 
-| Ausgabentyp | Komponente | Versionshinweise |
+| Art des Problems | Komponente | Versionshinweise |
 |---|---|---|
-| Bug | Social Search | Es wurde ein Fehler behoben, durch den die Veröffentlichung gespeicherter Youtube-Assets in Social nicht möglich war. |
-| Verbesserung | Social Synchronisierung | Veraltete Twitter Social-Synchronisierung. |
-| Verbesserung | Storify 2 | Es wurde eine Verbesserung hinzugefügt, um die Meldung &quot;Keine Ergebnisse gefunden&quot; bei der Facebook-Themensuche anzuzeigen, wenn keine Ergebnisse gefunden wurden. |
-| Verbesserung | Streams | Es wurden Zusammenfassungsregeln für SAFE-Regeln am unteren Rand einer Twitter-Stream-Seite hinzugefügt. |
-| Bug | Streams | Es wurde eine Erweiterung hinzugefügt, die das Kontrollkästchen &quot;Verifizierte Benutzer&quot; bei Twitter-Stream-Regeln auftrat, wenn Autoren ausgeschlossen wurden. |
-| Bug | Streams | Es wurde ein Fehler behoben, der die Verwendung von Marken-Keywords und einem Standortfilter in einer Twitter-Regel ermöglichte. |
-| Bug | Studio | Es wurde ein Fehler behoben, durch den das &quot;Feature-Tag&quot; bei Anwendung nicht richtig gespeichert wurde. |
+| Fehler | Social-Suche | Es wurde ein Fehler behoben, durch den in Social Search gespeicherte YouTube-Assets nicht veröffentlicht werden konnten. |
+| Verbesserung | Social-Synchronisierung | Veraltete Twitter Social-Synchronisierung. |
+| Verbesserung | Storify 2 | Es wurde eine Verbesserung hinzugefügt, um die Meldung "Keine Ergebnisse gefunden"bei der Suche nach Facebook-Themen anzuzeigen, wenn keine Ergebnisse gefunden wurden. |
+| Verbesserung | Streams | Zusammenfassungsregeln für SAFE-Regeln wurden am Ende einer Twitter-Stream-Seite hinzugefügt. |
+| Fehler | Streams | Es wurde eine Verbesserung hinzugefügt, um das Kontrollkästchen "verifizierter Benutzer"in Twitter-Stream-Regeln sichtbar zu deaktivieren, wenn ausgeschlossene Autoren bereitgestellt werden. |
+| Fehler | Streams | Es wurde ein Fehler behoben, durch den die Verwendung von UNDing-Suchbegriffen und ein Standortfilter in einer Twitter-Regel zugelassen wurden. |
+| Fehler | Studio | Es wurde ein Fehler behoben, der verhinderte, dass das "Feature-Tag" bei Anwendung korrekt gespeichert wurde. |
 
 ## UAT-Version
 
-| Ausgabentyp | Komponente | Versionshinweise |
+| Art des Problems | Komponente | Versionshinweise |
 |---|---|---|
-| Bug | App-Inhalt | Das Verhalten von &quot;Mehr Info&quot; wurde dahingehend geändert, dass bei mehreren anonymen Flag-Ereignissen für ein bestimmtes Inhaltselement das früheste Ereignis immer angezeigt wird. |
-| Bug | Bibliothek | Es wurde ein Fehler behoben, durch den Bibliothekssuchen mit Hashtags gelegentlich fehlschlugen. |
-| Bug | Maps | Es wurde ein Fehler in Maps behoben, der eine große Anzahl von Inhalten in Clustern auf ios-Geräten unterstützt. |
-| Verbesserung | Mosaik | Es wurde die Möglichkeit hinzugefügt, Mosaic-Apps zu konfigurieren, um auf eine beliebige Stelle einer Inhaltskarte zu klicken, um das Modal nach dem Animationstyp `none` in Designer zu öffnen und `cardAnimation: 'off'`wenn sie über das SDK instanziiert werden. |
-| Bug | Mosaik | Es wurde ein Fehler behoben, der Benutzern ermöglichte, Änderungen an Mosaic-Apps in Designer erfolgreich vorzunehmen. |
-| Verbesserung | Rechte für Rechte | Es wurde ein neuer Berechtigungsstatus namens &quot;Anfrage fehlgeschlagen&quot; hinzugefügt, der hervorgehoben wird, wenn die Benachrichtigungen über Rechte für Rechte fehlschlagen. |
-| Verbesserung | Einstellungen | Es wurde die Möglichkeit hinzugefügt, dass Kunden Spam-Moderationsregeln in Einstellungen erstellen können. |
-| Verbesserung | Social Search | Es wurde ein Fehler behoben, durch den VK.com nicht über URL-Social-Suchen angezeigt wurden. |
-| Verbesserung | Social Search | Wenn Sie nach Instagram-Inhalten aus Studio suchen, wird die Fehlermeldung jetzt als solche angezeigt, wenn die Suche auf ein abgelaufenes Instagram-API-Token zurückzuführen ist. |
-| Bug | Streams | Es wurde ein Fehler behoben, durch den das Banner &quot;App akzeptiert keine neuen Inhalte akzeptieren&quot; fälschlicherweise über Stream-Regelseiten angezeigt wurde. |
-| Verbesserung | Streams | Die Standardeinstellung der neu erstellten Stream-Regeln wurde geändert, um bei Bedarf SAFE-Regeln anzuwenden. |
-| Verbesserung | Streams (früher Regeln kuratieren) | Die Option &quot;Bestellungen&quot; wurde nur aus den Twitter-Stream-/Kuratierungsregeln entfernt, da als Bindestriche jetzt Twitter-Videos angezeigt werden. |
-| Bug | Studio Shell | Es wurde ein Fehler behoben, durch den Livefyre Studio geladen wird, wenn https:// explizit der URL vorangestellt wurde. |
+| Fehler | App-Inhalt | Das Verhalten von "Mehr Info"wurde dahingehend geändert, dass das früheste Ereignis immer angezeigt wird, wenn mehrere anonyme Flag-Ereignisse für einen bestimmten Inhalt vorhanden sind. |
+| Fehler | Bibliothek | Es wurde ein Fehler behoben, durch den Bibliothekssuchen mit Hashtags gelegentlich fehlschlugen. |
+| Fehler | Karten | Es wurde ein Fehler in "Maps"behoben, durch den eine große Anzahl von Inhalten in Clustern auf iOS-Geräten unterstützt wurde. |
+| Verbesserung | Mosaik | Es wurde die Möglichkeit hinzugefügt, Mosaic-Apps so zu konfigurieren, dass sie an einer beliebigen Stelle auf einer Inhaltskarte klicken, um das Modell nach Animationstyp `none` in Designer zu öffnen und `cardAnimation: 'off'`wenn es über das SDK instanziiert wird. |
+| Fehler | Mosaik | Es wurde ein Fehler behoben, durch den Benutzer erfolgreich Änderungen an Mosaic-Apps in Designer vornehmen konnten. |
+| Verbesserung | Berechtigungsanforderung | Es wurde ein neuer Anforderungsstatus mit der Bezeichnung "Anforderung fehlgeschlagen"hinzugefügt, der markiert, wenn Anforderungsmeldungen für Rechte nicht gesendet werden können. |
+| Verbesserung | Einstellungen | Kunden können nun Spam-Moderationsregeln in den Einstellungen erstellen. |
+| Verbesserung | Social-Suche | Es wurde ein Fehler behoben, durch den VK.com-Beiträge nicht über URL Social-Suchen angezeigt wurden. |
+| Verbesserung | Social-Suche | Wenn die Suche nach Instagram-Inhalten aus Studio aufgrund eines abgelaufenen Instagram API-Tokens erfolgt, wird die Fehlermeldung jetzt als solche angezeigt. |
+| Fehler | Streams | Es wurde ein Fehler behoben, der dazu führte, dass das Banner "App akzeptiert keinen neuen Inhalt"fälschlicherweise auf den Stream-Regelseiten angezeigt wurde. |
+| Verbesserung | Streams | Die Standardeinstellung neu erstellter Stream-Regeln wurde dahingehend geändert, dass SAFE-Regeln angewendet werden, wenn zutreffend. |
+| Verbesserung | Streams (zuvor kuratiert) | Die Option "Nur Reben"wurde aus den Twitter-Stream-/Kuratierungsregeln entfernt, da Reben jetzt als Twitter-Videos angezeigt werden. |
+| Fehler | Studio-Shell | Es wurde ein Fehler behoben, durch den Livefyre Studio geladen wird, wenn https:// explizit der URL vorangestellt wurde. |
 
