@@ -1,39 +1,39 @@
 ---
 description: Versionshinweise für die Version vom 27. April 2017.
 seo-description: Versionshinweise für die Version vom 27. April 2017.
-seo-title: 27. April 2017
-title: 27. April 2017
-uuid: 30284115-92 c 0-4 a 85-acdb-adc 70605 ed 5 f
+seo-title: 27. April 2017
+title: 27. April 2017
+uuid: 30284115-92c0-4a85-acdb-adc70605ed5f
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 ---
 
 
-# 27. April 2017{#april}
+# April 27, 2017{#april}
 
 Versionshinweise für die Version vom 27. April 2017.
 
 ## Produktionsversion
 
-| **Ausgabentyp** | **Komponente** | **Versionshinweise** |
+| **Art des Problems** | **Komponente** | **Versionshinweise** |
 |---|---|---|
-| Bug | App Designer | Es wurde ein Fehler behoben, durch den neue App-Titelnamen in verschiedenen Apps in Designer nicht gespeichert werden konnten. |
-| Bug | App Manager | Die Suchergebnisse wurden bei der Suche nach Artikel-ID in App Manager verbessert. |
-| Bug | Asset-Bibliothek | Es wurde ein Fehler behoben, durch den Unicode-Inhalte nicht gerendert wurden, wenn mehr Details zu einem Asset in der Bibliothek angezeigt wurden. |
-| Verbesserung | Mosaik | Es wurde die Möglichkeit hinzugefügt, Mosaic-Apps zu konfigurieren, die in Designer konfiguriert oder über das SDK instanziiert wurden, um auf eine beliebige Stelle einer Inhaltskarte zu klicken, um das Modal zu öffnen. Für Mosaic gibt es jetzt 3 Animationstypen: Spiegeln, Überblenden und Klicken. |
-| Verbesserung | Reviews | Es wurde eine Funktion in Reviews hinzugefügt, um &quot;Einen Review schreiben&quot; und&quot; Meine Überprüfung anzeigen&quot; zu deaktivieren, um Kunden mehr Flexibilität bei der Anpassung der App zu ermöglichen. |
-| Bug | Reviews | Es wurden einige Benutzerfreundlichkeitsfehler behoben, die beim Aktivieren des alwaysshoweditor-Parameters in der Review-App auftraten. |
-| Bug | S 1 Collection Rules | Es wurde ein Fehler behoben, durch den Suchbegriffe nach dem Speichern einer Regel bearbeitet werden konnten. |
-| Bug | Storify 2 | Es wurde ein Fehler behoben, durch den Storify 2-Einbettung bei Verwendung der requirejs-Bibliothek auf der Seite nicht möglich war. |
-| Bug | Streams | Es wurde ein Fehler behoben, durch den Regeln beim Klonen eines vorhandenen Streams nicht in einen neuen Stream kopiert werden konnten. |
-| Bug | Benutzer | Es wurde ein Fehler behoben, durch den keine verbotenen Benutzer angezeigt wurden. Jetzt werden Benutzer mit dem Hinweis, dass sie verboten sind, wie erwartet angezeigt. |
+| Fehler | App-Designer | Es wurde ein Fehler behoben, durch den in Designer keine neuen App-Titel-Namen in verschiedenen Apps gespeichert werden konnten. |
+| Fehler | App Manager | Die Suchergebnisse bei der Suche nach Artikel-ID im App-Manager wurden verbessert. |
+| Fehler | Asset-Bibliothek | Es wurde ein Fehler behoben, der dazu führte, dass Unicode-Inhalte nicht dargestellt wurden, wenn mehr Details zu einem Asset in der Bibliothek angezeigt wurden. |
+| Verbesserung | Mosaik | Es wurde die Möglichkeit hinzugefügt, in Designer konfigurierte oder über das SDK instanziierte Mosaic-Apps zu konfigurieren, um auf eine beliebige Stelle auf einer Inhaltskarte zu klicken, um das Modal zu öffnen. Es gibt jetzt 3 Animationstypen für Mosaic: Flip, Fade und Click. |
+| Verbesserung | Reviews | Es wurde eine Funktion in Reviews hinzugefügt, um "Review schreiben"und "Meine Überprüfung anzeigen"zu trennen, um Kunden mehr Flexibilität beim Anpassen der App zu ermöglichen. |
+| Fehler | Reviews | Es wurden einige Benutzerfreundlichkeits-Fehler behoben, die beim Aktivieren des Parameters alwaysShowEditor in der Reviews-App auftraten. |
+| Fehler | S1-Erfassungsregeln | Es wurde ein Fehler behoben, durch den Suchbegriffe nach dem Speichern einer Regel bearbeitet werden konnten. |
+| Fehler | Storify 2 | Es wurde ein Fehler behoben, der verhinderte, dass Storify 2-Einbettungen bei der Verwendung der requireJS-Bibliothek auf der Seite gerendert wurden. |
+| Fehler | Streams | Es wurde ein Fehler behoben, durch den Regeln beim Klonen eines vorhandenen Streams nicht in einen neuen Stream kopiert werden konnten. |
+| Fehler | Benutzer | Es wurde ein Fehler behoben, durch den verbotene Benutzer nicht angezeigt wurden. Jetzt werden verbotene Benutzer wie erwartet angezeigt, mit dem Hinweis, dass sie verboten sind. |
 
 ## UAT-Version
 
-| **Ausgabentyp** | **Komponente** | **Versionshinweise** |
+| **Art des Problems** | **Komponente** | **Versionshinweise** |
 |---|---|---|
 | Verbesserung | API | Es wurde eine neue API zum Abrufen von App-Einbettungscodes veröffentlicht. Weitere Informationen finden Sie unter https://api.livefyre.com/docs/apis/by-category/apps. |
-| Bug | Asset-Bibliothek | Es wurde ein Fehler behoben, durch den auf die erste Seite der Bibliotheksergebnisse 10 Assets gecentriert wurden. |
-| Verbesserung | Studio | Der Kontrast bei umschaltbaren Komponenten über Studio hinweg zur einfacheren Sichtbarkeit wurde verbessert. |
+| Fehler | Asset-Bibliothek | Es wurde ein Fehler behoben, durch den die erste Seite der Bibliotheksergebnisse auf 10 Assets begrenzt wurde. |
+| Verbesserung | Studio | Der Kontrast bei Komponenten mit Umschaltfunktion in Studio wurde verbessert, um die Sichtbarkeit zu vereinfachen. |
 
