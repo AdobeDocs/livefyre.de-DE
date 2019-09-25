@@ -1,30 +1,30 @@
 ---
 description: Erstellen Sie ein Netzwerkobjekt.
 seo-description: Erstellen Sie ein Netzwerkobjekt.
-seo-title: Netzwerkklassenmethoden
+seo-title: Methoden der Netzwerkklasse
 solution: Experience Manager
-title: Netzwerkklassenmethoden
-uuid: 4130 beda-dd 9-49 ae-aafb-f 6 b 956 e 30 b 51
+title: Methoden der Netzwerkklasse
+uuid: 4130beda-dd09-49ae-aafb-f6b956e30b51
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Netzwerkklassenmethoden{#network-class-methods}
+# Methoden der Netzwerkklasse{#network-class-methods}
 
 Erstellen Sie ein Netzwerkobjekt.
 
-Sobald Sie ein Netzwerkobjekt erstellt haben, geht der Rest der Seite davon aus, dass Sie in Ihrer Sitzung ein instanziiertes Netzwerkobjekt haben.
+Nachdem Sie ein Netzwerkobjekt erstellt haben, geht die restliche Seite davon aus, dass Sie ein instanziiertes Netzwerkobjekt in Ihrer Sitzung haben.
 
 ## Netzwerkobjekt
 
 | Parameter | Typ | Beschreibung |
 |---|---|---|
-| *`network`* | Zeichenfolge | Ihr Livefyre-Netzwerk. Beispiel: «`labs.fyre.co`». |
-| *`networkKey`* | Zeichenfolge | Der geheime geheime Schlüssel für das Netzwerk. |
+| *`network`* | Zeichenfolge | Ihr Livefyre-Netzwerk. Beispiel: “`labs.fyre.co`”. |
+| *`networkKey`* | Zeichenfolge | Der Livefyre-geheime Schlüssel für das Netzwerk. |
 
-## Java {#section_myk_dzs_kbb}
+## Java {#section_myk_dzs_kbb}
 
 ```
 import com.livefyre.Livefyre; 
@@ -32,7 +32,7 @@ import com.livefyre.Livefyre;
 Network network = Livefyre.getNetwork(network, networkKey); 
 ```
 
-## Nodejs {#section_nyk_dzs_kbb}
+## NodeJS {#section_nyk_dzs_kbb}
 
 ```
 var livefyre = require('livefyre'); 
