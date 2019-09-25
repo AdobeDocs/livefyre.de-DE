@@ -1,30 +1,30 @@
 ---
 description: l
 seo-description: l
-seo-title: Top-Kommentare
-title: Top-Kommentare
-uuid: 23 c 4 a 766-b 3 e 8-4 fab-a 7 f 9-78 cdb 601652 a
+seo-title: Wichtigste Kommentare
+title: Wichtigste Kommentare
+uuid: 23c4a766-b3e8-4fab-a7f9-78cdb601652a
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Top-Kommentare{#top-comments}
+# Wichtigste Kommentare{#top-comments}
 
-Top-Kommentare sind die 25 beliebtesten Kommentare in der Unterhaltung. Die **[!UICONTROL Top Comments]** Ansicht zeigt die 25 beliebtesten Kommentare in der Sammlung an. Wenn ein ursprünglicher Beitrag die meisten &quot;Gefällt mir&quot; -Klicks erhält, wird der Beitrag, aber nicht seine Antworten aufgelistet. Wenn eine Antwort die meisten &quot;Gefällt mir&quot; -Klicks erhält, wird das unmittelbar übergeordnete Element, bis zur obersten Ebene, ebenfalls angezeigt. Diese Liste ist nicht Echtzeit und wird nur aktualisiert, wenn die Seite aktualisiert oder eine andere Sortieransicht (**[!UICONTROL Newest]** oder **[!UICONTROL Oldest]**) ausgewählt wird.
+Unter Top-Kommentare werden die 25 am meisten beliebten Kommentare im Gespräch aufgeführt. In der **[!UICONTROL Top Comments]** Ansicht werden die 25 Kommentare mit den meisten Vorlieben in der Sammlung angezeigt. Wenn ein Originalbeitrag die "Gefällt mir"-Klicks erhält, wird der Beitrag, jedoch nicht seine Antworten, aufgelistet. Wenn eine Antwort die meisten "Gefällt mir"-Klicks erhält, wird auch der unmittelbar übergeordnete Beitrag bis zur obersten Ebene angezeigt. Diese Liste ist nicht in Echtzeit verfügbar und wird nur aktualisiert, wenn die Seite aktualisiert oder eine andere Sortieransicht (**[!UICONTROL Newest]** oder **[!UICONTROL Oldest]**) ausgewählt wurde.
 
-Wenn ein Benutzer einen Kommentar aus dem Kommentar-Editor während der Ansicht der **[!UICONTROL Top Comments]** Ansicht postet, wird der Benutzer wieder auf die **[!UICONTROL Newest]** Ansicht zurückgesetzt. Wenn ein Benutzer einen der wichtigsten Kommentare &quot;Gefällt mir&quot; oder&quot; Antworten&quot; beantwortet, wird er in die **[!UICONTROL Top Comments]** Ansicht des Benutzers eingefügt, der angezeigt werden soll.
+Wenn ein Benutzer während der Anzeige der **[!UICONTROL Top Comments]** Ansicht einen Kommentar aus dem Kommentareditor veröffentlicht, wird der Benutzer zur **[!UICONTROL Newest]** Ansicht zurückgeschaltet. Wenn ein Benutzer einen der Top-Kommentare auf "Gefällt mir"oder auf "Antworten"klickt, wird er in die **[!UICONTROL Top Comments]** Ansicht gestreamt, damit er sie sehen kann.
 
-Um die Leistung zu optimieren, speichert Livefyre Daten für bis zu 2 Minuten zwischen. In den aktuellsten &quot;Gefällt mir&quot; -Klicks kann es zu Verzögerungen kommen.
+Zur Leistungsoptimierung speichert Livefyre Daten für bis zu 2 Minuten zwischen. Es könnte eine leichte Verzögerung bei den neuesten, wie sie erscheinen.
 
-Wenn in der Sammlung keine Kommentare mit &quot;Gefällt mir&quot; -Klicks vorhanden sind, sehen Benutzer die Nachricht **[!UICONTROL There are not enough likes yet]** und einen Link zu **[!UICONTROL See what’s new]**.
+Wenn in der Sammlung keine Kommentare mit "Gefällt mir"vorhanden sind, wird den Benutzern die Meldung **[!UICONTROL There are not enough likes yet]** und ein Link zu **[!UICONTROL See what’s new]** angezeigt.
 
 >[!NOTE]
 >
->Top-Kommentare und Hot Threads werden möglicherweise nicht in dieselbe Sammlung aufgenommen.
+>Top-Kommentare und Hot Threads werden möglicherweise nicht in derselben Sammlung enthalten sein.
 
-Informationen zum Aktivieren der Ansicht &quot;Top-Kommentare&quot; **[!UICONTROL Studio > Network Settings]** finden Sie unter.
+Informationen zur Aktivierung der Ansicht "Top-Kommentare"finden Sie unter **[!UICONTROL Studio > Network Settings]**.
 
 Apps, die diese Funktion verwenden:
 
