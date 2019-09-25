@@ -3,46 +3,46 @@ description: Versionshinweise für die Version vom 12. Januar 2017.
 seo-description: Versionshinweise für die Version vom 12. Januar 2017.
 seo-title: 12. Januar 2017
 title: 12. Januar 2017
-uuid: fb 92 ea 52-7184-4 f 08-814 c -15 e 45 d 684371
+uuid: fb92ea52-7184-4f08-814c-15e45d684371
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 ---
 
 
-# 12. Januar 2017{#january}
+# January 12, 2017{#january}
 
 Versionshinweise für die Version vom 12. Januar 2017.
 
 ## Produktionsversion {#section_y3h_z42_wy}
 
-| Ausgabentyp | Komponente | Versionshinweise |
+| Art des Problems | Komponente | Versionshinweise |
 |--- |--- |--- |
-| Bug | App-Inhalt | Es wurde ein Fehler behoben, durch den die Hover-Optionen in einem Benutzerprofil nicht in App-Inhalten funktionierten. |
-| Bug | Apps | Es wurde ein Fehler in allen Apps behoben, um Inhaltstitel für RSS-Inhalte zu entfernen, wenn dieser mit dem Link-Anlagentitel übereinstimmt. |
-| Verbesserung | Kommentare | Verbesserte Kommentare zur Einhaltung der Barrierefreiheitsstandards, da Bildschirmlesehilfen besser unterstützt werden und sichergestellt werden kann, dass alle interaktiven Elemente mit Navigationsnavigation erreicht werden können. |
-| Bug | Kommentare | Es wurde ein Fehler in Kommentaren behoben, durch den der Einbettungscode über Videos in einigen Fällen angezeigt wurde. |
-| Verbesserung | Livefyre-Identität | Die Livefyre-Identität wurde verbessert, um Barrierefreiheitsstandards zu entsprechen, indem Bildschirmlesehilfen besser unterstützt und sichergestellt werden, dass alle interaktiven Elemente mit Navigationsnavigation erreicht werden können. |
-| Bug | Umfragen | Verbesserte Umfragen zum Scharfzeichnen und Verbessern der Bildqualität beim Hochladen in Designer. |
-| Bug | Reviews | Es wurde ein Fehler behoben, durch den keine Überprüfung der Überprüfung ordnungsgemäß angezeigt wurde. |
-| Verbesserung | Rechte für Rechte | Es wurde eine Erweiterung hinzugefügt, die verhindert, dass bit. ly-Links in Instagram-Rights-Kontoeinstellungen verwendet werden, um zu verhindern, dass Anforderungen als Spam markiert werden. |
-| Bug | Rechte für Rechte | Es wurde ein Fehler behoben, durch den das Rechte-Modal nicht geschlossen wurde, nachdem eine Anforderung für ein Asset in der Bibliothek gesendet wurde. |
-| Bug | SAFE | Es wurde ein Fehler behoben, durch den benutzerspezifische Gewinnspiellisten nicht zuverlässig aktualisiert wurden. |
-| Bug | Einstellungen | Es wurde ein Fehler behoben, durch den Profil-Pull-urls in Studio-Einstellungen nicht gespeichert wurden. |
-| Verbesserung | Zielgruppen | Verbesserte Autoren zur Einhaltung der Barrierefreiheitsstandards, indem sie bessere Unterstützung für Bildschirmlesehilfen bieten und sicherstellen, dass alle interaktiven Elemente mit Navigationsnavigation erreicht werden können. |
-| Verbesserung | Social Search | Es wurde eine Funktion hinzugefügt, mit der eine Benachrichtigung angezeigt wird, wenn ein Asset gemeldet wird. |
-| Bug | Streams | Es wurde ein Fehler behoben, durch den die Einstellungen für Premoderation und Media Premoderation-Stream-Regeln nach dem Speichern auf Standardwerte zurückgesetzt wurden. |
-| Bug | Streams | Es wurde ein Fehler behoben, durch den keine Zuordnungspositionen in einer Twitter-Stream-Regel gelöscht wurden. |
-| Bug | Benutzer | Es wurde ein Fehler behoben, durch den App- und Inhaltsmanager mit eingeschränkter Site nicht die Schaltfläche App-Inhalt in Bibliothek anzeigen konnten. |
-| Bug | Benutzer | Es wurde ein Fehler behoben, durch den unter bestimmten Umständen die Site-Checkliste in Benutzerrollen nicht mehr nutzbar war. |
+| Fehler | App-Inhalt | Es wurde ein Fehler behoben, der verhinderte, dass die Optionen für den Mauszeiger in einem Benutzerprofil in App-Inhalten funktionierten. |
+| Fehler | Apps | Es wurde ein Fehler in allen Apps behoben, durch den Inhaltstitel für RSS-Inhalte entfernt wurden, wenn sie mit dem Titel des Link-Anhangs übereinstimmten. |
+| Verbesserung | Kommentare | Verbesserte Kommentare zur Einhaltung von Barrierefreiheitsstandards durch bessere Unterstützung von Bildschirmlesehilfen und Gewährleistung, dass alle interaktiven Elemente mit der Navigation nur über die Tastatur erreicht werden können. |
+| Fehler | Kommentare | Es wurde ein Fehler in Kommentaren behoben, durch den der Einbettungscode in einigen Fällen über Videos angezeigt wurde. |
+| Verbesserung | Livefyre-Identität | Verbesserte Livefyre-Identität, um den Standards für Barrierefreiheit zu entsprechen, indem Bildschirmlesehilfen besser unterstützt werden und sichergestellt wird, dass alle interaktiven Elemente mit der reinen Navigation über die Tastatur erreicht werden können. |
+| Fehler | Umfragen | Verbesserte Umfragen zum Scharfzeichnen und Verbessern der Bildqualität beim Hochladen in Designer. |
+| Fehler | Reviews | Es wurde ein Fehler behoben, der verhinderte, dass Rating-Bearbeitungen korrekt angezeigt wurden. |
+| Verbesserung | Berechtigungsanfragen | Es wurde eine Verbesserung hinzugefügt, um die Verwendung von bit.ly-Links in den Kontoeinstellungen von Instagram Rights zu verhindern, damit Anforderungen nicht als Spam gekennzeichnet werden. |
+| Fehler | Berechtigungsanfragen | Es wurde ein Fehler behoben, durch den das Berechtigungsmodal nach dem Senden einer Anforderung für ein Asset in der Bibliothek nicht geschlossen werden konnte. |
+| Fehler | SAFE | Es wurde ein Fehler behoben, der dazu führte, dass benutzerdefinierte Profillisten nicht zuverlässig aktualisiert werden konnten. |
+| Fehler | Einstellungen | Es wurde ein Fehler behoben, durch den Profile Pull-URLs nicht in den Studio-Einstellungen gespeichert werden konnten. |
+| Verbesserung | Sir | Verbesserte Unterstützung von Siegels zur Einhaltung von Barrierefreiheitsstandards durch bessere Unterstützung von Bildschirmlesehilfen und durch die Gewährleistung, dass alle interaktiven Elemente mit der Navigation nur über die Tastatur erreicht werden können. |
+| Verbesserung | Social-Suche | Es wurde eine Funktion hinzugefügt, die eine Benachrichtigung anzeigt, wenn ein Asset gemeldet wird. |
+| Fehler | Streams | Es wurde ein Fehler behoben, der dazu führte, dass die Einstellungen für die Stream-Regeln "Vormäßig"und "Medien-Vormäßig"nach dem Speichern auf die Standardwerte zurückgesetzt wurden. |
+| Fehler | Streams | Es wurde ein Fehler behoben, der verhinderte, dass Zuordnungspositionen in einer Twitter-Stream-Regel gelöscht wurden. |
+| Fehler | Benutzer | Es wurde ein Fehler behoben, der verhinderte, dass Site-eingeschränkte App- und Inhaltsmanager die Schaltfläche App-Inhalt in der Bibliothek sehen konnten. |
+| Fehler | Benutzer | Es wurde ein Fehler behoben, der unter bestimmten Umständen dazu führte, dass die Site-Checkliste in Benutzerrollen unbrauchbar wurde. |
 
 
 ## UAT-Version
 
-| Ausgabentyp | Komponente | Versionshinweise |
+| Art des Problems | Komponente | Versionshinweise |
 |--- |--- |--- |
-| Verbesserung | Kommentare, Kritiker | Die Standardmäßigen Avatare und Schaltflächen für Kommentare und Autoren haben nun einen höheren Farbkontrast, um die Barrierefreiheitsstandards zu erfüllen. |
-| Verbesserung | Livefyre-Identität | Verbesserte Livefyre-Identität zur Unterstützung der Tastaturnavigation zur Erfüllung der Barrierefreiheitsstandards. |
-| Bug | Streams | Verbesserte Facebook-Seitenregeln zur Erfassung von Facebook-Bildern mit hoher Qualität, wenn nur die Miniaturansichten übernommen wurden. |
-| Bug | Studio | Erweiterte Bibliotheksasset-Suche zur Unterstützung japanischer Zeichen. |
+| Verbesserung | Kommentare, Attribute | Die Standardkommentare und Sidebar-Avatare und -Schaltflächen weisen jetzt einen höheren Farbkontrast auf, um die Barrierefreiheitsstandards zu erfüllen. |
+| Verbesserung | Livefyre-Identität | Verbesserte Livefyre-Identität, um die Tastaturnavigation zu unterstützen und die Barrierefreiheitsstandards zu erfüllen. |
+| Fehler | Streams | Verbesserte Facebook-Seitenregeln, um hochqualitative Facebook-Bilder zu erfassen, bei denen zuvor nur die Miniaturbilder aufgenommen wurden. |
+| Fehler | Studio | Die Asset-Suche in der Bibliothek wurde erweitert, um japanische Zeichen zu unterstützen. |
 
