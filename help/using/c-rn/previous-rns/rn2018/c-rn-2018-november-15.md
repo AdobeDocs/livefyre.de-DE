@@ -4,7 +4,7 @@ seo-description: Versionshinweise für die Version vom 15. November 2018.
 seo-title: Versionshinweise
 solution: Experience Manager
 title: Versionshinweise
-uuid: 34 e 64943-dea 6-46 ac -9 fcc -8 febeab 6 aa 42
+uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
@@ -19,21 +19,21 @@ Versionshinweise für die Version vom 15. November 2018.
 
 Die folgenden neuen Funktionen wurden in der Produktionsversion dieser Version veröffentlicht:
 
-* **Updates für Instagram-Suche und -stream.** Sie können ein *Instagram-Geschäftskonto* für Folgendes verwenden:
+* **Aktualisierungen der Instagram-Suche und des Streams.** Sie können ein *Instagram-Geschäftskonto* verwenden, um:
 
-   * Führen Sie eine Instagram-Social-Suche nach dem Benutzer durch (Benutzer müssen ein Instagram-Geschäftskonto sein).
+   * Führen Sie eine Instagram Social-Suche nach dem Benutzer durch (Benutzer muss auch ein Instagram-Geschäftskonto sein).
 
-   * Erstellen Sie Instagram-Streams aus einem bestimmten Instagram-Benutzerkonto (das Konto muss auch ein Geschäftskonto sein), einschließlich Ihrer eigenen.
+   * Erstellen Sie Instagram-Streams von einem bestimmten Instagram-Benutzerkonto (das Konto muss auch ein Geschäftskonto sein), einschließlich Ihres eigenen.
 
-   * Anfordern von Rechten für Assets von Instagram mit einem teilweise automatisierten Arbeitsablauf.
+   * Fordern Sie Rechte für Assets von Instagram mithilfe eines teilweise automatisierten Workflows an.
 
-   * Informationen zu den Instagram-Konten, die Sie über Instagram einrichten und anfordern müssen, finden Sie unter [Instagram-Konten](/help/using/c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md).
+   * Weitere Informationen zu Instagram-Konten, die Sie einrichten und über Instagram anfordern müssen, finden Sie unter [Info zu Instagram-Konten](/help/using/c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md).
 
-* **Automatische Überwachung der Anforderungsrechte für Verwendungsrechte für geschäftskontobasierte Suchen.** Nur für geschäftsbasierte Suchen—die Möglichkeit, Antworten automatisch auf Rechte von Rechten zu überwachen und den Aktivitätsverlauf in Livefyre zu aktualisieren.
+* **Die automatische Überwachung von Verwendungsrechten fordert Antworten für kontenbasierte Suchen an.** Nur für datenbankbasierte Suchvorgänge - die Möglichkeit, Antworten auf Berechtigungsanfragen automatisch zu überwachen und den Aktivitätsverlauf in Livefyre zu aktualisieren, ist verfügbar.
 
-Weitere Informationen zum Anfordern von Rechten für Instagram-Konten finden Sie unter [Instagram Rights Request manuell](/help/using/c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md) senden und [teilweise automatisierte Instagram-Rechte senden](/help/using/c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md).
+Weitere Informationen zum Anfordern von Rechten für Instagram-Konten finden Sie unter [Senden von Instagram-Rights-Anfragen manuell](/help/using/c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md) und [Senden einer teilweise automatisierten Instagram-Rights-Anforderung](/help/using/c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md).
 
-* **Adobe Target-Integration.** Integration mit Adobe Target ermöglicht, sodass Sie Livefyre-Apps direkt an Ihre Adobe Target-Angebotsbibliothek freigeben können. Weitere Informationen zur Verwendung von Livefyre mit Adobe Target finden Sie in der [Target-Dokumentation](https://marketing.adobe.com/resources/help/en_US/livefyre/livefyre-target.html).
+* **Adobe Target-Integration.** Die Integration mit Adobe Target wurde hinzugefügt, sodass Sie Livefyre-Apps direkt in Ihrer Adobe Target-Angebotsbibliothek freigeben können. Weitere Informationen zur Verwendung von Livefyre mit Adobe Target finden Sie in der [Target-Dokumentation](https://marketing.adobe.com/resources/help/en_US/livefyre/livefyre-target.html).
 
 ## Probleme {#section_ehw_ndt_wcb}
 
@@ -41,17 +41,17 @@ Die Probleme in den folgenden Tabellen wurden in dieser Version behoben.
 
 ### Produktionsversion
 
-| Ausgabentyp | Komponente | Versionshinweise |
+| Art des Problems | Komponente | Versionshinweise |
 |--- |--- |--- |
-| Ausgabe | Appservice: Livefyre-Identität | Es wurde ein Problem behoben, durch das Klicks [auf! UICONTROL Zurücksetzen auf Standard] wurde das Logo unter &quot;Login Modal&quot; unter Studio &gt; Integrationseinstellungen &gt; Livefyre Identity to the default image nicht zurückgesetzt. |
-| Ausgabe | Bibliothek | Es wurde ein Problem behoben, durch das ein in die Bibliothek hochgeladenes Video, das dann in der Asset-Details angezeigt wurde, nicht richtig angezeigt wurde. |
-| Ausgabe | Streams | Es wurde ein Fehler behoben, der verhinderte, dass Produkte in einer Stream-Regel angezeigt wurden. |
-| Ausgabe | Streams | Es wurde ein Problem behoben, durch das Produkt-Tags für eine Stream-Regel nicht verfügbar waren. |
-| Verbesserung | Studio | Es wurde ein Problem behoben, durch das Produkt-Ids in Livefyre Studio nicht angezeigt wurden. |
-| Ausgabe | Studio: Modq | Ein Problem wurde behoben, bei dem gelöschte Inhalte nach dem Löschen weiterhin in modq angezeigt wurden. |
+| Fehler | AppService:Livefyre-Identität | Es wurde ein Problem behoben, bei dem auf [! UICONTROL Zurücksetzen auf Standard] hat das Logo unter "Login Modal in Studio &gt; Integrationseinstellungen &gt; Livefyre Identity"nicht auf das Standardbild zurückgesetzt. |
+| Fehler | Bibliothek | Es wurde ein Problem behoben, bei dem ein Video, das in die Bibliothek hochgeladen und dann im Detail angezeigt wurde, nicht korrekt angezeigt wurde. |
+| Fehler | Streams | Es wurde ein Fehler behoben, der verhinderte, dass Produkte in einer Stream-Regel angezeigt wurden. |
+| Fehler | Streams | Es wurde ein Problem behoben, bei dem Produkt-Tags für eine Stream-Regel nicht verfügbar waren. |
+| Verbesserung | Studio | Es wurde ein Problem behoben, bei dem die Produkt-ID nicht in Livefyre Studio angezeigt wurde. |
+| Fehler | Studio:ModQ | Es wurde ein Problem behoben, bei dem gelöschte Inhalte nach dem Löschen weiterhin in ModQ angezeigt wurden. |
 
 ### UAT-Version
 
-| **Ausgabentyp** | **Komponente** | **Versionshinweise** |
+| **Art des Problems** | **Komponente** | **Versionshinweise** |
 |---|---|---|
-| Ausgabe | Social-Komponente: Karussell | Es wurde ein Problem behoben, durch das der Link &quot;Freigeben&quot; nicht in IE 11 und Mozilla Firefox angezeigt und die URL wie erwartet kopiert wurde. |
+| Fehler | Soziale Komponente: Karussell | Es wurde ein Problem behoben, bei dem der Link Freigeben nicht geantwortet und die URL wie erwartet in IE11 und Mozilla Firefox kopiert wurde. |
