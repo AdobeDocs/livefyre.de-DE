@@ -2,28 +2,28 @@
 description: Versionshinweise für die Version vom 14. September 2017.
 seo-description: Versionshinweise für die Version vom 14. September 2017.
 seo-title: 14. September 2017
-title: 14. September 2017
-uuid: 6 d 802 e 5 c-b 029-40 ad-ada 6-dc 380 f 1 bcfd 5
+title: September 14, 2017
+uuid: 6d802e5c-b029-40ad-ada6-dc380f1bcfd5
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 ---
 
 
-# 14. September 2017{#september}
+# September 14, 2017{#september}
 
 Versionshinweise für die Version vom 14. September 2017.
 
 ## Produktionsversion
 
-| **Ausgabentyp** | **Komponente** | **Versionshinweise** |
+| **Art des Problems** | **Komponente** | **Versionshinweise** |
 |---|---|---|
-| Bug | Studio | Es wurde ein Fehler behoben, der verhinderte, dass Statusstatusaktualisierungen sofort ohne Aktualisieren einer Seite angezeigt wurden. |
-| Verbesserung | Studio | Die Rechte wurden für die Seiten Bibliothek und Social-Suche übersetzt. Es wurde die Möglichkeit hinzugefügt, Rechte für Assets manuell zu gewähren und zu sperren. Fehler-/Warnmeldungen sind klarer und helfen Ihnen dabei, gültige Rechte und Antworten zu senden. Im Modal wird jetzt ein verbesserter Aktivitätsverlauf angezeigt. |
+| Fehler | Studio | Es wurde ein Fehler behoben, der verhinderte, dass Aktualisierungen des Berechtigungsstatus sofort ohne Aktualisierung der Seite angezeigt wurden. |
+| Verbesserung | Studio | Das Rights-Modell für die Seiten "Bibliothek"und "Social-Suche"wurde überarbeitet. Es wurde die Möglichkeit hinzugefügt, Rechte für Assets manuell zu gewähren und zu widerrufen. Fehler-/Warnmeldungen sind klarer und helfen Ihnen, gültige Berechtigungsanfragen und Antworten zu senden. Ein verbesserter Aktivitätsverlauf wird jetzt im Modal angezeigt. |
 
 ## UAT-Version
 
-| **Ausgabentyp** | **Komponente** | **Versionshinweise** |
+| **Art des Problems** | **Komponente** | **Versionshinweise** |
 |---|---|---|
-| Bug | Mosaik | Production-Fehler, der in Mosaic-Anzeige Graue Felder in IE 11 in UGC anzeigt. Dies wurde behoben. -sp |
+| Fehler | Mosaik | Produktionsfehler, durch den Mosaic graue Boxen in IE11 in UGC anzeigen konnte. Wir haben das repariert. -SP |
 
