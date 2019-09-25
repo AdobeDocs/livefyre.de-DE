@@ -1,37 +1,37 @@
 ---
-description: Erstellen Sie auf Ihrem Server ein eindeutiges Token, das jede von Ihnen erstellte Sammlung kennzeichnet.
-seo-description: Erstellen Sie auf Ihrem Server ein eindeutiges Token, das jede von Ihnen erstellte Sammlung kennzeichnet.
-seo-title: Collectionmeta Token
+description: Erstellen Sie ein eindeutiges Token auf Ihrem Server, das jede von Ihnen erstellte Sammlung identifiziert.
+seo-description: Erstellen Sie ein eindeutiges Token auf Ihrem Server, das jede von Ihnen erstellte Sammlung identifiziert.
+seo-title: CollectionMeta-Token
 solution: Experience Manager
-title: Collectionmeta Token
-uuid: d 5 db 0 b 0 f -2807-4392-874 a -94 ac 3 c 1 e 7550
+title: CollectionMeta-Token
+uuid: d5db0b0f-2807-4392-874a-94ac3c1e7550
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Collectionmeta Token{#collectionmeta-token}
+# CollectionMeta-Token{#collectionmeta-token}
 
-Erstellen Sie auf Ihrem Server ein eindeutiges Token, das jede von Ihnen erstellte Sammlung kennzeichnet.
+Erstellen Sie ein eindeutiges Token auf Ihrem Server, das jede von Ihnen erstellte Sammlung identifiziert.
 
-Livefyre weist jeder erstellten Sammlung einen eindeutigen Bezeichner zu. Livefyre weist einen Titel, eine URL und andere Parameter zu, einschließlich:
+Livefyre weist jeder erstellten Sammlung einen eindeutigen Bezeichner zu. Livefyre weist einen Titel, eine URL und andere Parameter zu, darunter:
 
-## Collectionmeta Token-Parameter
+## collectionMeta-Token-Parameter
 
 | Parameter | Typ | Beschreibung |
 |--- |--- |--- |
-| Networkname | Zeichenfolge (optional) | Der Name des Livefyre-Netzwerks (verfügbar unter {! UICONTROL Studio &gt; Einstellungen &gt; Integrationseinstellungen &gt; Anmeldeinformationen]). Dies ist optional, wenn Sie mit der Bibliothek ein collectionmeta-Token erstellen. |
-| Networkkey | Zeichenfolge (optional) | Der geheime Schlüssel für das spezifische Netzwerk (verfügbar unter Studio &gt; Einstellungen &gt; Integrationseinstellungen &gt; Anmeldeinformationen). Dies ist optional, wenn Sie mit der Bibliothek ein collectionmeta-Token erstellen. |
-| Siteid | Zeichenfolge (optional) | Die ID für die Site (verfügbar ab [!UICONTROL Studio > Settings > Integration Settings > Credentials] ). Optional, wenn Sie die Bibliothek verwenden, um ein collectionmeta-Token zu erstellen. |
-| Sitekey | Zeichenfolge (optional) | Der geheime Schlüssel für die Site (verfügbar unter {! UICONTROL Studio &gt; Einstellungen &gt; Integrationseinstellungen &gt; Anmeldeinformationen]). |
-| Articleid | Zeichenfolge (optional) | Eine eindeutige ID für die Sammlung. |
-| Titel | Zeichenfolge (optional) | Der Titel, den Sie auf die Sammlung anwenden möchten. Normalerweise entspricht dies dem Titel der Seite, auf der die App angezeigt wird. <br>Beispiel: &quot; Integration ist so viel Spaß! » <br>Hinweis: Die maximale Zeichenlänge für den Titel beträgt 255 Zeichen. Das Titelfeld unterstützt keine HTML-Entitäten. Bitte Sonderzeichen mit UTF -8 kodieren. |
-| url | Zeichenfolge (optional) | Die kanonische absolute URL, die an diese Sammlung angehängt werden soll. Diese URL wird verwendet, um Links aus Inhalten, die auf Facebook und Twitter, E-Email-Benachrichtigungen und Livefyre Studio freigegeben wurden, wiederherzustellen. <br>Hinweis: Wenn Sie lokal testen, verwenden Sie eine gültige Basis-URL-Domäne (z. B.: valid: `https://customer.com`; ungültig: `https://localhost:5995`). |
-| Tags | Zeichenfolge (optional) | Eine kommagetrennte Liste mit einzelnen Suchbegriffen oder -phrasen. Suchen Sie Sammlungen nach Tags mit Studio. </br>Hinweis: Tags dürfen keine Leerzeichen enthalten. Verwenden Sie Unterstriche, wenn in der Benutzeroberfläche ein Leerzeichen angezeigt werden soll. |
-| Erweiterungen | JSON (optional) | Ein JSON-formatierter Satz von Parametern, die an die Sammlung weitergegeben werden. |
+| networkName | Zeichenfolge (optional) | Der Name des Livefyre-Netzwerks (verfügbar unter {!UICONTROL Studio &gt; Einstellungen &gt; Integrationseinstellungen &gt; Berechtigungen] ). Dies ist optional, wenn Sie mit der Bibliothek ein collectionMeta-Token erstellen. |
+| networkKey | Zeichenfolge (optional) | Der geheime Schlüssel für das spezifische Netzwerk (verfügbar unter Studio &gt; Einstellungen &gt; Integrationseinstellungen &gt; Anmeldeinformationen ). Dies ist optional, wenn Sie mit der Bibliothek ein collectionMeta-Token erstellen. |
+| siteId | Zeichenfolge (optional) | Die ID für die Site (verfügbar unter [!UICONTROL Studio > Settings > Integration Settings > Credentials] ). Optional, wenn Sie mit der Bibliothek ein collectionMeta-Token erstellen. |
+| siteKey | Zeichenfolge (optional) | Der geheime Schlüssel für die Site (verfügbar unter {!UICONTROL Studio &gt; Einstellungen &gt; Integrationseinstellungen &gt; Berechtigungen] ). |
+| articleId | Zeichenfolge (optional) | Eine eindeutige ID für die Sammlung. |
+| title | Zeichenfolge (optional) | Der Titel, den Sie auf die Sammlung anwenden möchten. Normalerweise entspricht dies dem Titel der Seite, auf der die App angezeigt wird. <br>Beispiel: "Integration macht so viel Spaß!" <br>Hinweis:  Die maximale Zeichenlänge für den Titel beträgt 255 Zeichen. Das Titelfeld unterstützt keine HTML-Entitäten. Bitte kodieren Sie Sonderzeichen mit UTF-8. |
+| url | Zeichenfolge (optional) | Die kanonische absolute URL, die Sie dieser Sammlung hinzufügen möchten. Diese URL wird verwendet, um aus Inhalten, die auf Facebook und Twitter freigegeben wurden, E-Mail-Benachrichtigungen und Livefyre Studio Links zur App zu generieren. <br>Hinweis:  Verwenden Sie bei lokalen Tests eine gültige Basis-URL-Domäne (z. B.: gültig: `https://customer.com`; ungültig: `https://localhost:5995`). |
+| Tags | Zeichenfolge (optional) | Eine kommagetrennte Liste mit einzelnen Suchbegriffen oder Ausdrücken. Sammlungen mit Studio nach Tags durchsuchen  </br>Hinweis:  Tags dürfen keine Leerzeichen enthalten. Verwenden Sie Unterstriche, wenn ein Leerzeichen in der Benutzeroberfläche angezeigt werden soll. |
+| Erweiterungen | JSON (optional) | Ein JSON-formatierter Satz von Parametern, die an die Sammlung übergeben werden. |
 
-## Java {#section_orz_m4n_sz}
+## Java {#section_orz_m4n_sz}
 
 ```
 import com.livefyre.Livefyre; 
@@ -47,7 +47,7 @@ collection.getData().setTags("tags");
 String collectionMetaToken = collection.buildCollectionMetaToken();
 ```
 
-## Nodejs {#section_kpk_44n_sz}
+## NodeJS {#section_kpk_44n_sz}
 
 ```
 var livefyre = require('livefyre'); 
@@ -97,7 +97,7 @@ collection.data.tags = 'tags'
 collection_meta_token = collection.build_collection_meta_token 
 ```
 
->[!NOTE] {important = &quot;high&quot;}
+>[!NOTE] {important="high"}
 >
->Livefyre empfängt das von Ihnen erstellte collectionmeta-Token und ermittelt Eindeutigkeit durch Kombinieren von siteid (Livefyre bereitgestellt) und articleid (Kunde angegeben).
+>Livefyre empfängt das von Ihnen erstellte collectionMeta-Token und bestimmt die Eindeutigkeit durch Kombination von siteId (Livefyre bereitgestellt) und articleId (kundenspezifisch).
 
