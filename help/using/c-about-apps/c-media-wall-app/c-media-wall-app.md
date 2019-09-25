@@ -1,20 +1,20 @@
 ---
-description: Erstellen Sie Medienwalls mit Bildern, Chat, Video und anderen Streaming-Inhalten.
-seo-description: Erstellen Sie Medienwalls mit Bildern, Chat, Video und anderen Streaming-Inhalten.
-seo-title: Medienpinnwand
+description: Erstellen Sie Media Walls mit Bildern, Chat, Videos und anderen Streaming-Inhalten.
+seo-description: Erstellen Sie Media Walls mit Bildern, Chat, Videos und anderen Streaming-Inhalten.
+seo-title: Medienwall
 solution: Experience Manager
-title: Medienpinnwand
-uuid: 54 f 4 fb 0 b-e 427-4 b 73-bb 96-31325805 b 081
+title: Medienwall
+uuid: 54f4fb0b-e427-4b73-bb96-31325805b081
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Medienpinnwand{#media-wall}
+# Medienwall{#media-wall}
 
-Erstellen Sie Medienwalls mit Bildern, Chat, Video und anderen Streaming-Inhalten.
+Erstellen Sie Media Walls mit Bildern, Chat, Videos und anderen Streaming-Inhalten.
 
-Medienpinnwand ist eine auf dem Livefyre javascript SDK aufbauende App, die Live-Bilder und andere Inhalte, die von Instagram, Twitter, Retouren und anderen sozialen Netzwerken aggregiert werden, in eine Echtzeit-Social-Wand streamen und alle Aktivitäten um ein Ereignis visualisieren. Auch diejenigen, die dem Ereignis folgen, gehen remote wie vorhanden vor. Sie können Media Wall-Apps auf großen Bildschirmen in Live-Ereignissen anzeigen oder sie Ihrer Website hinzufügen, um sicherzustellen, dass Ihre Site für die Ereignisabdeckung als Ziel verwendet wird. Dies erhöht die Interaktion bei Ereignissen wie Konzert, Konferenzen, Produktversionen, Auszeichnungen, Sportveranstaltungen und mehr.
+Media Wall ist eine App, die auf dem Livefyre JavaScript SDK aufbaut und Live-Bilder und andere Inhalte in einer Echtzeit-Social-Mauer zusammenfasst, die alle Aktivitäten rund um ein Ereignis visualisiert. Selbst diejenigen, die dem Ereignis folgen, fühlen sich fern wie dort. Sie können bei Live-Veranstaltungen auf großen Bildschirmen Media Pinnwände-Apps anzeigen oder sie Ihrer Website hinzufügen, um sicherzustellen, dass Ihre Site das Reiseziel für die Berichterstattung über Ereignisse ist. Dadurch erhöht sich die Interaktion bei Veranstaltungen wie Konzerten, Konferenzen, Produktveröffentlichungen, Auszeichnungen, Sportveranstaltungen und mehr.
 
-Verwenden Sie Studio, um Medienwall-Apps zu erstellen, die auf Ihre Webseite eingebettet werden können. Verwenden Sie das Media Wall SDK, um benutzerdefinierte Medienpinnwanderlebnisse für Ihre Zielgruppe zu erstellen.
+Verwenden Sie Studio, um Media Wall-Apps zu erstellen, die in Ihre Webseite eingebettet werden können. Verwenden Sie das Media Wall SDK, um benutzerspezifische Media Pinnwände für Ihre Zielgruppe zu erstellen.
