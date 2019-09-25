@@ -1,29 +1,29 @@
 ---
-description: Tags, die automatisch von der Sensionsgesteuerten Software-Erkennungssoftware zu Bildern hinzugefügt wurden, werden angezeigt.
-seo-description: Tags, die automatisch von der Sensionsgesteuerten Software-Erkennungssoftware zu Bildern hinzugefügt wurden, werden angezeigt.
-seo-title: Smart-Tags anzeigen
-title: Smart-Tags anzeigen
-uuid: 787 c 7 d 66-2 c 88-4 c 4 c-b 687-cf 2390 bcf 233
+description: Anzeigen von Tags, die von der Bilderkennungssoftware Sensei automatisch zu Bildern hinzugefügt werden.
+seo-description: Anzeigen von Tags, die von der Bilderkennungssoftware Sensei automatisch zu Bildern hinzugefügt werden.
+seo-title: Anzeigen intelligenter Tags
+title: Anzeigen intelligenter Tags
+uuid: 787c7d86-2c68-4c4c-b687-cf2390bcf233
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Smart-Tags anzeigen{#view-smart-tags}
+# Anzeigen intelligenter Tags{#view-smart-tags}
 
-Tags, die automatisch von der Sensionsgesteuerten Software-Erkennungssoftware zu Bildern hinzugefügt wurden, werden angezeigt.
+Anzeigen von Tags, die von der Bilderkennungssoftware Sensei automatisch zu Bildern hinzugefügt werden.
 
-Livefyre verwendet Adobe Sensei-Bilderkennungssoftware, um Inhalte automatisch zu taggen, wenn Sie sie zur Bibliothek hinzufügen. Die Bilderkennungssoftware verfügt über 135 k-Klassifizierer oder Tags, die Funktionen enthalten (z. B. Katzen, Hunde, Pyramids, Eiffel-Turme, Trump), Kategorien (z. B. Reise, Tourismus, Kosmetik) und ästhetische Eigenschaften (z. B. Bildqualität).
+Livefyre verwendet Adobe Sensei-Bilderkennungssoftware, um Inhalte automatisch zu taggen, wenn Sie sie der Bibliothek hinzufügen. Die Bilderkennungssoftware verfügt über 135.000 Klassifizierer oder Tags, die Funktionen (z. B. Katzen, Hunde, Pyramiden, Eiffelturm, Trump), Kategorien (z. B. Reisen, Tourismus, Schönheit) und ästhetische Eigenschaften (z. B. Bildqualität) enthalten.
 
-So zeigen Sie die Smart-Tags für Inhalte an:
+So zeigen Sie die Smarttags im Inhalt an:
 
-1. Suchen Sie in der Bibliothek nach Inhalten von Twitter oder Instagram.
+1. Suchen Sie in der Bibliothek nach Inhalten aus Twitter oder Instagram.
 1. Wählen Sie ein oder mehrere Assets aus.
 1. Fügen Sie die Assets der Bibliothek hinzu.
 1. Klicken Sie auf eines der Assets, die Sie der Bibliothek hinzugefügt haben.
-1. Klicken **[!UICONTROL View Details]** Sie auf das Asset.
-1. Klicken Sie auf die **[!UICONTROL Tags]** Registerkarte im unteren rechten Bereich.
-1. Weitere Informationen finden Sie in der Liste der intelligenten Tags, die nach Kategorie angeordnet sind.
-1. Löschen Sie Tags, die nicht gewünscht werden sollen, indem Sie auf ein **[!UICONTROL X]** Tag klicken.
+1. Klicken Sie auf **[!UICONTROL View Details]** das Asset.
+1. Klicken Sie auf die **[!UICONTROL Tags]** Registerkarte im unteren rechten Bereich
+1. Siehe Liste der intelligenten Tags, geordnet nach Kategorie.
+1. Löschen Sie Tags, die Sie nicht möchten, indem Sie auf die **[!UICONTROL X]** neben einem Tag klicken.
 
