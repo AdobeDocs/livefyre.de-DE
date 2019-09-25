@@ -1,39 +1,39 @@
 ---
-description: Datum und Zeitstempel mit Livefyre. js anpassen.
-seo-description: Datum und Zeitstempel mit Livefyre. js anpassen.
-seo-title: Datum und Zeitstempel anpassen
+description: Passen Sie Datums- und Uhrzeitstempel mit Livefyre.js an.
+seo-description: Passen Sie Datums- und Uhrzeitstempel mit Livefyre.js an.
+seo-title: Anpassen des Datums- und Uhrzeitstempels
 solution: Experience Manager
-title: Datum und Zeitstempel anpassen
-uuid: 632 ea 405-56 b 7-4664-8 d 2 b -0 dd 0 a 7611 bd 8
+title: Anpassen des Datums- und Uhrzeitstempels
+uuid: 632ea405-56b7-4664-8d2b-0dd0a7611bd8
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Datum und Zeitstempel anpassen{#customize-the-date-and-time-stamp}
+# Anpassen des Datums- und Uhrzeitstempels{#customize-the-date-and-time-stamp}
 
-Datum und Zeitstempel mit Livefyre. js anpassen.
+Passen Sie Datums- und Uhrzeitstempel mit Livefyre.js an.
 
-Livefyre-Apps geben den opetimeformat-Parameter &quot;datetimeformat&quot; an, um das Datumsformat anzugeben, wie nachfolgend beschrieben.
+Livefyre-Apps bieten den Optionsparameter datetimeFormat, um das Datumsformat wie unten beschrieben anzugeben.
 
 * [Terminologie](#c_date_time_stamp/section_xsk_jn4_xz)
 * [Formatierung](#c_date_time_stamp/section_ynx_gn4_xz)
-* [Symbolbenennung](#c_date_time_stamp/section_inq_2n4_xz)
+* [Symbolbezeichnung](#c_date_time_stamp/section_inq_2n4_xz)
 
 ## Terminologie {#section_xsk_jn4_xz}
 
-* **Absolute Zeitstempel** werden als exakt und spezifische Zeiten definiert (z. B. 1. Januar 2012 214:00 Uhr)
-* **Relative Zeitstempel** werden als allgemein und weniger genau definiert (vor 25 Minuten, vor 14 Minuten, vor 1 Jahr usw.)
+* **Absolute Zeitstempel** werden als genaue und spezifische Zeiten definiert (z. B. 1. Januar 2012, 12:00 Uhr)
+* **Relative Zeitstempel** werden als allgemeine und weniger präzise Zeiten definiert (z. B. vor 25 Sekunden, vor 14 Minuten, vor 1 Tag, vor einem Jahr usw.)
 
 ## Formatierung {#section_ynx_gn4_xz}
 
-Der datetimeformat-Parameter hat das folgende Standardverhalten, wenn kein Argument angegeben wird:
+Der Parameter datetimeFormat hat das folgende Standardverhalten, wenn kein Argument angegeben wird:
 
-* Dateuhrzeitformat von: MMMM yyyy (für den 8. Januar 2012)
-* 20160 Minuten (14 Tage) bis absolute Zeit (14 Tage bis zur absoluten Zeitstempel)
+* Datumsformat von: MMMM JJJJ (8. Januar 2012)
+* 20160 Minuten (14 Tage) bis zur absoluten Zeit (14 Tage, bis relative Zeitstempel zu absoluten Zeitstempeln werden)
 
-Der datetimeformat-Parameter akzeptiert drei mögliche Argumenttypen: datetime, format und string.
+Der Parameter datetimeFormat akzeptiert drei mögliche Argumenttypen: datetime, format und string.
 
 ```
 // Example 1 (Datetime format string)  
@@ -48,7 +48,7 @@ var convConfig = {
 var conv = fyre.conv.load(networkConfig, [convConfig]);
 ```
 
-Ein Objekt, das absoluteformat und/oder minutesuntilabsolutetime angibt. Eine minutesuntilabsolutetime mit dem Wert -1 macht die Zeit sofort sofort.
+Ein Objekt, das absoluteFormat und/oder minutesBeforeAbsoluteTime angibt. Eine minuteToAbsoluteTime mit dem Wert -1 macht die absolute Zeit sofort.
 
 ```
 // Example 2 (Object)  
@@ -66,7 +66,7 @@ var convConfig = {
 var conv = fyre.conv.load(networkConfig, [convConfig]);
 ```
 
-Eine Funktion, die als Argument ein Date-Objekt akzeptiert und eine Datums-Uhrzeit-Zeichenfolge zurückgibt, die angezeigt werden soll
+Eine Funktion, die ein Date-Objekt als Argument akzeptiert und eine anzuzeigende Datums-Uhrzeit-Zeichenfolge zurückgibt
 
 ```
 // Example 3 (Function accepting a Date object, returning a datetime string to display) 
@@ -83,9 +83,9 @@ var convConfig = {
 var conv = fyre.conv.load(networkConfig, [convConfig]);
 ```
 
-## Symbolbenennung {#section_inq_2n4_xz}
+## Symbolbezeichnung {#section_inq_2n4_xz}
 
-Funktionen für die Datumsformatierung folgen der Musterspezifikation gemäß der Definition in JDK, ICU und CLDR mit geringfügigen Änderungen in der JS-Nutzung. Weitere Informationen finden Sie in der [Google-Abschlussbibliotheksdokumentation](https://developers.google.com/closure/library/docs/overview).
+Die Formatierungsfunktionen für die Datenzeit folgen der Musterspezifikation, wie in JDK, ICU und CLDR definiert, mit geringfügigen Änderungen für die typische Verwendung in JS. Weitere Informationen finden Sie in der Dokumentation zur [Google Closure Library](https://developers.google.com/closure/library/docs/overview).
 
 ```
   Symbol Meaning Presentation        Example 
@@ -119,14 +119,14 @@ Funktionen für die Datumsformatierung folgen der Musterspezifikation gemäß de
   ''       single quote            (Literal)           'o''clock'
 ```
 
-Mit &#39; *&#39; markierte Elemente werden noch nicht unterstützt.
+Mit "*"markierte Elemente werden noch nicht unterstützt.
 
-Mit &#39; #&#39; markierte Elemente unterscheiden sich anders als Java.
+Mit "#"markierte Elemente funktionieren anders als Java.
 
-Die Anzahl der Musterbuchstaben bestimmt das Format.
+Das Format wird durch die Anzahl der Musterbuchstaben bestimmt.
 
-* **Text:** 4 oder mehr, verwenden Sie das vollständige Formular. Weniger als 4, verwenden Sie kurze oder abgekürzte Formulare, wenn sie vorhanden sind. (Beispiel: &quot; EEEE&quot; erzeugt &quot;Montag&quot; ,&quot; EEE&quot; erzeugt &quot;Mo&quot; .)
-* **Nummer:** die Mindestanzahl an Stellen. Kürzere Zahlen werden mit 0 aufgefüllt (z. B.: Wenn &quot;m&quot; den Wert&quot; 6&quot; ergibt, erzeugt &quot;mm&quot; den Wert&quot; 06&quot; .) Jahr wird speziell verarbeitet; das heißt, wenn die Anzahl von&#39;y &#39; 2 beträgt, wird das Jahr auf 2 Stellen gekürzt. (Beispiel: wenn &quot;yyyy&quot; &quot; 1997&quot; ergibt, erzeugt &quot;yy&quot; &quot; 97&quot; .) Im Gegensatz zu anderen Feldern werden die Bruchteile auf der rechten Seite mit null aufgefüllt.
-* **Text &amp; Nummer:** 3 oder darüber, verwenden Sie Text. Weniger als 3, verwenden Sie die Nummer. (Beispiel: &quot; M&quot; erzeugt &quot;1&quot; ,&quot; MM&quot; erzeugt &quot;01&quot; ,&quot; MMM&quot; erzeugt &quot;Jan&quot; und&quot; MMMM&quot; erzeugt &quot;Januar&quot; .)
+* **** Text: 4 oder mehr, verwenden Sie das vollständige Formular. Verwenden Sie weniger als 4, wenn vorhanden, ein kurzes oder abgekürztes Formular. (Beispiel: "EEEE"produziert "Montag", "EEE"produziert "Mon".)
+* **** Nummer: die Mindestanzahl von Ziffern. Kürzere Zahlen werden diesem Betrag Null hinzugefügt (Beispiel: Wenn "m""6"ergibt, erzeugt "mm""06".) Jahr wird besonders behandelt; Wenn also "y"gleich 2 ist, wird das Jahr auf 2 Stellen gekürzt. (Beispiel: Wenn "yyyy"den Wert "1997"ergibt, erzeugt "yy"den Wert "97".) Im Gegensatz zu anderen Feldern werden auf der rechten Seite Bruchteile mit Null aufgefüllt.
+* **** Text und Zahl: 3 oder höher, verwenden Sie Text. Weniger als 3, Nummer verwenden. (Beispiel: "M"erzeugt "1", "MM"produziert "01", "MMM"produziert "Jan", und "MMMM"produziert "Januar".)
 
-Alle Zeichen im Muster, die sich nicht in den Bereichen [&quot;a&quot; befinden. &#39;z&#39;] und [&#39;A &#39;. &#39;Z&#39;] wird als benannter Text behandelt. Beispielsweise Zeichen wie &#39;: &#39;,&#39;. &#39;,&#39;&#39;,&#39; #&#39; und &#39; @&#39; werden im resultierenden Zeittext angezeigt, auch wenn sie nicht innerhalb von einfachen Anführungszeichen stehen.
+Alle Zeichen im Muster, die nicht in den Bereichen von ["a"liegen."z’] and [A."Z’] wird als zitierter Text behandelt. Zeichen wie ":", ".", ", "#"und "@"werden im resultierenden Zeittext angezeigt, auch wenn sie nicht in einfache Anführungszeichen gesetzt werden.
