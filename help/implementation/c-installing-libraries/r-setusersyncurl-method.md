@@ -1,23 +1,23 @@
 ---
-description: Informiert Livefyre, die Benutzersynchronisierung des Netzwerks mit dem bereitgestellten zu aktualisieren. Gibt einen Booleschen Wert zurück.
-seo-description: Informiert Livefyre, die Benutzersynchronisierung des Netzwerks mit dem bereitgestellten zu aktualisieren. Gibt einen Booleschen Wert zurück.
-seo-title: Setusersyncurl Network-Methode
+description: Informiert Livefyre, die URL für die Benutzersynchronisierung auf die angegebene URL zu aktualisieren. Gibt einen booleschen Wert zurück.
+seo-description: Informiert Livefyre, die URL für die Benutzersynchronisierung auf die angegebene URL zu aktualisieren. Gibt einen booleschen Wert zurück.
+seo-title: setUserSyncUrl-Netzwerkmethode
 solution: Experience Manager
-title: Setusersyncurl Network-Methode
-uuid: cd 067 e 90-a 2 da -4 e 3 d -8 e 60-7 eabfd 86 fc 7 f
+title: setUserSyncUrl-Netzwerkmethode
+uuid: cd067e90-a2da-4e3d-8e60-7eabfd86fc7f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Setusersyncurl Network-Methode{#setusersyncurl-network-method}
+# setUserSyncUrl-Netzwerkmethode{#setusersyncurl-network-method}
 
-Informiert Livefyre, die Benutzersynchronisierung des Netzwerks mit dem bereitgestellten zu aktualisieren. Gibt einen Booleschen Wert zurück.
+Informiert Livefyre, die URL für die Benutzersynchronisierung auf die angegebene URL zu aktualisieren. Gibt einen booleschen Wert zurück.
 
 | Variable | Typ | Beschreibung |
 |--- |--- |--- |
-| Urltemplate | Zeichenfolge | Die URL zur Registrierung bei Livefyre für die Synchronisierung von Benutzer-IDs. Erfordert &quot;`{id}`«als Teil der angegebenen URL-Zeichenfolge. |
+| urlTemplate | Zeichenfolge | Die URL, die bei Livefyre zum Synchronisieren von Benutzer-IDs registriert werden soll. Erfordert, dass "`{id}`"Teil der angegebenen URL-Zeichenfolge ist. |
 
 ## Java-Beispiel {#section_nyl_ycs_rz}
 
@@ -31,7 +31,7 @@ Beispielausgabe:
 true
 ```
 
-## Nodejs-Beispiel {#section_xkd_gds_rz}
+## NodeJS-Beispiel {#section_xkd_gds_rz}
 
 ```
 network.setUserSyncUrl(urlTemplate); 
@@ -55,7 +55,7 @@ Beispielausgabe:
 true
 ```
 
-## Python Example {#section_dwg_gds_rz}
+## Python-Beispiel {#section_dwg_gds_rz}
 
 ```
 network.set_user_sync_url(urlTemplate) 
