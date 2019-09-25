@@ -1,10 +1,10 @@
 ---
-description: Erstellen Sie eine Prüfsumme mithilfe der Livefyre-Bibliotheken.
-seo-description: Erstellen Sie eine Prüfsumme mithilfe der Livefyre-Bibliotheken.
+description: Erstellen Sie eine Prüfsumme mit den Livefyre-Bibliotheken.
+seo-description: Erstellen Sie eine Prüfsumme mit den Livefyre-Bibliotheken.
 seo-title: Erstellen einer Prüfsumme
 solution: Livefyre
 title: Erstellen einer Prüfsumme
-uuid: 2 dddedaa -7 a 6 d -434 a -8 db 8-dc 179935 f 810
+uuid: 2dddedaa-7a6d-434a-8db8-dc179935f810
 translation-type: tm+mt
 source-git-commit: 6545445016517af1f1bbb071761d773ba5a9a597
 
@@ -13,9 +13,9 @@ source-git-commit: 6545445016517af1f1bbb071761d773ba5a9a597
 
 # Erstellen einer Prüfsumme {#creating-a-checksum}
 
-Erstellen Sie eine Prüfsumme mithilfe der Livefyre-Bibliotheken.
+Erstellen Sie eine Prüfsumme mit den Livefyre-Bibliotheken.
 
-## Java {#section_pfr_lqj_tz}
+## Java {#section_pfr_lqj_tz}
 
 ```
 import com.livefyre.Livefyre; 
@@ -31,7 +31,7 @@ collection.getData().setTags("tags");
 String collectionMetaToken = collection.buildCollectionMetaToken();
 ```
 
-## Nodejs {#section_hnx_jqj_tz}
+## NodeJS {#section_hnx_jqj_tz}
 
 ```
 var livefyre = require('livefyre'); 
