@@ -1,76 +1,76 @@
 ---
 description: 'null '
 seo-description: 'null '
-seo-title: Hinzufügen von Zielgruppen zu einer Seite
+seo-title: Hinzufügen von Sidemarken zu einer Seite
 solution: Experience Manager
-title: Hinzufügen von Zielgruppen zu einer Seite
-uuid: 6499 c 45 a -3773-4 adb-a 6 c 7-22 a 628309 afd
+title: Hinzufügen von Sidemarken zu einer Seite
+uuid: 6499c45a-3773-4adb-a6c7-22a628309afd
 translation-type: tm+mt
 source-git-commit: bd989c97ae5cf06a5ac3deec215f865b0fe95d16
 
 ---
 
 
-# Hinzufügen von Zielgruppen zu einer Seite {#adding-sidenotes-to-a-page}
+# Hinzufügen von Sidemarken zu einer Seite {#adding-sidenotes-to-a-page}
 
-Livefyre bietet verschiedene Konfigurationsoptionen für die Positionierung von Sidenotes auf Ihrer Seite:
+Livefyre bietet mehrere Konfigurationsoptionen, um Simit auf Ihrer Seite zu positionieren:
 
-* Die Option Selektoren definiert die Elemente, auf denen die Autoren erscheinen sollten.
-* Anker stellen Elemente dar, die autorisiert werden können.
-* Mit dem benutzerdefinierten Thread-Behälter können Sie festlegen, wo der Thread-Thread im Verhältnis zu den gezählten Inhalten platziert werden soll.
-* Mit der Option &quot;Sidenotes&quot; können Sie die Anzahl der am angegebenen Ort hinzugefügten Autoren anzeigen.
-* Verwenden Sie mehrere `ConvConfig` Objekte, um mehreren Meldungen auf einer einzigen Seite Zielgruppen hinzuzufügen.
+* Mit der Option "Selektoren"werden die Elemente definiert, auf denen Simit angezeigt werden soll.
+* Anker stellen Elemente dar, die als Präsidentenelemente dienen können.
+* Mit dem benutzerdefinierten Thread-Container können Sie festlegen, wo sich der Siunterschiedslos positionierte Thread im Verhältnis zum Inhalt befinden soll.
+* Mit der Zähloption "Siegels"können Sie die Anzahl der an der angegebenen Position hinzugefügten Siegels anzeigen.
+* Verwenden Sie mehrere `ConvConfig` Objekte, um mehreren Textabschnitten auf einer einzelnen Seite Sistat hinzuzufügen.
 
 ## Selektoren {#section_wyj_4sv_sy}
 
-Mit der Option Selektoren können Autoren Inhalte auf der Seite suchen. Mit dem Wert für diese Option können Sie die verwendeten Elemente dynamisch bestimmen. Es kann sich um eine Auswahlzeichenfolge (z. B. &quot; # content p, # content img&quot; ), ein jquery-Objekt (z. `$(‘#content’)`B.), ein Array von DOM-Elementen oder ein Objekt mit zwei Eigenschaften handeln: einbeziehen und ausschließen. Die DOM-App verwendet dann entweder die angegebenen Elemente oder die übereinstimmenden Elemente auf der Seite. Wenn die Eigenschaften &quot;Einschließen&quot; und&quot; Ausschließen&quot; verwendet werden, analysiert die Seite zunächst die Seite, um alle Elemente in der include-Eigenschaft zu suchen, und entfernt dann alle Elemente, die in der Eigenschaft &quot;exclude&quot; gefunden wurden.
+Mit der Option "Selektoren"kann Simit Inhalte auf der Seite suchen. Mit dem Wert für diese Option können Sie die zu verwendenden Elemente dynamisch bestimmen. Es kann sich um eine Selektorzeichenfolge (z. B. "#content p, #content img"), ein jQuery-Objekt (z. B. `$(‘#content’)`), ein Array mit DOM-Elementen oder ein Objekt mit zwei Eigenschaften handeln: ein- und ausschließen. Die Siegels-App verwendet dann entweder die angegebenen Elemente oder die entsprechenden Elemente auf der Seite. Wenn die Eigenschaften "Einschließen"und "Ausschließen"verwendet werden, wird die Seite zunächst analysiert, um alle Elemente in der Eigenschaft "Einschließen"zu finden, und dann entfernt das Element, das in der Eigenschaft "Ausschließen"gefunden wurde.
 
 ## Anker {#section_ehq_psv_sy}
 
-Anker stellen ein Element dar, dessen Inhalt autorisiert werden kann. Ein Ankerelement kann Text oder ein Bild enthalten. Die Option Selektoren, die während der App-Konstruktion übergeben wird, bestimmt die Ankerelemente.
+Anker stellen ein Element dar, dessen Inhalt mit der Ausrichtung versehen werden kann. Ein Ankerelement kann Text oder ein Bild enthalten. Die Ankerelemente werden von der Auswahloption bestimmt, die während der App-Erstellung übergeben wird.
 
 ## Anker-IDs {#section_rsb_rsv_sy}
 
-Anker auf der Seite werden mithilfe von a `data-lf-anchor-id`identifiziert.
+Die Anker auf der Seite werden mit einem `data-lf-anchor-id`gekennzeichnet.
 
-Um die ID für einen Anker selbst festzulegen, fügen Sie dem Element das Attribut `data-lf-custom-anchor-id` hinzu, das Sie einem Anker zuordnen möchten. Dies ist hilfreich, wenn die automatische Erkennung von Ankern fehlschlägt.
+Um die ID für einen Anker selbst festzulegen, fügen Sie das Attribut dem Element hinzu, das Sie einem Anker zuordnen möchten. `data-lf-custom-anchor-id` Dies ist hilfreich, wenn die automatische Erkennung von Ankern fehlschlägt.
 
-Wenn Sie beispielsweise eine andere URL für die Desktop- und mobile Versionen eines Bildes verwenden möchten, werden verschiedenen Ankern möglicherweise zwei unterschiedliche urls zugeordnet. Wenn Ihr HTML-Code beispielsweise auf `data-lf-custom-anchor-id` Mobilgeräten und Desktops gleich ist, wird das Bildelement als einzelne Anker behandelt.
+Wenn Sie beispielsweise eine andere URL für die Desktop- und Mobilversion eines Bildes verwenden möchten, können zwei verschiedene URLs verschiedenen Ankern zugeordnet werden. Wenn Ihr HTML-Code stattdessen ein `data-lf-custom-anchor-id` ähnliches Element auf dem Mobilgerät und dem Desktop bereitstellt, wird das Bildelement als einzelner Anker behandelt.
 
-Anker verfügen über einen dynamischen Typ, können aber auch explizit mithilfe des `data-lf-custom-anchor-type` Attributs festgelegt werden.
+Anker haben einen Typ, der dynamisch bestimmt wird, aber auch explizit mithilfe des `data-lf-custom-anchor-type` Attributs festgelegt werden kann.
 
 >[!NOTE]
 >
->Der Wert der Aufzählungszahl muss verwendet werden.
+>Der Wert der Aufzählungsnummer muss verwendet werden.
 
 Verfügbare Typen sind:
 
-* **Text:** 1
-* **Bild:** 2
-* **Medien:** 3
-* **Stark:** 4
+* **** Text: 1
+* **** Bild: 2
+* **** Medien: 3
+* **** Rich: 4
 
-Weitere [Informationen zur Verwendung](/help/implementation/c-app-integrations/c-sidenotes-integration/update-anchors-method.md) der `updateAnchors` Methode zum dynamischen Hinzufügen von Sidenote-Inhalten zur Seite finden Sie unter updateanchors.
+Weitere Informationen zum dynamischen Hinzufügen von Sidenote-Inhalten zur Seite finden Sie unter [updateAnchors-Methode](/help/implementation/c-app-integrations/c-sidenotes-integration/update-anchors-method.md) `updateAnchors` .
 
 ## Benutzerdefinierter Thread-Container {#section_jdh_btv_sy}
 
-Verwenden Sie die `threadContainerEl` Option, um einen Speicherort für einen &quot;Sidenotes&quot; -Thread als die Standardposition anzugeben. Wenn ein Anker aktiviert ist, erscheinen die Autoren standardmäßig neben oder unter dem relevanten Inhalt. Um diesen Standardwert zu ändern, verwenden Sie das `threadContainerEl` Element, in dem der Thread angezeigt werden soll.
+Verwenden Sie die `threadContainerEl` Option, um eine andere Position als die Standardposition für einen Siunterschiedlichsten Thread festzulegen. Wenn ein Anker aktiviert ist, wird der Sidebar standardmäßig neben oder unter dem relevanten Inhalt angezeigt. Um diese Standardeinstellung zu ändern, verwenden Sie die `threadContainerEl` , um das Element anzugeben, in dem der Thread angezeigt werden soll.
 
-Dieser Wert für diese Option funktioniert mit der Option Selektoren, außer dass nur das erste gültige Element verwendet wird.
+Dieser Wert für diese Option funktioniert genauso wie die Option "Selektoren", außer dass nur das erste gültige Element verwendet wird.
 
-## Zähleranzahl {#section_pld_ntv_sy}
+## Zähler {#section_pld_ntv_sy}
 
-Verwenden Sie die `numSidenotesEl` Option, um ein optionales Widget &quot;Sidenotes-Zähler&quot; auf Ihrer Seite einzubetten. Diese Option akzeptiert dieselbe Eingabe wie die Option Selektoren, verwendet jedoch nur das erste gültige Element im Eingabearray.
+Verwenden Sie die `numSidenotesEl` Option zum Einbetten eines optionalen Widgets für die Anzahl der Sidentis auf Ihrer Seite. Diese Option akzeptiert die gleiche Eingabe wie die Selektoroption, verwendet jedoch nur das erste gültige Element im Eingabe-Array.
 
-Das Widget dekoriert das bereitgestellte oder übereinstimmende Element und enthält das Eingabesymbol &quot;Sidenotes&quot; , die Anzahl der an dieser Position eingegebenen Alliotes und ein Hilfesymbol.
+Das Widget dekoriert das bereitgestellte oder übereinstimmende Element und enthält das Symbol für die Eingabe von Sizilien, die Zahl der an dieser Position eingegebenen Sidemarken und ein Hilfesymbol.
 
-Durch Klicken auf das Widget wird ein Popover mit einer kurzen Erklärung von Sidenotes und deren Verwendung angezeigt.
+Wenn Sie auf das Widget klicken, wird ein Popup mit einer kurzen Erläuterung von Siegels und deren Verwendung angezeigt.
 
-Sowohl die Erklärung als auch der Beispieltext sind mithilfe von benutzerdefinierten Zeichenfolgen ( `questionExplanation` bzw. `questionMockText`) konfigurierbar. Das Erscheinungsbild des count-Widgets und der Popover können auch mithilfe von benutzerdefinierten Stilen ( `numSidenotes` bzw. `numSidenotesPopover`) konfiguriert werden.
+Sowohl die Erläuterung als auch der Beispieltext können mithilfe von benutzerdefinierten Zeichenfolgen ( `questionExplanation` bzw. `questionMockText`) konfiguriert werden. Das Erscheinungsbild des Zähler-Widgets und des Popup-Fensters kann auch mit benutzerdefinierten Stilen ( `numSidenotes` bzw. `numSidenotesPopover`) konfiguriert werden.
 
-## Hinzufügen mehrerer Sammlungen für mehrere Gruppen zu einer einzelnen Seite {#section_pjl_ptv_sy}
+## Hinzufügen mehrerer Sammlungen zu einer einzelnen Seite {#section_pjl_ptv_sy}
 
-Mit Livefyre können Sie einer einzelnen Seite mehrere Sammlungen für einzelne Gruppen hinzufügen. Wenn die Seite beispielsweise drei Meldungsmeldungen enthält, möchten Sie möglicherweise drei separate Iterationen der App &quot;Sidenotes&quot; einbeziehen. Dazu müssen Sie für jede Instanz von Autoren, die Sie erstellen möchten, ein separates `ConvConfig` Objekt definieren. Beispiel:
+Mit Livefyre können Sie einer einzelnen Seite mehrere Siunterschiedlichste Sammlungen hinzufügen. Wenn die Seite z. B. drei Nachrichten enthält, möchten Sie möglicherweise drei separate Iterationen der Sibezeichnet-App hinzufügen. Dazu müssen Sie für jede Instanz von Siegels, die Sie erstellen möchten, ein separates `ConvConfig` Objekt definieren. Beispiel:
 
 ```
 <html> 
