@@ -3,38 +3,38 @@ description: Versionshinweise für die Version vom 21. September 2017.
 seo-description: Versionshinweise für die Version vom 21. September 2017.
 seo-title: 21. September 2017
 title: 21. September 2017
-uuid: 1132 b 48 a-f 85 c -4 e 05-b 312-0093 db 9 ebc 8 f
+uuid: 1132b48a-f85c-4e05-b312-0093db9ebc8f
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 ---
 
 
-# 21. September 2017{#september}
+# September 21, 2017{#september}
 
 Versionshinweise für die Version vom 21. September 2017.
 
 ## Produktionsversion
 
-| **Ausgabentyp** | **Komponente** | **Versionshinweise** |
+| **Art des Problems** | **Komponente** | **Versionshinweise** |
 |---|---|---|
-| Verbesserung | Kommentare | Kunden können nun die Höchstlänge für Kommentare als Teil ihrer Netzwerkkonfiguration festlegen. |
-| Bug | Mobile App | Dieser Fehler korrigiert ein Problem, bei dem verschachtelte Antworten in Mobile wiedergegeben wurden, wenn Avatars deaktiviert wurden. |
-| Bug | Mosaik | Es wurde ein Produktionsfehler behoben, durch den Mosaic-Anzeige grauer Felder in IE 11 in UGC angezeigt wurde. |
+| Verbesserung | Kommentare | Kunden können nun die maximale Länge für Kommentare als Teil ihrer Netzwerkkonfiguration festlegen. |
+| Fehler | Mobile Anwendung | Dieser Fehler behebt ein Problem bei verschachtelten Antworten, die in Mobile gerendert wurden, wenn Avatare deaktiviert wurden. |
+| Fehler | Mosaik | Es wurde ein Produktionsfehler behoben, durch den Mosaic graue Boxen in IE11 in UGC anzeigen konnte. |
 | Verbesserung | Mosaik | Kunden können jetzt die Anzahl der Karten angeben, die in der Mosaic-Visualisierungs-App angezeigt werden sollen. |
-| Bug | Rights Management | Es wurde ein Fehler behoben, durch den ein Studio-Benutzer keine Rechte für Instagram Carousel-Inhalte anfordern konnte. |
-| Bug | Studio | Beim Erstellen neuer Sites wurden klarere Fehlermeldungen hinzugefügt. |
+| Fehler | Rights Management | Es wurde ein Fehler behoben, durch den ein Studio-Benutzer keine Rechte für Instagram Carousel-Inhalte anfordern konnte. |
+| Fehler | Studio | Es wurden klarere Fehlermeldungen beim Erstellen neuer Sites hinzugefügt. |
 
 ## UAT-Version
 
-| **Ausgabentyp** | **Komponente** | **Versionshinweise** |
+| **Art des Problems** | **Komponente** | **Versionshinweise** |
 |---|---|---|
-| Verbesserung | Apps | Kunden können jetzt eine einzelne Livefyre-App (Mosaic, Filmstreifen oder Medienpinnwand) erstellen und sie in mehrere Produktseiten einbetten, die das entsprechende UGC für jede Produktseite dynamisch filtern (z. B. UGC-Tags für Schuhe auf der Schuh-Produktseite). |
-| Verbesserung | Filmstreifen | In der Filmstreifen-App gibt es ein neues Banner, das neue Inhalte in der App kennzeichnet, sodass Endbenutzer schnell neue Inhalte identifizieren können. |
-| Verbesserung | Livefyre-Identität | Kunden können jetzt ihre Github-Anmeldeinformationen verwenden, um sich bei Livefyre-Identität anzumelden und an unseren Kommentarapps teilzunehmen. |
-| Bug | Rights Management | Es wurde ein Fehler behoben, durch den Unicode-Zeichen in Rights Request-Meldungen eingefügt werden konnten, um die Validierung zu umgehen. |
-| Verbesserung | Studio | Der Link &quot;Livefyre-Hilfe&quot; in der oberen Navigationsleiste wurde aktualisiert. |
-| Verbesserung | UGC Commerce | Kunden können jetzt einen Google-Produktkatalog mithilfe eines JSON-Dateiexports manuell in LF-Studio hochladen. Dadurch kann der Kunde UGC mit Produkten aus diesem Katalog und in unseren Commerce-Apps visualisieren. |
-| Verbesserung | UGC Commerce | Kunden können die Produktordner auswählen, die sie verwenden möchten, wenn sie ihre E-Commerce-App nach Produkt-ID filtern. Beispiel: Ich möchte meinen neuen Filmstreifen auf den Damenschuhen und Damenproduktseiten meiner Frauen anzeigen. Daher wähle ich nur die Produktordner &quot;Damenschuhe&quot; und&quot; Damenschuhe&quot; aus. |
-| Verbesserung | UGC Commerce | Livefyre-Kunden können die veröffentlichte UGC jetzt nur dann in ihre Apps filtern, wenn sie über Rechte verfügen. Ein Kunde kann beispielsweise eine Auswahl von Elementen kuratieren und veröffentlichen, diese Elemente werden jedoch nur dann in der App gerendert, nachdem die Rechte vom Autor erteilt wurden. Dies ist besonders für E-Commerce-Anwendungsfälle wichtig, bei denen UGC für kommerzielle Zwecke verwendet wird. |
+| Verbesserung | Apps | Kunden können jetzt eine einzelne Livefyre-App erstellen (Mosaic, Filmstreifen oder Media Wall) und sie in mehrere Produktseiten einbetten, die die entsprechende benutzerspezifische Benutzerkontensteuerung für jede Produktseite dynamisch filtern (z. B. für Schuhmarkierungen auf der Schuhproduktseite). |
+| Verbesserung | Filmstreifen | In der Filmstreifen-App gibt es ein "neues"Banner, das neue Inhalte in der App kennzeichnet, sodass Endbenutzer neue Inhalte schnell identifizieren können. |
+| Verbesserung | Livefyre-Identität | Kunden können sich jetzt mit ihren Github-Anmeldeinformationen bei Livefyre-Identitäten anmelden und an unseren Kommentar-Apps teilnehmen. |
+| Fehler | Rights Management | Es wurde ein Fehler behoben, durch den das Einfügen von Unicode-Zeichen in Rights Request-Nachrichten die Überprüfung umgangen werden konnte. |
+| Verbesserung | Studio | Link zur Livefyre-Hilfe in der oberen Navigationsleiste aktualisiert. |
+| Verbesserung | UGC Commerce | Kunden können nun einen Google-Produktkatalog manuell in das LF-Studio hochladen, indem sie einen JSON-Dateiexport verwenden. Dadurch kann der Kunde UGC mit Produkten aus diesem Katalog verbinden und sie in unseren Commerce-fähigen Apps visualisieren. |
+| Verbesserung | UGC Commerce | Kunden können auswählen, welche Produktordner beim Filtern ihrer E-Commerce-App nach Produkt-ID verwendet werden sollen. Zum Beispiel möchte ich, dass mein neuer Filmstreifen auf den Produktseiten für Damen- und Damenschuhe erscheint. Daher werde ich nur die Produktordner "Damenschuhe-Sammlung"und "Damenbeutel"auswählen. |
+| Verbesserung | UGC Commerce | Livefyre-Kunden können nun die in ihren Apps veröffentlichten UGC nur dann filtern, wenn ihnen Rechte gewährt wurden. Beispielsweise kann ein Kunde eine Auswahl von Artikeln kuratieren und veröffentlichen, aber diese Elemente werden nur dann in der App wiedergegeben, wenn der Autor ihnen Rechte erteilt hat. Dies ist besonders wichtig für Fälle, in denen der elektronische Geschäftsverkehr genutzt wird, wo der UGC für kommerzielle Zwecke genutzt wird. |
 
