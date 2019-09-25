@@ -2,7 +2,7 @@
 seo-title: Schulungsvideos aufrufen
 solution: Experience Manager
 title: Schulungsvideos aufrufen
-uuid: 64438 e 2 f-dd 51-4 c 10-98 ff-e 1 b 62 db 1 b 0 ca
+uuid: 64438e2f-dd51-4c10-98ff-e1b62db1b0ca
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,12 +13,12 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 So greifen Sie auf Livefyre-Schulungsvideos zu:
 
-1. Rufen Sie [Adobe Experience Manager Tutorials](https://helpx.adobe.com/experience-manager/tutorials.html)auf.
-1. Blättern Sie nach unten, bis die drei Kategorien für Livefyre-Übungen angezeigt werden:
+1. Greifen Sie auf [Adobe Experience Manager-Tutorials](https://helpx.adobe.com/experience-manager/tutorials.html)zu.
+1. Blättern Sie nach unten, bis Sie die drei Übungskategorien Livefyre sehen:
 
-   * Erstellen, Verwalten und Navigieren in Studio-Konten in Adobe Experience Manager Livefyre
-   * Erstellen von automatischen Inhalts-Streams und Suchen sozialer Inhalte in Adobe Experience Manager Livefyre
+   * Erstellen, Verwalten und Navigieren von Studio-Konten in Adobe Experience Manager Livefyre
+   * Erstellen von automatischen Content Streams und Suchen von sozialen Inhalten in Adobe Experience Manager Livefyre
    * Arbeiten mit Assets in Adobe Experience Manager Livefyre
 
-1. Klicken Sie auf das gewünschte Video, um auf das Tutorial zuzugreifen.
+1. Klicken Sie auf das gewünschte Video, um das Lernprogramm aufzurufen.
 
