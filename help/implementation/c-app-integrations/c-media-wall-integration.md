@@ -1,39 +1,39 @@
 ---
-description: Erstellen Sie eine Medienpinnwand mit dem Inhaltsstreaming in Echtzeit.
-seo-description: Erstellen Sie eine Medienpinnwand mit dem Inhaltsstreaming in Echtzeit.
-seo-title: Medienpinnwand
+description: Erstellen Sie eine Medienwall mit Content-Streaming in Echtzeit.
+seo-description: Erstellen Sie eine Medienwall mit Content-Streaming in Echtzeit.
+seo-title: Medienwall
 solution: Experience Manager
-title: Medienpinnwand
-uuid: c 6087 c 80-a 35 b -44 d 2-9 dd 4-ba 9 cd 471172 d
+title: Medienwall
+uuid: c6087c80-a35b-44d2-9dd4-ba9cd471172d
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Medienpinnwand{#media-wall}
+# Medienwall{#media-wall}
 
-Erstellen Sie eine Medienpinnwand mit dem Inhaltsstreaming in Echtzeit.
+Erstellen Sie eine Medienwall mit Content-Streaming in Echtzeit.
 
-Mit der Medienpinnwand können Sie eine Echtzeit-Social-Wand für Ihre Site erstellen. Verwenden Sie das streamhub-wallpaket von Livefyre javascript SDK, um Livefyre-Social-Feeds als visuell ansprechende, Vollbildanzeige anzuzeigen, die für das Behandeln von Live-Ereignissen, Hosting von Fotowettbewerben und leistungsstarken Social-Abschnitte Ihrer Website geeignet ist.
+Mit Media Wall können Sie eine Social-Wand in Echtzeit für Ihre Site erstellen. Verwenden Sie das Livefyre JavaScript SDK's streamub-wallpackage, um Livefyre-Social-Feeds als visuell ansprechende, geteilte Inhaltserfahrung anzuzeigen, die sich hervorragend eignet, um Live-Ereignisse zu erfassen, Fotowettbewerbe zu hosten und soziale Bereiche Ihrer Website zu aktivieren.
 
-## Integration{#section_jfm_bwb_c1b}
+## Integration {#section_jfm_bwb_c1b}
 
-Die schnellste Möglichkeit zum Hinzufügen einer Medienwall besteht darin, die erstellte Version auf dem CDN von Livefyre zu verwenden.
+Die schnellste Möglichkeit, eine Media Pinnwand hinzuzufügen, besteht darin, die auf Livefyres CDN gehostete Version zu verwenden.
 
-Fügen Sie [zunächst Livefyre. js](https://github.com/Livefyre/Livefyre.js) zu Ihrer Site hinzu.
+Fügen Sie Ihrer Site zunächst [Livefyre.js](https://github.com/Livefyre/Livefyre.js) hinzu.
 
 ```
 <script src="//cdn.livefyre.com/Livefyre.js"></script> 
 ```
 
-Positionieren Sie dann das Element, in dem die Medienpinnwand angezeigt wird.
+Positionieren Sie dann das Element, in dem die Medienwall angezeigt wird.
 
 ```
 <div id="wall"></div>
 ```
 
-Zum Erstellen `Livefyre.require` der Komponente verwenden.
+Verwenden Sie schließlich `Livefyre.require` zum Erstellen der Komponente.
 
 ```
 <script> 
@@ -52,19 +52,19 @@ Livefyre.require([
 </script>
 ```
 
-Sie haben jetzt eine Pinnwand! Sehen Sie sich dies in diesem [Beispiel alles](https://codepen.io/gobengo/pen/dFwDL)an.
+Du hast jetzt eine Mauer! Sehen Sie dies alles in Aktion in [diesem Beispiel](https://codepen.io/gobengo/pen/dFwDL).
 
-**Einen Fehler erreichen?** Stellen Sie sicher, dass Sie den richtigen Umgebungsparameter übergeben. Zu den Optionen gehören `livefyre.com` (Produktion) oder `t402.livefyre.com` (UAT).
+**Hit einen Fehler?** Vergewissern Sie sich, dass Sie den richtigen Umgebungsparameter weitergeben. Zu den Optionen gehören `livefyre.com` (Produktion) oder `t402.livefyre.com` (UAT).
 
 >[!NOTE]
 >
->Jede Formatierung von Tweets, die von Ihrer Medienwall-App gerendert werden, muss gemäß den [Anzeigeanforderungen von Twitter vorgenommen](https://dev.twitter.com/terms/display-requirements)werden.
+>Die Anpassung der Formatierung von Tweets, die von Ihrer Media Wall App gerendert werden, muss gemäß den [Anzeigeanforderungen](https://dev.twitter.com/terms/display-requirements)von Twitter erfolgen.
 
 ## Konfigurationsoptionen {#section_ucv_qvb_c1b}
 
 `columns`
 
-Hiermit können Sie die Anzahl der Spalten für Ihre Medienpinnwand beim Erstellen Ihrer Pinnwand definieren. Wenn diese Option festgelegt ist, wird die Breite der einzelnen Spalten automatisch an die Containergröße der Medienpinnwand angepasst und dabei die angegebene Spaltenanzahl beibehalten.
+Ermöglicht Ihnen, die Anzahl der Spalten für Ihre Medienmauer zu definieren, wenn Sie Ihre Wand erstellen. Wenn diese Option eingestellt ist, passt sich die Breite der einzelnen Spalten automatisch an die Containergröße der Media Pinnwand an, wobei die angegebene Spaltenanzahl erhalten bleibt.
 
 ```
 var wallView = new MediaWall({ 
@@ -75,7 +75,7 @@ var wallView = new MediaWall({
 
 `initial`
 
-Die Anzahl der Inhaltselemente, die beim Laden der Seite gerendert werden sollen. Der Standardwert ist 50.
+Die Anzahl der Inhaltselemente, die beim Laden der Seite gerendert werden. Der Standardwert ist 50.
 
 ```
 var wallView = new MediaWall({ 
@@ -86,11 +86,11 @@ var wallView = new MediaWall({
 
 `minContentWidth`
 
-Hiermit können Sie die minimale Breite (Pixel) für jede Spalte innerhalb des Elements der Medienpinnwand festlegen. (Ihre Medienpinnwand wählt je nach Breite des Containerelements automatisch eine entsprechende Spaltenanzahl aus. Standardmäßig bestimmt die Breite der Medienpinnwand dividiert durch die minimale Inhaltsbreite (300 px, falls nicht definiert) die Spaltenanzahl.)
+Ermöglicht Ihnen, die minimale (Pixel-)Breite für jede Spalte im Containerelement der Medienwall festzulegen. (Ihre Medienwand wählt automatisch eine entsprechende Anzahl von Spalten aus, je nach Breite des Containerelements. Standardmäßig bestimmt die Breite der Medienmauer geteilt durch die minimale Inhaltsbreite (300 px, falls nicht definiert) die Anzahl der Spalten.)
 
 >[!NOTE]
 >
->Verwenden Sie diese Option nicht in Kombination mit den Spalten.
+>Verwenden Sie diese Option nicht zusammen mit der Spaltenoption.
 
 ```
 var wallView = new MediaWall({ 
@@ -101,7 +101,7 @@ var wallView = new MediaWall({
 
 `modal`
 
-Wenn Anlagen für ein Inhaltselement vorhanden sind, zeigt Medienwalls standardmäßig eine anklickbare Miniaturansicht an. Wenn Sie auf die App klicken, öffnet die App einen modalen Anzeigebereich des Foto-/Videoanhangs. Um diese Option zu deaktivieren, setzen Sie die modale Einstellung auf false.
+Wenn für einen Inhalt Anlagen vorhanden sind, zeigt Media Walls standardmäßig eine klickbare Miniaturansicht an. Wenn Sie darauf klicken, öffnet die App ein Modell, in dem die Foto-/Videoanlage vollständig angezeigt wird. Um diese Option zu deaktivieren, setzen Sie modal auf false.
 
 ```
 var wallView = new MediaWall({ 
@@ -113,15 +113,15 @@ var wallView = new MediaWall({
 
 `postButton`
 
-Definiert die [!UICONTROL Post Content] Schaltfläche, die auf Ihrer Pinnwand angezeigt werden soll. Diese Option erfordert die Weitergabe `opts.collection`und fügen eine Livefyre. js-Authentifizierung auf der Seite hinzu.
+Definiert die [!UICONTROL Post Content] Schaltfläche, die auf Ihrer Pinnwand angezeigt wird. Für diese Option ist es erforderlich, dass Sie eine Livefyre.js Auth-Integration an die Seite übergeben `opts.collection`und hinzufügen.
 
 `postButton` Parameter:
 
-* `false` (Standard): Zeigen Sie keine Schaltfläche &quot;Beitragsinhalt&quot; an. (Erstellt eine schreibgeschützte Medienwall.)
-* `true` (oder `LiveMediaWall.postButtons.contentWithPhotos`): Schließen Sie eine Schaltfläche ein, mit der Benutzer Textinhalte mit angehängten Fotos hinzufügen können.
+* `false` (Standard): Keine Schaltfläche "Inhalt des Beitrags"anzeigen. (Erstellt eine schreibgeschützte Medienwall.)
+* `true` oder `LiveMediaWall.postButtons.contentWithPhotos`) Fügen Sie eine Schaltfläche hinzu, über die Benutzer Textinhalte mit angehängten Fotos hinzufügen können.
 
-* `LiveMediaWall.postButtons.content`: Schließen Sie eine Schaltfläche ein, mit der Benutzer Textinhalte hinzufügen, jedoch keine Fotos anhängen können.
-* `LiveMediaWall.postButtons.photo`: Schließen Sie eine Schaltfläche ein, mit der Benutzer ein Foto, aber keinen Text hinzufügen können.
+* `LiveMediaWall.postButtons.content`: Fügen Sie eine Schaltfläche hinzu, über die Benutzer Textinhalte hinzufügen können, aber keine Fotos anhängen können.
+* `LiveMediaWall.postButtons.photo`: Fügen Sie eine Schaltfläche hinzu, über die Benutzer ein Foto, jedoch keinen Text hinzufügen können.
 
 ```
 var wallView = new MediaWall({ 
@@ -134,7 +134,7 @@ var wallView = new MediaWall({
 
 `showMore`
 
-Definiert die Anzahl der Inhaltselemente, die der Pinnwand hinzugefügt werden sollen, wenn auf die [!UICONTROL Show More] Schaltfläche geklickt wird.
+Definiert die Anzahl der Inhaltselemente, die der Pinnwand hinzugefügt werden sollen, wenn auf Ihre [!UICONTROL Show More] Schaltfläche geklickt wird.
 
 ```
 var wallView = new LiveMediaWall({ 
@@ -143,9 +143,9 @@ var wallView = new LiveMediaWall({
 });
 ```
 
-## Stilkonfigurationsoptionen {#section_ztv_dvb_c1b}
+## Formatierungskonfigurationsoptionen {#section_ztv_dvb_c1b}
 
-Die Medienpinnwand bietet außerdem verschiedene Konfigurationsoptionen, mit denen Sie Textfarbe, Stil und Größe anpassen können. Verwenden Sie die folgende Syntax, um diese Optionen zu implementieren:
+Media Wall bietet außerdem verschiedene Konfigurationsoptionen, mit denen Sie Textfarbe, -stil und -größe anpassen können. Verwenden Sie zur Implementierung dieser Optionen die folgende Syntax:
 
 ```
 var wall2 = window.wall2 = new MediaWall({ 
@@ -163,42 +163,42 @@ var wall2 = window.wall2 = new MediaWall({
 }); 
 ```
 
-Eine gültige Eingabe finden Sie in den W 3 C-Standards für die CSS [-Schriftfamilie](https://www.w3.org/TR/CSS2/fonts.html#propdef-font-family), [Schriftgröße](https://www.w3.org/TR/CSS2/fonts.html#font-size-props), [Zeilenhöhe und](https://www.w3.org/TR/CSS2/visudet.html#propdef-line-height) [Farbeigenschaften](https://www.w3.org/TR/css3-color/#colorunits) .
+Eine gültige Eingabe finden Sie in den W3C-Standards für CSS- [Schriftfamilie](https://www.w3.org/TR/CSS2/fonts.html#propdef-font-family), [Schriftgröße](https://www.w3.org/TR/CSS2/fonts.html#font-size-props), [Zeilenhöhe und ](https://www.w3.org/TR/CSS2/visudet.html#propdef-line-height)Farbeigenschaften[](https://www.w3.org/TR/css3-color/#colorunits) .
 
-* **Bodyfontsize** *(CSS Font Size String)* Die Schriftgröße für den content body text.
+* **bodyFontSize** *(CSS Font Size String)* Die Schriftgröße für den Textkörper des Inhalts.
 
-* **Bodylineheight** *(CSS Line Height String)* Die Zeilenhöhe für den Textzeichentext.
+* **bodyLineHeight** *(CSS-Zeilenhöhenzeichenfolge)* Die Zeilenhöhe für den Textkörper des Inhalts.
 
-* **Buttonactivebackgroundcolor** *(CSS Color String)** Die Farbe für den Schaltflächenhintergrund aktiviert.
+* **buttonActiveBackgroundColor** *(CSS-Farbzeichenfolge)** Die Farbe für den Schaltflächenhintergrund bei aktiver Ausführung.
 
-* **Buttonbordercolor** *(CSS Color String)** Die Farbe für Schaltflächenbegrenzungen.
+* **buttonBorderColor** *(CSS-Farbzeichenfolge)** Die Farbe für Schaltflächenränder.
 
-* **Buttonhoverbackgroundcolor** *(CSS Color String)* Die Farbe für den Schaltflächenhintergrund beim Maushover.
+* **buttonHoverBackgroundColor** *(CSS-Farbzeichenfolge)* Die Farbe für den Schaltflächenhintergrund beim Bewegen des Mauszeigers.
 
-* **Buttontextcolor** *(CSS Color String)* Die Farbe für die Schaltflächenbeschriftungen.
+* **buttonTextColor** *(CSS-Farbzeichenfolge)* Die Farbe für die Schaltflächenbeschriftungen.
 
-* **Cardbackgroundcolor** *(CSS-Farbzeichenfolge)* Die Hintergrundfarbe für Inhaltskarten in der Medienpinnwand.
+* **cardBackgroundColor** *(CSS-Farbzeichenfolge)* Die Hintergrundfarbe für Inhaltskarten in der Medienwand.
 
-* **Displaynamecolor** *(CSS-Farbzeichenfolge)* Die Farbe für Anzeigenamen in der Autorenzeile.
+* **displayNameColor** *(CSS-Farbzeichenfolge)* Die Farbe für Anzeigenamen in der Zeile.
 
-* **Fontfamily** *(CSS Font Family String)* Die Schriftfamilie für body text.
+* **fontFamily** *(CSS-Schriftfamilie-Zeichenfolge)* Die Schriftfamilie für den Textkörper.
 
-* **Footertextcolor** *(CSS Color String)* Die Farbe für Sekundärtext (wie Fußzeilentext und Benutzername in der Autorenzeile).
+* **footerTextColor** *(CSS-Farbzeichenfolge)* Die Farbe für Sekundärtext (z. B. Fußzeilentext und Benutzername in der Zeile).
 
-* **Linkattachmentbackgroundcolor** *(CSS-Farbzeichenfolge)* Die Hintergrundfarbe für Link-Anlagen (gestapelte Anlagen).
+* **linkAttachmentBackgroundColor** *(CSS-Farbzeichenfolge)* Die Hintergrundfarbe für Link-Anlagen (gestapelte Anlagen).
 
-* **Linkattachmentbordercolor** *(CSS Color String)* Die Rahmenfarbe für Link-Anlagen (gestapelte Anlagen).
+* **linkAttachmentBorderColor** *(CSS-Farbzeichenfolge)* Die Rahmenfarbe für Link-Anlagen (gestapelte Anlagen).
 
-* **Linkattachmenttextcolor** *(CSS Color String)* Die Farbe für den Link-Anlagentext.
+* **linkAttachmentTextColor** *(CSS-Farbzeichenfolge)* Die Farbe für den Text des Link-Anhangs.
 
-* **Linkcolor** *(CSS-Farbzeichenfolge)* Die Farbe für Hyperlinks (wie Links im Textkörper und Links für Anzeigenamen).
+* **linkColor** *(CSS-Farbzeichenfolge)* Die Farbe für Hyperlinks (z. B. Links im Textkörper und Links zu Anzeigenamen).
 
-* **Textcolor** *(CSS-Farbzeichenfolge)* Die Farbe für Textkörper.
+* **textColor** *(CSS-Farbzeichenfolge)* Die Farbe des Textes.
 
-* **Titlefontsize** *(CSS Font Size String)* Die Schriftgröße für Inhaltstitel.
+* **titleFontSize** *(CSS Font Size String)* Die Schriftgröße für Inhaltstitel.
 
-* **Titlelineheight** *(CSS-Zeilenhöhenzeichenfolge)* Die Zeilenhöhe für Inhaltstitel.
+* **titleLineHeight** *(CSS-Zeilenhöhenzeichenfolge)* Die Zeilenhöhe für Inhaltstitel.
 
-* **Sourcelogocolor** *(CSS Color String)* Die Farbe für das Quelllogo.
+* **sourceLogoColor** *(CSS-Farbzeichenfolge)* Die Farbe für das Quelllogo.
 
-* **Usernamecolor** *(CSS Color String)* Die Farbe für die Benutzernamen in der Autorenzeile.
+* **usernameColor** *(CSS-Farbzeichenfolge)* Die Farbe für die Benutzernamen in der Zeile.
