@@ -1,18 +1,18 @@
 ---
 description: 'null '
 seo-description: 'null '
-seo-title: Benutzerdefinierte Zeichenfolgen
-title: Benutzerdefinierte Zeichenfolgen
-uuid: 73745273-d 3 fb -4569-8910-d 149 fb 37 a 7 b 4
+seo-title: Benutzerdefinierte Zeichenfolgen für Sidebar
+title: Benutzerdefinierte Zeichenfolgen für Sidebar
+uuid: 73745273-d3fb-4569-8910-d149fb37a7b4
 translation-type: tm+mt
 source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
 
 ---
 
 
-# Benutzerdefinierte Zeichenfolgen{#sidenotes-custom-strings}
+# Benutzerdefinierte Zeichenfolgen für Sidebar{#sidenotes-custom-strings}
 
-Benutzerdefinierte Zeichenfolgen werden über ein Objekt angewendet, das in den DOM-Konstruktor eingefügt wurde, und überschreiben Standardzeichenfolgen, die über die Anwendung verwendet werden. Mit diesen können Sie beliebige Teile der Sprache anpassen, um sie an Ihre Stil- oder Sprachspezifikationen anzupassen. Zeichenfolgen werden automatisch mit Standardeinstellungen zusammengeführt.
+Benutzerdefinierte Zeichenfolgen werden über ein Objekt angewendet, das in den Siunterschiedlichsten Konstruktor eingefügt wird, und überschreiben Standardzeichenfolgen, die über die Anwendung verwendet werden. Diese können verwendet werden, um einen beliebigen Teil der Sprache an Ihre Stil- oder Sprachspezifikationen anzupassen. Strings werden automatisch mit den Standardeinstellungen zusammengeführt.
 
 ```
 var customStrings = { 
@@ -23,78 +23,78 @@ new Livefyre.Sidenotes({
 });
 ```
 
-| Schlüssel | Standard |
+| Schlüssel | Standardeinstellung |
 |---|---|
-| Appname | Zielgruppen |
-| Commentmoderatortag | Mod |
-| Commentpendingtag | Ausstehend |
-| Commentreadmorelink | Mehr lesen |
-| Commentreplylink | Siehe {number} Antworten |
-| Commentreplylinksing | Siehe Antwort |
-| Commentvotecount | Stimmen |
-| Commentvotecountsing | abstimmen |
-| Editorplaceholder | Was glauben Sie? |
-| Editorpostbtn | Posts posten |
-| Editorpostbtnmobile | Beitrag |
-| Editorposting | Beitrag… |
-| Editorreplybtn | Post-Antwort |
-| Editorreplytitle | Antwort schreiben |
-| Editortitle | Notiz schreiben |
-| Emptyimageblocktxt | Was glauben Sie? |
-| Emptytextblocktxt | + |
-| Errorconnection | Uh-oh. Sie haben keine gute Verbindung. |
-| Errorduplicate | Wir haben auch Ihre Notiz, aber Sie können sie nicht zweimal posten. |
-| Errorgeneral | Es ist ein Fehler aufgetreten. Bitte erneut versuchen. |
-| Errorserver | Bei unserem Server ist etwas falsch. Versuchen Sie es erneut? |
-| Facebooksharecaption | Sidenotes für &quot; {title} « |
-| Menuauthsignedinmsg | Sie müssen bei {action} angemeldet sein. |
-| Menuauthsigninbtn | Anmelden |
-| Menubackbtn | Zurück |
-| Menuconfirmaccept | Ja, {action} |
-| Menuconfirmcancel | Abbrechen |
-| Menuconfirmtitle | Sind Sie sicher? |
-| Menuetcoptionapprove | Genehmigen |
-| Menuetcoptiondelete | Löschen |
-| Menuetcoptionedit | Bearbeiten |
-| Menuetcoptionflag | Flag |
-| Menuetcoptionshare | Freigeben |
-| Menuetcpostedat | Gepostet am {date} |
-| Menuetctitle | Mehr |
-| Menuflagoptiondisagree | Nicht zustimmen |
-| Menuflagoptionoffensive | Offensive |
-| Menuflagoptionofftopic | Aus Thema |
-| Menuflagoptionspam | Spam |
-| Menuflagtitle | Markieren als… |
-| Menuinfocopyright | © Livefyre, Inc. 2014 |
-| Menuinfohelp | Hilfe |
-| Menuinfolivefyrelink | Besuchen Sie Livefyre.com |
-| Menurepliesviewreply | Besprechungen beantworten |
-| Menurepliesviewtitle | Details |
-| Menushareoptionfacebook | Facebook |
-| Menushareoptionlink | Permalink kopieren |
-| Menushareoptionlinkcomplete | Kopiert |
-| Menushareoptionlinkfailed | Kopieren fehlgeschlagen |
-| Menushareoptiontwitter | Twitter |
-| Menusharetitle | Freigeben |
-| Notificationapproved | Genehmigt |
-| Notificationdeleted | Gelöscht |
-| Notificationflag | Gekennzeichnet |
-| Permalinkbackbtn | Alle |
-| Permalinktitle | Permalink |
-| Questionexplain | Sie können Kommentare jetzt direkt in Sätzen, Absätzen, Bildern und Anführungszeichen lesen und schreiben.<br><br>Markieren Sie Text und klicken Sie auf das Symbol &quot;fycon-write&quot; oder klicken Sie am Ende jedes Absatzes auf das Symbol&quot; fycon-action-view&quot; . |
-| Questionmocktext | Was genau bekannt ist, wird nicht korrekt bekannt, sondern nur aus dem Grund, aus dem sie &quot;bekannt&quot; ist. |
-| Questiontitle | Was ist eine Sidenote? |
-| Queuedcommentsplural | {number} Neue Zielgruppen |
-| Queuedcommentssingular | 1 Neue Sidenote |
-| Queuedrepliesplural | {number} Neue Antworten |
-| Queuedrepliessingular | 1 Neue Antwort |
-| Replybtn | Antworten |
-| Signintopost | Melden Sie sich an, um eine Zielgruppe zu schreiben |
-| Slidercommenttally | of |
-| Sliderinviteread | Lesen |
-| Sliderinvitewrite | Schreiben |
-| Sliderwritetext | Was glauben Sie? Zum Schreiben tippen |
-| Threadcollapsebtn | Reduzieren |
-| Threadexpandbtnplural | {number} Antworten erweitern |
-| Threadexpandbtnsingular | 1 Antwort erweitern |
-| Threadreplybtn | Besprechungen beantworten |
+| appName | Sir |
+| commentModeratorTag | Mod |
+| commentPendingTag | In Bearbeitung |
+| commentReadMoreLink | Weitere Info |
+| commentReplyLink | Siehe {number} Antworten |
+| commentReplyLinkSing | Siehe Antwort |
+| commentVoteCount | stimmen |
+| commentVoteCountSing | Stimme |
+| editorPlaceholder | Was denkst du? |
+| editorPostBtn | Post Sidennote |
+| editorPostBtnMobile | Posten |
+| editorPosting | Beitrag… |
+| editorReplyBtn | Antworten |
+| editorReplyTitle | Antwort schreiben |
+| editorTitle | Notiz schreiben |
+| emptyImageBlockTxt | Was denkst du? |
+| emptyTextBlockTxt | + |
+| errorConnection | Oh-oh. Du scheinst keine gute Verbindung zu haben. |
+| errorDuplicate | Ihre Notiz gefällt uns ebenfalls, aber Sie können sie nicht zweimal posten. |
+| errorGeneral | Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut. |
+| errorServer | Etwas ist mit unserem Server schiefgelaufen. Versuch das noch einmal? |
+| facebookShareCaption | SideNotes zu "{title}" |
+| menuAuthSignedInMsg | Sie müssen bei {action} angemeldet sein |
+| menuAuthSignInBtn | Anmelden |
+| menuBackBtn | Zurück |
+| menuConfirmAccept | Ja, {Aktion} |
+| menuConfirmCancel | Abbrechen |
+| menuConfirmTitle | Sind Sie sicher? |
+| menuEtcOptionApprove | Genehmigen |
+| menuEtcOptionDelete | Löschen |
+| menuEtcOptionEdit | Vorlage      |
+| menuEtcOptionFlag | Markierung |
+| menuEtcOptionShare | Freigabe |
+| menuEtcPostedAt | Gepostet am {Datum} |
+| menuEtcTitle | Mehr |
+| menuFlagOptionDismatch | widersprechen |
+| menuFlagOptionOffensive | Offensive |
+| menuFlagOptionOffTopic | Off-Thema |
+| menuFlagOptionSpam | Spam |
+| menuFlagTitle | Kennzeichnung als... |
+| menuInfoCopyright | © Livefyre, Inc. 2014 |
+| menuInfoHelp | Hilfe |
+| menuInfoLivefyreLink | Besuch Livefyre.com |
+| menuRepliesViewReply | Antwort auf Konversation |
+| menuRepliesViewTitle | Details |
+| menuShareOptionFacebook | Facebook |
+| menuShareOptionLink | Permalink kopieren |
+| menuShareOptionLinkComplete | Kopiert |
+| menuShareOptionLinkFailed | Kopieren fehlgeschlagen |
+| menuShareOptionTwitter | Twitter |
+| menuShareTitle | Freigabe |
+| notificationApproved | Genehmigt |
+| notificationDeleted | Gelöscht |
+| notificationGekennzeichnet | Gekennzeichnet |
+| permalinkBackBtn | Alle |
+| permalinkTitle | Permalink |
+| QuestionExplanation | Sie können Kommentare jetzt direkt zu Sätzen, Absätzen, Bildern und Anführungszeichen lesen und schreiben.<br><br>Markieren Sie Text und klicken Sie auf das Symbol "fycon-write"oder klicken Sie am Ende jedes Absatzes auf das Symbol "fycon-action-view". |
+| QuestionMockText | Was "vertraut" ist, ist nicht richtig bekannt, nur weil es "vertraut" ist. |
+| QuestionTitle | Was ist ein Sidenote? |
+| queuedCommentsPlural | {number} Neues Attribut |
+| queuedCommentsSingular | 1 Neuer Sidente |
+| queuedRepliesPlural | {number} Neue Antworten |
+| queuedRepliesSingular | 1 Neue Antwort |
+| responseBtn | Antwort |
+| signInToPost | Melden Sie sich an, um eine Präsidentschaft zu schreiben |
+| reglerCommentTally | of |
+| reglerInviteRead | Gelesen |
+| reglerInviteWrite | schreiben |
+| reglerWriteText | Was denkst du? Zum Schreiben tippen |
+| threadCollapseBtn | Ausblenden |
+| threadExpandBtnPlural | {number} Antworten erweitern |
+| threadExpandBtnSingular | 1 Antwort erweitern |
+| threadReplyBtn | Antwort auf Konversation |
