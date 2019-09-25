@@ -1,21 +1,21 @@
 ---
-description: Um einen Benutzer mit Livefyre über einen Fluss zu authentifizieren, der nicht durch eine Livefyre-App ausgelöst wird, empfiehlt Livefyre, dass Sie die foreachauthentication-Methode für Ihr authdelegate-Objekt implementieren.
-seo-description: Um einen Benutzer mit Livefyre über einen Fluss zu authentifizieren, der nicht durch eine Livefyre-App ausgelöst wird, empfiehlt Livefyre, dass Sie die foreachauthentication-Methode für Ihr authdelegate-Objekt implementieren.
-seo-title: Implementierung von SSO
+description: Um einen Benutzer mit Livefyre über einen Fluss zu authentifizieren, der nicht von einer Livefyre-App ausgelöst wird, empfiehlt Livefyre, die forAnyAuthentication-Methode für das AuthDelegate-Objekt zu implementieren.
+seo-description: Um einen Benutzer mit Livefyre über einen Fluss zu authentifizieren, der nicht von einer Livefyre-App ausgelöst wird, empfiehlt Livefyre, die forAnyAuthentication-Methode für das AuthDelegate-Objekt zu implementieren.
+seo-title: Implementierung der SSO
 solution: Experience Manager
-title: Implementierung von SSO
-uuid: c 96 d 456 c-b 1 ac -40 e 0-8 d 18-224652 b 9697 f
+title: Implementierung der SSO
+uuid: c96d456c-b1ac-40e0-8d18-224652b9697f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Implementierung von SSO{#implementing-sso}
+# Implementierung der SSO{#implementing-sso}
 
-Um einen Benutzer mit Livefyre über einen Fluss zu authentifizieren, der nicht durch eine Livefyre-App ausgelöst wird, empfiehlt Livefyre, dass Sie die foreachauthentication-Methode für Ihr authdelegate-Objekt implementieren.
+Um einen Benutzer mit Livefyre über einen Fluss zu authentifizieren, der nicht von einer Livefyre-App ausgelöst wird, empfiehlt Livefyre, die forAnyAuthentication-Methode für das AuthDelegate-Objekt zu implementieren.
 
-Dies wird aufgerufen, wenn das `authDelegate` Weitergereicht an `auth.delegate`und wird eine Authentifizierungsfunktion übergeben, die mehrmals übergeben werden kann. Diese Methode bietet eine Inversion der Authentifizierung für Authentifizierungsereignisse, damit sie `AuthDelegateobject` eigenständig gespeichert werden können, ohne dass eine globale Referenz auf Authentifizierung erforderlich ist.
+Dies wird aufgerufen, wenn die `authDelegate` übergeben wird `auth.delegate`, und es wird eine Authentifizierungsfunktion übergeben, die mehrmals übergeben werden kann. Diese Methode stellt eine Inversion der Steuerung für Authentifizierungsereignisse bereit, sodass Ihr System sich selbst enthalten `AuthDelegateobject` kann, ohne dass ein globaler Verweis auf auth erforderlich ist.
 
 ```
 authDelegate.forEachAuthentication = function (authenticate) { 
@@ -25,9 +25,9 @@ authDelegate.forEachAuthentication = function (authenticate) {
 }
 ```
 
-Livefyre basiert auf Benutzertoken, um die Authentifizierung zu koordinieren. Daher muss dieses Token von Ihrem Identitäts-Service zurückgegeben werden, um einen Benutzer mit Livefyre zu authentifizieren. Informationen zum Erstellen eines Livefyre-Benutzertokens finden Sie unter Erstellen eines Token für die Benutzerauthentifizierung.
+Livefyre nutzt zur Koordination der Authentifizierung Token. Daher muss dieses Token von Ihrem Identitätsdienst zurückgegeben werden, um einen Benutzer bei Livefyre zu authentifizieren. Informationen zum Erstellen eines Livefyre-Benutzertokens finden Sie unter Erstellen eines Benutzerauthentifizierungstokens.
 
 >[!NOTE]
 >
->Nach einer erfolgreichen Anmeldung erstellt die Authentifizierung eine Sitzung für den Benutzer und versucht, die Sitzung eines Benutzers beim Aktualisieren und Neuladen der Seite zu laden. `auth.logout()` wird diese Sitzung löschen. Dies bedeutet, dass es nicht notwendig ist, die Sitzung eines Benutzers unabhängig von der Autorisierung zu verwalten.
+>Nach erfolgreicher Anmeldung erstellt auth eine Sitzung für den Benutzer und versucht, die Sitzung des Benutzers zu laden, wenn die Seite aktualisiert und neu geladen wird. `auth.logout()` wird diese Sitzung beenden. Das bedeutet, dass die Sitzung eines Benutzers nicht unabhängig von der Autorisierung verwaltet werden muss.
 
