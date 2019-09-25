@@ -4,7 +4,7 @@ seo-description: 'null '
 seo-title: E-Mails für Livefyre-Identität
 solution: Experience Manager
 title: E-Mails für Livefyre-Identität
-uuid: 4 e 807803-687 e -4 df 0-94 d 1-b 18 a 48 d 024 e 8
+uuid: 4e807803-687e-4df0-94d1-b18a48d024e8
 translation-type: tm+mt
 source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
 
@@ -13,102 +13,102 @@ source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
 
 # E-Mails für Livefyre-Identität{#emails-for-livefyre-identity}
 
-Livefyre-Identität sendet die folgenden E-Emails:
+Livefyre Identity sendet folgende E-Mails:
 
 * [E-Mail zum Zurücksetzen des Kennworts](#c_emails_for_livefyre_identity/section_nd1_whs_p1b)
 * [Verifizierungs-E-Mail](#c_emails_for_livefyre_identity/section_ak5_xhs_p1b)
-   * [E-Mail-Überprüfung für Benutzer senden](#c_emails_for_livefyre_identity/section_vyv_yhs_p1b)
+   * [E-Mail-Bestätigung für Benutzer senden](#c_emails_for_livefyre_identity/section_vyv_yhs_p1b)
 
 * [Begrüßungs-E-Mail](#c_emails_for_livefyre_identity/section_z2v_zhs_p1b)
    * [Begrüßungs-E-Mail an Benutzer senden](#c_emails_for_livefyre_identity/section_kjp_c3s_p1b)
 
-Sie können das Erscheinungsbild aller Livefyre-Identitätse-Emails in **[!UICONTROL Integration Settings > Email Notifications.]**
+Sie können das Erscheinungsbild aller Livefyre-Identity-E-Mails in **[!UICONTROL Integration Settings > Email Notifications.]**
 
 ## E-Mail zum Zurücksetzen des Kennworts {#section_nd1_whs_p1b}
 
-Livefyre sendet automatisch eine E-Email zum Zurücksetzen des Kennworts, wenn ein Benutzer versucht, sein Kennwort zurückzusetzen.
+Livefyre sendet automatisch eine E-Mail zum Zurücksetzen des Kennworts, wenn ein Benutzer versucht, sein Kennwort zurückzusetzen.
 
 Die E-Mail zum Zurücksetzen des Kennworts sieht wie folgt aus:
 
-**Betreff:** Kennwort zurücksetzen
+**** Betrifft: Kennwort zurücksetzen
 
-**Haupttext:**
+**Text:**
 
-Hey there *&lt; username &gt;*,
+Hey *&lt;Benutzername&gt;*,
 
-Es gab eine Anforderung zum Ändern des Kennworts Ihres Profils unter *&lt; Netzname &gt;*.
+Es wurde eine Anforderung zum Ändern des Kennworts Ihres Profils unter *&lt;Netzwerkname&gt;* gesendet.
 
-Wenn Sie dies angefordert haben, klicken Sie auf den folgenden Link, um ein neues Kennwort auszuwählen: *&lt; Kennwort zurücksetzen &gt;*.
+Klicken Sie auf den folgenden Link, um ein neues Kennwort auszuwählen, falls Sie dies wünschen: *&lt;URL zum Zurücksetzen des Kennworts&gt;*.
 
-*&lt; Benutzername &gt;*, *&lt; network name &gt;*und *&lt; password reset url &gt;* werden alle dynamisch basierend auf dem Site-Besucher und Ihrem Netzwerk generiert.
+*&lt;Benutzername&gt;*, *&lt;Netzwerkname&gt;* und *&lt;URL zum Zurücksetzen des Kennworts&gt;* werden dynamisch basierend auf dem Site-Besucher und Ihrem Netzwerk generiert.
 
 ## Verifizierungs-E-Mail {#section_ak5_xhs_p1b}
 
-Sie können eine E-Mail an die E-Mail-Adresse eines Benutzers senden. Um Verifizierungs-E-Emails zu senden, müssen Sie die Option unter **Integrationseinstellungen &gt; Livefyre-Identität aktivieren**.
+Sie können eine E-Mail zur Bestätigung der E-Mail-Adresse eines Benutzers senden. Um Verifizierungs-E-Mails zu senden, müssen Sie die Option unter **Integrationseinstellungen &gt; Livefyre-Identität** aktivieren.
 
-Die Verifizierungs-E-Mail sieht wie folgt aus:
+Die Verifizierungs-E-Mail sieht folgendermaßen aus:
 
-**Betreff:** E-Mail-Bestätigung
+**** Betrifft: E-Mail-Bestätigung
 
-**Haupttext:**
+**Text:**
 
-Hallo *&lt; Benutzername &gt;*,
+Hallo *&lt;Benutzername&gt;*,
 
-Klicken Sie auf den folgenden Link (oder fügen Sie ihn in Ihren Browser ein), um Ihr Konto zu bestätigen: *&lt; verification URL &gt;*.
+Bitte klicken Sie auf den folgenden Link (oder fügen Sie ihn in Ihren Browser ein), um Ihr Konto zu überprüfen: *&lt;Verifizierungs-URL&gt;*.
 
 Dieser Link läuft in 24 Stunden ab.
 
-Danke,
+Vielen Dank
 
-Der &lt; *Kundenname &gt;* Team
+Das *&lt;Kundenname&gt;* -Team
 
-*&lt; Benutzername &gt;*, *&lt; network name &gt;*und *&lt; verification URL &gt;* werden alle dynamisch basierend auf dem Site-Besucher und Ihrem Netzwerk generiert.
+*&lt;Benutzername&gt;*, *&lt;Netzwerkname&gt;* und *&lt;Verifizierungs-URL&gt;* werden dynamisch basierend auf dem Site-Besucher und Ihrem Netzwerk generiert.
 
-## E-Mail-Überprüfung an Benutzer senden {#section_vyv_yhs_p1b}
+## E-Mail-Bestätigung an Benutzer senden {#section_vyv_yhs_p1b}
 
-Sie können eine E-Mail an einen Benutzer senden, um die E-Mail-Adresse zu bestätigen, die für die Anmeldung bei einem Konto verwendet wird. So senden Sie eine Überprüfungs-E-Mail
+Sie können eine E-Mail an einen Benutzer senden, um die E-Mail-Adresse zu überprüfen, mit der er sich für ein Konto anmeldet. So senden Sie eine Verifizierungs-E-Mail:
 
 1. Klicken Sie in Studio auf das Zahnradsymbol, um die Netzwerkeinstellungen zu ändern.
-1. Klicken **Sie auf Integrationseinstellungen &gt; Livefyre-Identität.**
+1. Klicken Sie auf **Integrationseinstellungen &gt; Livefyre-Identität.**
 
 1. Navigieren Sie zu **Anmeldetypen**.
-1. Klicken **Sie auf E-Mail-Überprüfung** erforderlich, um eine E-Email an Benutzer zu senden, die die E-Email-Adresse bestätigen, die sie für die Anmeldung bei einem Konto verwenden.
-1. Navigieren Sie zur **Netzwerk-E-Mail** , um das **Logo für E-Mail** zu konfigurieren, die E-Email-Adresse für die Verwendung als Adresse (**E-Mail von**) und den Anzeigenamen für die E-Email-Adresse (**E-Mail-Anzeigename**).
+1. Klicken Sie auf **"E-Mail-Bestätigung** erforderlich", um eine E-Mail an Benutzer zu senden, die die für die Kontoanmeldung verwendete E-Mail-Adresse bestätigen.
+1. Navigieren Sie zu **Netzwerk-E-Mail** , um das **Logo für E-Mail**, die E-Mail-Adresse, die als Ausgangsadresse verwendet werden soll (**E-Mail-Adresse**) und den Anzeigenamen für die E-Mail-Adresse (**E-Mail-Anzeigename**) zu konfigurieren.
 
 ## Begrüßungs-E-Mail {#section_z2v_zhs_p1b}
 
-Sie können eine Begrüßungs-E-Mail an Benutzer senden. Um Begrüßungs-E-Emails zu senden, müssen Sie die Option unter **Integrationseinstellungen** &gt; **Livefyre-Identität aktivieren**.
+Sie können eine Begrüßungs-E-Mail an Benutzer senden. Um Begrüßungs-E-Mails zu senden, müssen Sie die Option unter **Integrationseinstellungen** &gt; **Livefyre-Identität** aktivieren.
 
-Die Begrüßungs-E-Mail sieht wie folgt aus:
+Die Begrüßungs-E-Mail sieht folgendermaßen aus:
 
-**Betreff:** Willkommen bei *&lt; Kundenname &gt;*
+**** Betrifft: Willkommen bei *&lt;Kundenname&gt;*
 
-**Haupttext:**
+**Text:**
 
-Hallo *&lt; Benutzername &gt;*,
+Hallo *&lt;Benutzername&gt;*,
 
-Ein Konto wurde für Sie unter *&lt; Kundenname &gt; erstellt*.
+Unter *&lt;Kundenname&gt;* wurde ein Konto für Sie erstellt.
 
-Dieses Konto wurde unter *&lt; Referrer-URL &gt;* von IP-Adresse *&gt; IP-Adresse &gt; erstellt*.
+Dieses Konto wurde unter *&lt;Verweis-URL&gt;* aus IP-Adresse *&lt;IP-Adresse&gt;* erstellt.
 
-Wenn Sie dies getan haben, können Sie diese E-Mail sicher ignorieren.
+Wenn Sie dies tun, können Sie diese E-Mail sicher ignorieren.
 
 Wenn Sie dies nicht getan haben, wenden Sie sich bitte an `support@livefyre.com`
 
 Danke
 
-The *&quot;customer name&quot;* Team
+Das *"Kundenname"* -Team
 
-*&quot; Benutzername&quot; , &quot;Kundenname&quot; ,&quot; Verweisende URL&quot;* und &quot;IP-Adresse&quot; werden alle dynamisch basierend auf dem Site-Besucher und Ihrem Netzwerk generiert.
+*"Benutzername", "Kundenname",* "Verweisadresse"und "IP-Adresse"werden dynamisch basierend auf dem Site-Besucher und Ihrem Netzwerk generiert.
 
 ## Begrüßungs-E-Mail an einen Benutzer senden {#section_kjp_c3s_p1b}
 
-Sie können eine Begrüßungs-E-Mail an einen Benutzer senden, nachdem sie sich für ein Konto registriert haben. Studio sendet diese E-Mail nach dem Senden einer Verifizierungs-E-Mail, wenn Sie eine Verifizierungs-E-Mail einrichten. So senden Sie eine Begrüßungs-E-Mail
+Sie können eine Begrüßungs-E-Mail an einen Benutzer senden, nachdem er sich für ein Konto angemeldet hat. Studio sendet diese E-Mail, nachdem eine Bestätigungs-E-Mail gesendet wurde, wenn Sie eine Bestätigungs-E-Mail einrichten. So senden Sie eine Begrüßungs-E-Mail:
 
 1. Klicken Sie in Studio auf das Zahnradsymbol, um die Netzwerkeinstellungen zu ändern.
 1. Klicken Sie auf **[!UICONTROL Integration Settings > Livefyre Identity]**
 
-1. **[!UICONTROL Email Settings]** Navigieren Sie zu.
+1. Navigieren Sie zu **[!UICONTROL Email Settings]**.
 
-1. Klicken **[!UICONTROL Send Welcome Emails To New Users]** Sie auf, um das Senden von E-Emails zu aktivieren.
-1. Navigieren Sie zum **[!UICONTROL Network Email]** Konfigurieren des *Logos für E-Mail*, die E-Email-Adresse für die Verwendung als Adresse (**E-Mail von**) und den Anzeigenamen für die E-Email-Adresse (**E-Mail-Anzeigename**).
+1. Klicken Sie auf **[!UICONTROL Send Welcome Emails To New Users]** , um das Senden von E-Mails zu aktivieren.
+1. Navigieren Sie **[!UICONTROL Network Email]** zum Konfigurieren des *Logos für E-Mail*, der E-Mail-Adresse, die als "Von"-Adresse verwendet werden soll (**E-Mail-Adresse von**), und des Anzeigennamens, der für die E-Mail-Adresse verwendet werden soll (**E-Mail-Anzeigename**).
