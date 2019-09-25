@@ -1,25 +1,25 @@
 ---
-description: Die Live Blog-App bietet die folgenden Funktionen für Ihre Site.
-seo-description: Die Live Blog-App bietet die folgenden Funktionen für Ihre Site.
-seo-title: Funktionen für Live-Blog
+description: Die Live-Blog-App bietet die folgenden Funktionen für Ihre Site.
+seo-description: Die Live-Blog-App bietet die folgenden Funktionen für Ihre Site.
+seo-title: Live-Blog-Funktionen
 solution: Experience Manager
-title: Funktionen für Live-Blog
-uuid: 5 a 9 fede 3-e 150-4655-b 5 e 1-3 ddaee 9 a 6 ba 1
+title: Live-Blog-Funktionen
+uuid: 5a9fede3-e150-4655-b5e1-3ddaee9a6ba1
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Funktionen für Live-Blog{#live-blog-features}
+# Live-Blog-Funktionen{#live-blog-features}
 
-Die Live Blog-App bietet die folgenden Funktionen für Ihre Site.
+Die Live-Blog-App bietet die folgenden Funktionen für Ihre Site.
 
 
 
-* Veröffentlichen Sie Echtzeit-Updates, indem Sie direkt im Live-Blog posten.
-* Erstellen Sie Regeln, um soziale Inhalte zu kuratieren, und suchen Sie nach spezifischen kuratierten Inhalten, um sie Ihrem Blog hinzuzufügen.
-* Aktualisieren Sie Ihren Live Blog auf Ihrem Mobilgerät.
-* Aktivieren Sie die Antworten auf jedes Blog-Update, um eine erhöhte Konversation und Interaktion bei jedem Live Blog-Update zu fördern.
-* Hochladen von Fotos und Hinzufügen benutzerdefinierter HTML zu Beiträgen auf oberster Ebene
+* Veröffentlichen Sie Updates in Echtzeit, indem Sie sie direkt im Live-Blog veröffentlichen.
+* Erstellen Sie Regeln, um soziale Inhalte zu kuratieren, und suchen Sie nach bestimmten kuratierten Inhalten, die Sie Ihrem Blog hinzufügen möchten.
+* Aktualisieren Sie Ihr Live-Blog von Ihrem Mobilgerät.
+* Aktivieren Sie Antworten auf die einzelnen Blog-Aktualisierungen, um eine bessere Konversation und Interaktion bei jeder Aktualisierung des Live-Blogs zu fördern.
+* Hochladen von Fotos und Hinzufügen von benutzerdefiniertem HTML zu Beiträgen der obersten Ebene
 
