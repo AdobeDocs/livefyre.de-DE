@@ -1,49 +1,49 @@
 ---
-description: Fügen Sie der Seite das Flag userprivacyoptout hinzu, damit ein Site-Besucher diese Verfolgung abwählen kann.
-seo-description: Fügen Sie der Seite das Flag userprivacyoptout hinzu, damit ein Site-Besucher diese Verfolgung abwählen kann.
-seo-title: Userprivacyoptout
-title: Userprivacyoptout
-uuid: a 043 c 50 e -0 a 02-4 c 83-bbce -54 b 9 b 51316 a 5
+description: Fügen Sie der Seite das Flag userPrivacyOptOut hinzu, damit ein Besucher der Site diese Verfolgung abwählen kann.
+seo-description: Fügen Sie der Seite das Flag userPrivacyOptOut hinzu, damit ein Besucher der Site diese Verfolgung abwählen kann.
+seo-title: userPrivacyOptOut
+title: userPrivacyOptOut
+uuid: a043c50e-0a02-4c83-bce-54b9b51316a5
 translation-type: tm+mt
-source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
+source-git-commit: 9e01dd4515c01154e3566a39b367b8efa4ec082a
 
 ---
 
 
-# Userprivacyoptout{#userprivacyoptout}
+# userPrivacyOptOut{#userprivacyoptout}
 
-Fügen Sie der Seite das `userPrivacyOptOut` Flag hinzu, damit ein Site-Besucher diese Verfolgung ablehnen kann.
+Fügen Sie der Seite das `userPrivacyOptOut` Flag hinzu, damit ein Site-Besucher diese Verfolgung abwählen kann.
 
-Livefyre stellt javascript-Ereignisse zur Verfolgung von Benutzeraktivitäten in Ihren Livefyre-Apps bereit.
+Livefyre bietet JavaScript-Ereignisse zur Verfolgung von Benutzeraktivitäten in Ihren Livefyre-Apps.
 
-Wenn Sie Livefyre-Apps einbetten und ein Besucher nicht der Verfolgung zugestimmt hat, können Sie Livefyre dynamisch konfigurieren, um die Funktionalität zu deaktivieren, um die Privatsphäre des Besuchers sicherzustellen.
+Wenn Sie Livefyre-Apps einbetten und ein Besucher der Verfolgung nicht zustimmt, können Sie Livefyre dynamisch so konfigurieren, dass Funktionen deaktiviert werden, um die Privatsphäre des Besuchers zu gewährleisten.
 
-Bei Konfiguration wird Livefyre:
+Wenn Livefyre konfiguriert ist,
 
 * Deaktivieren Sie die Authentifizierungsunterstützung in Apps.
-* Livecount und Ereignisgenerierung deaktivieren
-* Löschen von vorhandenen Cookies, die von Apps erstellt wurden, die sich auf der Seite befinden
-* Proxy-Medien mit Bildern aus Drittanbieterdomänen, um Drittanbieter daran zu hindern, Cookies zu erstellen
-* Aktivieren Sie die Clickthrough-Clickthrough-Clickthrough für Drittanbieter-Videos, für die ein zusätzlicher Klick zur Ansicht erforderlich ist.
+* LiveCycle und Ereigniserstellung deaktivieren
+* Löschen Sie vorhandene Cookies, die von Apps erstellt wurden, die sich auf der Seite befinden
+* Proxy-Medien mit Bildern von Drittanbieterdomänen, um zu verhindern, dass Drittanbieter Cookies erstellen
+* Durchklicken von Videomasken für Videos von Drittanbietern, für die ein zusätzlicher Klick erforderlich ist
 
 ## Seite für Ausschluss konfigurieren
 
-Integrationen, die Livefyre-Apps einbetten, können Livefyre konfigurieren, wenn ein Site-Besucher die Zustimmung über eine einzige javascript-Variable nicht erteilt hat.
+Integrationen, die Livefyre-Apps einbetten, können Livefyre konfigurieren, wenn ein Sitebesucher keine Einwilligung mit einer einzelnen JavaScript-Variablen erteilt hat.
 
-Anweisungen:
+Anleitung:
 
-1. Fügen Sie der `userPrivacyOptOut` Seite vor dem `Livefyre.js` javascript das Flag hinzu:
+1. Fügen Sie der Seite vor dem `userPrivacyOptOut` JavaScript das `Livefyre.js` Flag hinzu:
 
    ```
    window.Livefyre = {userPrivacyOptOut: true};
    ```
 
-1. Fügen `Livefyre.js` Sie jeder beliebigen Seite nach `userPrivacyOptOut`.
+1. Fügen Sie `Livefyre.js` der Seite an einer beliebigen Stelle nach `userPrivacyOptOut`.
 
-   Livefyre-Apps werden mit den erhöhten Datenschutzeinstellungen instanziiert.
+   Livefyre-Apps instanziieren mit den erhöhten Datenschutzeinstellungen.
 
    >[!NOTE]
    >
-   >Ändern Sie nicht den Wert von `userPrivacyOptOut` Livefyre-Apps, die geladen wurden.
+   >Ändern Sie den Wert nicht mehr, wenn `userPrivacyOptOut` Livefyre-Apps geladen wurden.
 
-Stellen Sie sicher, dass Ihr Arbeitsablauf für die Genehmigung den `userPrivacyOptOut` Wert &quot;true&quot; festlegt, wenn sich ein Site-Besucher auswählt.
+Stellen Sie sicher, dass Ihr Arbeitsablauf für die Zustimmung den Wert "true" `userPrivacyOptOut` angibt, wenn sich ein Besucher der Site für die Abmeldung entscheidet.
