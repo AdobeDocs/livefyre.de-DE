@@ -1,10 +1,10 @@
 ---
-description: Laden Sie Bilder in einen Live-Blog, einen Chat, einen Review oder einen Kommentarstream hoch.
-seo-description: Laden Sie Bilder in einen Live-Blog, einen Chat, einen Review oder einen Kommentarstream hoch.
+description: Hochladen von Bildern in einen Live-Blog-, Chat-, Reviews- oder Kommentar-Stream
+seo-description: Hochladen von Bildern in einen Live-Blog-, Chat-, Reviews- oder Kommentar-Stream
 seo-title: Foto-Upload
 solution: Experience Manager
 title: Foto-Upload
-uuid: 1 fc 92 fbe -1 dd 4-43 f 3-a 43 f-cc 9 a 5 ac 3 aea 1
+uuid: 1fc92fbe-1dd4-43f3-a43f-cc9a5ac3aea1
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
@@ -13,13 +13,13 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 # Foto-Upload{#photo-upload}
 
-Laden Sie Bilder in einen Live-Blog, einen Chat, einen Review oder einen Kommentarstream hoch.
+Hochladen von Bildern in einen Live-Blog-, Chat-, Reviews- oder Kommentar-Stream
 
-Fotos können von der mobilen Fotobibliothek, Computerfestplatte oder Social-Network-Konten aus direkt in eine beliebige App hochgeladen werden.
+Fotos können direkt von der mobilen Fotobibliothek, der Computerfestplatte oder den Konten eines sozialen Netzwerks eines Benutzers in eine beliebige App hochgeladen werden.
 
-Mit den Einstellungen für eine Sammlung oder Site können Sie festlegen, ob Benutzer Fotos in eine App hochladen können. Diese Option kann auf Netzwerk-, Site- oder Sammlungsebene aktiviert werden. Inhaber und Moderatoren können immer Fotos in eine beliebige App hochladen.
+Mit den Einstellungen für eine Sammlung oder Site können Sie festlegen, ob Benutzer Fotos in eine App hochladen dürfen. Diese Option kann auf Netzwerk-, Site- oder Sammlungsebene aktiviert werden. Eigentümer und Moderatoren können jederzeit Fotos in eine beliebige App hochladen.
 
-Diese Funktion zum Hochladen von Fotos kann zusammen mit der Einstellung &quot;Premoderation Medien&quot; verwendet werden.
+Diese Funktion zum Hochladen von Fotos kann zusammen mit der Einstellung "Medien vormoderieren"verwendet werden.
 
 Apps, die diese Funktion verwenden:
 
