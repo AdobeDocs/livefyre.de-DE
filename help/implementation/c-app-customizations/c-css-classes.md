@@ -4,7 +4,7 @@ seo-description: Verwenden Sie verfügbare CSS-Klassen, um die Anzeige Ihrer App
 seo-title: CSS-Klassen
 solution: Experience Manager
 title: CSS-Klassen
-uuid: 8714 e 7 e 5-3858-458 f-a 464-de 87 fd 2 f 0 ff 0
+uuid: 8714e7e5-3858-458f-a464-de87fd2f0ff0
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -15,33 +15,33 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Verwenden Sie verfügbare CSS-Klassen, um die Anzeige Ihrer Apps anzupassen.
 
-Verfügbar für Chat, Kommentare, Live-Blog, Reviews und Autoren.
+Verfügbar für Chat, Kommentare, Live-Blog, Reviews und Siegels.
 
-Verwenden Sie CSS, um Ihre Livefyre-Apps für eine umfassendere Integration auf Ihre Seite anzupassen, indem Sie einfach die Standard-CSS mit Ihrem eigenen Stylesheet überschreiben. In diesem Abschnitt werden die verfügbaren CSS-Anpassungen beschrieben.
+Verwenden Sie CSS, um Ihre Livefyre-Apps für eine umfassendere Integration mit Ihrer Seite anzupassen, indem Sie einfach die Standard-App-CSS mit Ihrem eigenen Stylesheet überschreiben. In diesem Abschnitt werden verfügbare CSS-Anpassungen beschrieben.
 
-* [Editor-CSS](#c_css_classes/section_edx_prh_xz)
-* [CSS für Sortieroptionen](#c_css_classes/section_btq_4rh_xz)
+* [Editor CSS](#c_css_classes/section_edx_prh_xz)
+* [CSS der Sortieroptionen](#c_css_classes/section_btq_4rh_xz)
 * [Kommentar-CSS](#c_css_classes/section_mlv_nrh_xz)
 * [CSS für hervorgehobene Kommentare](#c_css_classes/section_m2v_mrh_xz)
-* [Archivierte Kommentare (CSS)](#c_css_classes/section_bs5_lrh_xz)
+* [Archivierte Kommentar-CSS](#c_css_classes/section_bs5_lrh_xz)
 * [Kommentar-Benachrichtigungs-CSS](#c_css_classes/section_dy4_krh_xz)
-* [Storify CSS Classes](../c-app-customizations/c-storify-css-classes.md#c_storify_css_classes)
+* [CSS-Klassen formatieren](../c-app-customizations/c-storify-css-classes.md#c_storify_css_classes)
 
-## Editor-CSS {#section_edx_prh_xz}
+## Editor CSS {#section_edx_prh_xz}
 
-Verwenden Sie diese Klassen, um die Benutzeroberfläche des Beitragseditors zu ändern.
+Verwenden Sie diese Klassen, um die Benutzeroberfläche des Post-Editors zu ändern.
 
-| Klasse | Beschreibung |
+| Class | Beschreibung |
 |---|---|
-| . fyre-comment-count | Der Text, der die Anzahl der Kommentare anzeigt. |
-| . fyre-login-bar | Der Begrenzungsrahmen, der die Anmeldeleiste und die Optionen enthält. |
-| . fyre-live-container | Der Begrenzungsrahmen um die Anzahl der Listening-Listening und deren Avatare. |
-| . fyre@-@ editor | Der Begrenzungsrahmen um die. fyre-login-bar. fyre-live-container und den Textbereich, in dem die Benutzer ihre Kommentare schreiben. |
-| . fyre-stream-sort | Der Begrenzungsrahmen um die Sortieroptionen. |
+| .fyre-comment-count | Der Text mit der Anzahl der Kommentare. |
+| .fyre-login-bar | Der Begrenzungsrahmen, der die Anmeldeleiste und die Optionen enthält. |
+| .fyre-live-container | Der Begrenzungsrahmen um die Anzahl der zuhörenden Personen und ihre Avatare. |
+| .fyre-editor | Der Begrenzungsrahmen um die .fyre-login-bar, den .fyre-live-container und den Textbereich, in dem Benutzer ihre Kommentare schreiben. |
+| .fyre-stream-sort | Der Begrenzungsrahmen um die Sortieroptionen. |
 
-Sie können auch Stile in der App-Konfiguration selbst bearbeiten, einschließlich der Hintergrundfarbe des Editors und der Schriftfarbe, -größe und -familie im Editor.
+Sie können auch die Stile in der App-Konfiguration selbst bearbeiten, einschließlich der Hintergrundfarbe des Editors und der Schriftfarbe, -größe und -familie des Textes, der im Editor angezeigt wird.
 
-Fügen Sie die editorcss hinzu, um den Kommentareditor anzupassen: {}-Objekt zu fyre. conv. load () und fügen Sie den gewünschten Stil ein. So aktualisieren Sie beispielsweise den Editor mit Ihrem benutzerdefinierten CSS:
+To customize the comment editor, add the editorCss:{} object to fyre.conv.load() and include your desired styling. So aktualisieren Sie beispielsweise den Editor mit Ihrer benutzerdefinierten CSS:
 
 ```
 fyre.conv.load(networkConfig, [{ 
@@ -57,15 +57,15 @@ fyre.conv.load(networkConfig, [{
 }]);
 ```
 
-## CSS für Sortieroptionen {#section_btq_4rh_xz}
+## CSS der Sortieroptionen {#section_btq_4rh_xz}
 
-| Klasse | Beschreibung |
+| Class | Beschreibung |
 |---|---|
-| . fyre-stream-sort | Die gesamte Sortieroption div. |
-| . fyre-stream-sort-neueste | Die Option &quot;Neuestes&quot; . |
-| . fyrestream stream-sort-älteste | Die Option &quot;Älteste&quot; . |
-| . fyre-stream-sort-bar | Die Trennzeichenleiste zwischen den Optionen. |
-| . fyre-stream-sort-selected | Die derzeit ausgewählte Sortieroption. |
+| .fyre-stream-sort | Die gesamten Sortieroptionen div. |
+| .fyre-stream-sort-neueste | Die Option "Neueste". |
+| .fyre-stream-sort-oldest | Die Option "Älteste". |
+| .fyre-stream-sort-bar | Die Trennleiste zwischen den Optionen. |
+| .fyre-stream-sort-selected | Die derzeit ausgewählte Sortieroption. |
 
 HTML-Struktur:
 
@@ -77,7 +77,7 @@ HTML-Struktur:
 </div>
 ```
 
-Blenden Sie die|&quot; Trennen der Sortierungsoptionen.
+Blenden Sie das "|"aus, indem Sie die Sortieroptionen trennen.
 
 ```
 .fyre-stream-sort .fyre-stream-sort-bar { 
@@ -87,67 +87,67 @@ Blenden Sie die|&quot; Trennen der Sortierungsoptionen.
 
 ## Kommentar-CSS {#section_mlv_nrh_xz}
 
-| Klasse | Beschreibung |
+| Class | Beschreibung |
 |---|---|
-| . fyre-comment-author-tag- *`custom tag name`* | Livefyre erstellt in diesem Format für jedes über Livefyre Studio, [Profil-Synchronisierung hinzugefügte Benutzertag eine CSS-Klasse](/help/implementation/t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/t-sync-with-livefyre-using-ping-for-pull.md). Diese Klasse kann verwendet werden, um den Hintergrund für alle Inhalte zu gestalten, die von Benutzerkonten gepostet werden, einschließlich dieses Tags. |
-| . fyre-tag-content-icon- *`tag name`* | Livefyre erstellt in diesem Format für jedes über Livefyre [Studio hinzugefügte Content-Tag eine CSS-Klasse](/help/implementation/c-app-customizations/c-adding-users-to-groups.md). Diese Klasse kann verwendet werden, um alle Inhalte zu formatieren, denen Sie das Tag hinzugefügt haben. |
-| . fyre-comment-user | Der Begrenzungsrahmen, der das Benutzerprofilbild enthält. |
-| . fyre-comment-username | Der Benutzername. |
-| . fyre@-@ moderator | Der Begrenzungsrahmen des Moderators. |
-| . fyre-comment | Begrenzungsrahmen um den Kommentartext/Link herum. |
-| . fyre-comment-article | Der Begrenzungsrahmen für den gesamten Kommentar-Inhalt. |
-| . fyre-comment-date | Das Tag, das mit dem Element &quot;Zeit seit Veröffentlichung&quot; verknüpft ist. |
-| . fyre-comment-media | Der Begrenzungsrahmen um den Medieninhalt. |
-| . fyre-comment-actions | Der Begrenzungsrahmen um die verfügbaren Aktionen, um einen Kommentar zu übernehmen. |
-| . fyre-comment-like | Der Begrenzungsrahmen um den &quot;Gefällt mir&quot; -Hyperlink. |
-| . fyre-comment-reply | Der Begrenzungsrahmen um den Link &quot;Antwort&quot; . |
+| .fyre-comment-author-tag- *`custom tag name`* | Livefyre erstellt eine CSS-Klasse in diesem Format für jedes Benutzer-Tag, das über Livefyre Studio, [Profilsynchronisierung](/help/implementation/t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/t-sync-with-livefyre-using-ping-for-pull.md), hinzugefügt wird. Diese Klasse kann verwendet werden, um den Hintergrund für alle von Benutzerkonten veröffentlichten Inhalte einschließlich dieses Tags zu gestalten. |
+| .fyre-tag-content-icon- *`tag name`* | Livefyre erstellt für jedes mit Livefyre [Studio](/help/implementation/c-app-customizations/c-adding-users-to-groups.md)hinzugefügte Content-Tag eine CSS-Klasse in diesem Format. Diese Klasse kann verwendet werden, um alle Inhalte zu gestalten, denen Sie das Tag hinzugefügt haben. |
+| .fyre-comment-user | Der Begrenzungsrahmen, der das Benutzerprofilbild enthält. |
+| .fyre-comment-username | Der Benutzername. |
+| .fyre-Moderator | Der Begrenzungsrahmen des Moderators. |
+| .fyre-comment | Begrenzungsrahmen um den Kommentartext/Link. |
+| .fyre-comment-article | Der Begrenzungsrahmen für den gesamten Kommentarinhalt. |
+| .fyre-comment-date | Das Tag, das an das Element "time since published"angehängt ist. |
+| .fyre-comment-media | Der Begrenzungsrahmen um den Medieninhalt. |
+| .fyre-comment-actions | Der Begrenzungsrahmen um die verfügbaren Aktionen, die für einen Kommentar ausgeführt werden sollen. |
+| .fyre-comment-like | Der Begrenzungsrahmen um den Link "Gefällt mir". |
+| .fyre-comment-response | Der Begrenzungsrahmen um den Link "Antworten". |
 
 ## CSS für hervorgehobene Kommentare {#section_m2v_mrh_xz}
 
 >[!NOTE]
 >
->Alle CSS-Kommentarklassen können auch auf speziellen Inhalt angewendet werden.
+>Alle CSS-Klassen für Kommentare können auch auf spezielle Inhalte angewendet werden.
 
-| Klasse | Beschreibung |
+| Class | Beschreibung |
 |---|---|
-| . fyre-featworth-content-wrapper | Der Container-div für den Leser. |
-| . fyre-featworth-header | Die führende Titelleiste. |
-| . fyre-featworth-header-icon | Das Quellsymbol des Headers. |
-| . fyre-featlo@-@ title | Der Kopfzeilentext. |
-| . fyre-featlo@-@ body | Der Container-div für speziellen Inhalt im Leser. |
-| . fyre-featsonder@-@ bid | Das Anführungszeichen, das jedes Inhaltselement beginnt. |
+| .fyre-special-content-wrapper | Das Container-div für den Reader. |
+| .fyre-featured-header | Die führende Titelleiste. |
+| .fyre-featured-header-icon | Das Quill-Symbol der Kopfzeile. |
+| .fyre-featured-title | Der Kopfzeilentext. |
+| .fyre-special-body | Das Container-div für speziellen Inhalt im Reader. |
+| .fyre-featured-quote | Das Anführungszeichen, das jedes Inhaltselement beginnt. |
 
-## Archivierte Kommentare (CSS) {#section_bs5_lrh_xz}
+## Archivierte Kommentar-CSS {#section_bs5_lrh_xz}
 
 >[!NOTE]
 >
->Alle CSS-Klassen des Inhalts können auch auf archivierte Inhalte angewendet werden.
+>Alle CSS-Klassen für Inhalte können auch auf archivierte Inhalte angewendet werden.
 
-| Klasse | Beschreibung |
+| Class | Beschreibung |
 |---|---|
-| . fyre-archive-stream-title | Der Text &quot;Aus dem Archiv&quot; . |
-| . fyre@-@ archive-stream-title-icon | Das Logo für den Header &quot;Archivieren&quot; . |
+| .fyre-archive-stream-title | Der Text "Aus dem Archiv". |
+| .fyre-archive-stream-title-icon | Das Logo für die Kopfzeile "From the Archive". |
 
 ## Kommentar-Benachrichtigungs-CSS {#section_dy4_krh_xz}
 
 Mit diesen Klassen können Sie den Livefyre-Kommentar-Notifier anpassen.
 
-| Klasse | Beschreibung |
+| Class | Beschreibung |
 |---|---|
-| . fyre-notification | div für das Listenelement (sowohl neu als auch archivieren). |
-| . fyre-notifier | Der Wrapper für den Inhalt des Notifier. |
-| . fyre-notifier-archive | Der Wrapper für alle neuen Inhalte als der letzte Beitrag. |
-| . fyre-notifier-avatar | Das Bild für den Avatar. |
-| . fyre-notifier-avatar-container | Der Container-div für den Benutzeravatar. Hiermit können Sie Positionierung definieren. |
-| . fyre-notifier-avatar-shading | Die Schattierung für Avatar div. |
-| . fyre-notifier-banner | Der Container für die Inhaltsvorschau des angemeldeten Inhalts, der den Benutzeravatar und einen Inhaltsausschnitt für das zuletzt gepostete Element anzeigt. |
-| . fyre-notifier-base | Der Container für den Informationsteil des Notifier, der die Anzahl der neuen Kommentare, der Benachrichtigungsbeschriftung und der Schließen-Schaltfläche auflistet. |
-| . fyre-notifier-base-close | Der Container-div für die Schließen-Schaltfläche (x) für den Notifier. |
-| . fyre-notifier-base-shadow | Die Schattierung für die Basis-Basis. |
-| . fyre-notifier-caption | Der für den Benachrichtigungsgrad angezeigte Text. Standardmäßig neue Kommentare (s). |
-| . fyre-notifier-close | Eine Schaltfläche, die den Benachrichtigungsvorgang schließt. |
-| . fyre-notifier-container | Der Container für den Notifier, enthält sowohl das Banner als auch die Basis. |
-| . fyre-notifier-counter | Der Behälter für die im Benachrichtigungsfeld aufgeführte Zahl. |
-| . fyre-notifier-list | Der Container für die neueste Inhaltskomponente. |
-| . fyre-notifier-message | Die ersten ~ 30 Zeichen des angezeigten Inhalts. |
-| . fyre-notifier-message-container | Der Container-div für die Kopfzeilenmeldung. |
+| .fyre-Benachrichtigung | Das div für das Listenelement (neue und archivierte Inhalte). |
+| .fyre-notifier | Der Wrapper für den Inhalt des Notifizierers. |
+| .fyre-notification-archive | Der Wrapper für alle neuen Inhalte außer dem letzten Beitrag. |
+| .fyre-notification-avatar | Das Bild für den Avatar. |
+| .fyre-notification-avatar-container | Das Container-div für den Benutzer-Avatar. Ermöglicht die Definition der Positionierung. |
+| .fyre-notification-avatar-shading | Die Schattierung für den Avatar Div. |
+| .fyre-notification-banner | Der Container für den Vorschauinhalt des Benachrichtigers, in dem der Benutzeravatar und ein Inhaltsausschnitt für das zuletzt veröffentlichte Element angezeigt werden. |
+| .fyre-notification-base | Der Container für den Informationsteil des Notifizierers, in dem die Anzahl der neuen Kommentare, die Beschriftung des Notifizierers und die Schaltfläche zum Schließen aufgeführt sind. |
+| .fyre-notification-base-close | Das Container-div für die Schließen-Schaltfläche (x) für den Notifizierer. |
+| .fyre-notification-base-shadow | Die Schattierung für die Benachrichtigungsbasis. |
+| .fyre-notification-caption | Der für den Notifizierer angezeigte Text. "Neue Kommentare"standardmäßig. |
+| .fyre-notification-close | Eine Schaltfläche, die den Notifizierer schließt. |
+| .fyre-notification-container | Der Container für den Notifizierer enthält sowohl das Banner als auch die Basis. |
+| .fyre-notification-Zähler | Der Container für die im Notifier angegebene Zahl. |
+| .fyre-notification-list | Der Container für das neueste Inhaltselement. |
+| .fyre-notification-message | Die ersten ca. 30 Zeichen des Inhalts werden angezeigt. |
+| .fyre-notification-message-container | Das Container-div für die Header-Meldung. |
