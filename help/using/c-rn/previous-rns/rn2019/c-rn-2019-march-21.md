@@ -1,26 +1,26 @@
 ---
-description: Versionshinweise für die Version vom 21. März 2019 in Livefyre.
-seo-description: Versionshinweise für die Version vom 21. März 2019 in Livefyre.
+description: Versionshinweise für die Livefyre-Version vom 21. März 2019.
+seo-description: Versionshinweise für die Livefyre-Version vom 21. März 2019.
 seo-title: Versionshinweise
 solution: Experience Manager
-title: Livefyre-Versionshinweise für den 21. März 2019
+title: Livefyre-Versionshinweise vom 21. März 2019
 translation-type: tm+mt
 source-git-commit: 8dfd0ba4f1c0097f7e42818fa5c1ca81f3a77394
 
 ---
 
 
-# Versionshinweise für das Update vom 21. März 2019
+# Versionshinweise für die Aktualisierung vom 21. März 2019
 
 >[!NOTE]
 >
->Livefyre deaktiviert den HTTP (Anschluss 80) in unserer Produktionsumgebung am Donnerstag 23. Mai. Dadurch werden die Sicherheits-Updates unter Einhaltung von Adobe Security Standards durchgeführt. Please contact [prioritysupport@livefyre.com](mailto:prioritysupport@livefyre.com) if you experience any issues with your integration.
+>Livefyre wird am Donnerstag, den 23. Mai, in unserer Produktionsumgebung HTTP (Port 80) deaktivieren.  Dadurch werden die Sicherheitsaktualisierungen gemäß den Sicherheitsstandards von Adobe abgeschlossen.  Wenden Sie sich an [prioritysupport@livefyre.com](mailto:prioritysupport@livefyre.com) , wenn Probleme mit Ihrer Integration auftreten.
 
 ## Verbesserungen
 
-* Die Aktivierung der Aktionsaufruf-Schaltfläche wurde standardmäßig implementiert.
+* Die Schaltfläche Aktionsaufruf wurde standardmäßig aktiviert.
 
 
 ## Fehlerkorrekturen
 
-* Es wurde ein Problem behoben, durch das &quot;Nicht definiert&quot; Instagram-Beiträge in modq nicht entfernt werden konnten.
+* Es wurde ein Problem behoben, bei dem "Nicht definierte"Instagram-Beiträge in ModQ nicht entfernt werden konnten.
