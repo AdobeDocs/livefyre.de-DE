@@ -1,10 +1,10 @@
 ---
-description: Bibliotheken für Livefyre-serverseitige Aufgaben installieren
-seo-description: Bibliotheken für Livefyre-serverseitige Aufgaben installieren
+description: Bibliotheken für serverseitige Aufgaben von Livefyre installieren
+seo-description: Bibliotheken für serverseitige Aufgaben von Livefyre installieren
 seo-title: Installation
 solution: Experience Manager
 title: Installation
-uuid: f 60 b 4 cc 7-178 f -4 a 16-ba 75-f 1 d 0 d 171 c 52 f
+uuid: f60b4cc7-178f-4a16-ba75-f1d0d171c52f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -14,9 +14,9 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 # Installation{#installation}
 
 
-## Java {#section_yd3_3zk_rz}
+## Java {#section_yd3_3zk_rz}
 
-Um die Java-Bibliothek zu installieren, fügen Sie diese Abhängigkeit dem Projektpom hinzu:
+Um die Java-Bibliothek zu installieren, fügen Sie dem POM Ihres Projekts diese Abhängigkeit hinzu:
 
 ```
 <dependency> 
@@ -26,7 +26,7 @@ Um die Java-Bibliothek zu installieren, fügen Sie diese Abhängigkeit dem Proje
 </dependency>
 ```
 
-Die Java-Bibliothek hat Abhängigkeiten zu den folgenden Modulen:
+Die Java-Bibliothek ist von den folgenden Modulen abhängig:
 
 ```
 <dependency> 
@@ -56,15 +56,15 @@ Die Java-Bibliothek hat Abhängigkeiten zu den folgenden Modulen:
 </dependency> 
 ```
 
-Weitere Informationen finden Sie unter Java-Dokumente oder die Quelle auf [github](https://github.com/Livefyre/livefyre-java-utils).
+Weitere Informationen finden Sie in den Java-Dokumenten oder in der Quelle auf [GitHub](https://github.com/Livefyre/livefyre-java-utils).
 
-## Nodejs {#section_swj_pwq_rz}
+## NodeJS {#section_swj_pwq_rz}
 
-Führen Sie folgende Zeile aus, um die nodejs-Bibliothek zu installieren:
+Führen Sie folgende Zeile aus, um die NodeJS-Bibliothek zu installieren:
 
 `$ npm install livefyre`
 
-Die nodejs-Bibliothek hat Abhängigkeiten zu den folgenden Modulen:
+Die NodeJS-Bibliothek ist von den folgenden Modulen abhängig:
 
 ```
 "restler":">=3.2.0", 
@@ -72,13 +72,13 @@ Die nodejs-Bibliothek hat Abhängigkeiten zu den folgenden Modulen:
 "jsonwebtoken": ">=5.0.0" 
 ```
 
-Weitere Informationen finden Sie unter nodejs-Dokumente oder die Quelle auf [github](https://github.com/Livefyre/livefyre-nodejs-utils).
+Weitere Informationen finden Sie im Dokument NodeJs oder in der Quelle auf [GitHub](https://github.com/Livefyre/livefyre-nodejs-utils).
 
 Links: [Restler](https://github.com/danwrong/restler), [Validator](https://www.npmjs.org/package/validator), [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken).
 
 ## PHP {#section_txj_xwq_rz}
 
-Um die PHP-Bibliothek mit Composer zu installieren, fügen Sie dies Ihrem Composer. json hinzu:
+Um die PHP-Bibliothek mit Composer zu installieren, fügen Sie Ihrer composer.json Folgendes hinzu:
 
 ```
 "require": { 
@@ -86,25 +86,25 @@ Um die PHP-Bibliothek mit Composer zu installieren, fügen Sie dies Ihrem Compos
 }
 ```
 
-Installieren Sie anschließend mit:
+Installieren Sie anschließend mithilfe von:
 
 ```
 composer.phar install 
 ```
 
-Wenn Sie den Composer **nicht** verwenden, rufen Sie die neueste Version der Bibliothek auf:
+Wenn Sie Composer **nicht** verwenden, können Sie die neueste Version der Bibliothek wie folgt abrufen:
 
 ```
 git clone https://github.com/Livefyre/livefyre-php-utils 
 ```
 
-Um die Bibliothek zu verwenden, fügen Sie Ihrem PHP-Skript Folgendes hinzu:
+Um die Bibliothek zu verwenden, fügen Sie dem PHP-Skript Folgendes hinzu:
 
 ```
 require_once("/path/to/livefyre-php-utils/src/Livefyre.php"); 
 ```
 
-Die PHP-Bibliothek hat Abhängigkeiten zu den folgenden Modulen:
+Die PHP-Bibliothek ist von den folgenden Modulen abhängig:
 
 ```
 "ext-json": "*", 
@@ -112,17 +112,17 @@ Die PHP-Bibliothek hat Abhängigkeiten zu den folgenden Modulen:
 "firebase/php-jwt": ">=2.0" 
 ```
 
-Weitere Informationen finden Sie in den PHP-Dokumenten oder in der Quelle auf [github](https://github.com/Livefyre/livefyre-php-utils).
+For more information, read the PHP docs or see the source on [GitHub](https://github.com/Livefyre/livefyre-php-utils).
 
 Links: [ext-json](https://php.net/manual/en/book.json.php), [Requests](https://github.com/rmccue/Requests/), [PHP-JWT](https://github.com/firebase/php-jwt/tree/v2.0.0)
 
 ## Python {#section_irk_fxq_rz}
 
-Führen Sie folgende Zeile aus, um die Python-Bibliothek zu installieren:
+Um die Python-Bibliothek zu installieren, führen Sie folgende Zeile aus:
 
 `$ pip install livefyre`
 
-Die Python-Bibliothek hat die folgenden Abhängigkeiten:
+Die Python-Bibliothek ist von den folgenden Modulen abhängig:
 
 ```
 PyJWT >= 1.0.1  
@@ -132,23 +132,23 @@ enum34 == 1.0
 ordereddict == 1.1 if sys.version_info[:2] < 2.7 
 ```
 
-Weitere Informationen finden Sie unter Python-Dokumente oder die Quelle auf [github](https://github.com/Livefyre/livefyre-python-utils).
+Weitere Informationen finden Sie in den Python-Dokumenten oder in der Quelle auf [GitHub](https://github.com/Livefyre/livefyre-python-utils).
 
-Links: [Pyjwt](https://github.com/progrium/pyjwt), [Requests](https://github.com/kennethreitz/requests), [Python-Dateutil](https://pypi.python.org/pypi/python-dateutil), [Enum 34](https://pypi.python.org/pypi/enum34), [ordereddict](https://pypi.python.org/pypi/ordereddict)
+Links: [PyJWT](https://github.com/progrium/pyjwt), [Requests](https://github.com/kennethreitz/requests), [Python-Dateutil](https://pypi.python.org/pypi/python-dateutil), [Enum34](https://pypi.python.org/pypi/enum34), [OrderedDict](https://pypi.python.org/pypi/ordereddict)
 
 ## Ruby {#section_fv2_tzq_rz}
 
-Um die Ruby-Bibliothek zu installieren, fügen Sie diese Zeile Ihrer Anwendung hinzu:
+Um die Ruby-Bibliothek zu installieren, fügen Sie die folgende Zeile zur Gemfile Ihrer Anwendung hinzu:
 
 ```
 gem 'livefyre' 
 ```
 
-Oder Sie selbst installieren:
+Oder installieren Sie es selbst:
 
 `$ gem install livefyre`
 
-Die Ruby-Bibliothek hat Abhängigkeiten zu den folgenden Modulen:
+Die Ruby-Bibliothek ist von den folgenden Modulen abhängig:
 
 ```
 "jwt", '~> 1.4', ">= 1.4.1"  
@@ -156,6 +156,6 @@ Die Ruby-Bibliothek hat Abhängigkeiten zu den folgenden Modulen:
 "addressable", '~> 2.3', ">= 2.3.6" 
 ```
 
-Weitere Informationen finden Sie unter Ruby-Dokumente oder die Quelle auf [github](https://github.com/Livefyre/livefyre-ruby-utils).
+Weitere Informationen finden Sie in den Ruby-Dokumenten oder in der Quelle auf [GitHub](https://github.com/Livefyre/livefyre-ruby-utils).
 
 Links: [Ruby JWT](https://github.com/firebase/php-jwt/tree/v2.0.0), [REST Client](https://github.com/rest-client/rest-client/), [Addressable](https://github.com/sporkmonger/addressable)
