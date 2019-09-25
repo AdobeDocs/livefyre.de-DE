@@ -1,10 +1,10 @@
 ---
-description: Erfassen, organisieren und verwalten Sie ausgewählte Inhalte zur Verwendung in Ihren Livefyre-Apps.
-seo-description: Erfassen, organisieren und verwalten Sie ausgewählte Inhalte zur Verwendung in Ihren Livefyre-Apps.
+description: Sie können ausgewählte Inhalte für Ihre Livefyre-Apps zusammenstellen, organisieren und verwalten.
+seo-description: Sie können ausgewählte Inhalte für Ihre Livefyre-Apps zusammenstellen, organisieren und verwalten.
 seo-title: Assets
 solution: Experience Manager
 title: Assets
-uuid: 21 ab 781 a -3 a 5-4725-b 77 d -92 decc 2 d 2 e 1 f
+uuid: 21ab781a-3a05-4725-b77d-92decc2d2e1f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,12 +13,12 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Assets{#assets}
 
-Erfassen, organisieren und verwalten Sie ausgewählte Inhalte zur Verwendung in Ihren Livefyre-Apps.
+Sie können ausgewählte Inhalte für Ihre Livefyre-Apps zusammenstellen, organisieren und verwalten.
 
-Assets sind Inhalt, der in Ihrer Bibliothek gespeichert wurde. Assets sind durchsuchbar und wiederverwendbar und können hinzugefügte Informationen einschließlich Tags und Verwendungsrechte enthalten.
+Assets sind Inhalte, die in Ihrer Bibliothek gespeichert wurden. Assets sind durchsuchbar und wiederverwendbar und können zusätzliche Informationen, einschließlich Tags und Wiederverwendungsberechtigungen, enthalten.
 
-Mit der Bibliothek können Sie ausgewählte Inhalte als Assets für die Verwendung in allen Livefyre-Apps organisieren und verwalten.
+Mit der Bibliothek können Sie ausgewählte Inhalte als Assets organisieren und verwalten, um sie in allen Livefyre-Apps zu verwenden.
 
-In der Bibliothek können Sie außerdem die Rechte zum erneuten Verwenden von erfassten sozialen Inhalten anfordern, Tags hinzufügen, um die mit Assets gespeicherten Informationen zu erweitern und diese Elemente in Ordnern zu organisieren, sodass sie in Anwendungen veröffentlicht werden können.
+Mit der Bibliothek können Sie außerdem die Rechte zur Wiederverwendung erfasster sozialer Inhalte anfordern, Tags hinzufügen, um die mit Assets gespeicherten Informationen zu erweitern, und diese Elemente in Ordnern organisieren, die für die Veröffentlichung in Anwendungen bereit sind.
 
-Die Bibliothek bietet eine Ordnerstrukturansicht aller Assets, mit der Sie Ihre Assets suchen und organisieren können.
+Die Bibliothek bietet eine Ordnerstrukturansicht für "Alle Assets", in der Sie Ihre Assets suchen und organisieren können.
