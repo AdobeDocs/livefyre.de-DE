@@ -1,10 +1,10 @@
 ---
-description: Aktivieren Sie Chat in Echtzeit auf Ihren Sites.
-seo-description: Aktivieren Sie Chat in Echtzeit auf Ihren Sites.
+description: Aktivieren Sie Echtzeit-Chat auf Ihren Sites.
+seo-description: Aktivieren Sie Echtzeit-Chat auf Ihren Sites.
 seo-title: Chat
 solution: Experience Manager
 title: Chat
-uuid: 1 da 65 e 9 a -736 c -46 d 3-87 e 1-371 b 77 f 94661
+uuid: 1da65e9a-736c-46d3-87e1-371b77f94661
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,11 +13,11 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Chat{#chat}
 
-Aktivieren Sie Chat in Echtzeit auf Ihren Sites.
+Aktivieren Sie Echtzeit-Chat auf Ihren Sites.
 
-Mit Chat können Zielgruppen in Echtzeit um Live-Ereignisse, Mitteilungen oder Ankündigungen interagieren. Inhalte werden als kontinuierlicher Stream von unverkettetem Chat angezeigt, um eine schnelle Interaktion und eine intensive Aktivität auf der Seite zu ermöglichen.
+Mit dem Chat können Zielgruppen in Echtzeit über Live-Veranstaltungen, Ankündigungen oder Shows sprechen. Inhalte werden als kontinuierlicher Stream von nicht-Thread-Chats angezeigt, um eine schnelle Interaktion und Aktivitätsbelebung auf der Seite zu ermöglichen.
 
-Fox News verwendet Chat zur Erfassung der Zielgruppenmeinung und Spiegelung um die Wahl von Papentbergoglio. Wenn Sie wissen, dass es einen starken und aktiven Beitrag gibt, hat Fox News innerhalb von Minuten nach der Ankündigung einen Chat gestartet, um eine sofortige Unterhaltung zu erstellen.
+Fox News nutzte den Chat, um die Meinung und Reflexion des Publikums über die Wahl von Papst Bergoglio zu erfassen. Da Fox News weiß, dass es eine Welle relevanter und aktiver Teilnahme geben würde, hat sie innerhalb von Minuten nach der Ankündigung einen Chat gestartet, um eine sofortige Unterhaltung zu schaffen.
 
 ![](assets/chat_example.png)
 
