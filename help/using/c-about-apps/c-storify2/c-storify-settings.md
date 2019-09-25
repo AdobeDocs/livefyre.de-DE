@@ -1,23 +1,23 @@
 ---
-description: Passen Sie Einstellungen für Storify 2-Meldungen an, z. B. Tags, Moderation und zulässige Inhalte.
-seo-description: Passen Sie Einstellungen für Storify 2-Meldungen an, z. B. Tags, Moderation und zulässige Inhalte.
-seo-title: Einstellungen storify
+description: Passen Sie die Einstellungen für Storify 2-Textabschnitte wie Tags, Moderation und zulässige Inhalte an.
+seo-description: Passen Sie die Einstellungen für Storify 2-Textabschnitte wie Tags, Moderation und zulässige Inhalte an.
+seo-title: Einstellungen formatieren
 solution: Experience Manager
-title: Einstellungen storify
-uuid: 030936 fb -7 c 8 b -487 e-b 468-7128 b 641 c 8 ed
+title: Einstellungen formatieren
+uuid: 030936fb-7c8b-487e-b468-7128b641c8ed
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Einstellungen storify{#storify-settings}
+# Einstellungen formatieren{#storify-settings}
 
-Passen Sie Einstellungen für Storify 2-Meldungen an, z. B. Tags, Moderation und zulässige Inhalte.
+Passen Sie die Einstellungen für Storify 2-Textabschnitte wie Tags, Moderation und zulässige Inhalte an.
 
 >[!NOTE]
 >
->Die meisten Einstellungen, die für die Storify 2-Apps-Steuerungsoptionen aufgelistet sind, sind bei aktivierten Gruppen verfügbar.
+>Die meisten Einstellungen für die Steuerungsoptionen für "Storify 2 Apps"für "Sidebar"werden angezeigt, sofern aktiviert.
 
 * **[!UICONTROL Tags]**
 
@@ -25,33 +25,33 @@ Passen Sie Einstellungen für Storify 2-Meldungen an, z. B. Tags, Moderation und
 
 * **[!UICONTROL Allow New Content]**
 
-   Zulassen, dass neue Autoren Ihrer Story hinzugefügt werden.
+   Zulassen, dass der Meldung neue Simit hinzugefügt werden.
 
 * **[!UICONTROL Article URL]**
 
-   Die für socialsync und Permalinks zu verwendende URL.
+   Die für SocialSync und Permalinks zu verwendende URL.
 
 * **[!UICONTROL Premoderate Content]**
 
-   Genehmigung von Moderatoren erforderlich, bevor die Zielgruppen veröffentlicht werden.
+   Moderatorengenehmigung erforderlich, bevor Sidebar veröffentlicht wird.
 
 * **[!UICONTROL Display Media]**
 
-   Anzeige anklickbarer Miniaturansichten für Fotos und Videos.
+   Zeigt anklickbare Miniaturansichten für Fotos und Videos an.
 
 * **[!UICONTROL Premoderate Media]**
 
-   Erfordert Genehmigung von Moderatoren, bevor der Medieninhalt von &quot;Sidenotes&quot; veröffentlicht wird.
+   Genehmigung durch den Moderator erforderlich, bevor der Inhalt von Siegels Medien veröffentlicht wird.
 
 * **[!UICONTROL Queue New Content]**
 
-   Deaktivieren Sie Live-Streaming und warteschlange neue Inhalte und Antworten.
+   Deaktivieren Sie Live-Streaming und Warteschlangen für neue Inhalte und Antworten.
 
 * **[!UICONTROL Throttle Content]**
 
-   Verringern Sie intelligent die Anzahl der im hohen Volumen angezeigten Posts in Autoren.
+   Reduzieren Sie die Anzahl der unter hohem Volumen angezeigten Siegels intelligent.
 
 * **[!UICONTROL Allow Bulk Content]**
 
-   Erlauben Sie mehrere Beiträge, die übereinstimmende Text enthalten.
+   Mehrere Beiträge zulassen, die passenden Text enthalten.
 
