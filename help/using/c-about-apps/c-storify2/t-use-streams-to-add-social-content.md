@@ -1,39 +1,39 @@
 ---
-description: Verweisen Sie auf einen Stream auf eine Storify 2-Geschichte.
-seo-description: Verweisen Sie auf einen Stream auf eine Storify 2-Geschichte.
-seo-title: Verwenden von Streams zum Hinzufügen von Social-Inhalten zu Ihrer Story
+description: Zeige einen Stream auf eine Storify 2-Geschichte.
+seo-description: Zeige einen Stream auf eine Storify 2-Geschichte.
+seo-title: Verwenden Sie Streams, um Ihrer Geschichte Social-Inhalte hinzuzufügen
 solution: Experience Manager
-title: Verwenden von Streams zum Hinzufügen von Social-Inhalten zu Ihrer Story
-uuid: 4999 c 880-a 896-4 ad 2-bf 8 f -3 fd 9736 a 64 d 6
+title: Verwenden Sie Streams, um Ihrer Geschichte Social-Inhalte hinzuzufügen
+uuid: 4999c880-a896-4ad2-bf8f-3fd9736a64d6
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Verwenden von Streams zum Hinzufügen von Social-Inhalten zu Ihrer Story{#use-streams-to-add-social-content-to-your-story}
+# Verwenden Sie Streams, um Ihrer Geschichte Social-Inhalte hinzuzufügen{#use-streams-to-add-social-content-to-your-story}
 
-Verweisen Sie auf einen Stream auf eine Storify 2-Geschichte.
+Zeige einen Stream auf eine Storify 2-Geschichte.
 
 >[!NOTE]
 >
->Sie können die Streams, die von der Storify 2 App verwendet werden, nicht bearbeiten.
+>Sie können die Streams, die ein Artikel verwendet, nicht in der Storify 2-App bearbeiten.
 
-Wenn die SICHEREN Regeln in den Netzwerkeinstellungen aktiviert sind, werden gestreamte Inhalte über SAFE gefiltert. Nicht sichere Inhalte werden auf der Registerkarte &quot;Streams&quot; nicht angezeigt.
+Wenn SAFE-Regeln in den Netzwerkeinstellungen aktiviert sind, werden Streaminhalte durch SAFE gefiltert. Unsichere Inhalte können nicht auf der Registerkarte "Streams"angezeigt werden.
 
-Gehen Sie zum Abschnitt Streams der Livefyre-Interaktionscloud, um einen Stream zu bearbeiten oder zu deaktivieren. Weitere Informationen zum Bearbeiten, Löschen und Deaktivieren von Streams finden Sie unter Verwalten von Streams.
+Um einen Stream zu bearbeiten oder zu deaktivieren, wechseln Sie zum Abschnitt "Streams"der Livefyre-InteraktionsCloud. Weitere Informationen zum Bearbeiten, Löschen und Deaktivieren von Streams finden Sie unter Verwalten von Streams.
 
-Verwenden Sie einen Stream in einer Story, um:
+Verwenden Sie einen Stream in einer Geschichte, um:
 
-* Bereiten Sie Streams im Voraus vor und greifen Sie schnell auf ihren Inhalt zu, während Sie Ihre Story entwerfen.
-* Zeigen Sie rechts im Inhaltsbereich einen Echtzeitfeed von Social Media-Inhalten an.
-* Wählen Sie manuell Inhaltselemente aus dem Stream aus und ziehen Sie sie, wo sie in Ihrer Geschichte sinnvoll sind.
-* Legen Sie fest, wann Beiträge mit gestreamtem Inhalt veröffentlicht werden sollen, wenn die Meldung &quot;Meldung&quot; lautet.
+* Bereiten Sie Streams im Voraus vor und greifen Sie beim Erstellen Ihrer Story schnell auf deren Inhalt zu.
+* Zeigen Sie einen Echtzeit-Feed mit Social-Media-Inhalten direkt im Inhaltsbereich an.
+* Wählen Sie Inhaltselemente manuell aus dem Stream aus und ziehen Sie sie per Drag &amp; Drop an die gewünschte Stelle in Ihrer Geschichte.
+* Legen Sie fest, wann Beiträge mit gestreuten Inhalten veröffentlicht werden sollen, während sich die Textabschnitte entfalten.
 
-Bevor Sie Ihrer Story mit Streams Social-Inhalte hinzufügen, müssen Sie einen Stream erstellen. So verweisen Sie auf einen Stream auf eine Meldung
+Bevor Sie Streams verwenden, um Ihrer Story soziale Inhalte hinzuzufügen, müssen Sie einen Stream erstellen. So zeigen Sie einen Stream auf eine Geschichte an:
 
 1. Erstellen Sie einen Stream.
-1. Wenden Sie den Stream auf eine neue oder vorhandene Storify 2 App an.
-1. Zeigen Sie die von einer Story verwendeten Streams an, indem Sie auf das Streams-Symbol im Bearbeitungsbereich klicken.
-1. Klicken Sie auf Elemente aus der Stream-Registerkarte und ziehen Sie sie, um sie Ihrer Story hinzuzufügen.
-1. Bearbeiten Sie den Inhalt, den Sie aus Streams einfügen, so, dass Sie andere Inhalte in Ihrer Story bearbeiten.
+1. Wenden Sie den Stream auf eine neue oder vorhandene Storify 2-App an.
+1. Zeigen Sie die Streams an, die von einer Story verwendet werden, indem Sie im Bearbeitungsbereich auf das Streams-Symbol klicken.
+1. Klicken Sie auf die Registerkarte "Stream"und ziehen Sie Elemente, um sie Ihrer Geschichte hinzuzufügen.
+1. Bearbeiten Sie den Inhalt, den Sie aus Streams einfügen, auf dieselbe Weise wie andere Inhalte in Ihrer Geschichte.
