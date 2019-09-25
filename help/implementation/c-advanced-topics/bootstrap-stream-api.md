@@ -1,52 +1,52 @@
 ---
-description: Verwenden Sie Bootstrap und Stream-API mit Livefyre-Apps.
-seo-description: Verwenden Sie Bootstrap und Stream-API mit Livefyre-Apps.
-seo-title: Bootstrap und Stream-API mit Livefyre-Apps verwenden
+description: Verwenden Sie Bootstrap- und Stream-API mit Livefyre-Apps.
+seo-description: Verwenden Sie Bootstrap- und Stream-API mit Livefyre-Apps.
+seo-title: Bootstrap- und Stream-API mit Livefyre-Apps verwenden
 solution: Experience Manager
-title: Ansicht von Kontodetails
-uuid: bace 558 f-ade 8-49 d 6-abda -9 ee 754 ce 4 ac 0
+title: Ansicht der Kontodetails
+uuid: bace558f-ade8-49d6-abda-9ee754ce4ac0
 translation-type: tm+mt
 source-git-commit: d615705ccf5e4511cc735ce91d95c3e15d0c0160
 
 ---
 
 
-# Bootstrap und Stream-API mit Livefyre-Apps verwenden {#bootstrap-stream-api}
+# Bootstrap- und Stream-API mit Livefyre-Apps verwenden {#bootstrap-stream-api}
 
 ## Bootstrap-API {#bootstrap-api}
 
-### Wie kann ich Inhalte, die älter als die neuesten 50 sind, abrufen? {#howcontentolder}
+### Wie kann ich Inhalte abrufen, die älter als die neuesten 50 Stücke sind? {#howcontentolder}
 
-Bootstrap ist der gesamte Inhalt einer Livefyre-App. Es sind die zwischengespeicherten Daten, normalerweise 12–20 Minuten alt. Es wird in 50 Bereichen bereitgestellt und paginiert, damit Sie Inhalte mit älter als 50 Elementen abrufen können.
+Bootstrap enthält alle Inhalte in einer Livefyre-App. Es handelt sich um die zwischengespeicherten Daten, in der Regel 12-20 Minuten alt. Es wird in Blöcken von 50 Stück geliefert und paginiert, damit Sie Inhalte abrufen können, die älter als 50 Stück sind.
 
 [API-Referenz](https://api.livefyre.com/docs/apis/by-category/collections#operation=urn:livefyre:apis:bootstrap:operations:bs3:v3.1:network:site:article:init:method=get)
 
 [Beispielanforderung](https://data.livefyre.com/bs3/v3.1/dharam.fyre.co/384931/NTU1NQ==/init)
 
-Die obige Beispielanforderung lädt die `init` Seite, die Sammlungseinstellungen enthält, und den einzigen anfänglichen Satz von ~ 50 neuem Inhalt. Um ältere Inhalte abzurufen, müssen Sie folgende Bootstrap-Seiten mit `N` der Seitenzahl laden:
+Die obige Beispielanforderung lädt die `init` Seite, die Sammlungseinstellungen und den einzigen anfänglichen Satz von etwa 50 Teilen des neuesten Inhalts enthält. Um ältere Inhalte abzurufen, müssen Sie nachfolgende Bootstrap-Seiten mit der Seitenzahl laden `N` :
 
-Anforderung: `https://{networkName}.bootstrap.fyre.co/bs3/v3.1/{network}/{siteId}/{b64articleId}/N.json`
+Anfrage: `https://{networkName}.bootstrap.fyre.co/bs3/v3.1/{network}/{siteId}/{b64articleId}/N.json`
 
-Beispiel: Eine Beispiel-App hat 120 Inhaltselemente. Inhalt &quot;1&quot; ist der älteste Inhalt und der Inhalt&quot; 70&quot; ist das neueste Inhaltselement.
+Eine Beispielanwendung enthält beispielsweise 120 Inhaltselemente. Content "1" ist das älteste Inhaltselement und Content "70" ist das neueste Inhaltselement.
 
-* `Init` lädt ~ 120 bis 70 Inhaltselemente in absteigender Reihenfolge: [https://data.livefyre.com/bs3/v3.1/dharam.fyre.co/384931/NTU1NQ==/init](https://data.livefyre.com/bs3/v3.1/dharam.fyre.co/384931/NTU1NQ==/init)
+* `Init` werden ca. 120-70 Inhaltselemente in absteigender Reihenfolge geladen: [https://data.livefyre.com/bs3/v3.1/dharam.fyre.co/384931/NTU1NQ==/init](https://data.livefyre.com/bs3/v3.1/dharam.fyre.co/384931/NTU1NQ==/init)
 
-* `O.json` ~ 1-50 Inhaltselemente in aufsteigender Reihenfolge laden: [https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/0.json](https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/0.json)
+* `O.json` werden ~ 1-50 Inhaltselemente in aufsteigender Reihenfolge geladen: [https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/0.json](https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/0.json)
 
-* `1.json` lädt ~ 51 bis 100 Inhaltselemente in aufsteigender Reihenfolge: [https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/1.json](https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/1.json)
+* `1.json` werden ca. 51-100 Inhaltselemente in aufsteigender Reihenfolge geladen: [https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/1.json](https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/1.json)
 
-* `2.json` lädt ~ 101 bis 120 Inhaltselemente in aufsteigender Reihenfolge:[https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/2.json](https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/2.json)
+* `2.json` werden Inhalte von ca. 101-120 Stück in aufsteigender Reihenfolge geladen:[https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/2.json](https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/2.json)
 
-[Klicken Sie hier, um das Bootstrap-Abstimmungs-Ablaufdiagramm anzuzeigen.](https://marketing-resource-help.s3.amazonaws.com/resources/help/en_US/livefyre/bootstrap-poll-flowchart.pdf)
+[Klicken Sie hier, um das Bootstrap-Umfrage-Flussdiagramm anzuzeigen.](https://marketing-resource-help.s3.amazonaws.com/resources/help/en_US/livefyre/bootstrap-poll-flowchart.pdf)
 
 ## Stream-API {#stream-api}
 
-Was ist Stream-API?
-Stream ist eine lange Umfrage, die nach Design für ungefähr 30 Sekunden geöffnet bleiben soll. Beschreibung der Langfachabstimmung finden Sie hier: [https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
+Was ist die Stream-API?
+Stream ist eine lange Umfrage, die planmäßig für ca. 30 Sekunden offen bleiben soll. Beschreibung zur Methode des langen Abrufs finden Sie hier: [https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
 
-Dieser Endpunkt für den langen Abruf streamt neue Inhalte (z. B. ein Benutzer postet einen Kommentar), Statusstatusänderungen (z. B. Benutzer löscht ihren Kommentar, ihre Vorlieben) und Moderationsänderungen an Inhalten (z. B. durch Moderatoren genehmigt ein Inhaltselement) einer Livefyre-App.
+Dieser lange Abruf-Endpunkt streamt neue Inhalte (z. B. Beiträge eines Benutzers), Inhaltsstatusänderungen (z. B. Löschen des Kommentars durch den Benutzer, "Gefällt mir"-Klicks) und Moderationsänderungen am Inhalt (z. B. Genehmigung eines Inhaltsstücks durch den Moderator) in eine Livefyre-App.
 
-Die Anfrage an die Stream-API sollte etwa 30 Sekunden (lange Abfrage) mit erwarteten Timeouts nach 30 Sekunden betragen, wenn keine neuen Inhaltsstreams in eingehen.
+Die Anfrage zur Stream-API sollte ca. 30 Sekunden dauern (langes Abrufen), wobei nach 30 Sekunden ein Timeout zu erwarten ist, wenn kein neuer Inhalt einströmt.
 
 API-Referenz: [https://api.livefyre.com/docs/apis/by-category/collections#operation=urn:livefyre:apis:stream1:operations:v3.1:collection:updates:method=get](https://api.livefyre.com/docs/apis/by-category/collections#operation=urn:livefyre:apis:stream1:operations:v3.1:collection:updates:method=get)
 
@@ -54,20 +54,20 @@ Beispielanforderung:
 
 `{"timeout":true,"parked":true,"h":"ct245.dsr.livefyre.com"}`
 
-Bitte beachten: Bei `maxEventId` einer Stream-API-Antwort handelt es sich um die höchste Ereignis-ID der Aktualisierungen in dieser Antwort. Verwenden Sie diesen Wert als `lastEventId` Pfadparameter, wenn Sie die URL Ihrer nächsten Stream-API-Anfrage erstellen, um Updates nach allen Aktualisierungen in dieser Antwort zu erhalten.
+Bitte beachten Sie: Die Antwort `maxEventId` in einer Stream-API ist die höchste Ereignis-ID der Aktualisierungen in dieser Antwort. Verwenden Sie diesen Wert als `lastEventId` Pfadparameter, wenn Sie die URL Ihrer nächsten Stream-API-Anforderung erstellen, um nach allen Aktualisierungen in dieser Antwort Aktualisierungen zu erhalten.
 
-Das folgende Beispiel basiert auf einer Kommentarapp:
+Das unten stehende Beispiel basiert auf einer Comments-App:
 
-Kommentar &quot;Erster Kommentar&quot; wurde zuerst veröffentlicht. &quot; Zweiter Kommentar&quot; wurde danach veröffentlicht.
+Kommentar "Erster Kommentar" wurde zuerst gepostet. "Second Comment"wurde nach dem Posten veröffentlicht.
 
-First Comment Stream API response:
-
-`{"timeout":true,"parked":true,"h":"ct239.dsr.livefyre.com"}`
-
-In `maxEventId` der Antwort ist &quot;1520289700953369&quot; angegeben, die zum `lastEventId` Abrufen des Endpunktes verwendet wird, um Aktualisierungen abzurufen (d. h. Zweiter Kommentar), der nach allen Aktualisierungen in dieser Antwort auftrat.
-
-Zweite Kommentarstream-API-Antwort:
+Antwort auf die erste Kommentar-Stream-API:
 
 `{"timeout":true,"parked":true,"h":"ct239.dsr.livefyre.com"}`
 
-Die `maxEventID` &quot;1520289700953369&quot; in der Antwort sollte wiederum als die `lastEventID` Stream-API-Antwort für das nächste Update verwendet werden.
+Die Antwort `maxEventId` `lastEventId` in der Antwort lautet "1520289700953369", die verwendet wird, um den Endpunkt abzufragen, um nach allen Aktualisierungen in dieser Antwort Aktualisierungen (d. h. zweiter Kommentar) Aktualisierungen zu erhalten.
+
+Antwort zur zweiten Kommentar-Stream-API:
+
+`{"timeout":true,"parked":true,"h":"ct239.dsr.livefyre.com"}`
+
+Die `maxEventID` Antwort "1520289700953369"sollte wiederum als Grundlage für die `lastEventID` Erstellung der Stream-API-Antwort für das nächste Update verwendet werden.
