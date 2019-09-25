@@ -1,34 +1,34 @@
 ---
-description: Mit dem App Designer können Sie eine Vorschau Ihrer App in verschiedenen Auslieferungsformaten und mit Ihren eigenen oder Musterdaten anzeigen.
-seo-description: Mit dem App Designer können Sie eine Vorschau Ihrer App in verschiedenen Auslieferungsformaten und mit Ihren eigenen oder Musterdaten anzeigen.
-seo-title: Vorschau einer Meldung
+description: The App Designer allows you to preview your App in multiple delivery formats, and with your own or sample data displayed.
+seo-description: The App Designer allows you to preview your App in multiple delivery formats, and with your own or sample data displayed.
+seo-title: Vorschau einer Geschichte
 solution: Experience Manager
-title: Vorschau einer Meldung
-uuid: 3 b 5321 c 3-1 fab -4439-86 ab-efa 2 ffc 24 f 41
+title: Preview a Story
+uuid: 3b5321c3-1fab-4439-86ab-efa2ffc24f41
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Vorschau einer Meldung{#preview-a-story}
+# Preview a Story{#preview-a-story}
 
-Mit dem App Designer können Sie eine Vorschau Ihrer App in verschiedenen Auslieferungsformaten und mit Ihren eigenen oder Musterdaten anzeigen.
-
->[!NOTE]
->
->Vorschaumodus ist nicht vollständig interaktiv. Benutzer können die Vorschau anzeigen und den gesamten Inhalt der Meldung anzeigen. Im Vorschaumodus sind sie nicht in der Lage, Zielgruppen oder andere Kommentarfunktionen zu verwenden.
-
-Der Vorschaumodus bietet die folgenden Optionen:
-
-* **[!UICONTROL Preview Options]**: Wählen Sie im Pulldown-Menü ein Vorschauformat (Mobil, Tablet oder Desktop) und ob Musterdaten oder die Stream-Daten der App angezeigt werden sollen.
-* **[!UICONTROL Share]**: Öffnet die App auf einer neuen Browser-Registerkarte und generiert eine URL, mit der Freunde, Kollegen oder Nicht-Studio-Benutzer Ihre App überprüfen und in verschiedenen Browsern und Geräten testen können.
-* **[!UICONTROL Exit Preview]**: Gibt den Bearbeitungsmodus zurück.
+The App Designer allows you to preview your App in multiple delivery formats, and with your own or sample data displayed.
 
 >[!NOTE]
 >
->Wenn Musterdaten deaktiviert sind, zeigt die Vorschau alle Beiträge an, die Sie im Editor veröffentlicht haben.
+>Preview mode is not fully interactive. Users may view the preview, and see all content posted to the story. They will not be able to use Sidenotes or other commenting features in Preview mode.
 
-1. Klicken **[!UICONTROL Preview Mode]** Sie, um das mobile-, Tablet- oder Desktop-Format auszuwählen, und ob Musterdaten angezeigt werden sollen oder nicht.
-1. Klicken **[!UICONTROL Preview Mode]** Sie auf, um die Vorschau einzublenden, um das Studio-Fenster auszufüllen.
-1. Klicken **[!UICONTROL Exit Preview]** Sie auf, um zum Designmodus zurückzukehren.
+Preview Mode offers the following options:
+
+* **[!UICONTROL Preview Options]**: Use the pulldown menu to select a preview format (mobile, tablet, or desktop), and whether to show Sample Data or the App’s Stream data.
+* **[!UICONTROL Share]**: Opens the App in a new browser tab, and generates a URL, which may be used to allow friends, colleagues, or non-Studio users to review your App, and test it in different browsers and devices.
+* **[!UICONTROL Exit Preview]**: Returns you to edit mode.
+
+>[!NOTE]
+>
+>If Sample Data is deselected, preview will display any posts you have published from the editor.
+
+1. Click  to select mobile, tablet, or desktop format, and whether or not to display Sample Data.**[!UICONTROL Preview Mode]**
+1. Klicken Sie auf **[!UICONTROL Preview Mode]** , um die Vorschau zu erweitern und das Studio-Fenster auszufüllen.
+1. Klicken Sie auf **[!UICONTROL Exit Preview]** , um zum Designmodus zurückzukehren.
