@@ -1,18 +1,18 @@
 ---
-description: Erfahren Sie mehr über die allgemeine Datenschutzregel (GDPR) und den vollständigen Zugriff und das Löschen von Anforderungen, die unter GDPR zulässig sind, für Daten, die in Ihrer Verwendung von Livefyre erfasst werden, sowie weitere verwandte Datenschutzsteuerelemente.
-seo-description: Erfahren Sie mehr über die allgemeine Datenschutzregel (GDPR) und den vollständigen Zugriff und das Löschen von Anforderungen, die unter GDPR zulässig sind, für Daten, die in Ihrer Verwendung von Livefyre erfasst werden, sowie weitere verwandte Datenschutzsteuerelemente.
-seo-title: Datenschutzanfragen (GDPR-Ready)
+description: Erfahren Sie mehr über die Allgemeine Datenschutzverordnung (GDPR) und wie Sie die gemäß GDPR zulässigen Zugriffs- und Löschungsanfragen für Daten, die in Ihrer Nutzung von Livefyre gesammelt werden, sowie andere damit zusammenhängende Datenschutzkontrollen abschließen können.
+seo-description: Erfahren Sie mehr über die Allgemeine Datenschutzverordnung (GDPR) und wie Sie die gemäß GDPR zulässigen Zugriffs- und Löschungsanfragen für Daten, die in Ihrer Nutzung von Livefyre gesammelt werden, sowie andere damit zusammenhängende Datenschutzkontrollen abschließen können.
+seo-title: Datenschutzanforderungen (GDPR-bereit)
 solution: Experience Manager
-title: Datenschutzanfragen (GDPR-Ready)
-uuid: 8 c 8 b 2001-f 94 d -4 afc -8 acd-ff 4 c 906 dc 2 f 9
+title: Datenschutzanforderungen (GDPR-bereit)
+uuid: 8c8b2001-f94d-4afc-8acd-ff4c096dc2f9
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Datenschutzanfragen (GDPR-Ready){#privacy-requests-gdpr-ready}
+# Datenschutzanforderungen (GDPR-bereit){#privacy-requests-gdpr-ready}
 
-Erfahren Sie mehr über die allgemeine Datenschutzregel (GDPR) und den vollständigen Zugriff und das Löschen von Anforderungen, die unter GDPR zulässig sind, für Daten, die in Ihrer Verwendung von Livefyre erfasst werden, sowie weitere verwandte Datenschutzsteuerelemente.
+Erfahren Sie mehr über die Allgemeine Datenschutzverordnung (GDPR) und wie Sie die gemäß GDPR zulässigen Zugriffs- und Löschungsanfragen für Daten, die in Ihrer Nutzung von Livefyre gesammelt werden, sowie andere damit zusammenhängende Datenschutzkontrollen abschließen können.
 
-Die [allgemeine Data Protection Protection (GDPR)](https://adobe.io/apis/cloudplatform/gdpr.html) ist eine Regel, die den Datenschutz für Personen innerhalb der Europäischen Union (EU) optimieren und vereinheitlichen soll. Zusätzlich zu den anderen Datenschutzsteuerelementen, die Ihnen beim Abschluss von Zugriffs- und Löschanforderungen helfen, die Sie von Ihren Endbenutzern erhalten können (Datenthemen), hat Adobe eine GDPR-fähige Lösung für die Funktion &quot;Livefyre&quot; vorbereitet, mit der Sie in Ihrer Verwendung von Livefyre erfasste Daten anfordern oder löschen können.
+The [General Data Protection Regulation (GDPR)](https://adobe.io/apis/cloudplatform/gdpr.html) is a regulation intended to strengthen and unify data protection for individuals within the European Union (EU). Zusätzlich zu anderen Datenschutzsteuerelementen, die Sie beim Abschließen von Zugriffs- und Löschanforderungen unterstützen, die Sie möglicherweise von Ihren Endbenutzern (Betroffenen) erhalten, hat Adobe eine GDPR-fähige Lösung für die Einführung der Funktionen für Livefyre entwickelt, mit der Sie Daten anfordern oder löschen können, die Sie in Ihrer Verwendung von Livefyre gesammelt haben.
