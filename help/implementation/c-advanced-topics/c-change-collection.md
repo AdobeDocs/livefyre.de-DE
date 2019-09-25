@@ -1,10 +1,10 @@
 ---
-description: Erlauben Sie Benutzern, durch Sammlungen aus einem einzelnen Seitenlayout und einer URL zu klicken.
-seo-description: Erlauben Sie Benutzern, durch Sammlungen aus einem einzelnen Seitenlayout und einer URL zu klicken.
+description: Ermöglicht Benutzern das Durchklicken von Sammlungen aus einem einseitigen Layout und einer URL.
+seo-description: Ermöglicht Benutzern das Durchklicken von Sammlungen aus einem einseitigen Layout und einer URL.
 seo-title: Sammlung ändern
 solution: Experience Manager
 title: Sammlung ändern
-uuid: 81 c 8 a 554-375 f -4659-9 e 25-5 b 3618824633
+uuid: 81c8a554-375f-4659-9e25-5b3618824633
 translation-type: tm+mt
 source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
 
@@ -13,13 +13,13 @@ source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
 
 # Sammlung ändern {#change-collection}
 
-Erlauben Sie Benutzern, durch Sammlungen aus einem einzelnen Seitenlayout und einer URL zu klicken.
+Ermöglicht Benutzern das Durchklicken von Sammlungen aus einem einseitigen Layout und einer URL.
 
-Verwenden Sie den Change Collection Delegate, um die auf einer Seite angezeigte Sammlung zu ändern, ohne die URL zu ändern, während eine Livefyre-App bereits geladen ist. Verwenden Sie diese Funktion, um Foto- oder Videogalerien oder andere Apps anzuzeigen, bei denen sich die angezeigte Sammlung nach einer Benutzeraktion ändern sollte.
+Verwenden Sie den Delegaten zum Ändern der Sammlung, um die auf einer Seite angezeigte Sammlung zu ändern, ohne die URL zu ändern, während bereits eine Livefyre-App geladen wurde. Verwenden Sie diese Funktion, um Foto- oder Videogalerien oder andere Apps anzuzeigen, in denen die angezeigte Sammlung nach einer Benutzeraktion geändert werden soll.
 
-Wenn Sie beispielsweise auf ein Video oder ein Foto in einer Galerie klicken, wird eine für diese Auswahl spezifische Sammlung geladen, während sich die URL der Seite nicht ändert.
+Wenn Sie beispielsweise auf ein Video oder Foto in einer Galerie klicken, wird eine für diese Auswahl spezifische Sammlung geladen, während sich die URL der Seite nicht ändert.
 
-So [laden Sie eine von drei Sammlungen von einer einzelnen Seite](../c-advanced-topics/t-display-comment-count.md#t_display_comment_count)aus:
+So [laden Sie eine von drei Sammlungen von einer Seite](../c-advanced-topics/t-display-comment-count.md#t_display_comment_count):
 
 ```
 <html> 
