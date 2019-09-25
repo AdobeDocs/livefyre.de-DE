@@ -4,7 +4,7 @@ seo-description: Anpassen der Textzeichenfolgen für Livefyre-Reviews.
 seo-title: Textzeichenfolgen überprüfen
 solution: Experience Manager
 title: Textzeichenfolgen überprüfen
-uuid: 86251 e 49-bc 73-4 eec -9 f 9 b-b 4 b 0 a 5 b 42099
+uuid: 86251e49-bc73-4eec-9f9b-b4b0a5b42099
 translation-type: tm+mt
 source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
@@ -15,16 +15,13 @@ source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 Anpassen der Textzeichenfolgen für Livefyre-Reviews.
 
-Auf dieser Seite werden die für die Anpassung verfügbaren Zeichenfolgen in den Review-Apps aufgeführt und beschrieben. Die hier aufgeführten Zeichenfolgen sind zusätzlich zu den Standardzeichenfolgen für Livefyre-Core-Apps, die in Zeichenfolgen-Anpassungen aufgeführt sind. Wenn Duplikate aufgeführt werden, sind die in diesen Tabellen aufgeführten Zeichenfolgen die Standardeinstellung für Review-Apps.
+Auf dieser Seite werden die zur Anpassung in Review-Apps verfügbaren Zeichenfolgen aufgeführt und beschrieben. Die hier aufgeführten Zeichenfolgen werden zusätzlich zu den Standardzeichenfolgen für Livefyre-Core-Apps und deren Überschreibungen angezeigt, die unter Zeichenfolgenanpassung aufgeführt sind. Wenn Duplikate aufgeführt sind, sind die in diesen Tabellen aufgeführten Zeichenfolgen die Standardwerte für Reviews-Apps.
 
-Fehler bei der Implementierung/Bewertung
-von Stream-Infofeld-Stream-Info-/Content
-Info-Benutzeraktionen
-- Fehlermeldungen
+ImplementationReview/Rating InterfaceStream InfoAuthor/Content InfoBenutzeraktionenPost-FunktionenFehler
 
 ## Implementierung {#section-vsy-1k4-xz}
 
-Übergeben Sie zur Implementierung dieser Funktion eine 1-1 Objektzuordnung der Zeichenfolgen, die Sie dem Javascript-Konfigurationsobjekt überschreiben möchten. Wenn Sie kein Feld angeben, wird der Standardtext verwendet.
+Übergeben Sie zur Implementierung dieser Funktion eine 1-1-Objektzuordnung der Zeichenfolgen, die Sie überschreiben möchten, an das JavaScript-Konfigurationsobjekt. Wenn Sie kein Feld angeben, wird der Standardtext verwendet.
 
 Beispiel:
 
@@ -39,96 +36,96 @@ networkConfig["strings"] = customStrings; fyre.conv.load(
 );
 ```
 
-## Review-/Bewertungsschnittstelle {#section_iyv_zj4_xz}
+## Benutzeroberfläche für Review/Bewertung {#section_iyv_zj4_xz}
 
-Für die Benutzeroberfläche &quot;Review and Rating&quot; verfügbare Zeichenfolgen.
+Für die Benutzeroberfläche "Review and Rating"verfügbare Zeichenfolgen.
 
 | Element | Schlüssel | Standardtext |
 |--- |--- |--- |
-| Schaltflächen | Editreviewbtn | Review bearbeiten |
-|  | Reviewbtn | [Überprüfung schreiben](https://d.pr/i/QscA) |
-|  | Reviewsclosed | [Überprüfungen geschlossen](https://d.pr/i/zr7M) |
-|  | Showreviewbtn | [Überprüfung anzeigen](https://d.pr/i/onxU) |
-|  | folgen | Ich bin interessiert |
-|  | Sharetext | Ich habe gerade einen Review geschrieben. Überprüfen Sie es! |
-| Quickinfos | Variabvalues | Ein Array. Standard = `[‘Poor’, ‘Poor’, ‘Fair’, ‘Fair’, ‘Average’, ‘Average’, ‘Good’, ‘Good’, ‘Excellent’, ‘Excellent’]`; <br>Hinweis: Werte im Array müssen dupliziert werden, um sowohl links als auch rechte Hälfte jedes Stern denselben Namen zuzuweisen. |
-| Bewertungsunterteilungen | Getrosubpartplaceholders | Ein Array. Standard = `[]` |
-|  | Getrosubparttitles | Ein Array. Standard = `[]` |
-|  | Reviewstreamtitle | Standardmäßig leer. Titel des Übersichtsabschnitts der Überprüfung. |
-| Misc | Averagerating | [Durchschnittliche Benutzerbewertung](https://d.pr/i/QscA) |
-|  | Breakdownheader | [Bewertungsaufschlüsselung](https://d.pr/i/QscA) |
-|  | hilfreich | % s von % s gefunden |
-|  | Helpfulplural | % s von % s gefunden |
-|  | Outof | / |
-|  | Variabtype | Stern |
+| Schaltflächen | editReviewBtn | Review bearbeiten |
+|  | reviewBtn | [Überprüfung schreiben](https://d.pr/i/QscA) |
+|  | reviewsClosed | [Abgeschlossene Reviews](https://d.pr/i/zr7M) |
+|  | showReviewBtn | [Review anzeigen](https://d.pr/i/onxU) |
+|  | follow | Ich interessiere mich |
+|  | shareText | Ich habe gerade eine Überprüfung geschrieben. Schau es dir an! |
+| QuickInfos zur Bewertung | ratingValues | Als Array. Standard = `[‘Poor’, ‘Poor’, ‘Fair’, ‘Fair’, ‘Average’, ‘Average’, ‘Good’, ‘Good’, ‘Excellent’, ‘Excellent’]`; <br>Hinweis: Die Werte im Array müssen dupliziert werden, damit sowohl die linke als auch die rechte Hälfte jedes Sterns denselben Namen erhalten. |
+| Bewertungsunterteile | ratingSubpartPlaceholders | Als Array. Standardeinstellung = `[]` |
+|  | ratingSubpartTitles | Als Array. Standardeinstellung = `[]` |
+|  | reviewStreamTitle | Standardmäßig leer. Titel des Übersichtsabschnitts der Überprüfung. |
+| Misc | averageRating | [Durchschnittliche Benutzerbewertung](https://d.pr/i/QscA) |
+|  | breakHeader | [Bewertungsaufschlüsselung](https://d.pr/i/QscA) |
+|  | help | %s von %s als hilfreich gefunden |
+|  | assistancePlural | %s von %s als hilfreich gefunden |
+|  | outOf | / |
+|  | ratingType | star |
 
 ## Stream-Info {#section_wmv_yj4_xz}
 
-Für Content Stream-Informationen verfügbare Zeichenfolgen und Anzeigen.
+Für Informationen und Anzeigen von Inhaltsströmen verfügbare Zeichenfolgen.
 
 | Element | Schlüssel | Standardtext |
 |---|---|---|
-| Sortieren | Sortby | Standardmäßig leer. |
-|  | Sorthighestrated | [Höchste Bewertung](https://d.pr/i/huTd) |
-|  | Sortlowestrated | [Niedrigste Bewertung](https://d.pr/i/huTd) |
-|  | Sortmomentarelpful | [Am nützlichsten](https://d.pr/i/huTd) |
-| Stream-Misc. | Showmore | Mehr anzeigen |
-| Hohe Geschwindigkeit streamen | Newcomment | Neue Überprüfung |
-|  | Newcomments | Neue Überprüfungen |
-| Listener-Zähler | Listenercount | Person Listening |
-|  | Listenercountplural | people listening |
-| Anzahl der Kommentare | Commentcountlabel | Livereviews<strong> | </strong>% s |
-|  | Commentcountlabelplural | Livereviews<strong> | </strong>% s |
-| Anzahl der Benachrichtigungsbenachrichtigungen | Commentnotifier | Neue Überprüfung |
-|  | Commentnotifierplural | Neue Überprüfungen |
+| Sortieren |  sortBy | Standardmäßig leer. |
+|  | sortHighestRated | [Höchste Bewertung](https://d.pr/i/huTd) |
+|  | sortLowestRated | [Niedrigste Bewertung](https://d.pr/i/huTd) |
+|  | sortMostHelpful | [Am meisten hilfreich](https://d.pr/i/huTd) |
+| Stream-Fehler. | showMore | Mehr anzeigen |
+| Stream mit hoher Geschwindigkeit | newComment | Neue Überprüfung |
+|  | newComments | Neue Reviews |
+| Listener-Zähler | listenerCount | Person hört |
+|  | listenerCountPlural | zuhörende Personen |
+| Anzahl der Kommentare | commentCountLabel | LiveReviews<strong> | </strong>%s |
+|  | commentCountLabelPlural | LiveReviews<strong> | </strong>%s |
+| Anzahl der Notifizierer | commentNotifier | Neue Überprüfung |
+|  | commentNotifierPlural | Neue Reviews |
 
-## Autoren-/Inhaltsinformationen {#section_osx_xj4_xz}
+## Autor-/Inhaltsinformationen {#section_osx_xj4_xz}
 
-Für Autor und individuelle Inhaltsinformationen verfügbare Stings.
+Stings verfügbar für Autor- und individuelle Inhaltsinformationen.
 
 | Element | Schlüssel | Standardtext |
 |---|---|---|
-| Thread-Aufteilung | Reviewscontentnotfoundmsg | [Diese Überprüfung ist nicht mehr sichtbar.](https://d.pr/i/svXs) |
-|  | Backtocomments | Zurück zu Reviews |
+| Thread-Aufschlüsselung | reviewsContentNotFoundMsg | [Diese Überprüfung ist nicht mehr sichtbar](https://d.pr/i/svXs) |
+|  | backToComments | Zurück zu Reviews |
 
 ## Benutzeraktionen {#section_tlx_wj4_xz}
 
-Für Benutzeraktionen verfügbare Zeichenfolgen: Markieren, Freigeben und Markieren bestehender Inhalte als nützlich.
+Für Benutzeraktionen verfügbare Zeichenfolgen: Kennzeichnung, Freigabe und Kennzeichnung vorhandener Inhalte als hilfreich.
 
 | Element | Schlüssel | Standardtext |
 |---|---|---|
-| Fußzeile | Wasreviewhelpful | [Hilfreich?](https://d.pr/i/Q0mA) |
-|  | Wasreviewhelpfulmobile | Hilfreich? |
-|  | Ownwasreviewhelpful | [Es wurde hilfreich gefunden.](https://d.pr/i/Q0mA) |
-|  | Reviewwasassist | [Ja](https://d.pr/i/Q0mA) |
-|  | Helpfuldivider | [&amp; amp; vert;](https://d.pr/i/Q0mA) |
-|  | Reviewwasnothelpful | [Nein](https://d.pr/i/Q0mA) |
-| Abstimmung modaler Stimmen | Votetitle | Wurde diese Überprüfung hilfreich? |
-|  | Votedownsession | Nein |
-|  | Votereplytitle | War diese Antwort hilfreich? |
-|  | Votetitle | War dieser Kommentar hilfreich? |
-|  | Voteupvoice | Ja |
-| Flag markieren | Flagtitle | Überprüfung von % s&#39;s |
-|  | Flagsuccessmsg | Überprüfung wurde gekennzeichnet. |
-| Markieren von Mobilgeräten | Flagconfirmationmessage | Die Überprüfung % s als % s kennzeichnen? |
-| Erwähnung von Modal | Mentiondefaulttext | Ich habe Sie in einer Livefyre-Überprüfung erwähnt! |
-| Modale Freigabe | Sharetitle | Überprüfung freigeben |
+| Fußzeile kommentieren | wasReviewHelpful | [Hilfreich?](https://d.pr/i/Q0mA) |
+|  | wasReviewHelpfulMobile | Hilfreich? |
+|  | ownWarReviewHelpful | [Hilfreich gefunden.](https://d.pr/i/Q0mA) |
+|  | reviewWarHelpful | [Ja](https://d.pr/i/Q0mA) |
+|  | assistDivider | [&amp;vert;](https://d.pr/i/Q0mA) |
+|  | reviewWarNotHelpful | [Nein](https://d.pr/i/Q0mA) |
+| modale Abstimmung | optTitle | War diese Überprüfung hilfreich? |
+|  | optionDownAbstimmung | Nein |
+|  | optionReplyTitle | War diese Antwort hilfreich? |
+|  | optTitle | War dieser Kommentar hilfreich? |
+|  | optionUpVT | Ja |
+| Modale Kennzeichnung | FlagTitle | Überprüfung von %s markieren |
+|  | FlagSuccessMsg | Die Überprüfung wurde markiert. |
+| Mobiles Flag | flagConfirmationMessage | %s Überprüfung als %s kennzeichnen? |
+| Erwähnungsmodal | ErwähnungDefaultText | Ich habe Sie in einem Livefyre Review erwähnt! |
+| Modal freigeben | shareTitle | Review freigeben |
 
-## Beitragsfunktionen {#section_yl1_wj4_xz}
+## Post-Funktionen {#section_yl1_wj4_xz}
 
-Für Benutzer verfügbare Zeichenfolgen.
+Zeichenfolgen für Benutzer, die Reviews posten.
 
 | Element | Schlüssel | Standardtext |
 |---|---|---|
-| Editor | Bodyplaceholder | Review schreiben… |
-|  | Posteditbutton | Bearbeiten |
-|  | Posteditcancelbutton | Abbrechen |
-|  | Postasbutton | Überprüfung als… |
-|  | Postbutton | Beitragsprüfung |
-|  | Postreplyasbutton | Als… posten |
-|  | Postreplybutton | Beitrag |
-|  | Sharebutton | Freigeben |
-|  | Titleplaceholder | Titel… |
+| Editor | bodyPlaceholder | Überprüfung schreiben... |
+|  | postEditButton | Vorlage      |
+|  | postEditCancelButton | Abbrechen |
+|  | postAsButton | Prüfung nach ... |
+|  | postButton | Beitragsüberprüfung |
+|  | postReplyAsButton | Posten als... |
+|  | postReplyButton | Posten |
+|  | shareButton | Freigabe |
+|  | titlePlaceholder | Titel… |
 
 ## Fehler {#section_jbc_vj4_xz}
 
@@ -136,25 +133,25 @@ Für allgemeine Fehlermeldungen verfügbare Zeichenfolgen.
 
 | Element | Schlüssel | Standardtext |
 |---|---|---|
-| Fehler | Erroralreadypublished | Sie können nur eine Überprüfung posten. |
-|  | Errorautherror | Sie sind nicht autorisiert, eine Überprüfung bei dieser Konversation zu posten. |
-|  | Errorcommentsnotallowed | Reviews können derzeit nicht veröffentlicht werden |
-|  | Errordislikeowncomment | Sie können Ihre eigene Überprüfung nicht stören. |
-|  | Errorduplicate | Genauso wie Sie Ihren Review bewertet haben, können Sie ihn nicht zweimal posten. |
-|  | Erroreditduplicate | Sie müssen den Text der Überprüfung ändern, wenn Sie sie bearbeiten. |
-|  | Erroreditnotallowed | Sie dürfen keine Reviews zu dieser Konversation bearbeiten. |
-|  | Erroredittimeexceeded | Der Review-Bearbeitungszeitraum ist abgelaufen. |
-|  | Errorempty | Anscheinend versuchen Sie, eine leere Überprüfung zu posten. |
-|  | Erroremptytitle | Anscheinend versuchen Sie, einen leeren Titel zu posten. |
-|  | Errorfieldrating | Bewertungssterne |
-|  | Errorfieldreview | lesen |
-|  | Errorfieldtitle | Titel |
-|  | Errormaxchars | Ihre Überprüfung ist zu lang. Bitte bearbeiten und versuchen Sie es erneut. |
-|  | Errormissingfields | Bitte ein |
-|  | Errorratingempty | Sie können keine leere Bewertung senden |
-|  | Errorvariabnotset | Alle Bewertungen müssen festgelegt werden |
-|  | Errorvariabnotvalid | Die Bewertung muss ein Objekt sein. |
-|  | Errorshowmore | Beim Laden weiterer Überprüfungen ist ein Fehler aufgetreten. |
-|  | Errortitlemaxchars | Der Titel ist zu lang. Bitte bearbeiten und versuchen Sie es erneut. |
-|  | Errorvoteowncomment | Sie können nicht über Ihre eigene Überprüfung abstimmen. |
+| Fehler | errorAlreadyPosted | Sie können nur einen Review posten. |
+|  | errorAuthError | Sie sind nicht berechtigt, einen Review zu dieser Unterhaltung zu posten |
+|  | errorCommentsNotAllowed | Reviews können derzeit nicht gepostet werden |
+|  | errorDislikeOwnComment | Sie können Ihre eigene Überprüfung nicht ablehnen |
+|  | errorDuplicate | So sehr Sie Ihren Review mögen, können Sie ihn nicht zweimal posten. |
+|  | errorEditDuplicate | Sie müssen den Text des Reviews ändern, wenn Sie ihn bearbeiten. |
+|  | errorEditNotAllowed | Sie dürfen keine Rezensionen zu dieser Unterhaltung bearbeiten. |
+|  | errorEditTimeExceeded | Ihre Revisionsbearbeitungszeit ist leider abgelaufen. |
+|  | errorEmpty | Es scheint, dass Sie versuchen, eine leere Überprüfung zu posten. |
+|  | errorEmptyTitle | Sie versuchen anscheinend, einen leeren Titel zu posten |
+|  | errorFieldRating | Sternbewertung |
+|  | errorFieldReview | überprüfen |
+|  | errorFieldTitle | title |
+|  | errorMaxChars | Entschuldige! Deine Überprüfung ist zu lang. Bearbeiten Sie die Datei und versuchen Sie es erneut. |
+|  | errorMissingFields | Bitte geben Sie eine |
+|  | errorRatingEmpty | Sie können keine leere Bewertung senden |
+|  | errorRatingNotSet | Alle Ratings müssen eingestellt werden |
+|  | errorRatingNotValid | Die Bewertung muss ein Objekt sein |
+|  | errorShowMore | Beim Laden weiterer Überprüfungen ist ein Fehler aufgetreten. |
+|  | errorTitleMaxChars | Tut mir leid, dein Titel ist zu lang. Bearbeiten Sie die Datei und versuchen Sie es erneut. |
+|  | errorVoteOwnComment | Sie können nicht über Ihre eigene Überprüfung abstimmen |
 
