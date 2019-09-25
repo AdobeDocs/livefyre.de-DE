@@ -1,30 +1,30 @@
 ---
 description: Verwenden Sie verfügbare CSS-Klassen, um spezielle Inhalte anders als andere Inhalte in Ihrer App zu gestalten.
 seo-description: Verwenden Sie verfügbare CSS-Klassen, um spezielle Inhalte anders als andere Inhalte in Ihrer App zu gestalten.
-seo-title: Verwenden von CSS zum Stilbasierten Inhalt
+seo-title: CSS zum Formatieren von speziellen Inhalten verwenden
 solution: Experience Manager
-title: Verwenden von CSS zum Stilbasierten Inhalt
-uuid: c 4 ab 648 c-d 81 f -41 b 9-9773-ef 196649 cc 46
+title: CSS zum Formatieren von speziellen Inhalten verwenden
+uuid: c4ab648c-d81f-41b9-9773-ef919649cc46
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Verwenden von CSS zum Stilbasierten Inhalt{#use-css-to-style-featured-content}
+# CSS zum Formatieren von speziellen Inhalten verwenden{#use-css-to-style-featured-content}
 
 Verwenden Sie verfügbare CSS-Klassen, um spezielle Inhalte anders als andere Inhalte in Ihrer App zu gestalten.
 
-Alle CSS-Kommentarklassen können auch auf spezielle Inhalte angewendet werden.
+Alle CSS-Klassen für Kommentare können auch auf spezielle Inhalte angewendet werden.
 
-Die folgenden Klassen sind für spezielle Inhalte verfügbar.
+Die folgenden Klassen stehen für spezielle Inhalte zur Verfügung.
 
-| Klasse | Beschreibung |
+| Class | Beschreibung |
 |---|---|
-| . fyre-featworth-content-wrapper | Der Container-div für den Leser. |
-| . fyre-featworth-header | Die führende Titelleiste. |
-| . fyre-featworth-header-icon | Das Quellsymbol des Headers. |
-| . fyre-featlo@-@ title | Der Kopfzeilentext. |
-| . fyre-featlo@-@ body | Der Container-div für speziellen Inhalt im Leser. |
-| . fyre-featsonder@-@ bid | Das Anführungszeichen, das jedes Inhaltselement beginnt. |
+| .fyre-special-content-wrapper | Das Container-div für den Reader. |
+| .fyre-featured-header | Die führende Titelleiste. |
+| .fyre-featured-header-icon | Das Quill-Symbol der Kopfzeile. |
+| .fyre-featured-title | Der Kopfzeilentext. |
+| .fyre-special-body | Das Container-div für speziellen Inhalt im Reader. |
+| .fyre-featured-quote | Das Anführungszeichen, das jedes Inhaltselement beginnt. |
 
