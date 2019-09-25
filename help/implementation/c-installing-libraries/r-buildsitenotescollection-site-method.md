@@ -1,24 +1,24 @@
 ---
-description: Gibt ein Collection-Objekt zurück, das als "Sidenotes" -Typ instanziiert wird. Führen Sie create_ or_ update () aus dem Collection-Objekt aus, um den Build-Prozess abzuschließen.
-seo-description: Gibt ein Collection-Objekt zurück, das als "Sidenotes" -Typ instanziiert wird. Führen Sie create_ or_ update () aus dem Collection-Objekt aus, um den Build-Prozess abzuschließen.
-seo-title: Buildsitenotescollection-Site-Methode
+description: Gibt ein Collection-Objekt zurück, das als ein Sistat-Typ instanziiert wurde. Führen Sie create_or_update() vom Collection-Objekt aus, um den Build-Prozess abzuschließen.
+seo-description: Gibt ein Collection-Objekt zurück, das als ein Sistat-Typ instanziiert wurde. Führen Sie create_or_update() vom Collection-Objekt aus, um den Build-Prozess abzuschließen.
+seo-title: buildSitenotesCollection-Site-Methode
 solution: Experience Manager
-title: Buildsitenotescollection-Site-Methode
-uuid: 2 bfbc 032-4 c 0 c -48 d 2-8 ce 6-02460 b 38 bd 6 c
+title: buildSitenotesCollection-Site-Methode
+uuid: 2bfbc032-4c0c-48d2-8ce6-02460b38bd6c
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Buildsitenotescollection-Site-Methode{#buildsitenotescollection-site-method}
+# buildSitenotesCollection-Site-Methode{#buildsitenotescollection-site-method}
 
-Gibt ein Collection-Objekt zurück, das als &quot;Sidenotes&quot; -Typ instanziiert wird. Führen Sie create_ or_ update () aus dem Collection-Objekt aus, um den Build-Prozess abzuschließen.
+Gibt ein Collection-Objekt zurück, das als ein Sistat-Typ instanziiert wurde. Führen Sie create_or_update() vom Collection-Objekt aus, um den Build-Prozess abzuschließen.
 
 | Variable | Typ | Beschreibung |
 |--- |--- |--- |
-| Titel | Zeichenfolge | Der Titel für die Sammlung. |
-| Articleid | Zeichenfolge | Eine eindeutige Artikel-ID, die Sie zur Identifizierung einer Sammlung innerhalb Ihrer Site auswählen. |
+| title | Zeichenfolge | Der Titel der Sammlung. |
+| articleId | Zeichenfolge | Eine eindeutige Artikel-ID, die Sie zur Identifizierung einer Sammlung auf Ihrer Site gewählt haben. |
 | url | Zeichenfolge | Die kanonische absolute URL für diese Sammlung. |
 
 ## Java-Beispiel {#section_nyl_ycs_rz}
@@ -27,7 +27,7 @@ Gibt ein Collection-Objekt zurück, das als &quot;Sidenotes&quot; -Typ instanzii
 Collection collection = site.buildSidenotesCollection(title, articleId, url); 
 ```
 
-## Nodejs-Beispiel {#section_xkd_gds_rz}
+## NodeJS-Beispiel {#section_xkd_gds_rz}
 
 ```
 var collection = site.buildSidenotesCollection(title, articleId, url); 
@@ -39,7 +39,7 @@ var collection = site.buildSidenotesCollection(title, articleId, url);
 $collection = site->buildSidenotesCollection(title, articleId, url); 
 ```
 
-## Python Example {#section_dwg_gds_rz}
+## Python-Beispiel {#section_dwg_gds_rz}
 
 ```
 collection = site.build_sidenotes_collection(title, articleId, url) 
