@@ -1,10 +1,10 @@
 ---
-description: Filmstreifen ist eine Visualisierungs-App, die benutzergenerierte Inhalte in einem dynamischen, horizontalen Streifen von Fotos präsentiert, ähnlich wie ein Filmstreifen von einer Kamera.
-seo-description: Filmstreifen ist eine Visualisierungs-App, die benutzergenerierte Inhalte in einem dynamischen, horizontalen Streifen von Fotos präsentiert, ähnlich wie ein Filmstreifen von einer Kamera.
+description: Der Filmstreifen ist eine Visualisierungs-App, die benutzergenerierte Inhalte in einem dynamischen, horizontalen Fotostreifen darstellt, ähnlich wie ein Filmstreifen einer Kamera.
+seo-description: Der Filmstreifen ist eine Visualisierungs-App, die benutzergenerierte Inhalte in einem dynamischen, horizontalen Fotostreifen darstellt, ähnlich wie ein Filmstreifen einer Kamera.
 seo-title: Filmstreifen
 solution: Experience Manager
 title: Filmstreifen
-uuid: 2 e 3 cb 6 f 4-15 db -4509-8 a 5 b-a 651511 cdbd 6
+uuid: 2e3cb6f4-15db-4509-8a5b-a651511cdbd6
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,15 +13,15 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Filmstreifen{#filmstrip}
 
-Filmstreifen ist eine Visualisierungs-App, die benutzergenerierte Inhalte in einem dynamischen, horizontalen Streifen von Fotos präsentiert, ähnlich wie ein Filmstreifen von einer Kamera.
+Der Filmstreifen ist eine Visualisierungs-App, die benutzergenerierte Inhalte in einem dynamischen, horizontalen Fotostreifen darstellt, ähnlich wie ein Filmstreifen einer Kamera.
 
 ## Über Filmstreifen {#section_tng_slj_yy}
 
-Sie können Filmstrip mit UGC in E-Commerce-Szenarien wie Produktseiten oder Transaktionswebsites verwenden. Endbenutzer können durch Klicken auf die Pfeiltasten navigieren, um durch den verfügbaren Inhalt von links nach rechts zu blättern. Neue Inhalte werden auf der linken Seite angezeigt, während sie in der App enthalten sind. Sie können auswählen, ob neu gestreamte UGC eine Beschriftung darauf enthalten, *die* besagt, dass neue Besucher schnell neue Inhalte identifizieren.
+Sie können den Filmstreifen mit UGC in E-Commerce-Szenarien wie Produktseiten oder transaktionale Websites verwenden. Endbenutzer können im Filmstreifen durch Klicken auf die Seitenpfeile durch den verfügbaren Inhalt blättern. Beim Einstieg in die App werden auf der linken Seite neue Inhalte angezeigt. Sie können festlegen, ob neu gestreamt UGC eine Beschriftung mit der Aufschrift *Neu* enthalten soll, um Sitebesucher bei der schnellen Identifizierung neuer Inhalte zu unterstützen.
 
-Sie können festlegen, ob Site-Besucher auf einer Karte eine Aktionsaktionsschaltfläche anzeigen können, und den Mauszeiger über die Schaltfläche bewegen, um eine Vorschau der verkauften Produkte anzuzeigen. Sie können Produkte aus Ihrem Produktkatalog mit Inhalten im Filmstreifen verknüpfen. Mobil- und Nicht Mobilgerätebesucher können auf eine Karte klicken, um ein größeres Bild anzuzeigen, Inhalte freizugeben, Video abzuspielen oder verbundene Produkte und eine Aktionsaktionsschaltfläche anzuzeigen, um die Elemente zu kaufen.
+Sie können festlegen, ob Site-Besucher eine Aktionsaufruf-Schaltfläche auf einer Karte anzeigen und den Mauszeiger über die Schaltfläche bewegen können, um eine Vorschau der zum Verkauf angebotenen Produkte anzuzeigen. Sie können Produkte aus Ihrem Produktkatalog mit Inhalten im Filmstreifen verknüpfen. Besucher mobiler und nicht mobiler Sites können auf eine Karte klicken, um ein größeres Bild anzuzeigen, Inhalte freizugeben, Videos abzuspielen oder zugehörige Produkte anzuzeigen, und eine Aktionsaufruf-Schaltfläche zum Kauf der Elemente.
 
-## Welche Art von Inhalt kann ich in einem Filmstreifen veröffentlichen? {#section_b5h_qlj_yy}
+## Was für Inhalte kann ich in einem Filmstreifen veröffentlichen? {#section_b5h_qlj_yy}
 
 Unterstützte Inhalte:
 
@@ -34,50 +34,50 @@ Unterstützte Inhaltsquellen:
 * Twitter
 * Instagram
 * Facebook
-* Youtube
+* YouTube
 * RSS
 * Tumblr
 * Livefyre
 
-Inhalte, die Text enthalten, können nur in einem Filmstreifen veröffentlicht werden. Sie können Text nur veröffentlichen, wenn er Teil eines Foto- oder Videobeitrags ist.
+Inhalte, die nur Text enthalten, können nicht in einem Filmstreifen veröffentlicht werden. Sie können Text nur veröffentlichen, wenn er Teil eines Fotos oder eines Videobeitrags ist.
 
-## Wie sieht der Site-Besucher Inhalte in einem Filmstreifen? {#section_w5c_plj_yy}
+## Wie sieht ein Site-Besucher Inhalte in einem Filmstreifen? {#section_w5c_plj_yy}
 
-Ein Site-Besucher sieht Inhalte, die in einem Filmstreifen aus Studio aus einem Studio-Stream, einer Bibliothek oder einer Social-Suche gefüllt wurden. Wenn neue Inhalte in der App veröffentlicht werden, während sich ein Site-Besucher auf der Seite befindet, wird der neue Inhalt links angezeigt und der alte Inhalt wird in Echtzeit nach rechts verschoben, ohne dass der Besucher der Site seine Seite aktualisieren muss. Wenn Sie den Site-Besucher über neue Inhalte informieren, sieht der Site-Besucher eine Benachrichtigung, die &quot;new&quot; und einen Pfeil auf der linken Seite anzeigt, um anzugeben, dass er nach links blättern muss, um neue Inhalte anzuzeigen.
+Ein Site-Besucher sieht Inhalte, die aus einem Studio-Stream, einer Bibliothek oder einer Social-Suche in einen Filmstreifen aus Studio gefüllt werden. Wenn neue Inhalte in der App veröffentlicht werden, während sich ein Sitebesucher auf der Seite befindet, wird der neue Inhalt links angezeigt und der alte Inhalt wird in Echtzeit nach rechts verschoben, ohne dass ein Sitebesucher seine Seite aktualisieren muss. Wenn Sie den Site-Besucher über neue Inhalte informieren möchten, wird dem Site-Besucher eine Benachrichtigung mit der Meldung "neu"und ein Pfeil nach links angezeigt, der angibt, dass er nach links blättern muss, um neue Inhalte anzuzeigen.
 
-## Was passiert, wenn ein Site-Besucher auf ein Element in einem Filmstreifen klickt? {#section_cvz_nlj_yy}
+## Was passiert, wenn ein Besucher der Site auf ein Element in einem Filmstreifen klickt? {#section_cvz_nlj_yy}
 
-Klicken Sie auf einem Computer oder einem Mobilgerät auf eine Karte, um Inhalte freizugeben, ein größeres Bild anzuzeigen, ein Video anzusehen, mehrere Medienelemente anzuzeigen oder verbundene Produkte anzuzeigen, die in UGC getaggt sind.
+Klicken Sie auf einem Computer oder einem Mobilgerät auf eine Karte, um Inhalte freizugeben, ein größeres Bild anzuzeigen, ein Video anzuzeigen, mehrere Medienelemente anzuzeigen oder die zugehörigen Produkte anzuzeigen, die in der Benutzeroberfläche getaggt sind.
 
-Auf einem Computer bewegen Sie den Mauszeiger über die Aktionsaktionsschaltfläche, um die mit dem Inhalt verknüpften Produkte anzuzeigen.
+Bewegen Sie den Mauszeiger auf einem Computer über die Aktionsaufruf-Schaltfläche, um die mit dem Inhalt verknüpften Produkte anzuzeigen.
 
 ## Kann ein Site-Besucher Inhalte aus einem Filmstreifen freigeben? {#section_zzz_mlj_yy}
 
-Ja. Ein Site-Besucher kann alle Inhaltstypen in einem Filmstreifen freigeben. Klicken Sie auf einem Computer oder Mobilgerät auf eine Karte, um sie zu öffnen, und klicken Sie auf das Freigabesymbol.
+Ja. Ein Sitebesucher kann alle Inhaltstypen in einem Filmstreifen freigeben. Klicken Sie auf einem Computer oder einem Mobilgerät auf eine Karte, um sie zu öffnen, und klicken Sie auf das Symbol "Freigeben".
 
-## Wie werden neue Inhalte einem Filmstreifen hinzugefügt? {#section_f4w_klj_yy}
+## Wie werden neue Inhalte zu einem Filmstreifen hinzugefügt? {#section_f4w_klj_yy}
 
-Inhalt zu einem Filmstreifen hinzufügen durch:
+Hinzufügen von Inhalten zu einem Filmstreifen durch:
 
-* Manuelles Veröffentlichen aus der Bibliothek, App-Inhalten oder modq.
-* Einrichten eines Streams, der automatisch veröffentlicht werden soll.
+* Manuelles Veröffentlichen aus der Bibliothek, dem App-Inhalt oder dem ModQ.
+* Einrichten eines Streams zur automatischen Veröffentlichung
 
-Der neue Inhalt nimmt automatisch in die Filmstreifen-App auf der linken Seite ein und schiebt den alten Inhalt in Echtzeit auf die rechte Seite, ohne dass der Besucher der Seite seine Seite aktualisieren muss. Wenn Sie den Site-Besucher über neue Inhalte informieren, sieht der Site-Besucher eine Benachrichtigung, die &quot;new&quot; sagt und einen Pfeil auf der linken Seite anzeigt, um anzugeben, dass er nach links einen Bildlauf nach links durchführt, um neue Inhalte anzuzeigen.
+Neue Inhalte werden automatisch in die Filmstreifen-App auf der linken Seite gestreamt und der alte Inhalt wird in Echtzeit nach rechts verschoben, ohne dass ein Besucher seine Seite aktualisieren muss. Wenn Sie den Site-Besucher über neue Inhalte informieren möchten, wird dem Site-Besucher eine Benachrichtigung mit der Meldung "neu"und ein Pfeil nach links angezeigt, der darauf hinweist, dass er nach links blättern muss, um neue Inhalte anzuzeigen.
 
-## Wie werden Nur Textinhalte in der App angezeigt? {#section_h31_klj_yy}
+## Wie werden reine Inhalte in der App angezeigt? {#section_h31_klj_yy}
 
-Der Filmstreifen zeigt keine Textinhalt an. Der Filmstreifen zeigt nur Bilder und Videos an.
+Der Filmstreifen zeigt keinen reinen Textinhalt an. Im Filmstreifen werden nur Bilder und Videos angezeigt.
 
-## Warum werden einige meiner Inhalte auf meiner Site nicht angezeigt, obwohl der Inhalt in Studio angezeigt wird? {#section_upr_hlj_yy}
+## Warum werden einige meiner Inhalte nicht auf meiner Site angezeigt, obwohl der Inhalt in Studio angezeigt wird? {#section_upr_hlj_yy}
 
-Der Filmstreifen zeigt Inhalte in einem horizontalen Streifen von 5 standardmäßig an. Die Anzahl der Kacheln hängt von der Größe des Containers ab, in dem die App angezeigt wird, und der Kachelgröße, die Sie in App Designer auswählen. Livefyre empfiehlt, in Ihrer Filmstreifen-App mindestens fünf bis zehn Inhaltselemente hinzuzufügen, um eine angemessene Anzahl an Kacheln mit Inhalten bereitzustellen und Benutzern zu ermöglichen, mehr zu finden.
+Der Filmstreifen zeigt Inhalte standardmäßig in einem horizontalen Streifen von fünf an. Die Anzahl der Kacheln hängt von der Größe des Containers ab, in dem die App angezeigt wird, und von der Kachelgröße, die Sie im App-Designer auswählen. Livefyre empfiehlt, mindestens fünf bis zehn Inhaltselemente in Ihrer Filmstreifen-App hinzuzufügen, um eine ausreichende Anzahl von Kacheln mit Inhalten zu bieten und Benutzern das Durchblättern zu ermöglichen, um weitere Informationen zu erhalten.
 
-Manchmal wird Inhalt nicht angezeigt, da Sie sich eingeschaltet **[!UICONTROL Require rights]** haben. Wenn Sie dies aktivieren, müssen Sie über Rechte für alle Inhalte in der App verfügen. Wenn der Rechte-Status für ein Inhaltselement nicht &quot;gewährt&quot; wird, wird es nicht in der App angezeigt.
+Manchmal wird Inhalt nicht angezeigt, weil Sie aktiviert haben **[!UICONTROL Require rights]**. Wenn Sie diese Option aktivieren, müssen Sie über Berechtigungen für alle Inhalte in der App verfügen. Wenn der Berechtigungsstatus für einen Inhalt nicht "gewährt"ist, wird er nicht in der App angezeigt.
 
-## Woher weiß ein Site-Besucher, wann ein neues Produkt hinzugefügt wird? {#section_ttt_xps_mbb}
+## Wie erkennt ein Besucher der Site, wenn ein neues Produkt hinzugefügt wird? {#section_ttt_xps_mbb}
 
-Sie können Benachrichtigungen über neue Inhalte hinzufügen, wenn sie hinzugefügt **[!UICONTROL Show Notifications]****[!UICONTROL On]** werden.
+Sie können Benachrichtigungen über neue Inhalte hinzufügen, indem Sie **[!UICONTROL Show Notifications]** zu **[!UICONTROL On]** wechseln.
 
-## Filmstreifen mit Studio erstellen {#section_dwb_glj_yy}
+## Erstellen eines Filmstreifens mit Studio {#section_dwb_glj_yy}
 
 Sie erstellen alle Apps in Livefyre Studio auf die gleiche Weise. Weitere Informationen zum Erstellen einer Filmstreifen-App in Studio mithilfe des Standardprozesses finden Sie unter Erstellen von Apps.
