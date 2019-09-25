@@ -1,10 +1,10 @@
 ---
-description: Eine Übersicht über die Anzeigeanforderungen von Twitter.
-seo-description: Eine Übersicht über die Anzeigeanforderungen von Twitter.
+description: Eine Übersicht der Anzeigeanforderungen für Twitter.
+seo-description: Eine Übersicht der Anzeigeanforderungen für Twitter.
 seo-title: Twitter-Anzeigeanforderungen
 solution: Experience Manager
 title: Twitter-Anzeigeanforderungen
-uuid: 705 c 25 b 8-4 a 25-4640-9843-074 f 50 ebae 4 f
+uuid: 705c25b8-4a25-4640-9843-074f50ebae4f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,25 +13,25 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Twitter-Anzeigeanforderungen{#twitter-display-requirements}
 
-Soziale Netzwerke erfordern oft, dass ihr Inhalt so angezeigt wird, dass er ihren Markenstandards entspricht. Wenn Sie die Livefyre-Plattform verwenden, um Twitter-Inhalte erneut zu präsentieren, sind Sie stets für die Einhaltung ihrer Nutzungsbedingungen verantwortlich, einschließlich der Anzeigeanforderungen. Bitte lesen und verstehen Sie Ihre Nutzungsbedingungen, bevor Sie ihren Inhalt in Ihren Livefyre-Apps anzeigen.
+Soziale Netzwerke erfordern häufig, dass ihre Inhalte entsprechend ihren Markenstandards angezeigt werden. Wenn Sie die Livefyre-Plattform verwenden, um Twitter-Inhalte wiederzugeben, sind Sie jederzeit für die Einhaltung der Nutzungsbedingungen einschließlich der Anzeigeanforderungen verantwortlich. Bitte lesen und verstehen Sie die Geschäftsbedingungen, bevor Sie deren Inhalt in Ihren Livefyre-Apps anzeigen.
 
-Weitere Informationen finden Sie in der [Dokumentation zur Anzeigeanforderungen](https://about.twitter.com/company/display-requirements) von Twitter.
+Weitere Informationen finden Sie in der Dokumentation [zu den Anzeigeanforderungen](https://about.twitter.com/company/display-requirements) von Twitter.
 
-Twitter erfüllt die folgenden Präsentationsanforderungen:
+Twitter erfordert die folgenden Präsentationsanforderungen:
 
-* Die Anzeige online (Web und Mobil) muss alle folgenden enthalten:
+* Die Online- (Web- und mobile) Anzeige muss alle folgenden Elemente enthalten:
 
    * Twitter-Logo
-   * Benutzername, @ handle, Avatar
-   * Unveränderter Tweet-Text
-   * Twitter-Aktionen (Antwort, Retweet, Gefällt mir)
+   * Benutzername, @handle, Avatar
+   * Unbearbeiteter Tweet-Text
+   * Twitter-Aktionen (Antworten, Retweet, Gefällt mir)
    * Zeitstempel
 
-* Passive Anzeige (Übertragung, Halle, digitale Abwesenheit) muss mindestens die folgenden beinhalten:
+* Die passive Anzeige (Sendung, lokale Anzeige, digitale Hilfe) muss mindestens Folgendes umfassen:
 
    * Twitter-Logo
-   * Text ohne Änderung des Tweets (kann die Links entfernen, falls nicht kontextbezogen)
-   * Benutzername und Handhabung
+   * unveränderter Tweet-Text (kann die Links entfernen, wenn sie nicht kontextuell relevant sind)
+   * Benutzername und Handle
 
-* Tweets können nicht in der Nähe der Werbung oder auf eine Weise verwendet werden, die eine Bestätigung impliziert.
-* Tweets oder Twitter-Inhalte können nur in einer Anzeige verwendet werden, wenn Sie eine ausdrückliche Zustimmung vom Benutzer haben.
+* Tweets können nicht in der Nähe von Werbung oder in einer Weise verwendet werden, die eine Billigung impliziert.
+* Tweets oder Twitter-Inhalte können nur mit ausdrücklicher Zustimmung des Benutzers in einer Anzeige verwendet werden.
