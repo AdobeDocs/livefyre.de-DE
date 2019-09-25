@@ -1,6 +1,6 @@
 ---
-description: Verwenden Sie Bootstrap und Stream-API mit Livefyre-Apps.
-seo-description: Verwenden Sie Bootstrap und Stream-API mit Livefyre-Apps.
+description: Verwenden Sie Bootstrap- und Stream-API mit Livefyre-Apps.
+seo-description: Verwenden Sie Bootstrap- und Stream-API mit Livefyre-Apps.
 seo-title: App-Implementierung
 solution: Experience Manager
 title: App-Implementierung
@@ -12,50 +12,50 @@ source-git-commit: b737f2c6afb03d91041a317cc0afb790c3eadcb1
 
 # App-Implementierung {#appimplementation}
 
-Anwendungsfall: Als Kunde möchte ich mithilfe der Livefyre. js-Methode Livefyre in meine Drittanbieter-CMS integrieren.
+Verwendungsfall: Als Kunde möchte ich Livefyre mithilfe der Livefyre.js-Methode in mein Drittanbieter-CMS integrieren.
 
-Es gibt drei Möglichkeiten, Livefyre in einer benutzerdefinierten AEM-Komponente oder anderen CMS-Beispielen wie &quot;wordpress&quot; ,&quot; Sitecore&quot; oder &quot;demandware&quot; zu implementieren: Designer App-Implementierung, API, Implementierung und Drittanbieter-Authentifizierungsintegration.
+Es gibt drei Möglichkeiten, Livefyre in eine benutzerdefinierte AEM-Komponente oder andere CMS-Komponenten wie WordPress, SiteCore oder DemandWare zu implementieren: Integration von Designer-App-Implementierung, -API, -Implementierung und Drittanbieter-Authentifizierung
 
-## Designer App-Implementierung {#designerapp}
+## Designer-App-Implementierung {#designerapp}
 
-Was: Einfachste und schnellste Möglichkeit zur Integration einer Livefyre-App. Sie können einen benutzerdefinierten Javascript-Einbettungscode entwerfen, konfigurieren und generieren, um eine Liveyfre-App in Minuten zu integrieren.
+Was: Einfachste und schnellste Integration einer Livefyre-App. Sie können einen benutzerdefinierten JavaScript-Einbettungscode entwerfen, konfigurieren und erstellen, um eine Liveyfre-App in wenigen Minuten auf einer Seite zu integrieren.
 
-Wie: [Erstellen, Anzeigen, Veröffentlichen und Einbetten einer Livefyre-App](/help/using/c-about-apps/c-create-an-app.md)
+Wie: Erstellen, Anzeigen einer Vorschau, Veröffentlichen und Einbetten einer Livefyre-App [](/help/using/c-about-apps/c-create-an-app.md)
 
 Beispiel: [https://codepen.io/dharafyre/pen/bvGrLo](https://codepen.io/dharafyre/pen/bvGrLo)
 
-### Livefyre. js-Implementierung {#livefyrejsimp}
+### Livefyre.js-Implementierung {#livefyrejsimp}
 
-Was: [Livefyre. js](/help/implementation/c-livefyre.js.md) ist die zentrale Bibliothek, die Apps und Auth auf einer Site anzeigt. Es definiert das globale `window.Livefyre` Objekt und eine einzelne öffentliche Methode, Livefyre. Anforderung, die zum Laden anderer Livefyre-javascript-Bibliotheken verwendet werden kann, die beim Einbetten von Livefyre-Apps und der Integration in die Plattformen der Benutzerauthentifizierung von Drittanbietern hilfreich sind.
+Was: [Livefyre.js](/help/implementation/c-livefyre.js.md) ist die Kernbibliothek, mit der Apps und Auth auf einer Site ausgeführt werden. Es definiert das globale `window.Livefyre` Objekt und eine einzige öffentliche Methode, Livefyre.require, die zum Laden anderer Livefyre JavaScript-Bibliotheken verwendet werden kann, die beim Einbetten von Livefyre-Apps und bei der Integration mit Auth-Plattformen von Drittanbietern helfen.
 
 Wie:
 
-* [Erstellen einer Sammlung mit dem collectionmeta-Token](/help/implementation/t-create-a-collectionmeta-token.md)
+* [Erstellen einer Sammlung mit dem CollectionMeta-Token](/help/implementation/t-create-a-collectionmeta-token.md)
 
-* Apps mit App-Integrationen in Drittanbieter-CMS integrieren
+* Integrieren von Apps in CMS von Drittanbietern mithilfe von App-Integrationen
 
 Beispiele:
 
-* Kommentare-App: [https://codepen.io/dharafyre/pen/oYoJdP](https://codepen.io/dharafyre/pen/oYoJdP)
+* Kommentar-App: [https://codepen.io/dharafyre/pen/oYoJdP](https://codepen.io/dharafyre/pen/oYoJdP)
 
-* Review-App: [https://codepen.io/dharafyre/pen/GXgvvd](https://codepen.io/dharafyre/pen/GXgvvd)
+* Reviews App: [https://codepen.io/dharafyre/pen/GXgvvd](https://codepen.io/dharafyre/pen/GXgvvd)
 
-* Medienpinnwand: [https://codepen.io/dharafyre/pen/dNMPvM](https://codepen.io/dharafyre/pen/dNMPvM)
+* Medienwall: [https://codepen.io/dharafyre/pen/dNMPvM](https://codepen.io/dharafyre/pen/dNMPvM)
 
-* Erweiterte Anpassungen mit dem SDK finden Sie unter streamhub sdks.
+* Informationen zu erweiterten Anpassungen mit dem SDK finden Sie unter StreamHub-SDKs.
 
 ## API-Implementierung {#apiimplementation}
 
-Zum Erstellen benutzerdefinierter Erlebnisse und Datenvisualisierungen können Livefyre-Apps von Grund auf neu erstellt werden, indem Livefyre und soziale Daten mithilfe der Bootstrap- und Stream-API genutzt werden.
+Zur Erstellung benutzerdefinierter Erlebnisse und Datenvisualisierungen können Livefyre-Apps von Grund auf erstellt werden, indem Livefyre- und Social-Daten mit der Bootstrap- und Stream-API genutzt werden.
 
-## Integration von Drittanbieter-Authentifizierung {#thirdpartyauth}
+## Integration der Drittanbieter-Authentifizierung {#thirdpartyauth}
 
-Informationen zu Livefyre-Apps, die Authentifizierung erfordern, finden Sie unter [Identitätsintegration](/help/implementation/t-about-identity-integration/t-about-identity-integration.md) für Authentifizierungsplattformen von Drittanbietern.
+Informationen zu Livefyre-Apps, die eine Authentifizierung erfordern, finden Sie unter [Identitätsintegration](/help/implementation/t-about-identity-integration/t-about-identity-integration.md) für Authentifizierungsplattformen von Drittanbietern.
 
 ## Kundenbeispiele {#customerexamples}
 
 Die folgenden Kunden implementierten Livefyre mit CMS-Integrationen von Drittanbietern:
 
-* [PGA-Tour Medienwall](https://www.pgatour.com/social-hub.html)
+* [PGA-Medienwall](https://www.pgatour.com/social-hub.html)
 
-* [Timeout](https://www.timeout.com/london/restaurants/forest-bar-kitchen#tab_panel_3)
+* [TimeOut](https://www.timeout.com/london/restaurants/forest-bar-kitchen#tab_panel_3)
