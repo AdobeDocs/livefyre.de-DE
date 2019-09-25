@@ -1,10 +1,10 @@
 ---
-description: Eine Beschreibung der Netzwerkklassenmethoden.
-seo-description: Eine Beschreibung der Netzwerkklassenmethoden.
+description: Eine Beschreibung der Methoden der Network-Klasse.
+seo-description: Eine Beschreibung der Methoden der Network-Klasse.
 seo-title: Netzwerkmethoden
 solution: Experience Manager
 title: Netzwerkmethoden
-uuid: f 237 fead -36 b 5-4 ea 1-bfdd -55194 d 3306 e 1
+uuid: f237fead-36b5-4ea1-bfdd-55194d3306e1
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,25 +13,25 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Netzwerkmethoden{#network-methods}
 
-Eine Beschreibung der Netzwerkklassenmethoden.
+Eine Beschreibung der Methoden der Network-Klasse.
 
-Die folgenden Methoden sind für das Netzwerkobjekt verfügbar:
+Für das Network-Objekt stehen die folgenden Methoden zur Verfügung:
 
-* [Setssl Network-Methode](#r_setssl_method)
-* [Buildlivefyretoken Network-Methode](#r_buildlivefyretoken_method)
-* [Builduserauthtoken Network-Methode](#r_builduserauthtoken_method)
-* [Validatelivefyretoken Network-Methode](#validatelivefyretoken_method)
-* [Setusersyncurl Network-Methode](#r_setusersyncurl_method)
-* [Syncuser-Netzwerkmethode](#r_syncuser_method)
-* [Netzwerkmethode geturn](#r_geturn_method)
-* [Geturnforuser-Netzwerkmethode](#r_geturnforuser_method)
-* [Getnetworkname-Netzwerkmethode](#r_getnetworkname_method)
-* [Getsite-Netzwerkmethode](#r_getsite_method)
+* [setSSL-Netzwerkmethode](#r_setssl_method)
+* [buildLivefyreToken-Netzwerkmethode](#r_buildlivefyretoken_method)
+* [buildUserAuthToken-Netzwerkmethode](#r_builduserauthtoken_method)
+* [validateLivefyreToken-Netzwerkmethode](#validatelivefyretoken_method)
+* [setUserSyncUrl-Netzwerkmethode](#r_setusersyncurl_method)
+* [syncUser-Netzwerkmethode](#r_syncuser_method)
+* [getUrn-Netzwerkmethode](#r_geturn_method)
+* [getUrnForUser-Netzwerkmethode](#r_geturnforuser_method)
+* [getNetworkName-Netzwerkmethode](#r_getnetworkname_method)
+* [getSite-Netzwerkmethode](#r_getsite_method)
 
-Jede dieser Methoden ist für die folgenden Codetypen verfügbar:
+Jede dieser Methoden steht für die folgenden Codetypen zur Verfügung:
 
-* Java 
-* Nodejs
+* Java
+* NodeJS
 * PHP
 * Python
 * Ruby
