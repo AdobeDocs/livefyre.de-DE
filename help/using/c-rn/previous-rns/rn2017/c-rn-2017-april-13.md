@@ -1,48 +1,48 @@
 ---
 description: Versionshinweise für die Version vom 13. April 2017.
 seo-description: Versionshinweise für die Version vom 13. April 2017.
-seo-title: 13. April 2017
-title: 13. April 2017
-uuid: abc 591 bd -3385-40 f 5-99 a 5-3 f 4 c 8 ee 4 dc 6 b
+seo-title: 13. April 2017
+title: 13. April 2017
+uuid: abc591bd-3385-40f5-99a5-3f4c8ee4dc6b
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 ---
 
 
-# 13. April 2017{#april}
+# April 13, 2017{#april}
 
 Versionshinweise für die Version vom 13. April 2017.
 
 ## Produktionsversion
 
-| **Ausgabentyp** | **Komponente** | **Versionshinweise** |
+| **Art des Problems** | **Komponente** | **Versionshinweise** |
 |---|---|---|
-| Bug | Apis | Es wurde ein Fehler behoben, durch den große Dateien über die API &quot;Beiträge zur Sammlung&quot; hochgeladen werden können. |
-| Bug | Apis | Es wurde ein Fehler behoben, durch den MP 4-Videos beim Hochladen der Medien-API nicht hochgeladen werden konnten. |
-| Bug | Bibliothek | Es wurde ein Fehler behoben, durch den Bibliothekssuchen mit Hashtags gelegentlich fehlschlugen. |
-| Bug | Maps | Es wurde ein Fehler in Maps behoben, der eine große Anzahl von Inhalten in Clustern auf ios-Geräten unterstützt. |
-| Verbesserung | Modq | Es wurde ein Fehler behoben, durch den neue Instagram-Aufgaben aktiviert werden, um effektiv im modq zu streamen. |
-| Bug | Mosaik | Es wurde ein Fehler behoben, der Benutzern ermöglichte, Änderungen an Mosaic-Apps in Designer erfolgreich vorzunehmen. |
-| Verbesserung | Rechte für Rechte | Es wurde ein neuer Berechtigungsstatus namens &quot;Anfrage fehlgeschlagen&quot; hinzugefügt, der hervorgehoben wird, wenn die Benachrichtigungen über Rechte für Rechte fehlschlagen. |
-| Bug | S 1-Einstellungen | Es wurde ein Fehler behoben, durch den die Möglichkeit, neue Inhaber und Moderatoren einzuladen, die nicht über ein bestehendes Kommentarkonto verfügten, deaktiviert wurde. |
-| Verbesserung | Einstellungen | Es wurde die Möglichkeit hinzugefügt, dass Kunden Spam-Moderationsregeln in Einstellungen erstellen können. |
-| Verbesserung | Social Search | Es wurde ein Fehler behoben, durch den VK.com nicht über URL-Social-Suchen angezeigt wurden. |
-| Bug | Storify 2 | Es wurde eine verbesserte Benutzerfreundlichkeitsverbesserung hinzugefügt, sodass durch fixierte Storify 2-Beiträge überlappende Pin- und Schließen-Symbole nicht gerendert werden, wenn die Option &quot;Permalinks in modaler Navigation anzeigen&quot; verwendet wird. |
-| Bug | Streams | Es wurde ein Fehler behoben, durch den das Banner &quot;App akzeptiert keine neuen Inhalte akzeptieren&quot; fälschlicherweise über Stream-Regelseiten angezeigt wurde. |
-| Verbesserung | Streams | Die Standardeinstellung der neu erstellten Stream-Regeln wurde geändert, um bei Bedarf SAFE-Regeln anzuwenden. |
-| Verbesserung | Streams (früher Regeln kuratieren) | Die Option &quot;Bestellungen&quot; wurde nur aus den Twitter-Stream-/Kuratierungsregeln entfernt, da als Bindestriche jetzt Twitter-Videos angezeigt werden. |
+| Fehler | APIs | Es wurde ein Fehler behoben, der dazu führte, dass große Dateien über die API "An Sammlung veröffentlichen"hochgeladen werden konnten. |
+| Fehler | APIs | Es wurde ein Fehler behoben, der verhinderte, dass MP4-Videos hochgeladen wurden, wenn die API zum Hochladen von Medien verwendet wurde. |
+| Fehler | Bibliothek | Es wurde ein Fehler behoben, durch den Bibliothekssuchen mit Hashtags gelegentlich fehlschlugen. |
+| Fehler | Karten | Es wurde ein Fehler in "Maps"behoben, durch den eine große Anzahl von Inhalten in Clustern auf iOS-Geräten unterstützt wurde. |
+| Verbesserung | ModQ | Es wurde ein Fehler behoben, durch den neue Instagram-Aufgaben effektiv im ModQ gestreamt werden konnten. |
+| Fehler | Mosaik | Es wurde ein Fehler behoben, durch den Benutzer erfolgreich Änderungen an Mosaic-Apps in Designer vornehmen konnten. |
+| Verbesserung | Berechtigungsanforderung | Es wurde ein neuer Anforderungsstatus mit der Bezeichnung "Anforderung fehlgeschlagen"hinzugefügt, der markiert, wenn Anforderungsmeldungen für Rechte nicht gesendet werden können. |
+| Fehler | S1-Einstellungen | Es wurde ein Fehler behoben, durch den neue Inhaber und Moderatoren, die kein Kommentarkonto hatten, nicht eingeladen werden konnten. |
+| Verbesserung | Einstellungen | Kunden können nun Spam-Moderationsregeln in den Einstellungen erstellen. |
+| Verbesserung | Social-Suche | Es wurde ein Fehler behoben, durch den VK.com-Beiträge nicht über URL Social-Suchen angezeigt wurden. |
+| Fehler | Storify 2 | Es wurde eine Verbesserung der Benutzerfreundlichkeit hinzugefügt, sodass fixierte Storify 2-Beiträge keine überlappenden Pin- und Schließen-Symbole darstellen, wenn die Option "Permalinks in Modal anzeigen"verwendet wird. |
+| Fehler | Streams | Es wurde ein Fehler behoben, der dazu führte, dass das Banner "App akzeptiert keinen neuen Inhalt"fälschlicherweise auf den Stream-Regelseiten angezeigt wurde. |
+| Verbesserung | Streams | Die Standardeinstellung neu erstellter Stream-Regeln wurde dahingehend geändert, dass SAFE-Regeln angewendet werden, wenn zutreffend. |
+| Verbesserung | Streams (zuvor kuratiert) | Die Option "Nur Reben"wurde aus den Twitter-Stream-/Kuratierungsregeln entfernt, da Reben jetzt als Twitter-Videos angezeigt werden. |
 
 ## UAT-Version
 
-| **Ausgabentyp** | **Komponente** | **Versionshinweise** |
+| **Art des Problems** | **Komponente** | **Versionshinweise** |
 |---|---|---|
-| Bug | App Designer | Es wurde ein Fehler behoben, durch den neue App-Titelnamen in verschiedenen Apps in Designer nicht gespeichert werden konnten. |
-| Bug | App Manager | Die Suchergebnisse wurden bei der Suche nach Artikel-ID in App Manager verbessert. |
-| Bug | Asset-Bibliothek | Es wurde ein Fehler behoben, durch den Unicode-Inhalte nicht gerendert wurden, wenn mehr Details zu einem Asset in der Bibliothek angezeigt wurden. |
-| Verbesserung | Mosaik | Das Erscheinungsbild der Details auf Mosaic-Karten wurde aktualisiert. |
+| Fehler | App-Designer | Es wurde ein Fehler behoben, durch den in Designer keine neuen App-Titel-Namen in verschiedenen Apps gespeichert werden konnten. |
+| Fehler | App Manager | Die Suchergebnisse bei der Suche nach Artikel-ID im App-Manager wurden verbessert. |
+| Fehler | Asset-Bibliothek | Es wurde ein Fehler behoben, der dazu führte, dass Unicode-Inhalte nicht dargestellt wurden, wenn mehr Details zu einem Asset in der Bibliothek angezeigt wurden. |
+| Verbesserung | Mosaik | Das Erscheinungsbild des Details-Modals auf Mosaikkarten wurde aktualisiert. |
 | Verbesserung | Mosaik | Es wurde eine neue Konfiguration in Mosaic Designer hinzugefügt, sodass Details auf einer Karte beim Klicken angezeigt werden können. |
-| Bug | Reviews | Es wurden einige Benutzerfreundlichkeitsfehler behoben, die beim Aktivieren des alwaysshoweditor-Parameters in der Review-App auftraten. |
-| Bug | Storify 2 | Es wurde ein Fehler behoben, durch den Storify 2-Einbettung bei Verwendung der requirejs-Bibliothek auf der Seite nicht möglich war. |
-| Bug | Streams | Es wurde ein Fehler behoben, durch den Regeln beim Klonen eines vorhandenen Streams nicht in einen neuen Stream kopiert werden konnten. |
+| Fehler | Reviews | Es wurden einige Benutzerfreundlichkeits-Fehler behoben, die beim Aktivieren des Parameters alwaysShowEditor in der Reviews-App auftraten. |
+| Fehler | Storify 2 | Es wurde ein Fehler behoben, der verhinderte, dass Storify 2-Einbettungen bei der Verwendung der requireJS-Bibliothek auf der Seite gerendert wurden. |
+| Fehler | Streams | Es wurde ein Fehler behoben, durch den Regeln beim Klonen eines vorhandenen Streams nicht in einen neuen Stream kopiert werden konnten. |
 
