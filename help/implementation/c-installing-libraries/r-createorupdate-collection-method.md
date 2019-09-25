@@ -1,19 +1,19 @@
 ---
-description: Versucht, diese Sammlung mit Livefyre zu erstellen oder zu aktualisieren. Gibt dieses Collection-Objekt zurück.
-seo-description: Versucht, diese Sammlung mit Livefyre zu erstellen oder zu aktualisieren. Gibt dieses Collection-Objekt zurück.
-seo-title: Createorupdate Collection-Methode
+description: Versuch, diese Sammlung mit Livefyre zu erstellen oder zu aktualisieren. Gibt dieses Collection-Objekt zurück.
+seo-description: Versuch, diese Sammlung mit Livefyre zu erstellen oder zu aktualisieren. Gibt dieses Collection-Objekt zurück.
+seo-title: createOrUpdate-Erfassungsmethode
 solution: Experience Manager
-title: Createorupdate Collection-Methode
-uuid: 1 fff 82 d 3-4 b 05-46 a 0-95 ca -3 eb 4 a 6256 cf 8
+title: createOrUpdate-Erfassungsmethode
+uuid: 1fff82d3-4b05-46a0-95ca-3eb4a6256cf8
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Createorupdate Collection-Methode{#createorupdate-collection-method}
+# createOrUpdate-Erfassungsmethode{#createorupdate-collection-method}
 
-Versucht, diese Sammlung mit Livefyre zu erstellen oder zu aktualisieren. Gibt dieses Collection-Objekt zurück.
+Versuch, diese Sammlung mit Livefyre zu erstellen oder zu aktualisieren. Gibt dieses Collection-Objekt zurück.
 
 ## Java-Beispiel {#section_nyl_ycs_rz}
 
@@ -21,7 +21,7 @@ Versucht, diese Sammlung mit Livefyre zu erstellen oder zu aktualisieren. Gibt d
 collection.createOrUpdate(); 
 ```
 
-## Nodejs-Beispiel {#section_xkd_gds_rz}
+## NodeJS-Beispiel {#section_xkd_gds_rz}
 
 ```
 collection.createOrUpdate(callback); 
@@ -33,7 +33,7 @@ collection.createOrUpdate(callback);
 $collection->createOrUpdate();
 ```
 
-## Python Example {#section_dwg_gds_rz}
+## Python-Beispiel {#section_dwg_gds_rz}
 
 ```
 collection.create_or_update() 
