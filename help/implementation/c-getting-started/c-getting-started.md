@@ -1,10 +1,10 @@
 ---
-description: Hier erfahren Sie, wie Sie eine voll funktionsfähige Livefyre-App erstellen. Erstellen Sie diese App, um die einfache Authentifizierung, die Weitergabe über soziale Netzwerke und die Ereignisverfolgung zu verarbeiten.
-seo-description: Hier erfahren Sie, wie Sie eine voll funktionsfähige Livefyre-App erstellen. Erstellen Sie diese App, um die einfache Authentifizierung, die Weitergabe über soziale Netzwerke und die Ereignisverfolgung zu verarbeiten.
-seo-title: Erste Schritte mit Livefyre-Integration
+description: Erfahren Sie, wie Sie mit dem Erstellen einer voll funktionsfähigen Livefyre-App beginnen können. Erstellen Sie diese App, um einfache Authentifizierung, Social Sharing und Ereignisverfolgung zu verarbeiten.
+seo-description: Erfahren Sie, wie Sie mit dem Erstellen einer voll funktionsfähigen Livefyre-App beginnen können. Erstellen Sie diese App, um einfache Authentifizierung, Social Sharing und Ereignisverfolgung zu verarbeiten.
+seo-title: Erste Schritte mit der Livefyre-Integration
 solution: Experience Manager
-title: Erste Schritte mit Livefyre-Integration
-uuid: babf 5 f 9 e-a 139-45 b 1-8 ae 9-bd 725820 bc 93
+title: Erste Schritte mit der Livefyre-Integration
+uuid: babf5f9e-a139-45b1-8ae9-bd725820bc93
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,15 +13,15 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Hier starten {#getting-started-with-livefyre-integration}
 
-Wenn Sie mit Livefyre beginnen, gehen Sie wie folgt vor:
+Wenn Sie mit Livefyre beginnen, werden Sie:
 
 * Führen Sie den [Implementierungsprozess](../c-getting-started/c-implementation-process/c-implementation-process.md#c_implementation_process)aus.
-* Entscheiden Sie sich für die Anwendungsfälle für die Implementierung von Livefyre-Apps.
-* Entscheiden Sie, ob Sie Visualisierungsapps, Konversationen oder beides verwenden möchten.
+* Entscheiden Sie sich für Ihren Anwendungsfall zur Implementierung von Livefyre-Apps.
+* Entscheiden Sie, ob Sie Visualisierungs-Apps, Konversations-Apps oder beides verwenden möchten.
 
-   Visualisierungsapps sind Apps, die Inhalte visuell darstellen, einschließlich Karussell, Filmstreifen, Medienpinnwand und Mosaic.
+   Visualisierungs-Apps sind Apps, die Inhalte visuell anzeigen, einschließlich Karussell, Filmstreifen, Medienwall und Mosaik.
 
-   Unterhaltungsapps sind Apps, die einen Site-Besucher beim Schreiben von Inhalten binden, die andere Site-Besucher lesen können, einschließlich Kommentare, Chat und Reviews.
+   Konversations-Apps sind Apps, die einen Site-Besucher dazu ansprechen, Inhalte zu schreiben, die andere Site-Besucher lesen können, einschließlich Kommentare, Chat und Reviews.
 
-* Entscheiden Sie, ob Sie Authentifizierung benötigen. Wenn Sie bereits über ein Benutzerverwaltungssystem verfügen (z. B. Janrain, Giya), können Sie es mit Livefyre integrieren. Wenn Sie nicht, können Sie Livefyre-Identität, ein integriertes, einfaches Benutzerverwaltungssystem verwenden. Weitere [Informationen zur Integration von Authentifizierung](../t-about-identity-integration/t-about-identity-integration.md#t_about_identity_integration).
+* Entscheiden Sie, ob Sie eine Authentifizierung benötigen. Wenn Sie bereits über ein Benutzerverwaltungssystem verfügen (z. B. Janrain, Giya), können Sie es in Livefyre integrieren. Wenn nicht, können Sie Livefyre Identity verwenden, ein integriertes, leichtes Benutzerverwaltungssystem. Weitere [Informationen zur Integration der Authentifizierung](../t-about-identity-integration/t-about-identity-integration.md#t_about_identity_integration).
 
