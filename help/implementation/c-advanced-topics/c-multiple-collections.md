@@ -1,10 +1,10 @@
 ---
-description: Präsentieren mehrerer Sammlungen auf einer einzelnen Seite.
-seo-description: Präsentieren mehrerer Sammlungen auf einer einzelnen Seite.
+description: Zeigen Sie mehrere Sammlungen auf einer Seite an.
+seo-description: Zeigen Sie mehrere Sammlungen auf einer Seite an.
 seo-title: Mehrere Sammlungen
 solution: Experience Manager
 title: Mehrere Sammlungen
-uuid: 9675 ffd 7-1 a 59-42 a 1-b 3 ba -40 af 1744 cfd 1
+uuid: 9675ffd7-1a59-42a1-b3ba-40af1744cfd1
 translation-type: tm+mt
 source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
 
@@ -13,11 +13,11 @@ source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
 
 # Mehrere Sammlungen {#multiple-collections}
 
-Präsentieren mehrerer Sammlungen auf einer einzelnen Seite.
+Zeigen Sie mehrere Sammlungen auf einer Seite an.
 
-Sie können mehrere Sammlungen auf einer einzelnen Seite Ihrer Site einfügen. Um ein Ereignis zu veröffentlichen, können Sie beispielsweise während des Ereignisses ein Live-Blog oder eine Chat-Diskussion mit einer separaten App auf der Seite einrichten, die verwandte kuratierte Inhalte aus dem Social Web anzeigt. Sie können auch eine Kommentarapp unter einem Artikel mit einem Chat nach rechts einfügen.
+Sie können mehrere Sammlungen auf einer einzelnen Seite Ihrer Site hinzufügen. Um beispielsweise ein Ereignis zu veröffentlichen, haben Sie während der Veranstaltung möglicherweise eine Live-Blog- oder Chat-Diskussion mit einer separaten App auf der Seite, die zugehörige kuratierte Inhalte aus dem gesamten Social Web anzeigt. Sie können auch eine Kommentar-App unterhalb eines Artikels mit einem Chat an der Seite einfügen.
 
-Um mehrere Unterhaltungen auf einer Seite zu erhalten, fügen Sie eine oder mehrere Konfigurationen in einem Array hinzu und übergeben Sie das Array an den Ladenaufruf. Beispiel:
+Um mehrere Konversationen auf einer Seite abzurufen, fügen Sie eine oder mehrere Konfigurationen in einem Array hinzu und übergeben Sie das Array an den Ladeaufruf. Beispiel.
 
 ```
 <html> 
