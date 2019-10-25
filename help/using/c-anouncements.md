@@ -6,12 +6,18 @@ solution: Experience Manager
 title: Mitteilungen
 uuid: c05963db-4d96-494e-bdb3-da3570a14dfe
 translation-type: tm+mt
-source-git-commit: 087a40bf77c3b630acb661b58ffa8cfdedc0aec0
+source-git-commit: 82fde64518079ba1f08f4676449ec0e087ca1f36
 
 ---
 
 
 # Mitteilungen{#announcements}
+
+## 25. Oktober 2019
+
+Am 4. September 2019 hat Facebook unerwartet den Zugriff auf bestimmte Berechtigungen und Funktionen aus dem Livefyre-Arbeitsablauf entfernt, wodurch die Suche und Streaming von Facebook-Inhalten unterbrochen wurde. Wenn Ihre App Zugriff auf publish_pages, user_friends oder den Zugriff auf öffentliche Inhalte einer Seite benötigt, fordern Sie diese bitte im Rahmen des bestehenden App-Überprüfungsprozesses an. Wir haben formell den Zugriff auf diese Berechtigungen angefordert und warten auf die Genehmigung von Facebook. Wir informieren Sie, sobald die Genehmigung erteilt wurde und die Inhalte wieder verfügbar sind.
+
+Inhalte, die bereits auf Ihrer Website(s) veröffentlicht wurden, werden nicht beeinträchtigt.
 
 ## 11. Juni 2019
 
