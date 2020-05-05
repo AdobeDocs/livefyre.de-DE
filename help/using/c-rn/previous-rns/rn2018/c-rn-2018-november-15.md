@@ -2,11 +2,11 @@
 description: Versionshinweise für die Version vom 15. November 2018.
 seo-description: Versionshinweise für die Version vom 15. November 2018.
 seo-title: Versionshinweise
-solution: Experience Manager
+solution: Experience Manager
 title: Versionshinweise
 uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: 573e815799fbae2c2c4f1d98a01ea0ae04108a34
 
 ---
 
@@ -29,11 +29,11 @@ Die folgenden neuen Funktionen wurden in der Produktionsversion dieser Version v
 
    * Weitere Informationen zu Instagram-Konten, die Sie einrichten und über Instagram anfordern müssen, finden Sie unter [Info zu Instagram-Konten](/help/using/c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md).
 
-* **Die automatische Überwachung von Verwendungsrechten fordert Antworten für kontenbasierte Suchen an.** Nur für datenbankbasierte Suchvorgänge - die Möglichkeit, Antworten auf Berechtigungsanfragen automatisch zu überwachen und den Aktivitätsverlauf in Livefyre zu aktualisieren, ist verfügbar.
+* **Die automatische Überwachung von Verwendungsrechten fordert Antworten für kontenbasierte Suchen an.** Nur für datenbankbasierte Suchvorgänge - die Möglichkeit, Antworten auf Berechtigungsanfragen automatisch zu überwachen und den Verlauf der Aktivität in Livefyre zu aktualisieren, ist verfügbar.
 
 Weitere Informationen zum Anfordern von Rechten für Instagram-Konten finden Sie unter [Senden von Instagram-Rights-Anfragen manuell](/help/using/c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md) und [Senden einer teilweise automatisierten Instagram-Rights-Anforderung](/help/using/c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md).
 
-* **Adobe Target-Integration.** Die Integration mit Adobe Target wurde hinzugefügt, sodass Sie Livefyre-Apps direkt in Ihrer Adobe Target-Angebotsbibliothek freigeben können. Weitere Informationen zur Verwendung von Livefyre mit Adobe Target finden Sie in der [Target-Dokumentation](https://marketing.adobe.com/resources/help/en_US/livefyre/livefyre-target.html).
+* **Adobe Target-Integration.** Die Integration mit Adobe Zielgruppe wurde hinzugefügt, sodass Sie Livefyre-Apps direkt in Ihrer Adobe Zielgruppe Angebots Library freigeben können. Weitere Informationen zur Verwendung von Livefyre mit Adobe Zielgruppe finden Sie in der Dokumentation zur [Zielgruppe](hhttps://docs.adobe.com/content/help/en/livefyre/using/library/livefyre-target.html).
 
 ## Probleme {#section_ehw_ndt_wcb}
 
@@ -43,12 +43,12 @@ Die Probleme in den folgenden Tabellen wurden in dieser Version behoben.
 
 | Art des Problems | Komponente | Versionshinweise |
 |--- |--- |--- |
-| Fehler | AppService:Livefyre-Identität | Es wurde ein Problem behoben, bei dem auf [! UICONTROL Zurücksetzen auf Standard] hat das Logo unter "Login Modal in Studio &gt; Integrationseinstellungen &gt; Livefyre Identity"nicht auf das Standardbild zurückgesetzt. |
+| Fehler | AppService: Livefyre-Identität | Es wurde ein Problem behoben, bei dem auf [! UICONTROL Zurücksetzen auf Standard] hat das Logo unter &quot;Login Modal in Studio > Integrationseinstellungen > Livefyre Identity&quot;nicht auf das Standardbild zurückgesetzt. |
 | Fehler | Bibliothek | Es wurde ein Problem behoben, bei dem ein Video, das in die Bibliothek hochgeladen und dann im Detail angezeigt wurde, nicht korrekt angezeigt wurde. |
 | Fehler | Streams | Es wurde ein Fehler behoben, der verhinderte, dass Produkte in einer Stream-Regel angezeigt wurden. |
 | Fehler | Streams | Es wurde ein Problem behoben, bei dem Produkt-Tags für eine Stream-Regel nicht verfügbar waren. |
 | Verbesserung | Studio | Es wurde ein Problem behoben, bei dem die Produkt-ID nicht in Livefyre Studio angezeigt wurde. |
-| Fehler | Studio:ModQ | Es wurde ein Problem behoben, bei dem gelöschte Inhalte nach dem Löschen weiterhin in ModQ angezeigt wurden. |
+| Fehler | Studio: ModQ | Es wurde ein Problem behoben, bei dem gelöschte Inhalte nach dem Löschen weiterhin in ModQ angezeigt wurden. |
 
 ### UAT-Version
 
