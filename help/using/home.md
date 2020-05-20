@@ -1,19 +1,22 @@
 ---
 seo-title: Livefyre-Benutzerhandbuch
-solution: Experience Manager
+solution: Experience Manager
 title: Livefyre-Benutzerhandbuch
 uuid: ccdede9b-88d3-4e6e-9105-662e984002d5
 translation-type: tm+mt
-source-git-commit: 155791af94c277e7afdbd51521e00da77169911e
+source-git-commit: 3664bc1c51d2b372c358385127a1ca9c2f0cfef8
+workflow-type: tm+mt
+source-wordcount: '102'
+ht-degree: 4%
 
 ---
 
 
-# Experience Manager Livefyre Benutzerhandbuch {#livefyre-help}
+# Livefyre-Benutzerhandbuch {#livefyre-help}
 
 Verwenden Sie Livefyre Studio, um Apps zu erstellen, benutzerdefinierte Inhalte zu sammeln und Inhalte zu moderieren.
 
-Informationen zum Implementieren und Anpassen von Livefyre-Apps mithilfe von Entwicklerwerkzeugen auf Ihrer Site finden Sie im [*Adobe Experience Manager Livefyre-Implementierungshandbuch*](/help/implementation/home.md).
+Informationen zum Implementieren und Anpassen von Livefyre-Apps mithilfe von Entwicklerwerkzeugen auf Ihrer Site finden Sie im [*Adobe Experience Manager Livefyre-Implementierungshandbuch *](/help/implementation/home.md).
 
 ## Häufige Themen
 
@@ -25,12 +28,12 @@ Informationen zum Implementieren und Anpassen von Livefyre-Apps mithilfe von Ent
 
 * [Arbeiten mit Apps](c-about-apps/c-about-apps.md#c_about_apps)
 
-   Erstellen und veröffentlichen Sie Livefyre-Apps (einschließlich Kommentare).
+   Erstellen und veröffentlichen Sie Livefyre-Apps (einschließlich Kommentaren).
 
 * [Verwenden von Livefyre-Apps mit Adobe Experience Manager](https://helpx.adobe.com/experience-manager/6-4/sites/administering/using/livefyre.html)
 
 
-* [Verwenden von Livefyre mit Adobe Target](/help/using/c-library/livefyre-target.md)
+* [Verwenden von Livefyre mit Adobe Zielgruppe](/help/using/c-library/livefyre-target.md)
 
 * [Verwenden von Livefyre mit Adobe Launch Livefyre Extension](https://docs.adobelaunch.com/extension-reference/web/adobe-livefyre-extension)
 
