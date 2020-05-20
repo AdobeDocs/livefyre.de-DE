@@ -1,14 +1,17 @@
 ---
 product: livefyre
 audience: end-user
-user-guide-title: Experience Manager Livefyre Implementierungshandbuch
+user-guide-title: Livefyre-Implementierungshandbuch
 translation-type: tm+mt
-source-git-commit: d2a3bad7f0009d04be0e17802d17409f16c1b779
+source-git-commit: 3664bc1c51d2b372c358385127a1ca9c2f0cfef8
+workflow-type: tm+mt
+source-wordcount: '543'
+ht-degree: 4%
 
 ---
 
 
-# Experience Manager Livefyre Implementierungshandbuch {#implementation}
+# Livefyre-Implementierungshandbuch {#implementation}
 
 + [Livefyre-Implementierungshandbuch](home.md)
 + Erste Schritte {#getting-started}
@@ -20,7 +23,7 @@ source-git-commit: d2a3bad7f0009d04be0e17802d17409f16c1b779
       + [Implementieren von Livefyre mit Integration von Drittanbietern](c-app-integrations/implement-livefyre-3rd-party.md)
       + [Architektur](c-getting-started/c-implementation-process/c-architecture.md)
       + [Eine App einbetten](c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md)
-      + [Hinzufügen einer Authentifizierung zu einer App mit Livefyre.js](c-getting-started/c-implementation-process/c-add-authetication-to-an-app-using-livefyre.js.md)
+      + [Hinzufügen einer App mithilfe von Livefyre.js](c-getting-started/c-implementation-process/c-add-authetication-to-an-app-using-livefyre.js.md)
       + [Serverseitige Tokens erstellen](c-getting-started/c-implementation-process/c-build-server-side-tokens.md)
       + [CollectionMeta-Token](c-getting-started/c-implementation-process/c-collectionmeta-tokent.md)
       + [Auth-Token des Benutzers](c-getting-started/c-implementation-process/c-user-auth-token.md)
@@ -35,7 +38,7 @@ source-git-commit: d2a3bad7f0009d04be0e17802d17409f16c1b779
       + [Implementierung der SSO](t-about-identity-integration/c-implementing-sso/c-implementing-sso.md)
       + [Debuggen des Auth-Delegates](t-about-identity-integration/c-implementing-sso/c-debugging-auth.md)
    + Synchronisieren mit Livefyre {#sync-ping-for-pull}
-      + [Mit Livefyre mit Ping synchronisieren](t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/t-sync-with-livefyre-using-ping-for-pull.md)
+      + [Synchronisieren mit Livefyre mit Ping für Pull](t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/t-sync-with-livefyre-using-ping-for-pull.md)
       + [Pull-Endpunkt erstellen](t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/t-build-the-pull-endpoint.md)
       + [Endpunkt mit Studio registrieren](t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/c-register-the-endpoint-with-studio.md)
       + [Ping erstellen](t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/t-build-the-ping.md)
@@ -52,7 +55,7 @@ source-git-commit: d2a3bad7f0009d04be0e17802d17409f16c1b779
       + [Erstellen einer Microsoft Live-Identitäts-App zur Verwendung mit Livefyre-Identität](c-livefyre-identity-comp/t-create-a-microsoft-live-id-app-for-use-with-livefyre-identity.md)
       + [Erstellen einer LinkedIn-App zur Verwendung mit Livefyre-Identität](c-livefyre-identity-comp/t-create-a-linkedin-app-for-use-with-livefyre-identity.md)
       + [Erstellen einer GitHub-Identitätsanwendung zur Verwendung mit Livefyre-Identität](c-livefyre-identity-comp/c-create-a-github-identity.md)
-      + [Mit Studio verbinden Sie Ihre Social-Apps mit Ihrer Livefyre-Implementierung](c-livefyre-identity-comp/t-using-studio-to-connect-your-social-apps-to-your-livefyre-implementation.md)
+      + [Verwenden von Studio zum Verbinden Ihrer Social-Apps mit Ihrer Livefyre-Implementierung](c-livefyre-identity-comp/t-using-studio-to-connect-your-social-apps-to-your-livefyre-implementation.md)
    + [Hinzufügen von Livefyre.js zur Seite](c-livefyre-identity-comp/t-add-livefyre.js-to-the-page.md)
    + [Livefyre-Identität initialisieren](c-livefyre-identity-comp/t-initialize-livefyre-identity.md)
    + [E-Mails für Livefyre-Identität](c-livefyre-identity-comp/c-emails-for-livefyre-identity.md)
@@ -104,7 +107,7 @@ source-git-commit: d2a3bad7f0009d04be0e17802d17409f16c1b779
    + Sir {#sidenotes}
       + [Integration von Sizilien](c-app-integrations/c-sidenotes-integration/r-sidenotes-integration.md)
       + [Hinzufügen von Sidemarken zu einer Seite](c-app-integrations/c-sidenotes-integration/r-adding-sidenotes-to-a-page.md)
-      + [Sizilien-App-Ereignisse](c-app-integrations/c-sidenotes-integration/r-app-events.md)
+      + [Sizilien-App-Ereignis](c-app-integrations/c-sidenotes-integration/r-app-events.md)
       + [Sidebar-Konfigurationsoptionen](c-app-integrations/c-sidenotes-integration/r-configuration-options.md)
       + [Benutzerdefinierte Stile](c-app-integrations/c-sidenotes-integration/r-custom-styles.md)
       + [Benutzerdefinierte Zeichenfolgen für Sidebar](c-app-integrations/c-sidenotes-integration/r-custom-strings.md)
@@ -139,12 +142,12 @@ source-git-commit: d2a3bad7f0009d04be0e17802d17409f16c1b779
       + [Hinzufügen von Benutzern zu Gruppen](c-app-customizations/c-adding-users-to-groups.md)
    + Benutzerdefinierte Stile anwenden {#apply-custom-styles}
       + [Anwenden benutzerdefinierter Stile](c-app-customizations/c-applying-custom-styles-.md)
-      + [Benutzerdefinierte Schaltflächen hinzufügen](c-app-customizations/t-add-custom-buttons.md)
+      + [Hinzufügen benutzerdefinierter Schaltflächen](c-app-customizations/t-add-custom-buttons.md)
    + JavaScript-Ereignisse {#javascript-events}
-      + [Definitionen und Beispiele zu JavaScript-Ereignissen](c-app-customizations/c-javascript-events.md)
+      + [JavaScript-Ereignisse - Definitionen und Beispiele](c-app-customizations/c-javascript-events.md)
       + [JavaScript-Ereignisse für Visualisierungs-Apps](c-app-customizations/c-javascript-events-for-visualization-apps.md)
-      + [JavaScript-Ereignisse für Medienwall](c-app-customizations/c-javascript-events-media-wall.md)
-      + [JavaScript-Ereignisse für Konvertierungs-Apps](c-app-customizations/c-javascript-events-for-conversation-apps.md)
+      + [JavaScript-Ereignisse für Media Wall](c-app-customizations/c-javascript-events-media-wall.md)
+      + [JavaScript-Ereignis für Konvertierungs-Apps](c-app-customizations/c-javascript-events-for-conversation-apps.md)
    + [Kommentaranwendung einbetten](c-app-customizations/c-embed-a-comments-app.md)
    + [Verweisverfolgung](c-app-customizations/c-referral-tracking.md)
    + [Geräte- und Browserunterstützung](c-app-customizations/c-device-and-browser-support.md)
@@ -154,12 +157,12 @@ source-git-commit: d2a3bad7f0009d04be0e17802d17409f16c1b779
    + [Analytics](livefyre-analytics/livefyre-analytics.md)
    + [Verwenden von Livefyre mit Adobe Analytics und dem dynamischen Tag-Manager (DTM)](livefyre-analytics/c-use-livefyre-with-adobe-analytics.md)
    + [Verwenden von Livefyre mit anderen Analysetools](livefyre-analytics/c-livefyre-analytics.md)
-   + [Livefyre-Analytics-Ereignisse](livefyre-analytics/c-livefyre-analytics-events.md)
+   + [Livefyre Analytics-Ereignis](livefyre-analytics/c-livefyre-analytics-events.md)
 + [Integration von Livefyre mit AEM](c-livefyre-aem-integration.md)
 + Erweiterte Themen {#advanced-topics}
    + [Anzahl angezeigter Kommentare](c-advanced-topics/t-display-comment-count.md)
    + [Social Sharing aktivieren](c-advanced-topics/c-enabling-social-sharing.md)
-   + [Aktivitäts-Stream](c-advanced-topics/c-activity-stream.md)
+   + [Aktivitäten-Stream](c-advanced-topics/c-activity-stream.md)
    + [Bootstrap-HTML](c-advanced-topics/c-bootstrap-html.md)
    + [Sammlung ändern](c-advanced-topics/c-change-collection.md)
    + [Mehrere Sammlungen](c-advanced-topics/c-multiple-collections.md)
