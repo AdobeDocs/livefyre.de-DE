@@ -2,11 +2,14 @@
 description: Livefyre bietet mehrere Benutzertypen mit unterschiedlichen Berechtigungen.
 seo-description: Livefyre bietet mehrere Benutzertypen mit unterschiedlichen Berechtigungen.
 seo-title: Benutzerrollen und Berechtigungen
-solution: Experience Manager
+solution: Experience Manager
 title: Benutzerrollen und Berechtigungen
 uuid: d9261cfd-ae60-40d8-9816-25aef541506f
 translation-type: tm+mt
-source-git-commit: 30aa5cce5e7567208362cc35caeb7b7260c42f3b
+source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+workflow-type: tm+mt
+source-wordcount: '257'
+ht-degree: 0%
 
 ---
 
@@ -24,32 +27,32 @@ Die folgenden Benutzerrollen und aufgelisteten Zugriffsberechtigungen sind in St
 * **Studio-Administrator**
    * Zugriff auf alle Rechte und Berechtigungen in Studio
    * Benutzerrollen verwalten
-   * Anzeigen und Bearbeiten von Integrationseinstellungen
-   * Alle öffentlichen und privaten Ordner, Apps und Streams anzeigen und bearbeiten
+   * Ansicht und Bearbeiten der Integrationseinstellungen
+   * Ansicht und Bearbeitung aller öffentlichen und privaten Ordner, Apps und Streams
 
 * **Studio Manager**
    * Neue Sites erstellen
    * Benutzer zu Studio einladen
-   * Benutzerrollen anzeigen und bearbeiten
+   * Ansicht und Bearbeitung von Benutzerrollen
    * Browser und IP-Adressen verbieten
 
 * **Asset Manager**
    * Hinzufügen von Assets zur Bibliothek mithilfe der Social-Suche
    * Erstellen und Bearbeiten von Streams, die an freigegebene Ordner angeschlossen werden
-   * Freigegebene Ordner und Assets in freigegebenen Ordnern erstellen und bearbeiten
+   * Freigegebene Ordner und die Assets in freigegebenen Ordnern erstellen und bearbeiten
 
 * **User Manager**
-   * Details zum Endbenutzerkonto anzeigen und bearbeiten
-   * Endbenutzer von Verboten oder Whitelist
+   * Ansicht und Bearbeitung der Kontodetails für Endbenutzer
+   * Endbenutzer mit oder ohne Liste zulassen
 
-* **** Data Manager: gewährt Zugriff auf die Verwendung des Livefyre Analytics-Dashboards.
-* **App Manager**
+* **Data Manager:** gewährt Zugriff auf die Verwendung des Livefyre Analytics-Dashboards.
+* **App-Manager**
    * Apps erstellen und bearbeiten
    * Erstellen und Bearbeiten von Streams, die auf Apps verweisen
-   * Hinzufügen von Assets direkt zu Apps mithilfe der Social-Suche
+   * Hinzufügen von Assets mit der Social-Suche direkt in Apps
 
 * **Content Manager:**
-   * Anzeigen und Moderieren von Inhalten auf der Seite "App-Inhalt"
+   * Ansicht und Moderation von Inhalten auf der Seite &quot;App-Inhalt&quot;
    * Hinzufügen und Bearbeiten von Tags, Flags, Notizen und Rights-Anfragen für Inhalte
 
 * **Moderator:**
