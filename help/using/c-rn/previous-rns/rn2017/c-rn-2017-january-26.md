@@ -5,7 +5,10 @@ seo-title: 26. Januar 2017
 title: 26. Januar 2017
 uuid: 5a04d31d-a26d-4369-8deb-adc3e28dfece
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+workflow-type: tm+mt
+source-wordcount: '287'
+ht-degree: 8%
 
 ---
 
@@ -33,10 +36,10 @@ Versionshinweise für die Version vom 26. Januar 2017.
 |--- |--- |--- |
 | Fehler | ModQ | Es wurde ein Fehler behoben, der verhinderte, dass E-Mail-Subjekte nicht im E-Mail-Stream-Inhalt angezeigt wurden. |
 | Fehler | Mosaik | Mosaic wurde zusätzliche Barrierefreiheitsunterstützung hinzugefügt, damit Benutzer die Registerkarte zwischen Inhaltskarten wechseln können. |
-| Fehler | Reviews | Fixed a bug that was preventing rating edits to appear appropriately. |
+| Fehler | Reviews | Es wurde ein Fehler behoben, der verhinderte, dass Rating-Bearbeitungen korrekt angezeigt wurden. |
 | Fehler | Social-Suche | Es wurde ein Fehler behoben, der dazu führte, dass die Schaltfläche Mehr anzeigen in den Suchergebnissen der Twitter-Liste abgeschnitten wurde. |
 | Fehler | Streams | Verbesserter Inhalt (Bilder und Videos) aus E-Mail-Stream-Regeln, der über HTTPS verfügbar ist. |
-| Verbesserung | Streams | Die Einstellung der Option "Nur verifizierte Konten"wurde entsprechend angepasst und ist standardmäßig deaktiviert. |
-| Fehler | Streams | Es wurde ein Fehler behoben, der dazu führte, dass die Einstellungen "Vormäßig"und "Medien vormäßig"in eine neu erstellte Stream-Regel übernommen wurden. |
-| Verbesserung | Streams | Es wurde eine neue Funktion hinzugefügt, mit der Inhaltskategorien (über eine Stream-Regel) in die Positivliste eingetragen werden können und Moderationen umgangen werden können. |
+| Verbesserung | Streams | Die Einstellung der Option &quot;Nur verifizierte Konten&quot;wurde entsprechend angepasst und ist standardmäßig deaktiviert. |
+| Fehler | Streams | Es wurde ein Fehler behoben, der dazu führte, dass die Einstellungen &quot;Vormäßig&quot;und &quot;Medien vormäßig&quot;in eine neu erstellte Stream-Regel übernommen wurden. |
+| Verbesserung | Streams | Es wurde eine neue Funktion hinzugefügt, mit der Kategorien von Inhalten (über eine Stream-Regel) zugelassen und die Moderation umgangen werden können. |
 
