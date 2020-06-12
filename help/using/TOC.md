@@ -3,7 +3,7 @@ product: livefyre
 audience: end-user
 user-guide-title: Livefyre-Dokumentation
 translation-type: tm+mt
-source-git-commit: 3664bc1c51d2b372c358385127a1ca9c2f0cfef8
+source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
 workflow-type: tm+mt
 source-wordcount: '843'
 ht-degree: 5%
@@ -188,7 +188,7 @@ ht-degree: 5%
    + [Inhalte veröffentlichen](c-library/t-publish-content.md)
    + [Registerkarte &quot;App-Inhalt&quot;](c-library/c-app-content.md)
    + [Verwenden von Adobe Experience Manager Livefyre mit Hootsuite](c-library/c-hootsuite-livefyre.md)
-   + [Adobe Experience Manager Livefyre mit Adobe Zielgruppe verwenden](c-library/livefyre-target.md)
+   + [Adobe Experience Manager Livefyre mit Adobe Target verwenden](c-library/livefyre-target.md)
    + [Adobe Launch Livefyre Extension verwenden](c-library/launch-extension.md)
 + Streams {#streams}
    + [Streams](c-streams/c-streams.md)
@@ -220,7 +220,7 @@ ht-degree: 5%
    + [Benutzer suchen](c-users/t-search-for-users.md)
    + [Ansicht der Kontodetails](c-users/c-viewing-account-details.md)
    + [Benutzer sperren](c-users/t-ban-a-user.md)
-   + [Whitelist für Benutzer](c-users/t-whitelist-a-user.md)
+   + [Zulassen von Listen](c-users/allow-list-a-user.md)
    + [Benutzerkonten verknüpfen](c-users/t-link-user-accounts.md)
    + [Benutzer wechseln zwischen Netzwerken](c-users/c-users-switching-networks.md)
    + [Benutzersynchronisierung](c-users/t-set-up-user-sync.md)
