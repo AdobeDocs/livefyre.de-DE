@@ -1,19 +1,22 @@
 ---
-description: Auf der Registerkarte "Moderation"können Sie Vormoderationsregeln für eingehende Inhalte festlegen, einschließlich Profitabilität, Flag-Regeln und verbotenen IP-Adressen.
-seo-description: Auf der Registerkarte "Moderation"können Sie Vormoderationsregeln für eingehende Inhalte festlegen, einschließlich Profitabilität, Flag-Regeln und verbotenen IP-Adressen.
+description: Auf der Registerkarte "Moderation"können Sie Vormoderationsregeln für eingehende Inhalte festlegen, einschließlich profanativer Listen, Flag-Regeln und verbotener IP-Adressen.
+seo-description: Auf der Registerkarte "Moderation"können Sie Vormoderationsregeln für eingehende Inhalte festlegen, einschließlich profanativer Listen, Flag-Regeln und verbotener IP-Adressen.
 seo-title: Einrichten der Moderation
-solution: Experience Manager
+solution: Experience Manager
 title: Einrichten der Moderation
 uuid: 0ec53fdb-08c2-4058-88cb-2f6f4b56a95b
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+workflow-type: tm+mt
+source-wordcount: '1299'
+ht-degree: 0%
 
 ---
 
 
 # Einrichten der Moderation{#setting-up-moderation}
 
-Auf der Registerkarte "Moderation"können Sie Vormoderationsregeln für eingehende Inhalte festlegen, einschließlich Profitabilität, Flag-Regeln und verbotenen IP-Adressen.
+Auf der Registerkarte &quot;Moderation&quot;können Sie Vormoderationsregeln für eingehende Inhalte festlegen, einschließlich profanativer Listen, Flag-Regeln und verbotener IP-Adressen.
 
 ## Funktionsweise der Moderation {#section_kyf_gvc_t1b}
 
@@ -21,23 +24,23 @@ Sie können Inhalte wie folgt moderieren:
 
 * Automatisches Vormoderieren von Inhalten, um unerwünschte Inhalte basierend auf Regeln auszufiltern, die Sie vor der Veröffentlichung des Inhalts eingerichtet haben.
 * Löschen oder genehmigen Sie Inhalte, die mit der automatischen Vormoderation unter Verwendung von ModQ- oder App-Inhalten in der Bibliothek gekennzeichnet wurden.
-* Identifizieren Sie Site-Besucher, die wiederholt anstößige Inhalte veröffentlichen, um zu verhindern, dass diese veröffentlicht werden, indem Sie bestimmte Livefyre-Benutzer, soziale Benutzer oder IP-Adressen verbieten.
-* Identifizieren Sie Personen und Inhalte, die immer angezeigt werden können, indem Sie Benutzer in der Positivliste registrieren oder Filter für bestimmte Streams, Sites oder Netzwerke deaktivieren.
+* Identifizieren Sie Site-Besucher, die wiederholt anstößige Inhalte veröffentlichen, um zu verhindern, dass diese veröffentlicht werden, indem Sie bestimmte Livefyre-Benutzer, Social-Benutzer oder IP-Adressen verbieten.
+* Identifizieren Sie Personen und Inhalte, die immer angezeigt werden können, indem Sie Benutzer in der Liste zulassen oder Filter für bestimmte Streams, Sites oder Netzwerke deaktivieren.
 
-Sie können Inhalte wie folgt automatisch vormoderieren:
+Sie können Inhalte auf folgende Weise automatisch vormoderieren:
 
 * Richten Sie Regeln ein, um bestimmte Inhaltstypen automatisch zu kennzeichnen:
 
-   * Richten Sie Flag-Regeln für Inhalte ein, die durch das Flag der Site-Besucher mit **[!UICONTROL Settings > Moderation > Rules]**
+   * Richten Sie Flag-Regeln für Inhalte ein, die durch das Flag &quot;Site-Besucher&quot;gekennzeichnet werden, indem Sie **[!UICONTROL Settings > Moderation > Rules]**
    * Einrichten von SAFE-Regeln mithilfe von **[!UICONTROL Settings > Moderation > Rules]**
    * Verbieten Sie bestimmten Twitter-Benutzern die Verwendung von **[!UICONTROL Settings > Streams]**
    * IP-Adressen mit **[!UICONTROL Settings > Bans]**
    * IP-Regionen nach Ländercode auf Anfrage verbieten Verbotene Inhalte werden als SPAM gekennzeichnet.
 
-* Erstellen Sie eine Liste der Wörter, die Sie als gewinnbringend erachten, in der Liste "Profitabilität"unter **[!UICONTROL Settings > Moderation > Rules]** Netzwerk oder Site.
-* Whitelist-Benutzer (erlauben Sie immer, dass Inhalte von diesen Benutzern angezeigt werden), indem Sie Filter für bestimmte Streams, Sites oder Netzwerke verwenden oder deaktivieren.
+* Erstellen Sie eine Liste von Wörtern, die Sie in der Profanity-Liste unter **[!UICONTROL Settings > Moderation > Rules]** für Ihr Netzwerk oder Ihre Site als gewinnbringend betrachten.
+* Benutzer mit zulässiger Liste (erlauben Sie immer die Anzeige von Inhalten dieser Benutzer), indem sie Filter für bestimmte Streams, Sites oder Netzwerke verwenden oder deaktivieren.
 
-Nachdem Sie Ihre Profillisten, SAFE-Filter und Regeln eingerichtet haben, können Sie festlegen, ob Inhalte vormoderiert werden sollen, und die SAFE-Filter in Streams anwenden. Weitere Informationen finden Sie unter [Stream-Regeloptionen für alle Stream-Regeln](/help/using/c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).
+Nachdem Sie Ihre Profanity-Listen, SAFE-Filter und -Regeln eingerichtet haben, können Sie auswählen, ob Sie Inhalte vormoderieren möchten, und die SAFE-Filter in Streams anwenden. Weitere Informationen finden Sie unter [Stream-Regeloptionen für alle Stream-Regeln](/help/using/c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).
 
 Livefyre kennzeichnet Inhalt als **[!UICONTROL Approved]**, **[!UICONTROL Pending]**, **[!UICONTROL Junk]** usw. abhängig davon, woher der Inhalt stammt, wo er veröffentlicht wird und welche Regeln Sie in Ihrem System eingerichtet haben. Die folgende Tabelle beschreibt ausführlich die Aktionen, die Livefyre je nach diesen Faktoren ausführt.
 
@@ -60,7 +63,7 @@ Livefyre kennzeichnet Inhalt als **[!UICONTROL Approved]**, **[!UICONTROL Pendin
 Bevor der Inhalt eines Streams in einer App veröffentlicht wird, führt Livefyre die folgenden Prüfungen durch, um festzustellen, was mit dem Inhalt zu tun ist:
 
 1. Wenn SAFE den Inhalt als Junk oder Drop kennzeichnet, wird der Inhalt von Livefyre abgeschnitten.
-1. Wenn SAFE den Inhalt nicht als "junk"kennzeichnet, prüft Livefyre, ob die Vormoderation aktiviert ist.
+1. Wenn SAFE den Inhalt nicht als &quot;Junk&quot;kennzeichnet, prüft Livefyre, ob die Vormoderation aktiviert ist.
 1. Ist die Vormoderation aktiviert, markiert Livefyre den Inhalt als ausstehend.
 1. Wenn Sie ModQ-Regeln einrichten, sendet Livefyre den Inhalt an ModQ.
 1. Ist die Vormoderation nicht aktiviert, prüft Livefyre, ob der Inhalt mit SAFE gekennzeichnet wurde.
@@ -76,17 +79,17 @@ Bevor der Inhalt eines Streams in einer App veröffentlicht wird, führt Livefyr
 Bevor der Inhalt eines App-Beitrags in einer App veröffentlicht wird, führt Livefyre die folgenden Prüfungen durch, um festzustellen, was mit dem Inhalt zu tun ist:
 
 1. Wenn der SAFE-Filter den Inhalt als Dropdown kennzeichnet, wird der Inhalt von Livefyre abgelegt.
-1. Wenn SAFE den Inhalt nicht als "drop"kennzeichnet, prüft Livefyre, ob die Vormoderation aktiviert ist. Ist die Vormoderation aktiviert, markiert Livefyre den Inhalt als ausstehend. Wenn Sie ModQ-Regeln einrichten, sendet Livefyre den Inhalt als ausstehend an ModQ. Ist dies nicht der Fall, bleibt der Inhalt in der Bibliothek in einem ausstehenden Status in App-Inhalt.
+1. Wenn SAFE den Inhalt nicht als Drop kennzeichnet, prüft Livefyre, ob die Vormoderation aktiviert ist. Ist die Vormoderation aktiviert, markiert Livefyre den Inhalt als ausstehend. Wenn Sie ModQ-Regeln einrichten, sendet Livefyre den Inhalt als ausstehend an ModQ. Ist dies nicht der Fall, bleibt der Inhalt in der Bibliothek in einem ausstehenden Status in App-Inhalt.
 1. Ist die Vormoderation nicht aktiviert, prüft Livefyre, ob der Inhalt mit SAFE gekennzeichnet wurde. Andernfalls genehmigt Livefyre den Inhalt und veröffentlicht ihn in der App.
 1. Wenn SAFE den Inhalt kennzeichnet und Sie SAFE-Regeln einrichten, verwendet Livefyre die SAFE-Regel, um zu bestimmen, wie der Inhalt zu behandeln ist (Senden an ModQ, Papierkorb usw.). Wenn SAFE den Inhalt kennzeichnet und Sie keine SAFE-Regeln eingerichtet haben, genehmigt Livefyre den Inhalt und veröffentlicht ihn in der App.
 
-## Massenfilter {#section_lyk_ktx_vy}
+## Filter {#section_lyk_ktx_vy}
 
-Der Massenfilter sucht innerhalb kurzer Zeit nach wiederholten Inhalten, die in allen Livefyre-Netzwerken veröffentlicht werden. Wenn dieser Inhalt erkannt wird, wird er standardmäßig als "Massen"gekennzeichnet und anschließend als Absturz verwendet. Masseninhalte können vom Benutzer generiert werden (z. B. "Touchdown!") wiederholt in einem Chat während eines beliebten Fußballspiels veröffentlicht), entstehen die meisten mit Spam-Kampagnen. Dieser Filter ist sprachunabhängig und funktioniert in jeder Sprache. Um den Massenfilter anzupassen, müssen Sie sich an den Livefyre-Support wenden.
+Der Massenfilter sucht innerhalb kurzer Zeit nach wiederholten Inhalten, die in allen Livefyre-Netzwerken veröffentlicht werden. Wenn dieser Inhalt erkannt wird, wird er standardmäßig als &quot;Massen&quot;gekennzeichnet und anschließend als Absturz verwendet. Masseninhalte können vom Benutzer generiert werden (z. B. &quot;Touchdown!&quot;). wiederholt in einem Chat während eines beliebten Fußballspiels gepostet), entstehen die meisten mit Spam-Kampagnen. Dieser Filter ist sprachunabhängig und funktioniert in jeder Sprache. Um den Massenfilter anzupassen, müssen Sie sich an den Livefyre-Support wenden.
 
 ## Regeln {#section_gqz_ksk_f1b}
 
-Verwenden Sie den Abschnitt Regeln, um Vormoderationsregeln basierend auf SAFE und vom Benutzer angewendeten Flags zu erstellen. Dieses Bedienfeld bietet zwei Regeltypen:
+Verwenden Sie den Abschnitt Regeln, um Vormoderationsregeln basierend auf SAFE und vom Benutzer angewendeten Flags zu erstellen. Dieses Bedienfeld Angebot zwei Regeltypen:
 
 * **[!UICONTROL Flag Rules:]** Geben Sie eine Aktion an, die für einen Kommentar ausgeführt werden soll, der von Benutzern mit einer bestimmten Anzahl von Malen gekennzeichnet wird.
 * **[!UICONTROL SAFE Rules:]** SAFE-Flags mit Aktionen kombinieren, die für den gekennzeichneten Inhalt durchgeführt werden.
@@ -99,7 +102,7 @@ Verfügbare Aktionen:
 
 * **[!UICONTROL Trash it:]**sendet den markierten Kommentar zum Papierkorb.
 * **[!UICONTROL Bozo it:]** Blendet den gekennzeichneten Kommentar für alle Benutzer mit Ausnahme des Autors aus, für den er sichtbar bleibt.
-* **[!UICONTROL Pending:]** stellt den Inhalt als ausstehend ein. Wenn Sie unter "Vormoderation"auf "ON"einstellen **[!UICONTROL Settings > ModQ]**, wird sie im ModQ angezeigt. Andernfalls wird es nur in App-Inhalten angezeigt.
+* **[!UICONTROL Pending:]** stellt den Inhalt als ausstehend ein. Wenn Sie unter &quot;Vormoderation&quot;auf &quot;ON&quot;einstellen **[!UICONTROL Settings > ModQ]**, wird sie im ModQ angezeigt. Andernfalls wird es nur in App-Inhalten angezeigt.
 
 >[!NOTE]
 >
@@ -107,7 +110,7 @@ Verfügbare Aktionen:
 
 ## Moderationsempfehlungen {#section_ec3_vr3_2cb}
 
-Sie können Moderationsempfehlungen verwenden, um festzustellen, wie Inhalte von Site-Besuchern in Livefyre-Apps moderiert werden. Der Indikator für die Moderationsempfehlung empfiehlt, dass ein Inhaltselement basierend auf den Aktionen, die Sie zuvor zu ähnlichen Inhalten durchgeführt haben, wahrscheinlich abgeschnitten wird. So verwenden Sie Moderationsempfehlungen:
+Sie können Moderationsempfehlungen verwenden, um zu ermitteln, wie Inhalte von Site-Besuchern in Livefyre-Apps moderiert werden. Der Indikator für die Moderationsempfehlung empfiehlt, dass ein Inhaltselement basierend auf den Aktionen, die Sie zuvor zu ähnlichen Inhalten durchgeführt haben, wahrscheinlich abgeschnitten wird. So verwenden Sie Moderationsempfehlungen:
 
 1. Schalten Sie die Moderation Recommendations-Funktion ein, indem Sie sich an Ihren Adobe Livefyre-Supportmitarbeiter wenden.
 1. Richten Sie Moderationsempfehlungen in den Netzwerkeinstellungen ein.
@@ -120,7 +123,7 @@ Sie können Moderationsempfehlungen verwenden, um festzustellen, wie Inhalte von
 
    ![](assets/modreco4.png)
 
-1. Verwenden Sie die **[!UICONTROL Moderation Recommendation Indicator]** im ModQ oder im App-Inhalt, um Inhalte zu filtern, die von der Moderationsempfehlung als mit Abstürzen wahrscheinlich identifiziert werden.
+1. Verwenden Sie die **[!UICONTROL Moderation Recommendation Indicator]** im ModQ- oder im App-Inhalt, um Inhalte zu filtern, die von der Moderationsempfehlung als mit Abstürzen wahrscheinlich identifiziert werden.
 
    In ModQ sieht der Indikator wie folgt aus:  ![](assets/mod_reco1.png)
 
