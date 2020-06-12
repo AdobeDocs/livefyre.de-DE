@@ -5,7 +5,10 @@ seo-title: ModQ-Tastaturkürzel
 title: ModQ-Tastaturkürzel
 uuid: fc4e7796-b6b5-4782-a0fc-b2326ca56d66
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+workflow-type: tm+mt
+source-wordcount: '154'
+ht-degree: 5%
 
 ---
 
@@ -23,7 +26,7 @@ Die folgenden Tastaturbefehle stehen Moderatoren in ModQ zur Verfügung.
 | Bozo-Inhalt | Markieren von Inhalten als Bozo’d | b |  |
 | Anfang der Warteschlange | Springen zum ersten Element oben in der Warteschlange | l |  |
 | Flag stumm oder unstumm | Flag vom ausgewählten Benutzer stummschalten oder deaktivieren | Umschalttaste + M |  |
-| Benutzer sperren | Ausgewählten Benutzer nur für diese Site sperren | Umschalttaste + B |  |
-| Whitelist-Benutzer | Whitelist des ausgewählten Benutzers nur für diese Site | Umschalttaste + W |  |
+| Benutzer sperren | Ausgewählten Benutzer nur für diese Site sperren | Umschalt + B |  |
+| Whitelist-Benutzer | Ausgewählte Liste nur für diese Site zulassen | Umschalttaste + W |  |
 | Site-Filter löschen | Alle Elemente im Netzwerk anzeigen | Umschalttaste + Q |  |
 
