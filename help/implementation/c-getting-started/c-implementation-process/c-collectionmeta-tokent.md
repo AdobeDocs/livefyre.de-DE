@@ -6,9 +6,9 @@ solution: Experience Manager
 title: CollectionMeta-Token
 uuid: d5db0b0f-2807-4392-874a-94ac3c1e7550
 translation-type: tm+mt
-source-git-commit: acba83da6abd919062025322beeced500a3db662
+source-git-commit: 6978f0f36b5698c9c599c1828edea67703423397
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '345'
 ht-degree: 2%
 
 ---
@@ -24,10 +24,10 @@ Livefyre weist jeder erstellten Sammlung einen eindeutigen Bezeichner zu. Livefy
 
 | Parameter | Typ | Beschreibung |
 |--- |--- |--- |
-| networkName | Zeichenfolge (optional) | Der Name des Livefyre-Netzwerks (verfügbar unter {!UICONTROL Studio > Einstellungen > Integrationseinstellungen > Berechtigungen] ). Dies ist optional, wenn Sie mit der Bibliothek ein collectionMeta-Token erstellen. |
+| networkName | Zeichenfolge (optional) | Der Name des Livefyre-Netzwerks (verfügbar unter [!UICONTROL Studio] > [!UICONTROL Settings] > [!UICONTROL Integration Settings] > [!UICONTROL Credentials] ). Dies ist optional, wenn Sie mit der Bibliothek ein collectionMeta-Token erstellen. |
 | networkKey | Zeichenfolge (optional) | Der geheime Schlüssel für das spezifische Netzwerk (verfügbar unter Studio > Einstellungen > Integrationseinstellungen > Anmeldeinformationen ). Dies ist optional, wenn Sie mit der Bibliothek ein collectionMeta-Token erstellen. |
 | siteId | Zeichenfolge (optional) | Die ID für die Site (verfügbar unter [!UICONTROL Studio > Settings > Integration Settings > Credentials] ). Optional, wenn Sie mit der Bibliothek ein collectionMeta-Token erstellen. |
-| siteKey | Zeichenfolge (optional) | Der geheime Schlüssel für die Site (verfügbar unter {!UICONTROL Studio > Einstellungen > Integrationseinstellungen > Berechtigungen] ). |
+| siteKey | Zeichenfolge (optional) | Der geheime Schlüssel für die Site (verfügbar unter [!UICONTROL Studio > Settings > Integration Settings > Credentials] ). |
 | articleId | Zeichenfolge (optional) | Eine eindeutige ID für die Sammlung. |
 | title | Zeichenfolge (optional) | Der Titel, den Sie auf die Sammlung anwenden möchten. Normalerweise entspricht dies dem Titel der Seite, auf der die App angezeigt wird. <br>Beispiel: &quot;Integration macht so viel Spaß!&quot; <br>Hinweis:  Die maximale Zeichenlänge für den Titel beträgt 255 Zeichen. Das Titelfeld unterstützt keine HTML-Entitäten. Bitte kodieren Sie Sonderzeichen mit UTF-8. |
 | url | Zeichenfolge (optional) | Die kanonische absolute URL, die Sie dieser Sammlung hinzufügen möchten. Diese URL wird verwendet, um aus Inhalten, die auf Facebook und Twitter freigegeben wurden, E-Mail-Benachrichtigungen und Livefyre Studio Links zur App zu generieren. <br>Hinweis:  Verwenden Sie bei lokalen Tests eine gültige Basis-URL-Domäne (z. B.: gültig: `https://customer.com`; ungültig: `https://localhost:5995`). |
