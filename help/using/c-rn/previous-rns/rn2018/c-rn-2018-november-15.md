@@ -6,7 +6,10 @@ solution: Experience Manager
 title: Versionshinweise
 uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
 translation-type: tm+mt
-source-git-commit: 573e815799fbae2c2c4f1d98a01ea0ae04108a34
+source-git-commit: efb031b58f01ec69c8297a808998d25a0015f102
+workflow-type: tm+mt
+source-wordcount: '371'
+ht-degree: 7%
 
 ---
 
@@ -33,7 +36,7 @@ Die folgenden neuen Funktionen wurden in der Produktionsversion dieser Version v
 
 Weitere Informationen zum Anfordern von Rechten für Instagram-Konten finden Sie unter [Senden von Instagram-Rights-Anfragen manuell](/help/using/c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md) und [Senden einer teilweise automatisierten Instagram-Rights-Anforderung](/help/using/c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md).
 
-* **Adobe Target-Integration.** Die Integration mit Adobe Zielgruppe wurde hinzugefügt, sodass Sie Livefyre-Apps direkt in Ihrer Adobe Zielgruppe Angebots Library freigeben können. Weitere Informationen zur Verwendung von Livefyre mit Adobe Zielgruppe finden Sie in der Dokumentation zur [Zielgruppe](hhttps://docs.adobe.com/content/help/en/livefyre/using/library/livefyre-target.html).
+* **Adobe Target-Integration.** Die Integration mit Adobe Target wurde hinzugefügt, sodass Sie Livefyre-Apps direkt in Ihrer Adobe Target Angebots Library freigeben können. Weitere Informationen zur Verwendung von Livefyre mit Adobe Target finden Sie in der Dokumentation zur [Zielgruppe](hhttps://docs.adobe.com/content/help/en/livefyre/using/library/livefyre-target.html).
 
 ## Probleme {#section_ehw_ndt_wcb}
 
@@ -43,7 +46,7 @@ Die Probleme in den folgenden Tabellen wurden in dieser Version behoben.
 
 | Art des Problems | Komponente | Versionshinweise |
 |--- |--- |--- |
-| Fehler | AppService: Livefyre-Identität | Es wurde ein Problem behoben, bei dem auf [! UICONTROL Zurücksetzen auf Standard] hat das Logo unter &quot;Login Modal in Studio > Integrationseinstellungen > Livefyre Identity&quot;nicht auf das Standardbild zurückgesetzt. |
+| Fehler | AppService: Livefyre-Identität | Es wurde ein Problem behoben, bei dem das Logo unter &quot;Login Modal in Studio > Integrationseinstellungen > Livefyre-Identität&quot;nicht auf das Standardbild zurückgesetzt [!UICONTROL Reset to Default] wurde. |
 | Fehler | Bibliothek | Es wurde ein Problem behoben, bei dem ein Video, das in die Bibliothek hochgeladen und dann im Detail angezeigt wurde, nicht korrekt angezeigt wurde. |
 | Fehler | Streams | Es wurde ein Fehler behoben, der verhinderte, dass Produkte in einer Stream-Regel angezeigt wurden. |
 | Fehler | Streams | Es wurde ein Problem behoben, bei dem Produkt-Tags für eine Stream-Regel nicht verfügbar waren. |
