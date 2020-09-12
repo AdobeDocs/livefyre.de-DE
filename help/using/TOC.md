@@ -1,9 +1,9 @@
 ---
 product: livefyre
 audience: end-user
-user-guide-title: Livefyre-Dokumentation
+user-guide-title: Livefyre-Handbuch
 translation-type: tm+mt
-source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+source-git-commit: c8f274185f642c528ec684373c63b80cee8fab35
 workflow-type: tm+mt
 source-wordcount: '843'
 ht-degree: 5%
@@ -11,7 +11,7 @@ ht-degree: 5%
 ---
 
 
-# Livefyre-Dokumentation {#using}
+# Livefyre-Handbuch {#using}
 
 + [Livefyre-Hilfe](home.md)
 + [Mitteilungen](c-anouncements.md)
@@ -58,8 +58,8 @@ ht-degree: 5%
       + [Mosaikanpassungen](c-about-apps/c-mosaic-app/c-mosaic-customizations.md)
    + Umfragen {#polls}
       + [Umfragen](c-about-apps/c-polls-app/c-polls-app.md)
-      + [Hinzufügen einer Umfrage zu einer Kommentar- oder Live-Blog-App](c-about-apps/c-polls-app/t-integrate-poll-site.md)
-      + [Hinzufügen von Bildern zu einer Umfrage](c-about-apps/c-polls-app/t-add-images-to-a-poll.md)
+      + [hinzufügen einer Umfrage zu einer Kommentar- oder Live-Blog-App](c-about-apps/c-polls-app/t-integrate-poll-site.md)
+      + [hinzufügen von Bildern zu einer Umfrage](c-about-apps/c-polls-app/t-add-images-to-a-poll.md)
       + [Umfrageanpassung](c-about-apps/c-polls-app/r-polls-customizations.md)
    + Reviews {#reviews}
       + [Reviews](c-about-apps/c-reviews-app/c-reviews-app.md)
@@ -76,8 +76,8 @@ ht-degree: 5%
       + [Einstellungen formatieren](c-about-apps/c-storify2/c-storify-settings.md)
       + [Google AMP mit Storify 2 verwenden](c-about-apps/c-storify2/t-use-google-amp-with-storify-2.md)
       + [Eine Geschichte erstellen](c-about-apps/c-storify2/t-create-a-story.md)
-      + [Hinzufügen Social-Inhalte](c-about-apps/c-storify2/t-add-social-content.md)
-      + [Hinzufügen](c-about-apps/c-storify2/t-add-local-content.md)
+      + [hinzufügen Social-Inhalte](c-about-apps/c-storify2/t-add-social-content.md)
+      + [hinzufügen](c-about-apps/c-storify2/t-add-local-content.md)
       + [Vorschau einer Geschichte](c-about-apps/c-storify2/t-preview-a-story.md)
       + [Veröffentlichen einer Meldung](c-about-apps/c-storify2/t-publish-a-story.md)
       + [Überprüfungsverlauf](c-about-apps/c-storify2/t-review-storify2-history.md)
@@ -87,8 +87,8 @@ ht-degree: 5%
       + Navigationsanleitung {#navigation-guide}
          + [Navigationsanleitung](c-about-apps/c-storify2/c-navigation-guide.md)
          + [Navigationshandbuch zu Storify 2 Hinzufügen](c-about-apps/c-storify2/t-add-navigation-guide-to-storify2.md)
-         + [Hinzufügen eines Titels zum Navigationshandbuch](c-about-apps/c-storify2/t-add-a-title-to-the-navigation-guide.md)
-         + [Hinzufügen Beiträge zur Navigationsanleitung](c-about-apps/c-storify2/t-add-posts-to-the-navigation-guide.md)
+         + [hinzufügen eines Titels zum Navigationshandbuch](c-about-apps/c-storify2/t-add-a-title-to-the-navigation-guide.md)
+         + [hinzufügen Beiträge zur Navigationsanleitung](c-about-apps/c-storify2/t-add-posts-to-the-navigation-guide.md)
          + [Legen Sie die Anzahl der Beiträge im Navigationshandbuch fest.](c-about-apps/c-storify2/t-set-the-number-of-posts-nav-guide.md)
          + [Fixieren des Navigationshandbuchs](c-about-apps/c-storify2/t-make-nav-guide-sticky.md)
          + [Navigationshandbuch verschieben](c-about-apps/c-storify2/t-move-navigation-guide.md)
@@ -135,7 +135,7 @@ ht-degree: 5%
       + [Verwenden des Wohltätigkeitsfilters](c-features-livefyre/c-about-moderation/c-profanity-filter.md)
       + [Benutzer moderieren](c-features-livefyre/c-about-moderation/t-moderate-users-modq.md)
       + [Moderieren von Inhalten mit ModQ](c-features-livefyre/c-about-moderation/c-modq.md)
-      + [Hinzufügen eines beschädigten Elements in eine App](c-features-livefyre/c-about-moderation/t-add-trashed-item-back-into-app.md)
+      + [hinzufügen eines beschädigten Elements in eine App](c-features-livefyre/c-about-moderation/t-add-trashed-item-back-into-app.md)
       + [ModQ-Tastaturkürzel](c-features-livefyre/c-about-moderation/r-modq-keyboard-shortcuts.md)
       + [Moderieren von Inhalten aus einem Stream](c-features-livefyre/c-about-moderation/c-moderate-inline.md)
       + [Moderieren von Inhalten mit App-Inhalten](c-features-livefyre/c-about-moderation/c-moderate-content-using-app-content.md)
@@ -164,7 +164,7 @@ ht-degree: 5%
       + [Avatare](c-features-livefyre/c-styling-features/c-avatars.md)
       + [Hovercards](c-features-livefyre/c-styling-features/c-hovercards.md)
       + [Benutzerzeichen](c-features-livefyre/c-styling-features/c-user-badges.md)
-      + [Hinzufügen von Benutzer-Tags zu einem Konto](c-features-livefyre/c-styling-features/t-add-user-tags.md)
+      + [hinzufügen von Benutzer-Tags zu einem Konto](c-features-livefyre/c-styling-features/t-add-user-tags.md)
    + [Übersetzen und benutzerdefinierte Textzeichenfolgen](c-features-livefyre/c-custom-text-strings.md)
    + [UGC Commerce](c-features-livefyre/c-ugc-commerce.md)
    + [UGC kuratieren und anzeigen](c-features-livefyre/curate-display-ugc.md)
@@ -187,13 +187,13 @@ ht-degree: 5%
    + [Verknüpfen von Produkten mit Inhalten mithilfe der Bibliothek](c-library/t-associate-products-with-content-using-the-library.md)
    + [Inhalte veröffentlichen](c-library/t-publish-content.md)
    + [Registerkarte &quot;App-Inhalt&quot;](c-library/c-app-content.md)
-   + [Verwenden von Adobe Experience Manager Livefyre mit Hootsuite](c-library/c-hootsuite-livefyre.md)
+   + [Adobe Experience Manager Livefyre mit Hootsuite verwenden](c-library/c-hootsuite-livefyre.md)
    + [Adobe Experience Manager Livefyre mit Adobe Target verwenden](c-library/livefyre-target.md)
-   + [Adobe Launch Livefyre Extension verwenden](c-library/launch-extension.md)
+   + [Adobe starten - Livefyre-Erweiterung verwenden](c-library/launch-extension.md)
 + Streams {#streams}
    + [Streams](c-streams/c-streams.md)
    + [Erstellen eines neuen Streams](c-streams/t-create-a-new-stream.md)
-   + [Hinzufügen Regeln für Ihren Stream](c-streams/t-add-rules-for-your-stream.md)
+   + [hinzufügen Regeln für Ihren Stream](c-streams/t-add-rules-for-your-stream.md)
    + [Stream-Regeloptionen für alle Stream-Regeln](c-streams/c-stream-rule-options-for-all-stream-rules.md)
    + [Facebook-Seitenregeln](c-streams/c-facebook-page-rules.md)
    + [E-Mail-Regeln](c-streams/c-email-rules.md)
@@ -220,7 +220,7 @@ ht-degree: 5%
    + [Benutzer suchen](c-users/t-search-for-users.md)
    + [Ansicht der Kontodetails](c-users/c-viewing-account-details.md)
    + [Benutzer sperren](c-users/t-ban-a-user.md)
-   + [Zulassen von Listen](c-users/allow-list-a-user.md)
+   + [Benutzer zulassen](c-users/allow-list-a-user.md)
    + [Benutzerkonten verknüpfen](c-users/t-link-user-accounts.md)
    + [Benutzer wechseln zwischen Netzwerken](c-users/c-users-switching-networks.md)
    + [Benutzersynchronisierung](c-users/t-set-up-user-sync.md)
@@ -231,13 +231,13 @@ ht-degree: 5%
    + [Bei Studio anmelden](c-users-creating-accounts-with-studio-access/t-log-into-studio.md)
    + [Studio-Berechtigungen für Benutzer verwalten](c-users-creating-accounts-with-studio-access/t-manage-studio-permissions-for-users.md)
    + [Benutzerrollen und Berechtigungen](c-users-creating-accounts-with-studio-access/c-user-types.md)
-   + Hinzufügen eines Social-Kontos {#add-social-account}
-      + [Hinzufügen eines Social-Kontos](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/t-configure-social-accout-instagram.md)
+   + hinzufügen eines Social-Kontos {#add-social-account}
+      + [hinzufügen eines Social-Kontos](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/t-configure-social-accout-instagram.md)
       + [Info zu Instagram-Konten](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md)
       + [Token für ein Social-Konto aktualisieren](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-refresh-a-token-for-a-social-account.md)
 + Einstellungen: Sonstiges {#settings-other}
    + [Berechtigungen einrichten](c-settings-other/t-set-up-credentials.md)
-   + [Hinzufügen einer Site in ein Netzwerk](c-settings-other/t-add-a-site.md)
+   + [hinzufügen einer Site in ein Netzwerk](c-settings-other/t-add-a-site.md)
    + Übersetzungssätze {#translation-sets}
       + [Übersetzungssätze](c-settings-other/c-translation-sets/c-translation-sets.md)
       + [Übersetzungssätze erstellen und ändern](c-settings-other/c-translation-sets/t-create-modify-translation-sets.md)
