@@ -2,7 +2,7 @@
 description: Sobald Ihr Netzwerkkonto mit Ihrem Studio-Konto verbunden ist, können Sie über Ihre mit Lesezeichen versehenen Links oder über eine beliebige Livefyre-App auf Studio zugreifen.
 seo-description: Sobald Ihr Netzwerkkonto mit Ihrem Studio-Konto verbunden ist, können Sie über Ihre mit Lesezeichen versehenen Links oder über eine beliebige Livefyre-App auf Studio zugreifen.
 seo-title: Bei Studio anmelden
-solution: Experience Manager
+solution: Experience Manager
 title: Bei Studio anmelden
 uuid: b2e565c0-895e-402d-a9dd-d407571d18c9
 translation-type: tm+mt

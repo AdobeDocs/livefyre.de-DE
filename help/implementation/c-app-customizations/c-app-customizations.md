@@ -2,7 +2,7 @@
 description: Passen Sie die App-Anzeigeoptionen an Ihren Branding- und Stil an und fügen Sie benutzerdefinierte Funktionen hinzu.
 seo-description: Passen Sie die App-Anzeigeoptionen an Ihren Branding- und Stil an und fügen Sie benutzerdefinierte Funktionen hinzu.
 seo-title: App-Anpassungen
-solution: Experience Manager
+solution: Experience Manager
 title: App-Anpassungen
 uuid: 6f27654d-c2b4-45b5-aae7-6fbf312fb829
 translation-type: tm+mt

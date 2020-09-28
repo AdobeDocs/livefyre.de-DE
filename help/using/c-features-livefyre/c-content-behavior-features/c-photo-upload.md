@@ -2,7 +2,7 @@
 description: Hochladen von Bildern in einen Live-Blog-, Chat-, Reviews- oder Kommentar-Stream
 seo-description: Hochladen von Bildern in einen Live-Blog-, Chat-, Reviews- oder Kommentar-Stream
 seo-title: Foto-Upload
-solution: Experience Manager
+solution: Experience Manager
 title: Foto-Upload
 uuid: 1fc92fbe-1dd4-43f3-a43f-cc9a5ac3aea1
 translation-type: tm+mt

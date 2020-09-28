@@ -2,7 +2,7 @@
 description: Die Live-Blog-App bietet die folgenden Funktionen für Ihre Site.
 seo-description: Die Live-Blog-App bietet die folgenden Funktionen für Ihre Site.
 seo-title: Live-Blog-Funktionen
-solution: Experience Manager
+solution: Experience Manager
 title: Live-Blog-Funktionen
 uuid: 5a9fede3-e150-4655-b5e1-3ddaee9a6ba1
 translation-type: tm+mt

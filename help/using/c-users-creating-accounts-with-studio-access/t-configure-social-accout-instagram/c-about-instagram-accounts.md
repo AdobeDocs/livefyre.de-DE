@@ -2,7 +2,7 @@
 description: Erfahren Sie, welche Regeln und Anforderungen für Instagram gelten, die sich von anderen Social-Konten unterscheiden.
 seo-description: Erfahren Sie, welche Regeln und Anforderungen für Instagram gelten, die sich von anderen Social-Konten unterscheiden.
 seo-title: Info zu Instagram-Konten
-solution: Experience Manager
+solution: Experience Manager
 title: Info zu Instagram-Konten
 uuid: 1fa2b4ca-264c-42c8-8dcb-57f7543ed2f7
 translation-type: tm+mt

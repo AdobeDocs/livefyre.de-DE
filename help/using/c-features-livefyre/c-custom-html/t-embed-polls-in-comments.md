@@ -2,7 +2,7 @@
 description: Umfragen in Ihren Kommentar- oder Live-Blog-Stream einbetten.
 seo-description: Umfragen in Ihren Kommentar- oder Live-Blog-Stream einbetten.
 seo-title: Umfragen in Kommentare einbetten
-solution: Experience Manager
+solution: Experience Manager
 title: Umfragen in Kommentare einbetten
 uuid: 56f83743-352a-4ade-9a62-aeb46004b5db
 translation-type: tm+mt

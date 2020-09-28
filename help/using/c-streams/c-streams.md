@@ -2,7 +2,7 @@
 description: Wählen Sie den ausgewählten Inhalt in Ihre Livefyre-Apps oder Studio-Bibliothek aus.
 seo-description: Wählen Sie den ausgewählten Inhalt in Ihre Livefyre-Apps oder Studio-Bibliothek aus.
 seo-title: Streams
-solution: Experience Manager
+solution: Experience Manager
 title: Streams
 uuid: 01ea5d33-5ec1-46f4-b724-8431cda443a1
 translation-type: tm+mt

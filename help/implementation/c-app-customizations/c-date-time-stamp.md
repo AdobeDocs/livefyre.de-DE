@@ -2,7 +2,7 @@
 description: Passen Sie Datums- und Uhrzeitstempel mit Livefyre.js an.
 seo-description: Passen Sie Datums- und Uhrzeitstempel mit Livefyre.js an.
 seo-title: Anpassen des Datums- und Uhrzeitstempels
-solution: Experience Manager
+solution: Experience Manager
 title: Anpassen des Datums- und Uhrzeitstempels
 uuid: 632ea405-56b7-4664-8d2b-0dd0a7611bd8
 translation-type: tm+mt

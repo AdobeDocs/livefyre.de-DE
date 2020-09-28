@@ -2,7 +2,7 @@
 description: Ändern Sie die Größe, Breite und Interaktionsoptionen der App "Sibezeichnet".
 seo-description: Ändern Sie die Größe, Breite und Interaktionsoptionen der App "Sibezeichnet".
 seo-title: Sifikanpassung
-solution: Experience Manager
+solution: Experience Manager
 title: Sifikanpassung
 uuid: fb50285a-3b2d-497d-bfda-7e89c485b65c
 translation-type: tm+mt

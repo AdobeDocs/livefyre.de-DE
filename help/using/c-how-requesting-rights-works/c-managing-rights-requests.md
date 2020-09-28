@@ -2,7 +2,7 @@
 description: 'null '
 seo-description: 'null '
 seo-title: Verwalten von Rights Anfragen
-solution: Experience Manager
+solution: Experience Manager
 title: Verwalten von Rights Anfragen
 uuid: e8f7f73e-da8a-43dc-b5d2-63485872cdca
 translation-type: tm+mt

@@ -2,7 +2,7 @@
 description: Die Media Wall-App bietet diese Funktionen für Ihre Site.
 seo-description: Die Media Wall-App bietet diese Funktionen für Ihre Site.
 seo-title: Funktionen der Medienwall
-solution: Experience Manager
+solution: Experience Manager
 title: Funktionen der Medienwall
 uuid: 2f2e22b4-de10-48ee-8f3d-0fd88feb8abe
 translation-type: tm+mt

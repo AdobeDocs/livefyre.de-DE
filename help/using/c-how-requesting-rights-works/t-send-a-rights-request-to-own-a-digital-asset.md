@@ -2,7 +2,7 @@
 description: Sie können das Recht zur Wiederverwendung des Artikels für Ihre kommerziellen Zwecke über die Bibliothek, den App-Inhalt oder ModQ anfordern.
 seo-description: Sie können das Recht zur Wiederverwendung des Artikels für Ihre kommerziellen Zwecke über die Bibliothek, den App-Inhalt oder ModQ anfordern.
 seo-title: Twitter-Berechtigungsanfrage senden
-solution: Experience Manager
+solution: Experience Manager
 title: Twitter-Berechtigungsanfrage senden
 uuid: bf3e84a6-dc67-47bc-9707-bd30882cbf0
 translation-type: tm+mt

@@ -2,7 +2,7 @@
 description: Storify 2 bietet verschiedene Inhaltsquellen zum Hinzufügen von sozialen Inhalten.
 seo-description: Storify 2 bietet verschiedene Inhaltsquellen zum Hinzufügen von sozialen Inhalten.
 seo-title: Social-Inhalte hinzufügen
-solution: Experience Manager
+solution: Experience Manager
 title: Social-Inhalte hinzufügen
 uuid: 0bd6579e-ac55-4201-a403-4fcb19e8684b
 translation-type: tm+mt

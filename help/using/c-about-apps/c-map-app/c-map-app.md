@@ -2,7 +2,7 @@
 description: Verwenden Sie "Map", um interaktive Maps des Inhaltsstreaming in die App zu erstellen.
 seo-description: Verwenden Sie "Map", um interaktive Maps des Inhaltsstreaming in die App zu erstellen.
 seo-title: Landkarte
-solution: Experience Manager
+solution: Experience Manager
 title: Landkarte
 uuid: e6021a8a-055d-4c60-817c-ca3236c48159
 translation-type: tm+mt

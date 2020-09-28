@@ -2,7 +2,7 @@
 description: 'null '
 seo-description: 'null '
 seo-title: Berechtigungen einrichten
-solution: Experience Manager
+solution: Experience Manager
 title: Berechtigungen einrichten
 uuid: 688af27e-97ba-4bff-8edd-6be82f48e6c7
 translation-type: tm+mt

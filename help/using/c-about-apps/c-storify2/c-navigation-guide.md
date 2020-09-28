@@ -2,7 +2,7 @@
 description: Das Navigationshandbuch bietet Ihrer Zielgruppe die Möglichkeit, wichtige Informationen in der Storify-Funktion schnell zu identifizieren und zu finden.
 seo-description: Das Navigationshandbuch bietet Ihrer Zielgruppe die Möglichkeit, wichtige Informationen in der Storify-Funktion schnell zu identifizieren und zu finden.
 seo-title: Navigationsanleitung
-solution: Experience Manager
+solution: Experience Manager
 title: Navigationsanleitung
 uuid: dc32df5b-ad6f-4b3b-8496-38873c383691
 translation-type: tm+mt

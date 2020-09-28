@@ -2,7 +2,7 @@
 description: Passen Sie Chat-Apps an, um Inhalte als kontinuierlichen Stream von nicht verketteten Chat anzuzeigen, sodass Ihre Zielgruppe in Echtzeit Gespräche über Live-Veranstaltungen oder -Mitteilungen führen kann.
 seo-description: Passen Sie Chat-Apps an, um Inhalte als kontinuierlichen Stream von nicht verketteten Chat anzuzeigen, sodass Ihre Zielgruppe in Echtzeit Gespräche über Live-Veranstaltungen oder -Mitteilungen führen kann.
 seo-title: Chat-Anpassungen
-solution: Experience Manager
+solution: Experience Manager
 title: Chat-Anpassungen
 uuid: eac7be2f-2dcd-4a6b-ac84-e5e650af82e0
 translation-type: tm+mt

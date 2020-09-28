@@ -2,7 +2,7 @@
 description: Filtern Sie Inhaltssuchen in Studio nach dem Collection-Tag.
 seo-description: Filtern Sie Inhaltssuchen in Studio nach dem Collection-Tag.
 seo-title: Suche nach Inhaltstag filtern
-solution: Experience Manager
+solution: Experience Manager
 title: Suche nach Inhaltstag filtern
 uuid: 093429f4-276e-4e98-ab39-87a059290c86
 translation-type: tm+mt

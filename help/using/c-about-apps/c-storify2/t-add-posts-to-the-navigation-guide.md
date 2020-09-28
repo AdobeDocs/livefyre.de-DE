@@ -2,7 +2,7 @@
 description: Fügen Sie Beiträge zum Navigationshandbuch in Storify 2 hinzu.
 seo-description: Fügen Sie Beiträge zum Navigationshandbuch in Storify 2 hinzu.
 seo-title: Hinzufügen von Beiträgen zum Navigationshandbuch
-solution: Experience Manager
+solution: Experience Manager
 title: Hinzufügen von Beiträgen zum Navigationshandbuch
 uuid: 6312e17f-2886-43cf-961d-179f70c8421e
 translation-type: tm+mt

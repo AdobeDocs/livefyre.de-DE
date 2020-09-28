@@ -2,7 +2,7 @@
 description: Installieren Sie das Authentifizierungspaket, um die Benutzerauthentifizierung zu aktivieren, damit Benutzer mit Ihren Apps interagieren können.
 seo-description: Installieren Sie das Authentifizierungspaket, um die Benutzerauthentifizierung zu aktivieren, damit Benutzer mit Ihren Apps interagieren können.
 seo-title: Authentifizierungspaket
-solution: Experience Manager
+solution: Experience Manager
 title: Authentifizierungspaket
 uuid: 4eec30cf-66b6-408d-985d-3e23b8b70d01
 translation-type: tm+mt

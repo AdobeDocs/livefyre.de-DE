@@ -2,7 +2,7 @@
 description: Gibt ein Collection-Objekt zurück, das als Kommentartyp instanziiert wurde. Führen Sie createOrUpdate() vom Collection-Objekt aus, um den Build-Prozess abzuschließen.
 seo-description: Gibt ein Collection-Objekt zurück, das als Kommentartyp instanziiert wurde. Führen Sie createOrUpdate() vom Collection-Objekt aus, um den Build-Prozess abzuschließen.
 seo-title: buildCommentsCollection-Site-Methode
-solution: Experience Manager
+solution: Experience Manager
 title: buildCommentsCollection-Site-Methode
 uuid: 0e5c062e-960d-4ab0-ba32-0965731a1571
 translation-type: tm+mt

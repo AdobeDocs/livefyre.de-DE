@@ -2,7 +2,7 @@
 description: Erstellen Sie die Pull-Anforderungsstruktur, um Anforderungen für den Zugriff auf Ihr Benutzeridentitätssystem zu empfangen und zu beantworten.
 seo-description: Erstellen Sie die Pull-Anforderungsstruktur, um Anforderungen für den Zugriff auf Ihr Benutzeridentitätssystem zu empfangen und zu beantworten.
 seo-title: Anforderungsstruktur abrufen
-solution: Experience Manager
+solution: Experience Manager
 title: Anforderungsstruktur abrufen
 uuid: bf6b9e45-d08a-48e6-acc6-e4fa56428d25
 translation-type: tm+mt

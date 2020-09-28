@@ -2,7 +2,7 @@
 description: Die Karussell-App bietet diese Funktionen für Ihre Site.
 seo-description: Die Karussell-App bietet diese Funktionen für Ihre Site.
 seo-title: Karussell-Funktionen
-solution: Experience Manager
+solution: Experience Manager
 title: Karussell-Funktionen
 uuid: c5c95675-d7ca-4677-b293-16de5ccf0022
 translation-type: tm+mt

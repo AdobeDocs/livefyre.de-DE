@@ -2,7 +2,7 @@
 description: Die Bibliothek ermöglicht es Ihnen, Informationen zu gespeicherten Inhalten hinzuzufügen, damit Sie Ihre Assets nach Ihrer Markenstrategie organisieren können.
 seo-description: Die Bibliothek ermöglicht es Ihnen, Informationen zu gespeicherten Inhalten hinzuzufügen, damit Sie Ihre Assets nach Ihrer Markenstrategie organisieren können.
 seo-title: Asset-Details anzeigen
-solution: Experience Manager
+solution: Experience Manager
 title: Asset-Details anzeigen
 uuid: 06a19bca-d7b9-431b-abc4-9d6f154901b9
 translation-type: tm+mt

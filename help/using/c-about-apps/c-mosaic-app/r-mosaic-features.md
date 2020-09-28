@@ -2,7 +2,7 @@
 description: Die Mosaic-App bietet diese Funktionen für Ihre Site.
 seo-description: Die Mosaic-App bietet diese Funktionen für Ihre Site.
 seo-title: Mosaic-Funktionen
-solution: Experience Manager
+solution: Experience Manager
 title: Mosaic-Funktionen
 uuid: 95129d56-a4c4-42d5-8c68-c5fc159017e6
 translation-type: tm+mt

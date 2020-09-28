@@ -2,7 +2,7 @@
 description: Erfahren Sie, wie Sie von einem Konversations-App-Typ zu einem anderen wechseln.
 seo-description: Erfahren Sie, wie Sie von einem Konversations-App-Typ zu einem anderen wechseln.
 seo-title: Core-App-Typen wechseln
-solution: Experience Manager
+solution: Experience Manager
 title: Core-App-Typen wechseln
 uuid: 442a517c-3809-46c5-bb5f-8668a29dc3e8
 translation-type: tm+mt

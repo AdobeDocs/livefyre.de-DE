@@ -2,7 +2,7 @@
 description: Mit Übersetzungssätzen können Sie eine andere Sprache für Apps festlegen.
 seo-description: Mit Übersetzungssätzen können Sie eine andere Sprache für Apps festlegen.
 seo-title: Übersetzungssätze
-solution: Experience Manager
+solution: Experience Manager
 title: Übersetzungssätze
 uuid: 88b705e5-57c8-4065-8a41-a73546bd929a
 translation-type: tm+mt

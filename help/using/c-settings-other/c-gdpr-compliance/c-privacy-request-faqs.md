@@ -2,7 +2,7 @@
 description: Antworten auf häufig gestellte Fragen (FAQs) zu GDPR-Ready-Datenschutzanforderungen.
 seo-description: Antworten auf häufig gestellte Fragen (FAQs) zu GDPR-Ready-Datenschutzanforderungen.
 seo-title: Häufig gestellte Fragen zur Datenschutzanforderung
-solution: Experience Manager
+solution: Experience Manager
 title: Häufig gestellte Fragen zur Datenschutzanforderung
 uuid: 0cd6f0d2-504d-46e9-ac46-070536cda086
 translation-type: tm+mt

@@ -2,7 +2,7 @@
 description: Binden Sie Besucher Ihrer Site mit Funktionen ein, mit denen sie bei der Entdeckung Ihres Inhalts auf Ihre Site zurückkehren können.
 seo-description: Binden Sie Besucher Ihrer Site mit Funktionen ein, mit denen sie bei der Entdeckung Ihres Inhalts auf Ihre Site zurückkehren können.
 seo-title: Erweiterungsfunktionen
-solution: Experience Manager
+solution: Experience Manager
 title: Erweiterungsfunktionen
 uuid: 5841a183-62c0-40ae-9cef-884bffb7c39b
 translation-type: tm+mt

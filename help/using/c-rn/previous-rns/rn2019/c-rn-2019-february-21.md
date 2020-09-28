@@ -2,7 +2,7 @@
 description: Versionshinweise für die Livefyre-Version vom 21. Februar 2019.
 seo-description: Versionshinweise für die Livefyre-Version vom 21. Februar 2019.
 seo-title: Versionshinweise
-solution: Experience Manager
+solution: Experience Manager
 title: Versionshinweise
 uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
 translation-type: tm+mt

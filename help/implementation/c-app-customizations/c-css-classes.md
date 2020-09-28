@@ -2,7 +2,7 @@
 description: Verwenden Sie verfügbare CSS-Klassen, um die Anzeige Ihrer Apps anzupassen.
 seo-description: Verwenden Sie verfügbare CSS-Klassen, um die Anzeige Ihrer Apps anzupassen.
 seo-title: CSS-Klassen
-solution: Experience Manager
+solution: Experience Manager
 title: CSS-Klassen
 uuid: 8714e7e5-3858-458f-a464-de87fd2f0ff0
 translation-type: tm+mt

@@ -2,7 +2,7 @@
 description: Erstellen Sie ein Site-Objekt mit Methoden der Site-Klasse.
 seo-description: Erstellen Sie ein Site-Objekt mit Methoden der Site-Klasse.
 seo-title: Site-Klassenmethoden
-solution: Experience Manager
+solution: Experience Manager
 title: Site-Klassenmethoden
 uuid: cf1e641a-d4ef-4c92-a7d1-985380434fc2
 translation-type: tm+mt

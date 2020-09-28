@@ -2,7 +2,7 @@
 description: Konfigurieren Sie ein Social-Konto, um Rechte anzufordern oder nach UGC in Streams oder sozialen Suchen zu suchen.
 seo-description: Konfigurieren Sie ein Social-Konto, um Rechte anzufordern oder nach UGC in Streams oder sozialen Suchen zu suchen.
 seo-title: Social-Konto hinzufügen
-solution: Experience Manager
+solution: Experience Manager
 title: Social-Konto hinzufügen
 uuid: c53cbc77-7394-499c-80ee-7fe22cbafec9
 translation-type: tm+mt

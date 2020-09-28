@@ -2,7 +2,7 @@
 description: Diese Methode gibt die URN für dieses Netzwerk zurück.
 seo-description: Diese Methode gibt die URN für dieses Netzwerk zurück.
 seo-title: getUrn-Netzwerkmethode
-solution: Experience Manager
+solution: Experience Manager
 title: getUrn-Netzwerkmethode
 uuid: e525bc54-d4df-490f-bd6a-f524f7eff211
 translation-type: tm+mt

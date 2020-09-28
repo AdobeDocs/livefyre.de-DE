@@ -2,7 +2,7 @@
 description: Die verfügbaren Ereignisse, an die Sie JavaScript für Visualisierungs-Apps binden können (z. B. Media Wall).
 seo-description: Die verfügbaren Ereignisse, an die Sie JavaScript für Visualisierungs-Apps binden können (z. B. Media Wall).
 seo-title: JavaScript-Ereignisse für Visualisierungs-Apps
-solution: Experience Manager
+solution: Experience Manager
 title: JavaScript-Ereignisse für Visualisierungs-Apps
 uuid: 0797c384-7e8e-44fc-9738-a10a48d490cc
 translation-type: tm+mt

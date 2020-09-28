@@ -2,7 +2,7 @@
 description: Mit der Benutzersynchronisierung können Sie den Endpunkt eingeben, mit dem Sie Benutzerprofildaten aus Ihrem Benutzerverwaltungssystem abrufen können.
 seo-description: Mit der Benutzersynchronisierung können Sie den Endpunkt eingeben, mit dem Sie Benutzerprofildaten aus Ihrem Benutzerverwaltungssystem abrufen können.
 seo-title: Benutzersynchronisierung
-solution: Experience Manager
+solution: Experience Manager
 title: Benutzersynchronisierung
 uuid: 6259e6fa-0541-4f5b-9d14-4c7c932ef997
 translation-type: tm+mt

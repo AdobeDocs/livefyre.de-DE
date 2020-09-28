@@ -2,7 +2,7 @@
 description: Passen Sie alle Textzeichenfolgen in der App zur Internationalisierung oder zum Branding an.
 seo-description: Passen Sie alle Textzeichenfolgen in der App zur Internationalisierung oder zum Branding an.
 seo-title: Übersetzen und benutzerdefinierte Textzeichenfolgen
-solution: Experience Manager
+solution: Experience Manager
 title: Übersetzen und benutzerdefinierte Textzeichenfolgen
 uuid: 3c79b8ea-37a0-465d-8fb0-30e13e0cd7f7
 translation-type: tm+mt

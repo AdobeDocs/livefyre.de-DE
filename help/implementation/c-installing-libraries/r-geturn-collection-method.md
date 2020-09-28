@@ -2,7 +2,7 @@
 description: Diese Methode gibt die URN für diese Sammlung zurück. Sie müssen createOrUpdate() ausführen, bevor Sie diese Methode ausführen.
 seo-description: Diese Methode gibt die URN für diese Sammlung zurück. Sie müssen createOrUpdate() ausführen, bevor Sie diese Methode ausführen.
 seo-title: getUrn-Erfassungsmethode
-solution: Experience Manager
+solution: Experience Manager
 title: getUrn-Erfassungsmethode
 uuid: 2f4d7796-2ae5-4b74-a958-40825c6bff16
 translation-type: tm+mt

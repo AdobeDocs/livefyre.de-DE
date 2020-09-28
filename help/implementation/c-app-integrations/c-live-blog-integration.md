@@ -2,7 +2,7 @@
 description: Mit dem Live-Blog können Sie Echtzeit-Aktualisierungen und Bilder von den Editoren Ihrer Site anzeigen, wenn Sie ein Live-Ereignis abdecken.
 seo-description: Mit dem Live-Blog können Sie Echtzeit-Aktualisierungen und Bilder von den Editoren Ihrer Site anzeigen, wenn Sie ein Live-Ereignis abdecken.
 seo-title: Live-Blog
-solution: Experience Manager
+solution: Experience Manager
 title: Live-Blog
 uuid: 5ca373f1-2008-45ab-9ec2-1e295af4e368
 translation-type: tm+mt

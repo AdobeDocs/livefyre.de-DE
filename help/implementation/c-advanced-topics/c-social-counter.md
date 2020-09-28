@@ -2,7 +2,7 @@
 description: Zählen Sie die Anzahl der kuratierten sozialen Elemente.
 seo-description: Zählen Sie die Anzahl der kuratierten sozialen Elemente.
 seo-title: Social-Zähler
-solution: Experience Manager
+solution: Experience Manager
 title: Social-Zähler
 uuid: fa9aa1a8-6a04-4bc1-9bfe-e42c1250fd48
 translation-type: tm+mt

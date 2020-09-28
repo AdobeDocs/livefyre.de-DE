@@ -2,7 +2,7 @@
 description: Sie können verschiedene Sortieroptionen auswählen, abhängig von der App und dem, was Site-Besucher tun sollen.
 seo-description: Sie können verschiedene Sortieroptionen auswählen, abhängig von der App und dem, was Site-Besucher tun sollen.
 seo-title: Sortierfunktionen
-solution: Experience Manager
+solution: Experience Manager
 title: Sortierfunktionen
 uuid: e40f5877-acdc-48c2-a2c3-8a8d253cdb93
 translation-type: tm+mt

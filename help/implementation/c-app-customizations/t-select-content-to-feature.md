@@ -2,7 +2,7 @@
 description: Inhalte direkt von einer App aus verwenden oder deren Funktion aufheben.
 seo-description: Inhalte direkt von einer App aus verwenden oder deren Funktion aufheben.
 seo-title: Wählen Sie Inhalte für Funktionen aus einer App
-solution: Experience Manager
+solution: Experience Manager
 title: Wählen Sie Inhalte für Funktionen aus einer App
 uuid: b3c2aa2b-98a0-4548-944b-a1f36326eea0
 translation-type: tm+mt

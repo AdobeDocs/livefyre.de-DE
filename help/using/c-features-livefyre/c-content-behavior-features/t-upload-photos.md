@@ -2,7 +2,7 @@
 description: Fotos können direkt von der mobilen Fotobibliothek, der Computerfestplatte oder den Konten eines sozialen Netzwerks eines Benutzers in eine beliebige App hochgeladen werden.
 seo-description: Fotos können direkt von der mobilen Fotobibliothek, der Computerfestplatte oder den Konten eines sozialen Netzwerks eines Benutzers in eine beliebige App hochgeladen werden.
 seo-title: Fotos hochladen
-solution: Experience Manager
+solution: Experience Manager
 title: Fotos hochladen
 uuid: bec7e088-8b19-4839-977d-03fc1cadaeb9
 translation-type: tm+mt

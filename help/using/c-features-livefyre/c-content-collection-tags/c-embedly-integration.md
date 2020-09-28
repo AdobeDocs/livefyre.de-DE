@@ -2,7 +2,7 @@
 description: Verwenden Sie embed.ly, um mehrere Medienformate direkt in der App anzuzeigen.
 seo-description: Verwenden Sie embed.ly, um mehrere Medienformate direkt in der App anzuzeigen.
 seo-title: Embedly-Integration
-solution: Experience Manager
+solution: Experience Manager
 title: Embedly-Integration
 uuid: 1f27e32c-c2c3-4f7c-93de-c9c7bf783d6a
 translation-type: tm+mt

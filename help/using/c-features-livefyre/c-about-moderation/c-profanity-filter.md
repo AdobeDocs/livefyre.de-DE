@@ -2,7 +2,7 @@
 description: 'null '
 seo-description: 'null '
 seo-title: Verwenden des Wohltätigkeitsfilters
-solution: Experience Manager
+solution: Experience Manager
 title: Verwenden des Wohltätigkeitsfilters
 uuid: b0b1fbae-c88c-403c-9b91-df6620675f39
 translation-type: tm+mt

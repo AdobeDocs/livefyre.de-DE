@@ -2,7 +2,7 @@
 description: Suchen Sie nach Assets nach verschiedenen Optionen und Filtern, um den richtigen Inhalt für eine App zu finden.
 seo-description: Suchen Sie nach Assets nach verschiedenen Optionen und Filtern, um den richtigen Inhalt für eine App zu finden.
 seo-title: Gespeicherte Assets in der Bibliothek suchen
-solution: Experience Manager
+solution: Experience Manager
 title: Gespeicherte Assets in der Bibliothek suchen
 uuid: 2fee5ba4-fe69-487e-8d9c-0fd2af97179c
 translation-type: tm+mt

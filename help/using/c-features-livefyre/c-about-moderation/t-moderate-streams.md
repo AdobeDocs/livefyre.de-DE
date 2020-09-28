@@ -2,7 +2,7 @@
 description: 'null '
 seo-description: 'null '
 seo-title: Inhalte von Twitter-Benutzern beschränken
-solution: Experience Manager
+solution: Experience Manager
 title: Inhalte von Twitter-Benutzern beschränken
 uuid: 692dd9c0-487d-4ea8-b87e-58bea22522db
 translation-type: tm+mt

@@ -2,7 +2,7 @@
 description: Studio-Manager und -Administratoren können neue oder vorhandene Benutzer einladen, ein Studio-Konto zu erstellen.
 seo-description: Studio-Manager und -Administratoren können neue oder vorhandene Benutzer einladen, ein Studio-Konto zu erstellen.
 seo-title: Benutzer zum Erstellen eines Studio-Kontos einladen
-solution: Experience Manager
+solution: Experience Manager
 title: Benutzer zum Erstellen eines Studio-Kontos einladen
 uuid: 2cfa4639-1624-4a28-a06d-b6b0180bf3b0
 translation-type: tm+mt

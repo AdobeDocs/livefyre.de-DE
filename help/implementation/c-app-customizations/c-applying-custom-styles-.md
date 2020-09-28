@@ -2,7 +2,7 @@
 description: Um Inhalte mit benutzerdefinierten Stilen für Benutzergruppen zu erstellen, müssen Sie dem Konto zunächst ein Benutzer-Tag hinzufügen und dann den Inhalt mit CSS formatieren.
 seo-description: Um Inhalte mit benutzerdefinierten Stilen für Benutzergruppen zu erstellen, müssen Sie dem Konto zunächst ein Benutzer-Tag hinzufügen und dann den Inhalt mit CSS formatieren.
 seo-title: Anwenden benutzerdefinierter Stile
-solution: Experience Manager
+solution: Experience Manager
 title: Anwenden benutzerdefinierter Stile
 uuid: 0556aa2f-4fcd-4bde-abb5-479ec682f573
 translation-type: tm+mt

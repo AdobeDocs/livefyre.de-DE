@@ -2,7 +2,7 @@
 description: Ändern Sie die Größe, Breite und Interaktionsoptionen der Schaltfläche „Hochladen“.
 seo-description: Ändern Sie die Größe, Breite und Interaktionsoptionen der Schaltfläche „Hochladen“.
 seo-title: Anpassen der Schaltfläche "Hochladen"
-solution: Experience Manager
+solution: Experience Manager
 title: Anpassen der Schaltfläche "Hochladen"
 uuid: d820bbec-8c76-4864-9e70-55394010c35d
 translation-type: tm+mt

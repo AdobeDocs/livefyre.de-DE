@@ -2,7 +2,7 @@
 description: Arbeiten mit Livefyres Social-User-Management-System.
 seo-description: Arbeiten mit Livefyres Social-User-Management-System.
 seo-title: Livefyre-Identität
-solution: Experience Manager
+solution: Experience Manager
 title: Livefyre-Identität
 uuid: 5e9219b4-fbd7-40c6-9d57-129bb0649714
 translation-type: tm+mt

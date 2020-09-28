@@ -2,7 +2,7 @@
 description: Diese Optionen gelten für alle Stream-Regeln aus allen sozialen Netzwerken oder Posting-Methoden.
 seo-description: Diese Optionen gelten für alle Stream-Regeln aus allen sozialen Netzwerken oder Posting-Methoden.
 seo-title: Stream-Regeloptionen für alle Stream-Regeln
-solution: Experience Manager
+solution: Experience Manager
 title: Stream-Regeloptionen für alle Stream-Regeln
 uuid: 4072ee83-31e7-4de6-918c-134b8b8032e1
 translation-type: tm+mt

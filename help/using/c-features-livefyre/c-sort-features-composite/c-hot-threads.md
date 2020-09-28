@@ -2,7 +2,7 @@
 description: Zeigt die 25 beliebtesten Threads innerhalb der App nach Beliebtheit sortiert an.
 seo-description: Zeigt die 25 beliebtesten Threads innerhalb der App nach Beliebtheit sortiert an.
 seo-title: Hotkeys
-solution: Experience Manager
+solution: Experience Manager
 title: Hotkeys
 uuid: 0011f769-6712-48e9-bb10-a43610fef595
 translation-type: tm+mt

@@ -2,7 +2,7 @@
 description: Plotten Sie Benutzerinhalte zu einer interaktiven Map.
 seo-description: Plotten Sie Benutzerinhalte zu einer interaktiven Map.
 seo-title: Landkarte
-solution: Experience Manager
+solution: Experience Manager
 title: Landkarte
 uuid: 1c3e399d-a610-4b80-a3b2-a5502b31480d
 translation-type: tm+mt

@@ -2,7 +2,7 @@
 description: Verwenden Sie Trendansicht, um Ihre aktivsten Sammlungen zu präsentieren.
 seo-description: Verwenden Sie Trendansicht, um Ihre aktivsten Sammlungen zu präsentieren.
 seo-title: Trends
-solution: Experience Manager
+solution: Experience Manager
 title: Trends
 uuid: 7c0bc020-46a3-4ac6-a8db-9532a4fa83b1
 translation-type: tm+mt

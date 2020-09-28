@@ -2,7 +2,7 @@
 description: Ändern Sie die Berechtigungen verschiedener Ebenen von Benutzern, einschließlich Administratoren, Moderatoren und Site-Besuchern.
 seo-description: Ändern Sie die Berechtigungen verschiedener Ebenen von Benutzern, einschließlich Administratoren, Moderatoren und Site-Besuchern.
 seo-title: Studio-Berechtigungen für Benutzer verwalten
-solution: Experience Manager
+solution: Experience Manager
 title: Studio-Berechtigungen für Benutzer verwalten
 uuid: 15c395c8-a9bb-4b0b-9586-61ac36810730
 translation-type: tm+mt

@@ -2,7 +2,7 @@
 description: Erstellen Sie ein Netzwerkobjekt.
 seo-description: Erstellen Sie ein Netzwerkobjekt.
 seo-title: Methoden der Netzwerkklasse
-solution: Experience Manager
+solution: Experience Manager
 title: Methoden der Netzwerkklasse
 uuid: 4130beda-dd09-49ae-aafb-f6b956e30b51
 translation-type: tm+mt

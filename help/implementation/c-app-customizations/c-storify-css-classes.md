@@ -2,7 +2,7 @@
 description: CSS-Klassen, die für Ihre Storify Apps verfügbar sind.
 seo-description: CSS-Klassen, die für Ihre Storify Apps verfügbar sind.
 seo-title: CSS-Klassen formatieren
-solution: Experience Manager
+solution: Experience Manager
 title: CSS-Klassen formatieren
 uuid: 168a0db0-a209-417a-ba91-a33b4d411c8d
 translation-type: tm+mt

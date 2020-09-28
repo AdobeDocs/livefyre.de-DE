@@ -2,7 +2,7 @@
 description: Ändern Sie Größe, Breite und Interaktionsoptionen der Map-App.
 seo-description: Ändern Sie Größe, Breite und Interaktionsoptionen der Map-App.
 seo-title: Anpassung der Funktionskarten
-solution: Experience Manager
+solution: Experience Manager
 title: Anpassung der Funktionskarten
 uuid: dd43c076-027f-42c8-be2e-7d863d4e3976
 translation-type: tm+mt

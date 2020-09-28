@@ -2,7 +2,7 @@
 description: Was bei der Implementierung von Livefyre Studio zu erwarten ist.
 seo-description: Was bei der Implementierung von Livefyre Studio zu erwarten ist.
 seo-title: Implementierungsverfahren
-solution: Experience Manager
+solution: Experience Manager
 title: Implementierungsverfahren
 uuid: 9a0f394e-3467-47d1-9816-45e2130db440
 translation-type: tm+mt

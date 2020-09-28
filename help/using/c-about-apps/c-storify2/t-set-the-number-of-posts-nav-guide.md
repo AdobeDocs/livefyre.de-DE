@@ -2,7 +2,7 @@
 description: Legen Sie fest, wie viele Beiträge Site-Besucher im Navigationshandbuch sehen können.
 seo-description: Legen Sie fest, wie viele Beiträge Site-Besucher im Navigationshandbuch sehen können.
 seo-title: Legen Sie die Anzahl der Beiträge im Navigationshandbuch fest.
-solution: Experience Manager
+solution: Experience Manager
 title: Legen Sie die Anzahl der Beiträge im Navigationshandbuch fest.
 uuid: 8baee47a-7f9f-48dd-ac6e-a2f47f56148b
 translation-type: tm+mt

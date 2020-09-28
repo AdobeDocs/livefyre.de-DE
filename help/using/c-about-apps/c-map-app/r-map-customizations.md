@@ -2,7 +2,7 @@
 description: Ändern Sie Größe, Breite und Interaktionsoptionen der Map-App.
 seo-description: Ändern Sie Größe, Breite und Interaktionsoptionen der Map-App.
 seo-title: Kartenanpassungen
-solution: Experience Manager
+solution: Experience Manager
 title: Kartenanpassungen
 uuid: 3a3bffde-5d1b-41da-9aa8-d25b43d0df76
 translation-type: tm+mt

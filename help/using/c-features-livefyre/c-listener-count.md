@@ -2,7 +2,7 @@
 description: Die Listener-Anzahl ist ein Zähler, der die Anzahl der Site-Besucher für eine App auf einer Seite verfolgt und diese Zahl anzeigt.
 seo-description: Die Listener-Anzahl ist ein Zähler, der die Anzahl der Site-Besucher für eine App auf einer Seite verfolgt und diese Zahl anzeigt.
 seo-title: Listener-Anzahl
-solution: Experience Manager
+solution: Experience Manager
 title: Listener-Anzahl
 uuid: fdd7cfe4-ae69-4d31-baa2-8978368fc3e8
 translation-type: tm+mt

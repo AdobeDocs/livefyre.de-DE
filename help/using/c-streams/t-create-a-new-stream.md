@@ -2,7 +2,7 @@
 description: Erstellen Sie einen neuen Stream in Livefyre, um einer App oder einem Ordner Inhalte hinzuzufügen.
 seo-description: Erstellen Sie einen neuen Stream in Livefyre, um einer App oder einem Ordner Inhalte hinzuzufügen.
 seo-title: Erstellen eines neuen Streams
-solution: Experience Manager
+solution: Experience Manager
 title: Erstellen eines neuen Streams
 uuid: 2874660b-d26b-4e21-b24e-484744e2303a
 translation-type: tm+mt

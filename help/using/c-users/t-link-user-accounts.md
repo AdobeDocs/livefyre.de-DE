@@ -2,7 +2,7 @@
 description: Verknüpfen Sie Ihr Studio-Konto mit Ihrem Livefyre-Konto, um alle Livefyre-Sites oder Netzwerke von einem einzigen Standort aus zu moderieren oder zu verwalten.
 seo-description: Verknüpfen Sie Ihr Studio-Konto mit Ihrem Livefyre-Konto, um alle Livefyre-Sites oder Netzwerke von einem einzigen Standort aus zu moderieren oder zu verwalten.
 seo-title: Benutzerkonten verknüpfen
-solution: Experience Manager
+solution: Experience Manager
 title: Benutzerkonten verknüpfen
 uuid: f1106367-64f9-4304-aa04-f931f79ffd6d
 translation-type: tm+mt

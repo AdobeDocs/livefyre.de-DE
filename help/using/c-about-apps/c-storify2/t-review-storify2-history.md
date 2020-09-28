@@ -2,7 +2,7 @@
 description: Studio speichert automatisch alle Änderungen, die von allen Editoren vorgenommen wurden, und generiert eine neue Version für jede Änderung, die Sie sehen können.
 seo-description: Studio speichert automatisch alle Änderungen, die von allen Editoren vorgenommen wurden, und generiert eine neue Version für jede Änderung, die Sie sehen können.
 seo-title: Überprüfungsverlauf
-solution: Experience Manager
+solution: Experience Manager
 title: Überprüfungsverlauf
 uuid: c2f8a45b-54c1-4667-893a-b3bd4be4546a
 translation-type: tm+mt

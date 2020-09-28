@@ -2,7 +2,7 @@
 description: Hinzufügen eines Live-Chat zu Ihrer Seite.
 seo-description: Hinzufügen eines Live-Chat zu Ihrer Seite.
 seo-title: Chat
-solution: Experience Manager
+solution: Experience Manager
 title: Chat
 uuid: d6761a69-efa5-4ad3-abaf-1ba8e6c17f94
 translation-type: tm+mt

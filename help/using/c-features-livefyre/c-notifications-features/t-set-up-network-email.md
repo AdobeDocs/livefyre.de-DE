@@ -2,7 +2,7 @@
 description: Passen Sie verfügbare E-Mail-Benachrichtigungsfelder an.
 seo-description: Passen Sie verfügbare E-Mail-Benachrichtigungsfelder an.
 seo-title: Netzwerk-E-Mail einrichten
-solution: Experience Manager
+solution: Experience Manager
 title: Netzwerk-E-Mail einrichten
 uuid: c368d236-e25a-4118-8abc-5230618c97ee
 translation-type: tm+mt

@@ -2,7 +2,7 @@
 description: 'null '
 seo-description: 'null '
 seo-title: Rechte für ein Asset aus der Asset-Bibliothek manuell erteilen oder widerrufen
-solution: Experience Manager
+solution: Experience Manager
 title: Rechte für ein Asset aus der Asset-Bibliothek manuell erteilen oder widerrufen
 uuid: 1f70ab9a-239d-4a9c-a17c-d2bc54ff3859
 translation-type: tm+mt

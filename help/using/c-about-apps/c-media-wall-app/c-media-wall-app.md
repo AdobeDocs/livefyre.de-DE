@@ -2,7 +2,7 @@
 description: Erstellen Sie Media Walls mit Bildern, Chat, Videos und anderen Streaming-Inhalten.
 seo-description: Erstellen Sie Media Walls mit Bildern, Chat, Videos und anderen Streaming-Inhalten.
 seo-title: Medienwall
-solution: Experience Manager
+solution: Experience Manager
 title: Medienwall
 uuid: 54f4fb0b-e427-4b73-bb96-31325805b081
 translation-type: tm+mt

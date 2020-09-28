@@ -2,7 +2,7 @@
 description: Ändern Sie Größe, Breite und Interaktionsoptionen der Media Wall-App.
 seo-description: Ändern Sie Größe, Breite und Interaktionsoptionen der Media Wall-App.
 seo-title: Anpassung der Medienmauer
-solution: Experience Manager
+solution: Experience Manager
 title: Anpassung der Medienmauer
 uuid: 79aecd92-3937-4bb4-a1a6-b090fb39afb0
 translation-type: tm+mt

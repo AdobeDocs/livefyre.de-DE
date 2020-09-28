@@ -2,7 +2,7 @@
 description: Gibt ein neues Site-Objekt zurück.
 seo-description: Gibt ein neues Site-Objekt zurück.
 seo-title: getSite-Netzwerkmethode
-solution: Experience Manager
+solution: Experience Manager
 title: getSite-Netzwerkmethode
 uuid: 67de781e-5240-4be5-9e93-c614828e0bb5
 translation-type: tm+mt

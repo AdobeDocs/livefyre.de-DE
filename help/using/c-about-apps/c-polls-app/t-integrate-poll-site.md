@@ -2,7 +2,7 @@
 description: Verwenden Sie die benutzerdefinierte HTML-Funktion von Livefyre, um Ihren Kommentaren oder Live-Blog-Apps Umfragen hinzuzufügen.
 seo-description: Verwenden Sie die benutzerdefinierte HTML-Funktion von Livefyre, um Ihren Kommentaren oder Live-Blog-Apps Umfragen hinzuzufügen.
 seo-title: Hinzufügen einer Umfrage zu einem Kommentar oder einer Live-Blog-App
-solution: Experience Manager
+solution: Experience Manager
 title: Hinzufügen einer Umfrage zu einem Kommentar oder einer Live-Blog-App
 uuid: eedb63c1-7d31-40d9-ab3e-b15765cbe804
 translation-type: tm+mt

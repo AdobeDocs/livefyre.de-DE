@@ -2,7 +2,7 @@
 description: Geben Sie Ihre Inhalte oder Inhalte von einem anderen Benutzer auf Facebook, Twitter oder LinkedIn frei.
 seo-description: Geben Sie Ihre Inhalte oder Inhalte von einem anderen Benutzer auf Facebook, Twitter oder LinkedIn frei.
 seo-title: Social Sharing
-solution: Experience Manager
+solution: Experience Manager
 title: Social Sharing
 uuid: 3fd8a628-2414-45b5-b91c-2ad33aad2634
 translation-type: tm+mt

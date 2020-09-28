@@ -2,7 +2,7 @@
 description: Fügen Sie Ihrer Storify 2-Anwendung eine Navigationshinweise hinzu, um eine Liste mit permalinierten Beiträgen an einer prominenten Stelle neben Ihrer Geschichte zu erstellen.
 seo-description: Fügen Sie Ihrer Storify 2-Anwendung eine Navigationshinweise hinzu, um eine Liste mit permalinierten Beiträgen an einer prominenten Stelle neben Ihrer Geschichte zu erstellen.
 seo-title: Navigationshandbuch zu Storify 2 hinzufügen
-solution: Experience Manager
+solution: Experience Manager
 title: Navigationshandbuch zu Storify 2 hinzufügen
 uuid: 2db131b2-54b8-4409-a947-b86169656cad
 translation-type: tm+mt

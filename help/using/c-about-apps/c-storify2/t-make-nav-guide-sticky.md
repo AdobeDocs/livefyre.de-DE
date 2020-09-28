@@ -2,7 +2,7 @@
 description: Wählen Sie aus, ob der Navigationshandbuch an einem bestimmten Bildschirmbereich festgehalten werden soll.
 seo-description: Wählen Sie aus, ob der Navigationshandbuch an einem bestimmten Bildschirmbereich festgehalten werden soll.
 seo-title: Fixieren des Navigationshandbuchs
-solution: Experience Manager
+solution: Experience Manager
 title: Fixieren des Navigationshandbuchs
 uuid: baa74ecb-d6eb-4191-ac15-9a878f70bd96
 translation-type: tm+mt

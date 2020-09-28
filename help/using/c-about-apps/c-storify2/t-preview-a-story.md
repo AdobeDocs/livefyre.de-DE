@@ -2,7 +2,7 @@
 description: The App Designer allows you to preview your App in multiple delivery formats, and with your own or sample data displayed.
 seo-description: The App Designer allows you to preview your App in multiple delivery formats, and with your own or sample data displayed.
 seo-title: Vorschau einer Geschichte
-solution: Experience Manager
+solution: Experience Manager
 title: Preview a Story
 uuid: 3b5321c3-1fab-4439-86ab-efa2ffc24f41
 translation-type: tm+mt

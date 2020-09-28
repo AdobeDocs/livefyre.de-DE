@@ -2,7 +2,7 @@
 description: Aktivieren Sie Echtzeit-Chat auf Ihren Sites.
 seo-description: Aktivieren Sie Echtzeit-Chat auf Ihren Sites.
 seo-title: Chat
-solution: Experience Manager
+solution: Experience Manager
 title: Chat
 uuid: 1da65e9a-736c-46d3-87e1-371b77f94661
 translation-type: tm+mt

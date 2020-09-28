@@ -2,7 +2,7 @@
 description: Ermöglichen Sie Benutzern, Inhalte in Ihren Sammlungen zu posten, zu bearbeiten, zu kennzeichnen, zu löschen, zu beantworten und zu "Gefällt mir"-Klicks zu wechseln, mit einer Reihe von Rich-Text-Formatierungsoptionen.
 seo-description: Ermöglichen Sie Benutzern, Inhalte in Ihren Sammlungen zu posten, zu bearbeiten, zu kennzeichnen, zu löschen, zu beantworten und zu "Gefällt mir"-Klicks zu wechseln, mit einer Reihe von Rich-Text-Formatierungsoptionen.
 seo-title: Benutzerbeiträge
-solution: Experience Manager
+solution: Experience Manager
 title: Benutzerbeiträge
 uuid: 41242f4d-614c-4737-a1f6-6f0a914f5f7f
 translation-type: tm+mt

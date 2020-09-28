@@ -2,7 +2,7 @@
 description: Führen Sie Stresstests für die Livefyre-Plattform durch.
 seo-description: Führen Sie Stresstests für die Livefyre-Plattform durch.
 seo-title: Stresstest-Richtlinie
-solution: Experience Manager
+solution: Experience Manager
 title: Stresstest-Richtlinie
 uuid: f2d49b55-f4fc-485f-9aea-a17ce64813ee
 translation-type: tm+mt

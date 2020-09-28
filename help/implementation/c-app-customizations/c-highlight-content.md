@@ -2,7 +2,7 @@
 description: Verwenden Sie die Formatierung, um ausgewählte Inhalte oder Benutzergruppen hervorzuheben und zu bewerben.
 seo-description: Verwenden Sie die Formatierung, um ausgewählte Inhalte oder Benutzergruppen hervorzuheben und zu bewerben.
 seo-title: Inhalt hervorheben
-solution: Experience Manager
+solution: Experience Manager
 title: Inhalt hervorheben
 uuid: 89876b89-3ee2-40cd-9431-377e43ea1e89
 translation-type: tm+mt

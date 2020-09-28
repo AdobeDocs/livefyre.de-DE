@@ -2,7 +2,7 @@
 description: Beschränken Sie den Medientyp, der in den App-Stream gelangt.
 seo-description: Beschränken Sie den Medientyp, der in den App-Stream gelangt.
 seo-title: Medien beschränken
-solution: Experience Manager
+solution: Experience Manager
 title: Medien beschränken
 uuid: c470c985-d221-4f39-8bd4-4e44ec14db95
 translation-type: tm+mt

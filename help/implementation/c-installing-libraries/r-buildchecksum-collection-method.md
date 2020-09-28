@@ -2,7 +2,7 @@
 description: Gibt die Prüfsumme für diese Sammlung zurück.
 seo-description: Gibt die Prüfsumme für diese Sammlung zurück.
 seo-title: buildChecksum-Erfassungsmethode
-solution: Experience Manager
+solution: Experience Manager
 title: buildChecksum-Erfassungsmethode
 uuid: 692e8e13-6218-4e38-abc8-7cf49bebde9c
 translation-type: tm+mt

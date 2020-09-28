@@ -2,7 +2,7 @@
 description: Bibliotheken für serverseitige Aufgaben von Livefyre installieren
 seo-description: Bibliotheken für serverseitige Aufgaben von Livefyre installieren
 seo-title: Installation
-solution: Experience Manager
+solution: Experience Manager
 title: Installation
 uuid: f60b4cc7-178f-4a16-ba75-f1d0d171c52f
 translation-type: tm+mt

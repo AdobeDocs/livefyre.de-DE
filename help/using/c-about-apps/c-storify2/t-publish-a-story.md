@@ -2,7 +2,7 @@
 description: Veröffentlichen Sie Storify 2 auf Ihrer Site.
 seo-description: Veröffentlichen Sie Storify 2 auf Ihrer Site.
 seo-title: Veröffentlichen einer Meldung
-solution: Experience Manager
+solution: Experience Manager
 title: Veröffentlichen einer Meldung
 uuid: 2fbf0ab3-ae59-4dac-8a4d-e076bb5e477a
 translation-type: tm+mt

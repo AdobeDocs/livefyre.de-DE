@@ -2,7 +2,7 @@
 description: Sie können Ihrem Netzwerk neue Sites für Domänen und Subdomänen hinzufügen, die dieselben Benutzerprofile verwenden.
 seo-description: Sie können Ihrem Netzwerk neue Sites für Domänen und Subdomänen hinzufügen, die dieselben Benutzerprofile verwenden.
 seo-title: Eine Site zu einem Netzwerk hinzufügen
-solution: Experience Manager
+solution: Experience Manager
 title: Eine Site zu einem Netzwerk hinzufügen
 uuid: a4a3fdb2-94be-48d9-9523-c97617190e53
 translation-type: tm+mt

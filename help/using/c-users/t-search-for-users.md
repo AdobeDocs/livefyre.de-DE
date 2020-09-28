@@ -2,7 +2,7 @@
 description: Verwenden Sie das Suchfeld oben auf der Seite, um nach Anzeigename, Benutzer-ID, E-Mail-Adresse oder dem Datum zu suchen, an dem sie in Ihr Livefyre-Netzwerk eingetreten sind.
 seo-description: Verwenden Sie das Suchfeld oben auf der Seite, um nach Anzeigename, Benutzer-ID, E-Mail-Adresse oder dem Datum zu suchen, an dem sie in Ihr Livefyre-Netzwerk eingetreten sind.
 seo-title: Benutzer suchen
-solution: Experience Manager
+solution: Experience Manager
 title: Benutzer suchen
 uuid: 613ea931-760a-4db6-ac00-a4199708b95c
 translation-type: tm+mt

@@ -2,7 +2,7 @@
 description: Lernen Sie die Funktionen in einer Filmstreifen-App kennen.
 seo-description: Lernen Sie die Funktionen in einer Filmstreifen-App kennen.
 seo-title: Funktionen des Filmstreifens
-solution: Experience Manager
+solution: Experience Manager
 title: Funktionen des Filmstreifens
 uuid: 0d7d59dc-0465-44d3-8348-b59e51312aab
 translation-type: tm+mt

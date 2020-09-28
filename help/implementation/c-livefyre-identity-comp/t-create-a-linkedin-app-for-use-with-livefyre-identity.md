@@ -2,7 +2,7 @@
 description: Sie können Livefyre Identity mit LinkedIn verwenden, um Benutzern zu ermöglichen, ihre LinkedIn-Anmeldungen zur Interaktion mit Apps auf Ihrer Site zu verwenden.
 seo-description: Sie können Livefyre Identity mit LinkedIn verwenden, um Benutzern zu ermöglichen, ihre LinkedIn-Anmeldungen zur Interaktion mit Apps auf Ihrer Site zu verwenden.
 seo-title: Erstellen einer LinkedIn-App zur Verwendung mit Livefyre-Identität
-solution: Experience Manager
+solution: Experience Manager
 title: Erstellen einer LinkedIn-App zur Verwendung mit Livefyre-Identität
 uuid: c5112f24-a4e0-4526-afe8-b8f27a3b2854
 translation-type: tm+mt

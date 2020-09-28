@@ -2,7 +2,7 @@
 description: Fügen Sie einem Konto ein Benutzer-Tag hinzu, um einer Gruppe einen Benutzer hinzuzufügen.
 seo-description: Fügen Sie einem Konto ein Benutzer-Tag hinzu, um einer Gruppe einen Benutzer hinzuzufügen.
 seo-title: Hinzufügen von Benutzern zu Gruppen
-solution: Experience Manager
+solution: Experience Manager
 title: Hinzufügen von Benutzern zu Gruppen
 uuid: 3633f2df-8d60-4cdd-b9a2-3807218c74a0
 translation-type: tm+mt

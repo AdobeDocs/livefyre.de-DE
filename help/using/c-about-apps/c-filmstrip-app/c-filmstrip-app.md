@@ -2,7 +2,7 @@
 description: Der Filmstreifen ist eine Visualisierungs-App, die benutzergenerierte Inhalte in einem dynamischen, horizontalen Fotostreifen darstellt, ähnlich wie ein Filmstreifen einer Kamera.
 seo-description: Der Filmstreifen ist eine Visualisierungs-App, die benutzergenerierte Inhalte in einem dynamischen, horizontalen Fotostreifen darstellt, ähnlich wie ein Filmstreifen einer Kamera.
 seo-title: Filmstreifen
-solution: Experience Manager
+solution: Experience Manager
 title: Filmstreifen
 uuid: 2e3cb6f4-15db-4509-8a5b-a651511cdbd6
 translation-type: tm+mt

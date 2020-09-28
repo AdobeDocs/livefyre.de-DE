@@ -2,7 +2,7 @@
 description: Verwenden Sie den bit.ly-URL-Shortener, um die Permalinks des Inhalts anzupassen.
 seo-description: Verwenden Sie den bit.ly-URL-Shortener, um die Permalinks des Inhalts anzupassen.
 seo-title: Permalinks
-solution: Experience Manager
+solution: Experience Manager
 title: Permalinks
 uuid: 40ef30ec-dc3e-47fe-87a9-f9073cd4c4ff
 translation-type: tm+mt

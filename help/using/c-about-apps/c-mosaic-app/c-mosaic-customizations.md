@@ -2,7 +2,7 @@
 description: Ändern Sie Größe, Breite und Interaktionsoptionen der Mosaic-App.
 seo-description: Ändern Sie Größe, Breite und Interaktionsoptionen der Mosaic-App.
 seo-title: Mosaikanpassungen
-solution: Experience Manager
+solution: Experience Manager
 title: Mosaikanpassungen
 uuid: 4e226d68-f517-4922-bc25-655d524d7d52
 translation-type: tm+mt

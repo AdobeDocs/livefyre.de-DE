@@ -2,7 +2,7 @@
 description: Livefyre bietet zusätzliche Funktionen zum Verfolgen von Daten von Site-Besuchern und zum Synchronisieren mit sozialen Netzwerken.
 seo-description: Livefyre bietet zusätzliche Funktionen zum Verfolgen von Daten von Site-Besuchern und zum Synchronisieren mit sozialen Netzwerken.
 seo-title: Verschiedene Funktionen
-solution: Experience Manager
+solution: Experience Manager
 title: Verschiedene Funktionen
 uuid: 76ac2102-622d-48d3-8b1d-6ca6c90c806a
 translation-type: tm+mt

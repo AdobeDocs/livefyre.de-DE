@@ -2,7 +2,7 @@
 description: Das Einbetten der Kommentaranwendung erfolgt nach dem Einbetten einer Core-App.
 seo-description: Das Einbetten der Kommentaranwendung erfolgt nach dem Einbetten einer Core-App.
 seo-title: Kommentaranwendung einbetten
-solution: Experience Manager
+solution: Experience Manager
 title: Kommentaranwendung einbetten
 uuid: e4982ad3-cab1-4805-a55c-594cca3b7203
 translation-type: tm+mt

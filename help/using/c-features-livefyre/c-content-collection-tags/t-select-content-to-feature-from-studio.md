@@ -2,7 +2,7 @@
 description: Sie können Inhalte aus Studio anstelle einer App auswählen.
 seo-description: Sie können Inhalte aus Studio anstelle einer App auswählen.
 seo-title: Wählen Sie Inhalt aus Studio
-solution: Experience Manager
+solution: Experience Manager
 title: Wählen Sie Inhalt aus Studio
 uuid: 50cb620c-ef45-4ccb-829f-f5b2e3c521dd
 translation-type: tm+mt

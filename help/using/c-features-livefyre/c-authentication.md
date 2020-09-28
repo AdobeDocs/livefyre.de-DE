@@ -2,7 +2,7 @@
 description: Sie können festlegen, ob und wie Ihre Site-Besucher sich bei Ihren Apps anmelden möchten.
 seo-description: Sie können festlegen, ob und wie Ihre Site-Besucher sich bei Ihren Apps anmelden möchten.
 seo-title: Authentifizierungsfunktionen
-solution: Experience Manager
+solution: Experience Manager
 title: Authentifizierungsfunktionen
 uuid: 6f1236a0-7766-47c6-b6b5-1e6b8f1c0781
 translation-type: tm+mt

@@ -2,7 +2,7 @@
 description: Passen Sie die App-Anzeigeoptionen an Ihr Branding und Ihren Stil an.
 seo-description: Passen Sie die App-Anzeigeoptionen an Ihr Branding und Ihren Stil an.
 seo-title: Anzeigeoptionen ändern
-solution: Experience Manager
+solution: Experience Manager
 title: Anzeigeoptionen ändern
 uuid: 121bb921-d9a7-4925-ab46-8e3d7dd0cbfe
 translation-type: tm+mt

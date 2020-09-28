@@ -2,7 +2,7 @@
 description: Versionshinweise für die Livefyre-Version vom 21. März 2019.
 seo-description: Versionshinweise für die Livefyre-Version vom 21. März 2019.
 seo-title: Versionshinweise
-solution: Experience Manager
+solution: Experience Manager
 title: Livefyre-Versionshinweise vom 21. März 2019
 translation-type: tm+mt
 source-git-commit: 8dfd0ba4f1c0097f7e42818fa5c1ca81f3a77394

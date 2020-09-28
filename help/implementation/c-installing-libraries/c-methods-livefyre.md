@@ -2,7 +2,7 @@
 description: Sprachbindungen für Livefyres serverseitige Bibliotheksmethoden.
 seo-description: Sprachbindungen für Livefyres serverseitige Bibliotheksmethoden.
 seo-title: Klassen und Methoden
-solution: Experience Manager
+solution: Experience Manager
 title: Klassen und Methoden
 uuid: 2e7327d8-0f92-485c-b607-a566894b3561
 translation-type: tm+mt

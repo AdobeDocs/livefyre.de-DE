@@ -2,7 +2,7 @@
 description: Fügen Sie Stichwort-Tags zu Sammlungen und Inhalten hinzu, um Inhalte zu kategorisieren und zu organisieren, sodass sie einfach abgerufen werden können.
 seo-description: Fügen Sie Stichwort-Tags zu Sammlungen und Inhalten hinzu, um Inhalte zu kategorisieren und zu organisieren, sodass sie einfach abgerufen werden können.
 seo-title: Sammlungs- und Inhalts-Tags
-solution: Experience Manager
+solution: Experience Manager
 title: Sammlungs- und Inhalts-Tags
 uuid: 1f6900ac-40ff-41ec-ac26-25ff476cd820
 translation-type: tm+mt

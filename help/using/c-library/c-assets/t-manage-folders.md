@@ -2,7 +2,7 @@
 description: Studio bietet mehrere Optionen, mit denen Sie Ihre Ordner verwalten können.
 seo-description: Studio bietet mehrere Optionen, mit denen Sie Ihre Ordner verwalten können.
 seo-title: Verwalten von Asset-Ordnern
-solution: Experience Manager
+solution: Experience Manager
 title: Verwalten von Asset-Ordnern
 uuid: 9ce510df-4f7a-4178-b2c4-7d59e4868add
 translation-type: tm+mt

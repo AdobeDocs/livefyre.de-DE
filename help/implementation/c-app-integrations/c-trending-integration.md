@@ -2,7 +2,7 @@
 description: Zeigen Sie die aktivsten Sammlungen auf Ihrer Site oder im Netzwerk an.
 seo-description: Zeigen Sie die aktivsten Sammlungen auf Ihrer Site oder im Netzwerk an.
 seo-title: Trends
-solution: Experience Manager
+solution: Experience Manager
 title: Trends
 uuid: 3031523d-b487-4eea-bba6-5d8f9971874f
 translation-type: tm+mt

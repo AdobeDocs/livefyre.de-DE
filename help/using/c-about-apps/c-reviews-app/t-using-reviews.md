@@ -2,7 +2,7 @@
 description: Jeder Benutzer, der beim Authentifizierungssystem Ihrer Site angemeldet ist, kann mithilfe dieses Verfahrens eine Überprüfung veröffentlichen.
 seo-description: Jeder Benutzer, der beim Authentifizierungssystem Ihrer Site angemeldet ist, kann mithilfe dieses Verfahrens eine Überprüfung veröffentlichen.
 seo-title: Review posten
-solution: Experience Manager
+solution: Experience Manager
 title: Review posten
 uuid: b5744b06-9e6b-425b-9a49-a919d32dfe1d
 translation-type: tm+mt

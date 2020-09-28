@@ -2,7 +2,7 @@
 description: Sie können Benutzer, die über Livefyre angemeldet sind, in Ihren Livefyre-Apps als Inline-Benutzer verbieten. Benutzer, die über Livefyre angemeldet sind, können auf der Seite "Bibliothek"> "App-Inhalt"von Studio verboten werden.
 seo-description: Sie können Benutzer, die über Livefyre angemeldet sind, in Ihren Livefyre-Apps als Inline-Benutzer verbieten. Benutzer, die über Livefyre angemeldet sind, können auf der Seite "Bibliothek"> "App-Inhalt"von Studio verboten werden.
 seo-title: Benutzer sperren
-solution: Experience Manager
+solution: Experience Manager
 title: Benutzer sperren
 uuid: ce528a9a-7137-4c2b-a445-194feae61879
 translation-type: tm+mt

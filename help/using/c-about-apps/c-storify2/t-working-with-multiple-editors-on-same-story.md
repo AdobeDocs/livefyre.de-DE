@@ -2,7 +2,7 @@
 description: Storify verwaltet mehrere gleichzeitige Editoren, wodurch versehentliche Überschreibungen oder verlorene Änderungen verhindert werden.
 seo-description: Storify verwaltet mehrere gleichzeitige Editoren, wodurch versehentliche Überschreibungen oder verlorene Änderungen verhindert werden.
 seo-title: Arbeiten mit mehreren Editoren in derselben Meldung
-solution: Experience Manager
+solution: Experience Manager
 title: Arbeiten mit mehreren Editoren in derselben Meldung
 uuid: c9b8bf70-84c3-4e58-bbd0-f3d0ea74fc68
 translation-type: tm+mt

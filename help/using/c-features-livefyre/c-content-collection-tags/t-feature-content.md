@@ -2,7 +2,7 @@
 description: Verwenden Sie benutzerdefinierte Stile, um speziellen Inhalt hervorzuheben.
 seo-description: Verwenden Sie benutzerdefinierte Stile, um speziellen Inhalt hervorzuheben.
 seo-title: Funktionsinhalt
-solution: Experience Manager
+solution: Experience Manager
 title: Funktionsinhalt
 uuid: 0e347703-f119-4778-9609-2d6500844d6e
 translation-type: tm+mt

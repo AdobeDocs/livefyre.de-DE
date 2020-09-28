@@ -2,7 +2,7 @@
 description: Passen Sie die Einstellungen für Storify 2-Textabschnitte wie Tags, Moderation und zulässige Inhalte an.
 seo-description: Passen Sie die Einstellungen für Storify 2-Textabschnitte wie Tags, Moderation und zulässige Inhalte an.
 seo-title: Einstellungen formatieren
-solution: Experience Manager
+solution: Experience Manager
 title: Einstellungen formatieren
 uuid: 030936fb-7c8b-487e-b468-7128b641c8ed
 translation-type: tm+mt

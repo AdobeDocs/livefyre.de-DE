@@ -2,7 +2,7 @@
 description: Verfolgen Sie Klicks vom Verweisverkehr zurück zu Ihrer Seite.
 seo-description: Verfolgen Sie Klicks vom Verweisverkehr zurück zu Ihrer Seite.
 seo-title: Verweisverfolgung
-solution: Experience Manager
+solution: Experience Manager
 title: Verweisverfolgung
 uuid: 5206cc16-9671-4b3d-a013-be1a3e8c029d
 translation-type: tm+mt

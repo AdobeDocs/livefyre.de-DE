@@ -2,7 +2,7 @@
 description: Mit Storify 2 können Sie inhaltsreiche, interaktive Meldungen aus Echtzeit-Inhalten erstellen.
 seo-description: Mit Storify 2 können Sie inhaltsreiche, interaktive Meldungen aus Echtzeit-Inhalten erstellen.
 seo-title: Storify 2
-solution: Experience Manager
+solution: Experience Manager
 title: Storify 2
 uuid: 8250fe3e-afb1-418d-905c-a1fdb59dfeed9
 translation-type: tm+mt

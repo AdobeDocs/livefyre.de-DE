@@ -2,7 +2,7 @@
 description: Erfahren Sie, wie Sie die benutzergenerierten Inhalte überwachen und speichern, die über das Livefyre-System fließen.
 seo-description: Erfahren Sie, wie Sie die benutzergenerierten Inhalte überwachen und speichern, die über das Livefyre-System fließen.
 seo-title: Aktivitäts-Stream
-solution: Experience Manager
+solution: Experience Manager
 title: Aktivitäts-Stream
 uuid: f40deec1-58ab-41c9-aac4-d2d8c9192bb9
 translation-type: tm+mt

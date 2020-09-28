@@ -2,7 +2,7 @@
 description: Nicht jeder Tweet, der mit einer Regel übereinstimmt, wird in einem Stream angezeigt.
 seo-description: Nicht jeder Tweet, der mit einer Regel übereinstimmt, wird in einem Stream angezeigt.
 seo-title: Einschränkungen und Häufigkeit von Tweets
-solution: Experience Manager
+solution: Experience Manager
 title: Einschränkungen und Häufigkeit von Tweets
 uuid: b9edfb1e-e6cf-4a48-8756-05f5f18d8799
 translation-type: tm+mt

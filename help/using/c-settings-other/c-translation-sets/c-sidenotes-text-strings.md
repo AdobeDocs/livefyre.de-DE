@@ -2,7 +2,7 @@
 description: Anpassen der Textzeichenfolgen für Livefyre Sibezeichnet
 seo-description: Anpassen der Textzeichenfolgen für Livefyre Sibezeichnet
 seo-title: Seitenzeichenfolgen
-solution: Experience Manager
+solution: Experience Manager
 title: Seitenzeichenfolgen
 uuid: a3735237-e55d-4bc0-b88d-8a323980ee09
 translation-type: tm+mt

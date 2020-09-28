@@ -2,7 +2,7 @@
 description: Erstellen Sie Android-Apps mit Livefyre.
 seo-description: Erstellen Sie Android-Apps mit Livefyre.
 seo-title: Android SDK
-solution: Experience Manager
+solution: Experience Manager
 title: Android SDK
 uuid: 68793fa9-3ea1-4890-b36d-b631f1c6f7de
 translation-type: tm+mt

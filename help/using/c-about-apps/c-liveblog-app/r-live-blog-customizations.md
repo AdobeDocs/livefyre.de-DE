@@ -2,7 +2,7 @@
 description: Passen Sie den Stil und die Art und Weise an, wie Kommentare in Ihrem Live-Blog angezeigt werden.
 seo-description: Passen Sie den Stil und die Art und Weise an, wie Kommentare in Ihrem Live-Blog angezeigt werden.
 seo-title: Anpassung des Live-Blogs
-solution: Experience Manager
+solution: Experience Manager
 title: Anpassung des Live-Blogs
 uuid: f07d4c33-4aef-4d69-b9dd-3fd3c27ffd6d
 translation-type: tm+mt

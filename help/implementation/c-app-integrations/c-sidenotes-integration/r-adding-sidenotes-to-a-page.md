@@ -2,7 +2,7 @@
 description: 'null '
 seo-description: 'null '
 seo-title: Hinzufügen von Sidemarken zu einer Seite
-solution: Experience Manager
+solution: Experience Manager
 title: Hinzufügen von Sidemarken zu einer Seite
 uuid: 6499c45a-3773-4adb-a6c7-22a628309afd
 translation-type: tm+mt

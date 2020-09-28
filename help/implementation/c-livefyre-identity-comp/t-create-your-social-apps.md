@@ -2,7 +2,7 @@
 description: 'null '
 seo-description: 'null '
 seo-title: Social-Apps erstellen
-solution: Experience Manager
+solution: Experience Manager
 title: Social-Apps erstellen
 uuid: b3698e44-19ba-489f-a4d2-072ba5430974
 translation-type: tm+mt

@@ -2,7 +2,7 @@
 description: Gibt ein Collection-Objekt zurück, das als Reviews-Typ instanziiert wurde. Führen Sie create_or_update() vom Collection-Objekt aus, um den Build-Prozess abzuschließen.
 seo-description: Gibt ein Collection-Objekt zurück, das als Reviews-Typ instanziiert wurde. Führen Sie create_or_update() vom Collection-Objekt aus, um den Build-Prozess abzuschließen.
 seo-title: buildReviewsCollection-Site-Methode
-solution: Experience Manager
+solution: Experience Manager
 title: buildReviewsCollection-Site-Methode
 uuid: 88af4c68-57de-4ae9-9394-550c94ede48f
 translation-type: tm+mt

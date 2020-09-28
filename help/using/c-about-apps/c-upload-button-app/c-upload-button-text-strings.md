@@ -2,7 +2,7 @@
 description: Sie können diese Textzeichenfolgen für die Schaltfläche "Hochladen"ändern.
 seo-description: Sie können diese Textzeichenfolgen für die Schaltfläche "Hochladen"ändern.
 seo-title: Textzeichenfolgen für Upload-Schaltflächen
-solution: Experience Manager
+solution: Experience Manager
 title: Textzeichenfolgen für Upload-Schaltflächen
 uuid: f4d24af3-c7cb-468d-96b9-b5360047b5dc
 translation-type: tm+mt

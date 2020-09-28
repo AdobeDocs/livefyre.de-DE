@@ -2,7 +2,7 @@
 description: Heben Sie wichtige Inhalte für Ihre Benutzer hervor, indem Sie CSS für benutzerdefinierte Inhalte mit speziellen Stilen verwenden.
 seo-description: Heben Sie wichtige Inhalte für Ihre Benutzer hervor, indem Sie CSS für benutzerdefinierte Inhalte mit speziellen Stilen verwenden.
 seo-title: Dargebotener Inhalt
-solution: Experience Manager
+solution: Experience Manager
 title: Dargebotener Inhalt
 uuid: 2204a989-69b3-440d-beae-7e9c6e9d5698
 translation-type: tm+mt

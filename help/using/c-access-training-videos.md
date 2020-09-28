@@ -1,6 +1,6 @@
 ---
 seo-title: Schulungsvideos aufrufen
-solution: Experience Manager
+solution: Experience Manager
 title: Schulungsvideos aufrufen
 uuid: 64438e2f-dd51-4c10-98ff-e1b62db1b0ca
 translation-type: tm+mt

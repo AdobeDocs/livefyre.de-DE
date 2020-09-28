@@ -2,7 +2,7 @@
 description: Fügen Sie Ihrer Seite einzelne Teile des speziellen Inhalts hinzu.
 seo-description: Fügen Sie Ihrer Seite einzelne Teile des speziellen Inhalts hinzu.
 seo-title: Funktionskarte
-solution: Experience Manager
+solution: Experience Manager
 title: Funktionskarte
 uuid: 8c44edad-d8a5-452e-952c-5d6818e5c0b0
 translation-type: tm+mt

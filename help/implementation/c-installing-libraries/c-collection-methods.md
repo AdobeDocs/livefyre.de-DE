@@ -2,7 +2,7 @@
 description: Um die Daten in der Sammlung zu aktualisieren, ändern Sie den Inhalt der Objektmethoden der Collection-Klasse.
 seo-description: Um die Daten in der Sammlung zu aktualisieren, ändern Sie den Inhalt der Objektmethoden der Collection-Klasse.
 seo-title: Methoden der Sammlungsklasse
-solution: Experience Manager
+solution: Experience Manager
 title: Methoden der Sammlungsklasse
 uuid: fd3163c6-981f-44b3-a7ba-6b4e85b0830d
 translation-type: tm+mt

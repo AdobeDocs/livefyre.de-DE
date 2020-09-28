@@ -2,7 +2,7 @@
 description: Die Sifikanwendung bietet diese Funktionen für Ihre Site.
 seo-description: Die Sifikanwendung bietet diese Funktionen für Ihre Site.
 seo-title: Funktionen von Sizilien
-solution: Experience Manager
+solution: Experience Manager
 title: Funktionen von Sizilien
 uuid: f175c1a7-2ccb-43f9-bc21-cc418dbbeb48
 translation-type: tm+mt

@@ -2,7 +2,7 @@
 description: Fügen Sie Ihren Livefyre-Apps benutzerdefinierte Aktionen hinzu.
 seo-description: Fügen Sie Ihren Livefyre-Apps benutzerdefinierte Aktionen hinzu.
 seo-title: Benutzerdefinierte Schaltflächen hinzufügen
-solution: Experience Manager
+solution: Experience Manager
 title: Benutzerdefinierte Schaltflächen hinzufügen
 uuid: 27d24c21-d83f-49df-9b3f-15d7abbd2bd7
 translation-type: tm+mt

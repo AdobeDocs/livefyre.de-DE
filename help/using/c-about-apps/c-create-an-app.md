@@ -2,7 +2,7 @@
 description: Um Ihrer Site eine App hinzuzufügen, müssen Sie zunächst eine App in Livefyre Studio erstellen.
 seo-description: Um Ihrer Site eine App hinzuzufügen, müssen Sie zunächst eine App in Livefyre Studio erstellen.
 seo-title: Eine App erstellen
-solution: Experience Manager
+solution: Experience Manager
 title: Eine App erstellen
 uuid: 8c2c07fb-a951-47d9-b498-4c487ee83a18
 translation-type: tm+mt

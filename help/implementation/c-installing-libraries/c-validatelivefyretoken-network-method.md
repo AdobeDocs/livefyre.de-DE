@@ -2,7 +2,7 @@
 description: Überprüft, ob ein Livefyre-Token für dieses Netzwerk weiterhin gültig ist. Gibt einen booleschen Wert zurück.
 seo-description: Überprüft, ob ein Livefyre-Token für dieses Netzwerk weiterhin gültig ist. Gibt einen booleschen Wert zurück.
 seo-title: validateLivefyreToken-Netzwerkmethode
-solution: Experience Manager
+solution: Experience Manager
 title: validateLivefyreToken-Netzwerkmethode
 uuid: 2bac11de-d6c4-419f-9c7b-92cfb541d07e
 translation-type: tm+mt

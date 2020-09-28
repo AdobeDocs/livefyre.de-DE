@@ -2,7 +2,7 @@
 description: Ermöglicht Benutzern das Durchklicken von Sammlungen aus einem einseitigen Layout und einer URL.
 seo-description: Ermöglicht Benutzern das Durchklicken von Sammlungen aus einem einseitigen Layout und einer URL.
 seo-title: Sammlung ändern
-solution: Experience Manager
+solution: Experience Manager
 title: Sammlung ändern
 uuid: 81c8a554-375f-4659-9e25-5b3618824633
 translation-type: tm+mt

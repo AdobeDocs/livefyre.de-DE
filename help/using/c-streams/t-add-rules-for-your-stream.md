@@ -2,7 +2,7 @@
 description: Fügen Sie Regeln in Streams hinzu, damit Inhalte auf der Grundlage dieser Regeln automatisch eine App oder einen Ordner füllen können.
 seo-description: Fügen Sie Regeln in Streams hinzu, damit Inhalte auf der Grundlage dieser Regeln automatisch eine App oder einen Ordner füllen können.
 seo-title: Regeln für Ihren Stream hinzufügen
-solution: Experience Manager
+solution: Experience Manager
 title: Regeln für Ihren Stream hinzufügen
 uuid: 7a3fb400-95e4-49f9-ae39-90654df14665
 translation-type: tm+mt

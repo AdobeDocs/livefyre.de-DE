@@ -2,7 +2,7 @@
 description: Legen Sie die Einstellungen für das Anfordern von Rechten für Instagram- und Twitter-Beiträge fest.
 seo-description: Legen Sie die Einstellungen für das Anfordern von Rechten für Instagram- und Twitter-Beiträge fest.
 seo-title: Rights Management einrichten
-solution: Experience Manager
+solution: Experience Manager
 title: Rights Management einrichten
 uuid: 3ffcbc95-484f-4eba-b817-658c1d658bf8
 translation-type: tm+mt

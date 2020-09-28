@@ -2,7 +2,7 @@
 description: Zeige einen Stream auf eine Storify 2-Geschichte.
 seo-description: Zeige einen Stream auf eine Storify 2-Geschichte.
 seo-title: Verwenden Sie Streams, um Ihrer Geschichte Social-Inhalte hinzuzufügen
-solution: Experience Manager
+solution: Experience Manager
 title: Verwenden Sie Streams, um Ihrer Geschichte Social-Inhalte hinzuzufügen
 uuid: 4999c880-a896-4ad2-bf8f-3fd9736a64d6
 translation-type: tm+mt

@@ -2,7 +2,7 @@
 description: Sie können Ereignisse auf einer Instanz von Siegels überwachen.
 seo-description: Sie können Ereignisse auf einer Instanz von Siegels überwachen.
 seo-title: Sizilien-App-Ereignisse
-solution: Experience Manager
+solution: Experience Manager
 title: Sizilien-App-Ereignisse
 uuid: afca4b03-c370-41ca-aa12-45bc357517ca
 translation-type: tm+mt

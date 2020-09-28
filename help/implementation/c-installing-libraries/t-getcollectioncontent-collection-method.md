@@ -2,7 +2,7 @@
 description: Ruft Sammlungsinformationen von Livefyre als JSONObject ab.
 seo-description: Ruft Sammlungsinformationen von Livefyre als JSONObject ab.
 seo-title: getCollectionContent Collection-Methode
-solution: Experience Manager
+solution: Experience Manager
 title: getCollectionContent Collection-Methode
 uuid: 270dcea5-4de5-4d3b-a751-79e6b9c4fd93
 translation-type: tm+mt

@@ -2,7 +2,7 @@
 description: Gibt ein vom Benutzer authentifiziertes verschlüsseltes Token für das Netzwerk zurück, aus dem es aufgerufen wird.
 seo-description: Gibt ein vom Benutzer authentifiziertes verschlüsseltes Token für das Netzwerk zurück, aus dem es aufgerufen wird.
 seo-title: buildUserAuthToken-Netzwerkmethode
-solution: Experience Manager
+solution: Experience Manager
 title: buildUserAuthToken-Netzwerkmethode
 uuid: 8828d356-c3c6-46a6-91bf-83bd59e35050
 translation-type: tm+mt

@@ -2,7 +2,7 @@
 description: Anpassen der Zeichenfolgen der Livefyre-Apps.
 seo-description: Anpassen der Zeichenfolgen der Livefyre-Apps.
 seo-title: Strings lokalisieren
-solution: Experience Manager
+solution: Experience Manager
 title: Strings lokalisieren
 uuid: c0ab352d-5d3a-45d7-bbd0-aed165835646
 translation-type: tm+mt

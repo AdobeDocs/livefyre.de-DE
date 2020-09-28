@@ -2,7 +2,7 @@
 description: Verwenden Sie Bootstrap- und Stream-API mit Livefyre-Apps.
 seo-description: Verwenden Sie Bootstrap- und Stream-API mit Livefyre-Apps.
 seo-title: Bootstrap- und Stream-API mit Livefyre-Apps verwenden
-solution: Experience Manager
+solution: Experience Manager
 title: Ansicht der Kontodetails
 uuid: bace558f-ade8-49d6-abda-9ee754ce4ac0
 translation-type: tm+mt

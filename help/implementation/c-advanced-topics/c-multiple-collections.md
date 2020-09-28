@@ -2,7 +2,7 @@
 description: Zeigen Sie mehrere Sammlungen auf einer Seite an.
 seo-description: Zeigen Sie mehrere Sammlungen auf einer Seite an.
 seo-title: Mehrere Sammlungen
-solution: Experience Manager
+solution: Experience Manager
 title: Mehrere Sammlungen
 uuid: 9675ffd7-1a59-42a1-b3ba-40af1744cfd1
 translation-type: tm+mt

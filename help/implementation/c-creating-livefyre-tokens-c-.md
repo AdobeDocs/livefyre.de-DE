@@ -2,7 +2,7 @@
 description: Erfahren Sie, wie Sie Livefyre-Token mit der Sprache "C#"generieren.
 seo-description: Erfahren Sie, wie Sie Livefyre-Token mit der Sprache "C#"generieren.
 seo-title: Erstellen von Livefyre-Token "C#"
-solution: Experience Manager
+solution: Experience Manager
 title: Erstellen von Livefyre-Token "C#"
 uuid: c5e05625-8550-4b51-9211-134600e20ec7
 translation-type: tm+mt

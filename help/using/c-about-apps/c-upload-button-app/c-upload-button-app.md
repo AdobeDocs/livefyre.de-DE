@@ -2,7 +2,7 @@
 description: Mit der Hochladen-Schaltfläche können Ihre Website-Besucher Inhalte hochladen.
 seo-description: Mit der Hochladen-Schaltfläche können Ihre Website-Besucher Inhalte hochladen.
 seo-title: Hochladen-Schaltfläche
-solution: Experience Manager
+solution: Experience Manager
 title: Hochladen-Schaltfläche
 uuid: 6f51057b-040b-413e-a9b0-b20440acff08
 translation-type: tm+mt

@@ -2,7 +2,7 @@
 description: 'null '
 seo-description: 'null '
 seo-title: Karussell lokalisieren
-solution: Experience Manager
+solution: Experience Manager
 title: Karussell lokalisieren
 uuid: 168b061d-dc60-4a4a-b6f7-154a3f81dc00
 translation-type: tm+mt

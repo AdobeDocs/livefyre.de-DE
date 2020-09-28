@@ -2,7 +2,7 @@
 description: 'null '
 seo-description: 'null '
 seo-title: Übersetzungssätze erstellen und ändern
-solution: Experience Manager
+solution: Experience Manager
 title: Übersetzungssätze erstellen und ändern
 uuid: 4ed559a3-d2f2-4977-9172-c9e0448dec74
 translation-type: tm+mt

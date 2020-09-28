@@ -2,7 +2,7 @@
 description: Zeigen Sie die Assets in Livefyre mit einer Anforderung ausstehender Rechte an und ändern Sie sie.
 seo-description: Zeigen Sie die Assets in Livefyre mit einer Anforderung ausstehender Rechte an und ändern Sie sie.
 seo-title: Verwalten von Inhalten mit einer Anforderung ausstehender Rechte aus der Asset-Bibliothek
-solution: Experience Manager
+solution: Experience Manager
 title: Verwalten von Inhalten mit einer Anforderung ausstehender Rechte aus der Asset-Bibliothek
 uuid: fab285af-de09-4061-a946-5bede91603de
 translation-type: tm+mt

@@ -2,7 +2,7 @@
 description: Sie können Livefyre Identity mit Facebook verwenden, um Benutzern zu ermöglichen, ihre Facebook-Anmeldungen für die Interaktion mit Apps auf Ihrer Site zu verwenden.
 seo-description: Sie können Livefyre Identity mit Facebook verwenden, um Benutzern zu ermöglichen, ihre Facebook-Anmeldungen für die Interaktion mit Apps auf Ihrer Site zu verwenden.
 seo-title: Facebook-App zur Verwendung mit Livefyre-Identität erstellen
-solution: Experience Manager
+solution: Experience Manager
 title: Facebook-App zur Verwendung mit Livefyre-Identität erstellen
 uuid: a7f7be4e-8986-4e79-831a-0bb0ae555599
 translation-type: tm+mt

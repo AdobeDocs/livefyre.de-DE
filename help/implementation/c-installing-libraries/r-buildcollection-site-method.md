@@ -2,7 +2,7 @@
 description: 'null '
 seo-description: 'null '
 seo-title: buildCollection-Site-Methode
-solution: Experience Manager
+solution: Experience Manager
 title: buildCollection-Site-Methode
 uuid: 52abc42a-9506-4492-b219-f2e05eb79c5f
 translation-type: tm+mt

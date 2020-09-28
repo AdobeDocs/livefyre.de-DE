@@ -2,7 +2,7 @@
 description: Ändern Sie das für Livefyre-Benutzer angezeigte Symbol im Pull-down-Menü @mention.
 seo-description: Ändern Sie das für Livefyre-Benutzer angezeigte Symbol im Pull-down-Menü @mention.
 seo-title: Symbol @mention ändern
-solution: Experience Manager
+solution: Experience Manager
 title: Symbol @mention ändern
 uuid: a395f4ff-a774-454a-8d94-4a3371d8cc2c
 translation-type: tm+mt

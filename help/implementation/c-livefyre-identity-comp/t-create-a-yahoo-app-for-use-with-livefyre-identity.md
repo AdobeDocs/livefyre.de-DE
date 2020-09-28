@@ -2,7 +2,7 @@
 description: Sie können Livefyre Identity mit Yahoo! , damit Benutzer ihre Yahoo! sich anmelden, um mit Apps auf Ihrer Site zu interagieren.
 seo-description: Sie können Livefyre Identity mit Yahoo! , damit Benutzer ihre Yahoo! sich anmelden, um mit Apps auf Ihrer Site zu interagieren.
 seo-title: Erstellen Sie ein Yahoo! App für die Verwendung mit Livefyre-Identität
-solution: Experience Manager
+solution: Experience Manager
 title: Erstellen Sie ein Yahoo! App für die Verwendung mit Livefyre-Identität
 uuid: 6863cd2e-eb0d-465b-b706-88ecaccf41bc
 translation-type: tm+mt

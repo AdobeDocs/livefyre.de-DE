@@ -2,7 +2,7 @@
 description: Einige Beispiele zur Verwendung der Bibliotheken.
 seo-description: Einige Beispiele zur Verwendung der Bibliotheken.
 seo-title: Beispiele
-solution: Experience Manager
+solution: Experience Manager
 title: Beispiele
 uuid: 94e38dab-6234-43a2-a840-13a87f0237f1
 translation-type: tm+mt

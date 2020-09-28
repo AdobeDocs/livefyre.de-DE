@@ -2,7 +2,7 @@
 description: 'null '
 seo-description: 'null '
 seo-title: E-Mails für Livefyre-Identität
-solution: Experience Manager
+solution: Experience Manager
 title: E-Mails für Livefyre-Identität
 uuid: 4e807803-687e-4df0-94d1-b18a48d024e8
 translation-type: tm+mt

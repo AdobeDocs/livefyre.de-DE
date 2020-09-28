@@ -2,7 +2,7 @@
 description: Die verfügbaren Ereignisse, an die Sie JavaScript für Konversations-Apps binden können (z. B. Kommentare, Chat, Live-Blog, Bewertungen und Anmerkungen).
 seo-description: Die verfügbaren Ereignisse, an die Sie JavaScript für Konversations-Apps binden können (z. B. Kommentare, Chat, Live-Blog, Bewertungen und Anmerkungen).
 seo-title: Definitionen und Beispiele zu JavaScript-Ereignissen
-solution: Experience Manager
+solution: Experience Manager
 title: Definitionen und Beispiele zu JavaScript-Ereignissen
 uuid: 61da2e2e-8fcd-482d-93df-c946f0475277
 translation-type: tm+mt

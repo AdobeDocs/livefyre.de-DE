@@ -2,7 +2,7 @@
 description: Erstellen Sie eine neue Storify 2-Geschichte.
 seo-description: Erstellen Sie eine neue Storify 2-Geschichte.
 seo-title: Eine Geschichte erstellen
-solution: Experience Manager
+solution: Experience Manager
 title: Eine Geschichte erstellen
 uuid: ab1d9b9a-9081-4ca0-8df4-1cc6d9c9fd81
 translation-type: tm+mt

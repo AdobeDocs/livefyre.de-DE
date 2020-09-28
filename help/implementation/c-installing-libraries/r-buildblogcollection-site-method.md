@@ -2,7 +2,7 @@
 description: Gibt ein Collection-Objekt zurück, das als Blog-Typ instanziiert wurde. Führen Sie create_or_update() vom Collection-Objekt aus, um den Build-Prozess abzuschließen.
 seo-description: Gibt ein Collection-Objekt zurück, das als Blog-Typ instanziiert wurde. Führen Sie create_or_update() vom Collection-Objekt aus, um den Build-Prozess abzuschließen.
 seo-title: buildBlogCollection-Site-Methode
-solution: Experience Manager
+solution: Experience Manager
 title: buildBlogCollection-Site-Methode
 uuid: 6a5ec6b9-bc32-467a-abe6-a57c6defe067
 translation-type: tm+mt

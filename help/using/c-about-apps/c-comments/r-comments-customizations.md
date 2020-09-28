@@ -2,7 +2,7 @@
 description: Passen Sie Kommentare an, um Echtzeit-Unterhaltungen auf Ihrer Site einzubetten.
 seo-description: Passen Sie Kommentare an, um Echtzeit-Unterhaltungen auf Ihrer Site einzubetten.
 seo-title: Kommentaranpassung
-solution: Experience Manager
+solution: Experience Manager
 title: Kommentaranpassung
 uuid: 7ec08aaf-553f-49a2-b237-d4bdcb5714ff
 translation-type: tm+mt

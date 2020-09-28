@@ -2,7 +2,7 @@
 description: Verwandeln Sie jede einzelne Seite Ihrer Site in eine interaktive Arbeitsfläche für die Zusammenarbeit.
 seo-description: Verwandeln Sie jede einzelne Seite Ihrer Site in eine interaktive Arbeitsfläche für die Zusammenarbeit.
 seo-title: Best Practices für Sidemarken
-solution: Experience Manager
+solution: Experience Manager
 title: Best Practices für Sidemarken
 uuid: 0f511fff-275a-436f-a81f-dbdf0bd39900
 translation-type: tm+mt

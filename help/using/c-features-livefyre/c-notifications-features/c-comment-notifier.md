@@ -2,7 +2,7 @@
 description: Damit können Sie ein kleines Popup auf der Seite aktivieren, um Benutzer darüber zu informieren, wenn ein Kommentar hinzugefügt wurde.
 seo-description: Damit können Sie ein kleines Popup auf der Seite aktivieren, um Benutzer darüber zu informieren, wenn ein Kommentar hinzugefügt wurde.
 seo-title: Kommentar-Notifizierer
-solution: Experience Manager
+solution: Experience Manager
 title: Kommentar-Notifizierer
 uuid: 36907977-8233-4978-9413-232c7b2fae20
 translation-type: tm+mt

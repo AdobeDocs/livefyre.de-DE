@@ -2,7 +2,7 @@
 description: Verwenden Sie verfügbare CSS-Klassen, um spezielle Inhalte anders als andere Inhalte in Ihrer App zu gestalten.
 seo-description: Verwenden Sie verfügbare CSS-Klassen, um spezielle Inhalte anders als andere Inhalte in Ihrer App zu gestalten.
 seo-title: CSS zum Formatieren von speziellen Inhalten verwenden
-solution: Experience Manager
+solution: Experience Manager
 title: CSS zum Formatieren von speziellen Inhalten verwenden
 uuid: c4ab648c-d81f-41b9-9773-ef919649cc46
 translation-type: tm+mt

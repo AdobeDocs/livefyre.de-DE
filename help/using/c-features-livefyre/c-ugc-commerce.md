@@ -2,7 +2,7 @@
 description: Stellen Sie produktspezifische UGC an bestimmten Punkten der Customer Journey bereit, um die Kaufabsicht und die Konversion mithilfe der UGC Commerce-Funktion zu erhöhen.
 seo-description: Stellen Sie produktspezifische UGC an bestimmten Punkten der Customer Journey bereit, um die Kaufabsicht und die Konversion mithilfe der UGC Commerce-Funktion zu erhöhen.
 seo-title: UGC Commerce
-solution: Experience Manager
+solution: Experience Manager
 title: UGC Commerce
 uuid: 71e64901-a2b6-4957-ba88-058e4eaca537
 translation-type: tm+mt

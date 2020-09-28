@@ -2,7 +2,7 @@
 description: Erstellen Sie die Ping for Pull-Antwort, um aktualisierte Benutzerinformationen an Livefyre zu senden.
 seo-description: Erstellen Sie die Ping for Pull-Antwort, um aktualisierte Benutzerinformationen an Livefyre zu senden.
 seo-title: Ping für vollständige Antwort erstellen
-solution: Experience Manager
+solution: Experience Manager
 title: Ping für vollständige Antwort erstellen
 uuid: f90871d5-601f-40dc-b3d2-ab78635e4a88
 translation-type: tm+mt

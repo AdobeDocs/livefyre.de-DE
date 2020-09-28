@@ -2,7 +2,7 @@
 description: Eine Beschreibung der Methoden der Network-Klasse.
 seo-description: Eine Beschreibung der Methoden der Network-Klasse.
 seo-title: Netzwerkmethoden
-solution: Experience Manager
+solution: Experience Manager
 title: Netzwerkmethoden
 uuid: f237fead-36b5-4ea1-bfdd-55194d3306e1
 translation-type: tm+mt

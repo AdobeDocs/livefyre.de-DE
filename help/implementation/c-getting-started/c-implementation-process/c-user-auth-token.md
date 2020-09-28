@@ -2,7 +2,7 @@
 description: In diesem Abschnitt wird beschrieben, wie Sie das UserAuth JSON-Objekt generieren, das das Benutzerauthentifizierungstoken erstellt, das zum Anmelden von Benutzern in Ihren Apps erforderlich ist.
 seo-description: In diesem Abschnitt wird beschrieben, wie Sie das UserAuth JSON-Objekt generieren, das das Benutzerauthentifizierungstoken erstellt, das zum Anmelden von Benutzern in Ihren Apps erforderlich ist.
 seo-title: Auth-Token des Benutzers
-solution: Experience Manager
+solution: Experience Manager
 title: Auth-Token des Benutzers
 uuid: 6483debd-453c-4780-b19c-1d8041693617
 translation-type: tm+mt

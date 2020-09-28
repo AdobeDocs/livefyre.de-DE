@@ -2,7 +2,7 @@
 description: Sie können Stream-Regeln erstellen, die Inhalte von Facebook-Seiten abrufen.
 seo-description: Sie können Stream-Regeln erstellen, die Inhalte von Facebook-Seiten abrufen.
 seo-title: Facebook-Seitenregeln
-solution: Experience Manager
+solution: Experience Manager
 title: Facebook-Seitenregeln
 uuid: 2be63476-1a92-409d-a22f-e1ec66b6dcc8
 translation-type: tm+mt

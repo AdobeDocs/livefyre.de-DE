@@ -2,7 +2,7 @@
 description: 'null '
 seo-description: 'null '
 seo-title: Übersetzungsset auf ein Netzwerk anwenden
-solution: Experience Manager
+solution: Experience Manager
 title: Übersetzungsset auf ein Netzwerk anwenden
 uuid: 3d9a2616-3721-4ac5-a039-aefbf57cf269
 translation-type: tm+mt

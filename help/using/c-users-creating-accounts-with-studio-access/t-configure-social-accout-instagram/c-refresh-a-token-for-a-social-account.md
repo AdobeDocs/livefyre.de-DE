@@ -2,7 +2,7 @@
 description: Aktualisieren Sie ein Token für ein Social-Konto, wenn es abläuft.
 seo-description: Aktualisieren Sie ein Token für ein Social-Konto, wenn es abläuft.
 seo-title: Token für ein Social-Konto aktualisieren
-solution: Experience Manager
+solution: Experience Manager
 title: Token für ein Social-Konto aktualisieren
 uuid: 8a25305c-aaa3-460f-b782-404a55b491cd
 translation-type: tm+mt

@@ -2,7 +2,7 @@
 description: Wählen Sie in Livefyre Studio die Konfigurationsoptionen "Stil", "Anzeige"und "Benutzerinteraktion"für Storify 2.
 seo-description: Wählen Sie in Livefyre Studio die Konfigurationsoptionen "Stil", "Anzeige"und "Benutzerinteraktion"für Storify 2.
 seo-title: Konfigurationsoptionen
-solution: Experience Manager
+solution: Experience Manager
 title: Konfigurationsoptionen
 uuid: 4a7f03b3-6d97-46e9-8832-81e665f06d3a
 translation-type: tm+mt

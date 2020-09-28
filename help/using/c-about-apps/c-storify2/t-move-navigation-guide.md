@@ -2,7 +2,7 @@
 description: Geben Sie die Position der Navigationsanleitung auf dem Bildschirm an.
 seo-description: Geben Sie die Position der Navigationsanleitung auf dem Bildschirm an.
 seo-title: Navigationshandbuch verschieben
-solution: Experience Manager
+solution: Experience Manager
 title: Navigationshandbuch verschieben
 uuid: 124cfda1-ef58-4b41-97e2-7a4fcf08210e
 translation-type: tm+mt

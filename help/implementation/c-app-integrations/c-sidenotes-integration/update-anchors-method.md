@@ -2,7 +2,7 @@
 description: Die Core Livefyre-Bibliothek, die verwendet wird, um Livefyre auf Ihrer Site zu aktivieren.
 seo-description: Die Core Livefyre-Bibliothek, die verwendet wird, um Livefyre auf Ihrer Site zu aktivieren.
 seo-title: updateAnchors-Methode
-solution: Experience Manager
+solution: Experience Manager
 title: Livefyre.js
 uuid: null
 translation-type: tm+mt

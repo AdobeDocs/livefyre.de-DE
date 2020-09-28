@@ -2,7 +2,7 @@
 description: Bewerten und überprüfen Sie alle Inhalte Ihrer Website in Echtzeit.
 seo-description: Bewerten und überprüfen Sie alle Inhalte Ihrer Website in Echtzeit.
 seo-title: Reviews
-solution: Experience Manager
+solution: Experience Manager
 title: Reviews
 uuid: 5386fc74-7a3b-4b2a-91fd-cfe5300e602d
 translation-type: tm+mt

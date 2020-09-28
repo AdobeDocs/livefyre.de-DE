@@ -2,7 +2,7 @@
 description: Eine Anleitung zum Erstellen von collectionMeta- und Authentifizierungstoken.
 seo-description: Eine Anleitung zum Erstellen von collectionMeta- und Authentifizierungstoken.
 seo-title: Serverseitige Tokens erstellen
-solution: Experience Manager
+solution: Experience Manager
 title: Serverseitige Tokens erstellen
 uuid: 8313f26e-5ceb-414e-a61a-480bb7a8ba66
 translation-type: tm+mt

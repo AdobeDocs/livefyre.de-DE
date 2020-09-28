@@ -2,7 +2,7 @@
 description: Livefyre bietet vier spezielle APIs, mit denen Sie die 50 zuletzt hervorgehobenen Inhaltselemente für das Eingabenetzwerk, die Site oder die Sammlung oder die beiden Inhaltselemente, die oben in einer Eingabesammlung vorgestellt werden, abrufen können.
 seo-description: Livefyre bietet vier spezielle APIs, mit denen Sie die 50 zuletzt hervorgehobenen Inhaltselemente für das Eingabenetzwerk, die Site oder die Sammlung oder die beiden Inhaltselemente, die oben in einer Eingabesammlung vorgestellt werden, abrufen können.
 seo-title: Aggregierte spezielle Inhalte mit den speziellen APIs
-solution: Experience Manager
+solution: Experience Manager
 title: Aggregierte spezielle Inhalte mit den speziellen APIs
 uuid: e9c9ff26-37b6-4328-af85-aa550e7ffdfd
 translation-type: tm+mt

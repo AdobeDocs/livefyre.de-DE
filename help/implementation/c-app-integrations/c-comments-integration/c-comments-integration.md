@@ -2,7 +2,7 @@
 description: Aktivieren Sie Live-Kommentare auf Ihrer Seite.
 seo-description: Aktivieren Sie Live-Kommentare auf Ihrer Seite.
 seo-title: Kommentare
-solution: Experience Manager
+solution: Experience Manager
 title: Kommentare
 uuid: decad9b0-2074-4748-bd77-914008817bfa
 translation-type: tm+mt

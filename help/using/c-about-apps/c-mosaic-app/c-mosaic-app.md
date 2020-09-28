@@ -2,7 +2,7 @@
 description: Fügen Sie Ihrer Site mit einer Mosaic-App eine lebendige und dynamische Wand aus Farbe, Fotos und Videos hinzu.
 seo-description: Fügen Sie Ihrer Site mit einer Mosaic-App eine lebendige und dynamische Wand aus Farbe, Fotos und Videos hinzu.
 seo-title: Mosaik
-solution: Experience Manager
+solution: Experience Manager
 title: Mosaik
 uuid: 331c5f80-7440-4b91-8ac6-4f56a8a5befe
 translation-type: tm+mt

@@ -2,7 +2,7 @@
 description: Die führende Plattform für soziale Tiefe mit den Tools, die Sie benötigen, um Zielgruppen mit den Stimmen zu verbinden, denen sie am meisten vertrauen.
 seo-description: Die führende Plattform für soziale Tiefe mit den Tools, die Sie benötigen, um Zielgruppen mit den Stimmen zu verbinden, denen sie am meisten vertrauen.
 seo-title: Über Livefyre
-solution: Experience Manager
+solution: Experience Manager
 title: Über Livefyre
 uuid: b864afe0-9ccb-4607-b735-69ce42cd8199
 translation-type: tm+mt

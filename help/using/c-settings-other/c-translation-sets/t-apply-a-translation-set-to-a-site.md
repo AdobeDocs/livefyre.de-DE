@@ -2,7 +2,7 @@
 description: 'null '
 seo-description: 'null '
 seo-title: Übersetzungsset auf eine Site anwenden
-solution: Experience Manager
+solution: Experience Manager
 title: Übersetzungsset auf eine Site anwenden
 uuid: 750f4ca2-0350-40c9-9176-ce56581bf8ab
 translation-type: tm+mt

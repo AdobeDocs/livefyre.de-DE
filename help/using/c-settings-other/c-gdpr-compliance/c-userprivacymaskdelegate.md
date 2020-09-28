@@ -2,7 +2,7 @@
 description: Sie können den Warnungstext ändern, der auf Videomasken angezeigt wird.
 seo-description: Sie können den Warnungstext ändern, der auf Videomasken angezeigt wird.
 seo-title: userPrivacyMaskDelegate
-solution: Experience Manager
+solution: Experience Manager
 title: userPrivacyMaskDelegate
 uuid: 8e5a2750-bf45-4e70-a5f9-37f5e7c61f8e
 translation-type: tm+mt

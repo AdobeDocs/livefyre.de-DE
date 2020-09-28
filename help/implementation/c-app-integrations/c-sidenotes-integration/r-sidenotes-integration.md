@@ -2,7 +2,7 @@
 description: Integrieren Sie eine SIR-App, indem Sie einen ähnlichen Prozess wie Core-Anwendungen ausführen.
 seo-description: Integrieren Sie eine SIR-App, indem Sie einen ähnlichen Prozess wie Core-Anwendungen ausführen.
 seo-title: Integration von Sizilien
-solution: Experience Manager
+solution: Experience Manager
 title: Integration von Sizilien
 uuid: 4aa14ada-402a-482d-b43e-96f37afa6c53
 translation-type: tm+mt

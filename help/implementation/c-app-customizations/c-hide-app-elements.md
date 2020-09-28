@@ -2,7 +2,7 @@
 description: Entfernen Sie die standardmäßigen Livefyre-App-Komponenten aus Ihrer App.
 seo-description: Entfernen Sie die standardmäßigen Livefyre-App-Komponenten aus Ihrer App.
 seo-title: App-Elemente ausblenden
-solution: Experience Manager
+solution: Experience Manager
 title: App-Elemente ausblenden
 uuid: ea090b6e-99f5-4bd7-aa9e-d39a4dff1543
 translation-type: tm+mt

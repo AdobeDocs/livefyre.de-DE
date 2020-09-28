@@ -2,7 +2,7 @@
 description: Sie können einen Übersetzungssatz jederzeit löschen, indem Sie auf das Papierkorbsymbol neben dem zu löschenden Übersetzungssatz klicken.
 seo-description: Sie können einen Übersetzungssatz jederzeit löschen, indem Sie auf das Papierkorbsymbol neben dem zu löschenden Übersetzungssatz klicken.
 seo-title: Löschen eines Übersetzungssatzes
-solution: Experience Manager
+solution: Experience Manager
 title: Löschen eines Übersetzungssatzes
 uuid: 8a098100-e51e-4554-83b8-a91fdb204a49
 translation-type: tm+mt

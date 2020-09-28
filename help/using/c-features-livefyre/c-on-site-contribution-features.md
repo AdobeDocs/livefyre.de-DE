@@ -2,7 +2,7 @@
 description: Wählen Sie, wie Site-Besucher mit Apps interagieren und auf welche Weise sie mit dem Inhalt interagieren können.
 seo-description: Wählen Sie, wie Site-Besucher mit Apps interagieren und auf welche Weise sie mit dem Inhalt interagieren können.
 seo-title: Funktionen für Onsite-Beiträge
-solution: Experience Manager
+solution: Experience Manager
 title: Funktionen für Onsite-Beiträge
 uuid: 1f441490-28eb-4fc4-9fe8-0879c62c4b4a
 translation-type: tm+mt

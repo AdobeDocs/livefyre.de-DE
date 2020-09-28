@@ -2,7 +2,7 @@
 description: Eine Übersicht der Anzeigeanforderungen für Twitter.
 seo-description: Eine Übersicht der Anzeigeanforderungen für Twitter.
 seo-title: Twitter-Anzeigeanforderungen
-solution: Experience Manager
+solution: Experience Manager
 title: Twitter-Anzeigeanforderungen
 uuid: 705c25b8-4a25-4640-9843-074f50ebae4f
 translation-type: tm+mt

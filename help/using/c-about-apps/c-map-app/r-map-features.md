@@ -2,7 +2,7 @@
 description: Die Map-App bietet diese Funktionen für Ihre Site.
 seo-description: Die Map-App bietet diese Funktionen für Ihre Site.
 seo-title: Funktionen für Imagemaps
-solution: Experience Manager
+solution: Experience Manager
 title: Funktionen für Imagemaps
 uuid: fdad5f0c-8292-4f59-bac1-c96c01e96ff5
 translation-type: tm+mt

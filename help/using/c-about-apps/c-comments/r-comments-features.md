@@ -2,7 +2,7 @@
 description: Die Kommentaranwendung enthält viele Funktionen, mit denen Sie Echtzeit-Konversationen in Ihre Site einbetten können.
 seo-description: Die Kommentaranwendung enthält viele Funktionen, mit denen Sie Echtzeit-Konversationen in Ihre Site einbetten können.
 seo-title: Kommentarfunktionen
-solution: Experience Manager
+solution: Experience Manager
 title: Kommentarfunktionen
 uuid: ec00fcc9-1b5e-4d0b-b1da-95f9f26b4cc1
 translation-type: tm+mt

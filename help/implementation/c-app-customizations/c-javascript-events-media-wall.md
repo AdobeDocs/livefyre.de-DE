@@ -2,7 +2,7 @@
 description: Verwenden Sie JavaScript-Ereignisse, um auf Ereignisse zu warten, die in einer Medienmanschette auftreten, und diese an das Analysetool Ihrer Wahl zu senden.
 seo-description: Verwenden Sie JavaScript-Ereignisse, um auf Ereignisse zu warten, die in einer Medienmanschette auftreten, und diese an das Analysetool Ihrer Wahl zu senden.
 seo-title: JavaScript-Ereignisse für Medienwall
-solution: Experience Manager
+solution: Experience Manager
 title: JavaScript-Ereignisse für Medienwall
 uuid: 8afc0529-4640-476a-b207-91b2c70101f0
 translation-type: tm+mt

@@ -2,7 +2,7 @@
 description: Verwalten von Inhalten im gesamten Livefyre-Netzwerk
 seo-description: Verwalten von Inhalten im gesamten Livefyre-Netzwerk
 seo-title: Registerkarte "App-Inhalt"
-solution: Experience Manager
+solution: Experience Manager
 title: Registerkarte "App-Inhalt"
 uuid: 65b23085-2b79-4a6f-96c9-44b421805312
 translation-type: tm+mt

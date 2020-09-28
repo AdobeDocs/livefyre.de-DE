@@ -2,7 +2,7 @@
 description: Erfahren Sie mehr über die Allgemeine Datenschutzverordnung (GDPR) und wie Sie die gemäß GDPR zulässigen Zugriffs- und Löschungsanfragen für Daten, die in Ihrer Nutzung von Livefyre gesammelt werden, sowie andere damit zusammenhängende Datenschutzkontrollen abschließen können.
 seo-description: Erfahren Sie mehr über die Allgemeine Datenschutzverordnung (GDPR) und wie Sie die gemäß GDPR zulässigen Zugriffs- und Löschungsanfragen für Daten, die in Ihrer Nutzung von Livefyre gesammelt werden, sowie andere damit zusammenhängende Datenschutzkontrollen abschließen können.
 seo-title: Datenschutzanforderungen (GDPR-bereit)
-solution: Experience Manager
+solution: Experience Manager
 title: Datenschutzanforderungen (GDPR-bereit)
 uuid: 8c8b2001-f94d-4afc-8acd-ff4c096dc2f9
 translation-type: tm+mt

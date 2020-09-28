@@ -2,7 +2,7 @@
 description: Veröffentlichen Sie einen Beitrag, um die Aufmerksamkeit auf bestimmte Inhalte zu lenken, wenn Sie zum ersten Mal auf einer Seite mit eingebettetem Storify 2 landen.
 seo-description: Veröffentlichen Sie einen Beitrag, um die Aufmerksamkeit auf bestimmte Inhalte zu lenken, wenn Sie zum ersten Mal auf einer Seite mit eingebettetem Storify 2 landen.
 seo-title: Beitrag zum Storisieren von 2 fixieren
-solution: Experience Manager
+solution: Experience Manager
 title: Beitrag zum Storisieren von 2 fixieren
 uuid: c4043ea6-8763-4afb-bc1b-d69e1c8eca61
 translation-type: tm+mt

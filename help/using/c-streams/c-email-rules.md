@@ -2,7 +2,7 @@
 description: Sie können Stream-Regeln erstellen, die Inhalte aus E-Mail abrufen.
 seo-description: Sie können Stream-Regeln erstellen, die Inhalte aus E-Mail abrufen.
 seo-title: E-Mail-Regeln
-solution: Experience Manager
+solution: Experience Manager
 title: E-Mail-Regeln
 uuid: 3cd27d28-b7c0-4cbc-bae3-e2ef7beacba9
 translation-type: tm+mt

@@ -2,7 +2,7 @@
 description: Richten Sie Anmeldeinformationen ein, mit denen Ihre Benutzer Inhalte für verschiedene soziale Netzwerke freigeben können.
 seo-description: Richten Sie Anmeldeinformationen ein, mit denen Ihre Benutzer Inhalte für verschiedene soziale Netzwerke freigeben können.
 seo-title: Social Sharing aktivieren
-solution: Experience Manager
+solution: Experience Manager
 title: Social Sharing aktivieren
 uuid: f584a0ae-46c7-48c1-aea4-36da9f1e259b
 translation-type: tm+mt

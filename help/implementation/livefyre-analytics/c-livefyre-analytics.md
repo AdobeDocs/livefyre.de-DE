@@ -2,7 +2,7 @@
 description: 'null '
 seo-description: 'null '
 seo-title: Verwenden von Livefyre mit anderen Analysetools
-solution: Experience Manager
+solution: Experience Manager
 title: Verwenden von Livefyre mit anderen Analysetools
 uuid: 26c835f6-aced-41f7-aabe-418afce8a829
 translation-type: tm+mt

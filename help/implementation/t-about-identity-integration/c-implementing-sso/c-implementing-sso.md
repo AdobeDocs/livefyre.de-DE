@@ -2,7 +2,7 @@
 description: Um einen Benutzer mit Livefyre über einen Fluss zu authentifizieren, der nicht von einer Livefyre-App ausgelöst wird, empfiehlt Livefyre, die forAnyAuthentication-Methode für das AuthDelegate-Objekt zu implementieren.
 seo-description: Um einen Benutzer mit Livefyre über einen Fluss zu authentifizieren, der nicht von einer Livefyre-App ausgelöst wird, empfiehlt Livefyre, die forAnyAuthentication-Methode für das AuthDelegate-Objekt zu implementieren.
 seo-title: Implementierung der SSO
-solution: Experience Manager
+solution: Experience Manager
 title: Implementierung der SSO
 uuid: c96d456c-b1ac-40e0-8d18-224652b9697f
 translation-type: tm+mt

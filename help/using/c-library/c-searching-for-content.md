@@ -2,7 +2,7 @@
 description: Suchen Sie nach Inhalt nach URL, der in Ihrer Asset-Bibliothek gespeichert werden soll.
 seo-description: Suchen Sie nach Inhalt nach URL, der in Ihrer Asset-Bibliothek gespeichert werden soll.
 seo-title: Suche nach URL
-solution: Experience Manager
+solution: Experience Manager
 title: Suche nach URL
 uuid: 45be6a85-e615-46c6-9601-82df02839315
 translation-type: tm+mt

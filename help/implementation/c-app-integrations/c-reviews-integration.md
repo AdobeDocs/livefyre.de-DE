@@ -2,7 +2,7 @@
 description: Ermöglichen Sie Kunden, Ihre Produktangebote zu bewerten und zu überprüfen.
 seo-description: Ermöglichen Sie Kunden, Ihre Produktangebote zu bewerten und zu überprüfen.
 seo-title: Reviews
-solution: Experience Manager
+solution: Experience Manager
 title: Reviews
 uuid: b740ee28-f6f9-4ae7-9fe7-61a5cde97bb
 translation-type: tm+mt

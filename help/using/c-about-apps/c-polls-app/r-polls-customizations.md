@@ -2,7 +2,7 @@
 description: Ändern Sie Größe, Breite und Interaktionsoptionen der Umfrage-App.
 seo-description: Ändern Sie Größe, Breite und Interaktionsoptionen der Umfrage-App.
 seo-title: Umfrageanpassung
-solution: Experience Manager
+solution: Experience Manager
 title: Umfrageanpassung
 uuid: 788a4fa7-aafb-4508-b9c0-cd54e4cd9b86
 translation-type: tm+mt

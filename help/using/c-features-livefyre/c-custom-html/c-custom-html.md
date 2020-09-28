@@ -2,7 +2,7 @@
 description: Moderatoren, Inhabern und Bloggern können benutzerdefinierte HTML-Anlagen zu Inhalten hinzufügen, die über Kommentare oder Live-Blog veröffentlicht wurden.
 seo-description: Moderatoren, Inhabern und Bloggern können benutzerdefinierte HTML-Anlagen zu Inhalten hinzufügen, die über Kommentare oder Live-Blog veröffentlicht wurden.
 seo-title: Benutzerdefiniertes HTML
-solution: Experience Manager
+solution: Experience Manager
 title: Benutzerdefiniertes HTML
 uuid: 1d0041bc-f45f-4f36-a377-e3bcff3f2eb4
 translation-type: tm+mt

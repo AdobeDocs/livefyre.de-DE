@@ -2,7 +2,7 @@
 description: 'null '
 seo-description: 'null '
 seo-title: SSL-Durchsetzung
-solution: Experience Manager
+solution: Experience Manager
 title: SSL-Durchsetzung
 uuid: e64af8c2-3ab6-4034-b385-0e552d828c6e
 translation-type: tm+mt

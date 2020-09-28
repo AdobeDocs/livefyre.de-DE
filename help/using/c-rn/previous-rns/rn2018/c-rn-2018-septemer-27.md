@@ -2,7 +2,7 @@
 description: Versionshinweise für die Version vom 27. September 2018.
 seo-description: Versionshinweise für die Version vom 27. September 2018.
 seo-title: 27. September 2018
-solution: Experience Manager
+solution: Experience Manager
 title: 27. September 2018
 uuid: 8d3b01fe-6d1f-4123-aaf-3009e7c6599f
 translation-type: tm+mt

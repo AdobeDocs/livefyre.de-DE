@@ -2,7 +2,7 @@
 description: Gehen Sie folgendermaßen vor, um benutzerspezifischen HTML-Code in Ihre Site einzubetten.
 seo-description: Gehen Sie folgendermaßen vor, um benutzerspezifischen HTML-Code in Ihre Site einzubetten.
 seo-title: Einbetten von benutzerdefiniertem HTML in Kommentare
-solution: Experience Manager
+solution: Experience Manager
 title: Einbetten von benutzerdefiniertem HTML in Kommentare
 uuid: f7d07286-b3b3-447d-8281-51735f24ddd9
 translation-type: tm+mt

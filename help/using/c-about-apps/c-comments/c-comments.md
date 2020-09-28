@@ -2,7 +2,7 @@
 description: Fügen Sie Kommentare in Echtzeit in Ihre App ein.
 seo-description: Fügen Sie Kommentare in Echtzeit in Ihre App ein.
 seo-title: Kommentare
-solution: Experience Manager
+solution: Experience Manager
 title: Kommentare
 uuid: f409d04a-2ecc-42fd-9d45-c723aafad116
 translation-type: tm+mt

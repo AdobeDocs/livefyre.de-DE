@@ -2,7 +2,7 @@
 description: Sie können mehrere Netzwerke über ein einziges Studio-Konto verwalten.
 seo-description: Sie können mehrere Netzwerke über ein einziges Studio-Konto verwalten.
 seo-title: Benutzer wechseln zwischen Netzwerken
-solution: Experience Manager
+solution: Experience Manager
 title: Benutzer wechseln zwischen Netzwerken
 uuid: 1f1f172b-6444-4161-9396-8f6b6d738593
 translation-type: tm+mt

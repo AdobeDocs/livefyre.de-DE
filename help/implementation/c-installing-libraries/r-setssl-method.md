@@ -2,7 +2,7 @@
 description: Legt SSL fest, damit API-Aufrufe ein- oder ausgeschaltet werden.
 seo-description: Legt SSL fest, damit API-Aufrufe ein- oder ausgeschaltet werden.
 seo-title: setSSL-Netzwerkmethode
-solution: Experience Manager
+solution: Experience Manager
 title: setSSL-Netzwerkmethode
 uuid: 8d989e63-c859-456a-99ca-8d87933913ba
 translation-type: tm+mt

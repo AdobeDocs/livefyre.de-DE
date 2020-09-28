@@ -2,7 +2,7 @@
 description: Geben Sie Ihrem Navigationshandbuch einen Titel, um Ihren Site-Besuchern Inhalte deutlich zu machen.
 seo-description: Geben Sie Ihrem Navigationshandbuch einen Titel, um Ihren Site-Besuchern Inhalte deutlich zu machen.
 seo-title: Hinzufügen eines Titels zur Navigationsanleitung
-solution: Experience Manager
+solution: Experience Manager
 title: Hinzufügen eines Titels zur Navigationsanleitung
 uuid: 9b8de96d-76c3-46d0-97ce-338b01f49ca7
 translation-type: tm+mt

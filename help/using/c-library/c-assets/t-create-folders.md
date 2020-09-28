@@ -2,7 +2,7 @@
 description: Erstellen Sie Ordner, um Assets zu organisieren.
 seo-description: Erstellen Sie Ordner, um Assets zu organisieren.
 seo-title: Erstellen von Asset-Ordnern
-solution: Experience Manager
+solution: Experience Manager
 title: Erstellen von Asset-Ordnern
 uuid: fe5eb098-ac8c-44e9-aee4-6c0b88f82747
 translation-type: tm+mt

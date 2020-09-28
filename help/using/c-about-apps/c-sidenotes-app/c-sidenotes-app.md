@@ -2,7 +2,7 @@
 description: Verwenden Sie Simit, damit Ihre Leser direkt inline mit Inhalten kommentieren können.
 seo-description: Verwenden Sie Simit, damit Ihre Leser direkt inline mit Inhalten kommentieren können.
 seo-title: Sir
-solution: Experience Manager
+solution: Experience Manager
 title: Sir
 uuid: 306294e9-1b4e-44cb-b619-a97840609f6b
 translation-type: tm+mt

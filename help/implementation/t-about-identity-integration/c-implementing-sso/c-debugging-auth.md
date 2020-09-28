@@ -2,7 +2,7 @@
 description: Sie können einen Benutzer während der Integration und während des Tests über die Konsole anmelden, um die Autorisierung zu debuggen.
 seo-description: Sie können einen Benutzer während der Integration und während des Tests über die Konsole anmelden, um die Autorisierung zu debuggen.
 seo-title: Debuggen des Auth-Delegates
-solution: Experience Manager
+solution: Experience Manager
 title: Debuggen des Auth-Delegates
 uuid: fb0c7396-190e-4dc9-bf26-23dde9efd45d
 translation-type: tm+mt

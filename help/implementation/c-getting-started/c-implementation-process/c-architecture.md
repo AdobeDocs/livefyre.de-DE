@@ -2,7 +2,7 @@
 description: Erfahren Sie mehr über die Lebenszykluskonventionen und die Organisation von Inhalten in Livefyre.
 seo-description: Erfahren Sie mehr über die Lebenszykluskonventionen und die Organisation von Inhalten in Livefyre.
 seo-title: Architektur
-solution: Experience Manager
+solution: Experience Manager
 title: Architektur
 uuid: 94358e6c-954a-4a52-9bb2-d800b2933130
 translation-type: tm+mt

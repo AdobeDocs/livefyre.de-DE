@@ -2,7 +2,7 @@
 description: Diese Methode gibt die URN für diese Site zurück.
 seo-description: Diese Methode gibt die URN für diese Site zurück.
 seo-title: getUrn-Site-Methode
-solution: Experience Manager
+solution: Experience Manager
 title: getUrn-Site-Methode
 uuid: 231c915c-6288-43e6-86e0-b8d09a08c4d3
 translation-type: tm+mt

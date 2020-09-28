@@ -1,6 +1,6 @@
 ---
 seo-title: Eine App einbetten
-solution: Experience Manager
+solution: Experience Manager
 title: Eine App einbetten
 uuid: e75caf0e-04ea-4b04-89ed-fea1183ecf63
 translation-type: tm+mt

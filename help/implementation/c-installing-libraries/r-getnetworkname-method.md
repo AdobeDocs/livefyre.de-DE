@@ -2,7 +2,7 @@
 description: This method returns the name of the network without the fyre.co.
 seo-description: Diese Methode gibt den Namen des Netzwerks ohne die Datei "fyre.co"zurück.
 seo-title: getNetworkName Network Method
-solution: Experience Manager
+solution: Experience Manager
 title: getNetworkName-Netzwerkmethode
 uuid: 3523e5a4-11f4-458d-91e7-a149d3afe5e9
 translation-type: tm+mt

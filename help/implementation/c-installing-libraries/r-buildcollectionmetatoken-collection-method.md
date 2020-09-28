@@ -2,7 +2,7 @@
 description: Gibt das verschlüsselte collectionMeta-Token für diese Sammlung zurück.
 seo-description: Gibt das verschlüsselte collectionMeta-Token für diese Sammlung zurück.
 seo-title: buildCollectionMetaToken-Erfassungsmethode
-solution: Experience Manager
+solution: Experience Manager
 title: buildCollectionMetaToken-Erfassungsmethode
 uuid: 533c68c3-c014-4fc3-8114-a57af0e44d85
 translation-type: tm+mt

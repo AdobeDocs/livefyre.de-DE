@@ -2,7 +2,7 @@
 description: Aktivieren Sie das Livefyre-Identitätspaket, damit sich Ihre Benutzer mit einer E-Mail-, Twitter-, Facebook-, Yahoo!- oder Google-Anmeldung bei Ihren Livefyre-Apps anmelden können.
 seo-description: Aktivieren Sie das Livefyre-Identitätspaket, damit sich Ihre Benutzer mit einer E-Mail-, Twitter-, Facebook-, Yahoo!- oder Google-Anmeldung bei Ihren Livefyre-Apps anmelden können.
 seo-title: Livefyre-Identität aktivieren
-solution: Experience Manager
+solution: Experience Manager
 title: Livefyre-Identität aktivieren
 uuid: 9bb5e168-4596-42a7-9105-e09c65c5e3ae
 translation-type: tm+mt

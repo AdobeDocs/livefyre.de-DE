@@ -2,7 +2,7 @@
 description: Implementieren von Anmerkungen mithilfe der .js-Implementierung.
 seo-description: Implementieren von Anmerkungen mithilfe der .js-Implementierung.
 seo-title: Implementierung von Sizilien
-solution: Experience Manager
+solution: Experience Manager
 title: Implementierung von Sizilien
 uuid: aa13852e-e2b0-4a86-97cd-d08ab5e2cfab
 translation-type: tm+mt

@@ -2,7 +2,7 @@
 description: Erlauben Sie Benutzern, ihre Benachrichtigungsfrequenz und ihren Inhalt auszuwählen.
 seo-description: Erlauben Sie Benutzern, ihre Benachrichtigungsfrequenz und ihren Inhalt auszuwählen.
 seo-title: E-Mail-Benachrichtigungen
-solution: Experience Manager
+solution: Experience Manager
 title: E-Mail-Benachrichtigungen
 uuid: 27dad133-bd8d-4949-8146-1254c160d3af
 translation-type: tm+mt

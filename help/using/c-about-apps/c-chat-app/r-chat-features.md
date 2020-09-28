@@ -2,7 +2,7 @@
 description: Chat bietet mehrere Funktionen, um einen schnellen und ansprechenden Dialog zu fördern.
 seo-description: Chat bietet mehrere Funktionen, um einen schnellen und ansprechenden Dialog zu fördern.
 seo-title: Chat-Funktionen
-solution: Experience Manager
+solution: Experience Manager
 title: Chat-Funktionen
 uuid: 8773a8f9-96cd-41db-80dd-261af749e4b1
 translation-type: tm+mt

@@ -2,7 +2,7 @@
 description: Bereitstellung von Community-Inhalten für Suchmaschinen-Crawler.
 seo-description: Bereitstellung von Community-Inhalten für Suchmaschinen-Crawler.
 seo-title: Bootstrap-HTML
-solution: Experience Manager
+solution: Experience Manager
 title: Bootstrap-HTML
 uuid: 137e4382-4e7b-4124-9d35-1d872a497bc7
 translation-type: tm+mt

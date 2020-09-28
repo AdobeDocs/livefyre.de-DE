@@ -2,7 +2,7 @@
 description: Erstellen Sie eine Medienwall mit Content-Streaming in Echtzeit.
 seo-description: Erstellen Sie eine Medienwall mit Content-Streaming in Echtzeit.
 seo-title: Medienwall
-solution: Experience Manager
+solution: Experience Manager
 title: Medienwall
 uuid: c6087c80-a35b-44d2-9dd4-ba9cd471172d
 translation-type: tm+mt

@@ -2,7 +2,7 @@
 description: Versionshinweise für die Version vom 16. November 2017.
 seo-description: Versionshinweise für die Version vom 16. November 2017.
 seo-title: 16. November 2017
-solution: Experience Manager
+solution: Experience Manager
 title: 16. November 2017
 uuid: e7d09640-d2c1-4d23-8fa6-ecc90d0b2daa
 translation-type: tm+mt

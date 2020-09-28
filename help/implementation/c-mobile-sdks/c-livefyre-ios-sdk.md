@@ -2,7 +2,7 @@
 description: Fügen Sie Ihrer nativen iOS-App Livefyre hinzu.
 seo-description: Fügen Sie Ihrer nativen iOS-App Livefyre hinzu.
 seo-title: Livefyre iOS SDK
-solution: Experience Manager
+solution: Experience Manager
 title: Livefyre iOS SDK
 uuid: bfdef31a-49fc-4b25-b0c5-300f27067302
 translation-type: tm+mt

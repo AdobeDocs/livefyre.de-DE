@@ -2,7 +2,7 @@
 description: 'null '
 seo-description: 'null '
 seo-title: Filmstreifen-Anpassungen
-solution: Experience Manager
+solution: Experience Manager
 title: Filmstreifen-Anpassungen
 uuid: 99f8b697-4aa3-4813-bcac-d0e0bdee252d
 translation-type: tm+mt

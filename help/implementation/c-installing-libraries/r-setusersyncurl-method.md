@@ -2,7 +2,7 @@
 description: Informiert Livefyre, die URL für die Benutzersynchronisierung auf die angegebene URL zu aktualisieren. Gibt einen booleschen Wert zurück.
 seo-description: Informiert Livefyre, die URL für die Benutzersynchronisierung auf die angegebene URL zu aktualisieren. Gibt einen booleschen Wert zurück.
 seo-title: setUserSyncUrl-Netzwerkmethode
-solution: Experience Manager
+solution: Experience Manager
 title: setUserSyncUrl-Netzwerkmethode
 uuid: cd067e90-a2da-4e3d-8e60-7eabfd86fc7f
 translation-type: tm+mt

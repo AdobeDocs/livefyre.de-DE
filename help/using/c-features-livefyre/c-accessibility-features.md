@@ -2,7 +2,7 @@
 description: Livefyre Identity and Apps enthalten Funktionen zur Barrierefreiheit, mit denen alle Site-Besucher mit Inhalten interagieren können, einschließlich derer, die Bildschirmlesehilfen und andere Hilfsgeräte verwenden können.
 seo-description: Livefyre Identity and Apps enthalten Funktionen zur Barrierefreiheit, mit denen alle Site-Besucher mit Inhalten interagieren können, einschließlich derer, die Bildschirmlesehilfen und andere Hilfsgeräte verwenden können.
 seo-title: Zugänglichkeitsfunktionen
-solution: Experience Manager
+solution: Experience Manager
 title: Zugänglichkeitsfunktionen
 uuid: e04970d5-f45d-40e0-807e-ae88a9386ef7
 translation-type: tm+mt

@@ -2,7 +2,7 @@
 description: Das Config-Objekt "SiHiermit"ist ein JSON-Objekt, mit dem der von der Livefyre-App auf der Seite wiedergegebene Inhalt angegeben wird.
 seo-description: Das Config-Objekt "SiHiermit"ist ein JSON-Objekt, mit dem der von der Livefyre-App auf der Seite wiedergegebene Inhalt angegeben wird.
 seo-title: Sidebar-Konfigurationsoptionen
-solution: Experience Manager
+solution: Experience Manager
 title: Sidebar-Konfigurationsoptionen
 uuid: 067e51e6-9720-4226-a805-c7a07c8cdaa0
 translation-type: tm+mt

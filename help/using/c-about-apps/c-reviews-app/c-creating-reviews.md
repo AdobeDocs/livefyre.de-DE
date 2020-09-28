@@ -2,7 +2,7 @@
 description: Reviews bietet eine breite Palette an Anpassungen, mit denen Sie eine Review-App erstellen können, die Ihren Anforderungen und Ihrem Branding entspricht.
 seo-description: Reviews bietet eine breite Palette an Anpassungen, mit denen Sie eine Review-App erstellen können, die Ihren Anforderungen und Ihrem Branding entspricht.
 seo-title: Erstellen einer Reviews-App
-solution: Experience Manager
+solution: Experience Manager
 title: Erstellen einer Reviews-App
 uuid: 6caeafe7-c04e-484e-b02f-98dc6d9b3184
 translation-type: tm+mt

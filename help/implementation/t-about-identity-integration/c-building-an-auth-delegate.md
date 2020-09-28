@@ -2,7 +2,7 @@
 description: Das AuthDelegate-Objekt implementiert Ihr gewünschtes Verhalten zum Durchführen von Authentifizierungsaktionen und -ereignissen, damit Sie die Integration mit dem vorhandenen Authentifizierungssystem Ihrer Site anpassen können.
 seo-description: Das AuthDelegate-Objekt implementiert Ihr gewünschtes Verhalten zum Durchführen von Authentifizierungsaktionen und -ereignissen, damit Sie die Integration mit dem vorhandenen Authentifizierungssystem Ihrer Site anpassen können.
 seo-title: AuthDelegate-Objekt
-solution: Experience Manager
+solution: Experience Manager
 title: AuthDelegate-Objekt
 uuid: a6acc4ef-d442-4782-9bfa-bbe494547c2e
 translation-type: tm+mt

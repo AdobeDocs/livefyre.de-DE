@@ -2,7 +2,7 @@
 description: Verwenden Sie Livefyre, um UGC mithilfe einer benutzerdefinierten Visualisierung zu kuratieren und anzuzeigen.
 seo-description: Verwenden Sie Livefyre, um UGC mithilfe einer benutzerdefinierten Visualisierung zu kuratieren und anzuzeigen.
 seo-title: UGC kuratieren und anzeigen
-solution: Experience Manager
+solution: Experience Manager
 title: UGC kuratieren und anzeigen
 uuid: null
 translation-type: tm+mt

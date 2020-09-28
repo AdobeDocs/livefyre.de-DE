@@ -2,7 +2,7 @@
 description: Versuch, diese Sammlung mit Livefyre zu erstellen oder zu aktualisieren. Gibt dieses Collection-Objekt zurück.
 seo-description: Versuch, diese Sammlung mit Livefyre zu erstellen oder zu aktualisieren. Gibt dieses Collection-Objekt zurück.
 seo-title: createOrUpdate-Erfassungsmethode
-solution: Experience Manager
+solution: Experience Manager
 title: createOrUpdate-Erfassungsmethode
 uuid: 1fff82d3-4b05-46a0-95ca-3eb4a6256cf8
 translation-type: tm+mt

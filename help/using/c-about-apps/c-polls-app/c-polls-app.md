@@ -2,7 +2,7 @@
 description: Ermöglichen Sie Ihren Kunden, ihre Meinung in Echtzeit zu äußern.
 seo-description: Ermöglichen Sie Ihren Kunden, ihre Meinung in Echtzeit zu äußern.
 seo-title: Umfragen
-solution: Experience Manager
+solution: Experience Manager
 title: Umfragen
 uuid: 19264eb2-53f8-4a66-a265-38efb634a207
 translation-type: tm+mt

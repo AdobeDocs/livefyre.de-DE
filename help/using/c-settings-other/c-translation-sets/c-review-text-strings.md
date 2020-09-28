@@ -2,7 +2,7 @@
 description: Anpassen der Textzeichenfolgen für Livefyre-Reviews.
 seo-description: Anpassen der Textzeichenfolgen für Livefyre-Reviews.
 seo-title: Textzeichenfolgen überprüfen
-solution: Experience Manager
+solution: Experience Manager
 title: Textzeichenfolgen überprüfen
 uuid: 86251e49-bc73-4eec-9f9b-b4b0a5b42099
 translation-type: tm+mt

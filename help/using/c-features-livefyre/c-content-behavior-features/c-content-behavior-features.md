@@ -2,7 +2,7 @@
 description: Livefyre bietet Funktionen in Apps, mit denen Sie festlegen können, wie Site-Besucher App-Inhalte anzeigen.
 seo-description: Livefyre bietet Funktionen in Apps, mit denen Sie festlegen können, wie Site-Besucher App-Inhalte anzeigen.
 seo-title: Inhaltsverhaltensfunktionen
-solution: Experience Manager
+solution: Experience Manager
 title: Inhaltsverhaltensfunktionen
 uuid: 4a1c6d6e-8785-49e8-aaf5-6fa4576d7232
 translation-type: tm+mt

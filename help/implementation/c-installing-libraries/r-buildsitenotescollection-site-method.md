@@ -2,7 +2,7 @@
 description: Gibt ein Collection-Objekt zurück, das als ein Sistat-Typ instanziiert wurde. Führen Sie create_or_update() vom Collection-Objekt aus, um den Build-Prozess abzuschließen.
 seo-description: Gibt ein Collection-Objekt zurück, das als ein Sistat-Typ instanziiert wurde. Führen Sie create_or_update() vom Collection-Objekt aus, um den Build-Prozess abzuschließen.
 seo-title: buildSitenotesCollection-Site-Methode
-solution: Experience Manager
+solution: Experience Manager
 title: buildSitenotesCollection-Site-Methode
 uuid: 2bfbc032-4c0c-48d2-8ce6-02460b38bd6c
 translation-type: tm+mt

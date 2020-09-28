@@ -2,7 +2,7 @@
 description: Sie können Stream-Regeln erstellen, die Inhalte aus RSS-Feeds abrufen.
 seo-description: Sie können Stream-Regeln erstellen, die Inhalte aus RSS-Feeds abrufen.
 seo-title: RSS-Regeln
-solution: Experience Manager
+solution: Experience Manager
 title: RSS-Regeln
 uuid: 3c9e2069-bb85-41dc-8b35-6237642a538a
 translation-type: tm+mt

@@ -2,7 +2,7 @@
 description: Sie können Stream-Regeln erstellen, die Inhalte aus Twitter abrufen.
 seo-description: Sie können Stream-Regeln erstellen, die Inhalte aus Twitter abrufen.
 seo-title: Twitter-Regeln
-solution: Experience Manager
+solution: Experience Manager
 title: Twitter-Regeln
 uuid: a7fd2398-fd6b-4c24-92b2-7471176d7648
 translation-type: tm+mt

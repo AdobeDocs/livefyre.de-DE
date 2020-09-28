@@ -2,7 +2,7 @@
 description: Ändern Sie Größe, Breite und Interaktionsoptionen der Karussell-App.
 seo-description: Ändern Sie Größe, Breite und Interaktionsoptionen der Karussell-App.
 seo-title: Karussell mit Studio anpassen
-solution: Experience Manager
+solution: Experience Manager
 title: Karussell mit Studio anpassen
 uuid: 24f080fc-37bf-40d4-8c1a-a502ee8ac978
 translation-type: tm+mt

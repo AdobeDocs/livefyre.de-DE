@@ -2,7 +2,7 @@
 description: Ändern Sie Größe, Breite und Interaktionsoptionen der Map-App.
 seo-description: Ändern Sie Größe, Breite und Interaktionsoptionen der Map-App.
 seo-title: Trendanpassung
-solution: Experience Manager
+solution: Experience Manager
 title: Trendanpassung
 uuid: 4dc58d90-8924-4c89-8f2a-650ac6e0538a
 translation-type: tm+mt

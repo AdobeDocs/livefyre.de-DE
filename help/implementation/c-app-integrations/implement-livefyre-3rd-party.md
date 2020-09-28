@@ -2,7 +2,7 @@
 description: Erstellen Sie Livefyre-Apps von Grund auf, um benutzerdefinierte Erlebnisse und Datenvisualisierungen zu erstellen.
 seo-description: Erstellen Sie Livefyre-Apps von Grund auf, um benutzerdefinierte Erlebnisse und Datenvisualisierungen zu erstellen.
 seo-title: Integration von Livefyre in die Integration von Drittanbietern
-solution: Experience Manager
+solution: Experience Manager
 title: Livefyre in ein CMS integrieren
 uuid: 5a3e18e8-8568-45bb-9070-d0fa43dd819b
 translation-type: tm+mt

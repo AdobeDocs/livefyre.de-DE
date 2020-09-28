@@ -2,7 +2,7 @@
 description: Veröffentlichen Sie gespeicherte Assets in Ihren Livefyre-Apps aus der Bibliothek.
 seo-description: Veröffentlichen Sie gespeicherte Assets in Ihren Livefyre-Apps aus der Bibliothek.
 seo-title: Assets in Apps veröffentlichen
-solution: Experience Manager
+solution: Experience Manager
 title: Assets in Apps veröffentlichen
 uuid: 42d39142-b047-4055-b946-15bcc91d5a95
 translation-type: tm+mt

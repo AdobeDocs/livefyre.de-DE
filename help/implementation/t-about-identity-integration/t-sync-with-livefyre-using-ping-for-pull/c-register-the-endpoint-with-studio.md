@@ -2,7 +2,7 @@
 description: Registrieren Sie den URL-Endpunkt, damit Livefyre über die URL aktualisierte Profilinformationen abrufen kann.
 seo-description: Registrieren Sie den URL-Endpunkt, damit Livefyre über die URL aktualisierte Profilinformationen abrufen kann.
 seo-title: Endpunkt mit Studio registrieren
-solution: Experience Manager
+solution: Experience Manager
 title: Endpunkt mit Studio registrieren
 uuid: 4eb816ee-d743-43bf-bfee-d9b9fd98b482
 translation-type: tm+mt

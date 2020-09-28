@@ -2,7 +2,7 @@
 description: Positionieren Sie das Livefyre-Logo auf Ihrer Seite neu.
 seo-description: Positionieren Sie das Livefyre-Logo auf Ihrer Seite neu.
 seo-title: Das Livefyre-Logo verschieben
-solution: Experience Manager
+solution: Experience Manager
 title: Das Livefyre-Logo verschieben
 uuid: 807304ae-6070-4505-87db-169a925f714c
 translation-type: tm+mt

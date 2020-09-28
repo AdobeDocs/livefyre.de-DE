@@ -2,7 +2,7 @@
 description: Livefyre führt einen Prüfpfad zu Ihrer Rechteaktivität.
 seo-description: Livefyre führt einen Prüfpfad zu Ihrer Rechteaktivität.
 seo-title: Anzeigen des Rights Activity History
-solution: Experience Manager
+solution: Experience Manager
 title: Anzeigen des Rights Activity History
 uuid: daa0587d-8d7f-431d-bae2-cd73c0de15f0
 translation-type: tm+mt

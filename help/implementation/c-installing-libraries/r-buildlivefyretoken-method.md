@@ -2,7 +2,7 @@
 description: Gibt ein verschlüsseltes gültiges Livefyre-Token zurück, das für die Interaktion mit anderen Livefyre-APIs für das Netzwerk verwendet werden kann, aus dem es aufgerufen wird.
 seo-description: Gibt ein verschlüsseltes gültiges Livefyre-Token zurück, das für die Interaktion mit anderen Livefyre-APIs für das Netzwerk verwendet werden kann, aus dem es aufgerufen wird.
 seo-title: buildLivefyreToken-Netzwerkmethode
-solution: Experience Manager
+solution: Experience Manager
 title: buildLivefyreToken-Netzwerkmethode
 uuid: 7c72a05f-669b-4df3-8117-aa4af2f7a179
 translation-type: tm+mt

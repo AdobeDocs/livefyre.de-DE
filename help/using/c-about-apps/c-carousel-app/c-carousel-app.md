@@ -2,7 +2,7 @@
 description: Präsentieren Sie Ihre besten Inhalte in einer horizontalen, durchlaufbaren Ansicht.
 seo-description: Präsentieren Sie Ihre besten Inhalte in einer horizontalen, durchlaufbaren Ansicht.
 seo-title: Karussell
-solution: Experience Manager
+solution: Experience Manager
 title: Karussell
 uuid: c0704fba-6119-44ca-9ad1-1e2cb692ebda
 translation-type: tm+mt
