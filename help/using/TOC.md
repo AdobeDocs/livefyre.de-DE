@@ -2,8 +2,9 @@
 product: livefyre
 audience: end-user
 user-guide-title: Livefyre-Handbuch
+user-guide-description: Use Livefyre Studio to create apps, gather user-generated content, and moderate content.
 translation-type: tm+mt
-source-git-commit: c8f274185f642c528ec684373c63b80cee8fab35
+source-git-commit: 9b568a6bbe638fae816c6992e33180f9349157f1
 workflow-type: tm+mt
 source-wordcount: '843'
 ht-degree: 5%
@@ -192,7 +193,7 @@ ht-degree: 5%
    + [Adobe starten - Livefyre-Erweiterung verwenden](c-library/launch-extension.md)
 + Streams {#streams}
    + [Streams](c-streams/c-streams.md)
-   + [Erstellen eines neuen Streams](c-streams/t-create-a-new-stream.md)
+   + [Einen neuen Stream erstellen](c-streams/t-create-a-new-stream.md)
    + [hinzufügen Regeln für Ihren Stream](c-streams/t-add-rules-for-your-stream.md)
    + [Stream-Regeloptionen für alle Stream-Regeln](c-streams/c-stream-rule-options-for-all-stream-rules.md)
    + [Facebook-Seitenregeln](c-streams/c-facebook-page-rules.md)
