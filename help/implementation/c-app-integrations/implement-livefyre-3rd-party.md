@@ -6,7 +6,10 @@ solution: Experience Manager
 title: Livefyre in ein CMS integrieren
 uuid: 5a3e18e8-8568-45bb-9070-d0fa43dd819b
 translation-type: tm+mt
-source-git-commit: 40cd8c2c89c17134bfcda510527dd6fff41400b5
+source-git-commit: 2436c389cbe14c7d64dd8c0392a3e0f031468836
+workflow-type: tm+mt
+source-wordcount: '381'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +28,7 @@ So implementieren Sie Konvertierungs-Apps (Kommentare, Chat, Live-Blog, Siegels)
 a. Erstellen Sie eine Sammlung mit dem CollectionMeta-Token.
 b. Integrieren von Livefyre-Apps in Sites mithilfe der Livefyre.js-Einbettungscode-Struktur.
 
-   * Weitere Informationen zur Verwendung der Livefyre.js-Einbettungscodestruktur finden Sie unter [Einbetten einer App](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md).
+   * Weitere Informationen zur Verwendung der Livefyre.js-Einbettungscode-Struktur finden Sie unter [Einbetten einer App](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md).
 
    * Informationen zur Integration der Kommentaranwendung finden Sie unter [Kommentare](/help/using/c-about-apps/c-comments/c-comments.md).
 
@@ -45,7 +48,7 @@ So erstellen Sie eine Visualisierungs-App (Map, Media Wall, Trending, Karussell,
 
 1. Führen Sie eine App-Integration durch.
 a. Erstellen Sie eine Sammlung mit dem CollectionMeta-Token.
-b. Integrieren von Livefyre-Apps in Sites mithilfe der Livefyre.js-Einbettungscode-Struktur. Weitere Informationen zur Verwendung der Livefyre.js-Einbettungscodestruktur finden Sie unter [Einbetten einer App](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md).
+b. Integrieren von Livefyre-Apps in Sites mithilfe der Livefyre.js-Einbettungscode-Struktur. Weitere Informationen zur Verwendung der Livefyre.js-Einbettungscode-Struktur finden Sie unter [Einbetten einer App](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md).
 
    * Informationen zur Integration der Map-App finden Sie unter [Map](/help/using/c-about-apps/c-map-app/c-map-app.md).
 
@@ -59,5 +62,6 @@ b. Integration von Drittanbieterbenutzern und Authentifizierungsplattformen. Ein
 
 >[!NOTE]
 >
->Livefyre unterstützt keine Apps für Karussell, Filmstreifen, Storify, Feature Card, Mosaic und Polls, die Livefyre.js verwenden.
-Integrieren Sie diese Apps mithilfe des Prozesses [Erstellen einer App](/help/using/c-about-apps/c-create-an-app.md) .
+>Livefyre unterstützt keine Karussell-, Filmstreifen-, Storify-, Feature Card-, Mosaic- und Polls-Apps, die Livefyre.js verwenden.
+
+Integrieren Sie diese Apps mithilfe des Prozesses &quot;App [erstellen](/help/using/c-about-apps/c-create-an-app.md) &quot;.
