@@ -1,18 +1,18 @@
 ---
 product: livefyre
 audience: end-user
-user-guide-title: Livefyre-Handbuch
-user-guide-description: Use Livefyre Studio to create apps, gather user-generated content, and moderate content.
+user-guide-title: Livefyre-Anleitung
+user-guide-description: Verwenden Sie Livefyre Studio, um Apps zu erstellen, benutzerdefinierte Inhalte zu sammeln und Inhalte zu moderieren.
 translation-type: tm+mt
 source-git-commit: 9b568a6bbe638fae816c6992e33180f9349157f1
 workflow-type: tm+mt
-source-wordcount: '843'
-ht-degree: 5%
+source-wordcount: '855'
+ht-degree: 7%
 
 ---
 
 
-# Livefyre-Handbuch {#using}
+# Livefyre-Anleitung {#using}
 
 + [Livefyre-Hilfe](home.md)
 + [Mitteilungen](c-anouncements.md)
