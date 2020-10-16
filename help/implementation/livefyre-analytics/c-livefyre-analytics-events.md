@@ -6,12 +6,15 @@ solution: Experience Manager
 title: Livefyre Analytics-Ereignis
 uuid: 4eb5a196-ca33-40f8-a96d-ed46469223de
 translation-type: tm+mt
-source-git-commit: 573e815799fbae2c2c4f1d98a01ea0ae04108a34
+source-git-commit: 5dc11c42a9f8bf3fa088f3245e21b6942d4865fe
+workflow-type: tm+mt
+source-wordcount: '542'
+ht-degree: 4%
 
 ---
 
 
-# Livefyre Analytics-Ereignis {#livefyre-analytics-events}
+# Livefyre Analytics-Ereignis
 
 ## Ereignis-Objektdefinition {#section_dh1_yhn_pdb}
 
