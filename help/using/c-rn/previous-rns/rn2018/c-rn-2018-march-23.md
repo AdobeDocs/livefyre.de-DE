@@ -7,6 +7,9 @@ title: 23. März 2018
 uuid: b69b8715-ace4-48e0-8f54-ce4e12170ef3
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+workflow-type: tm+mt
+source-wordcount: '209'
+ht-degree: 8%
 
 ---
 
@@ -19,14 +22,14 @@ Versionshinweise für die Version vom 23. März 2018.
 
 Die folgenden Funktionen sind in der Produktionsversion dieser Version neu:
 
-* **** Neu in Produktion: Facebook hat ein Sicherheitsupdate für die Facebook-Anmeldung erstellt, das dazu führt, dass die Facebook-Anmeldung eines Kunden nicht ordnungsgemäß funktioniert. Um dieses Problem zu beheben, müssen Sie:
+* **Neu in Produktion:** Facebook hat ein Sicherheits-Update für Facebook-Anmeldung erstellt, das dazu führt, dass die Facebook-Anmeldung eines Kunden nicht korrekt funktioniert. Um dieses Problem zu beheben, müssen Sie:
 
-   1. Fügen Sie in den Client-OAuth-Einstellungen die folgende URL zum **[!UICONTROL Valid OAuth redirect URIs]** Feld hinzu. Ersetzen Sie `<networkname>` durch Ihren richtigen Netzwerknamen:
+   1. hinzufügen Sie die folgende URL in das Feld **[!UICONTROL Valid OAuth redirect URIs]** in den Client-OAuth-Einstellungen. Ersetzen Sie `<networkname>` durch Ihren richtigen Netzwerknamen:
       `https://identity.livefyre.com/<networkname>/api/v1.0/public/profile/social/complete/facebook_fyre`
 
-   1. Zu **[!UICONTROL Use Strict Mode for Redirect URI]** wechseln **[!UICONTROL Yes]**.
+   1. Wechseln Sie **[!UICONTROL Use Strict Mode for Redirect URI]** zu **[!UICONTROL Yes]**.
 
-* **** Neu in UAT: Sie können jetzt den Vertrauensschwellenwert für Smart-Tags in Streams wählen. Wenn Sie den Präzisionswert (0-100) für Tags festlegen, können Sie die Genauigkeit der von uns abgerufenen Assets steuern.
+* **Neu in UAT:** Sie können jetzt den Vertrauensschwellenwert für Smart-Tags in Streams wählen. Wenn Sie den Präzisionswert (0-100) für Tags festlegen, können Sie die Genauigkeit der von uns abgerufenen Assets steuern.
 
 ## Probleme {#section_ehw_ndt_wcb}
 
