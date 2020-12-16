@@ -7,11 +7,14 @@ title: Umfrageanpassung
 uuid: 788a4fa7-aafb-4508-b9c0-cd54e4cd9b86
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '212'
+ht-degree: 0%
 
 ---
 
 
-# Umfrageanpassung{#polls-customizations}
+# Umfragen Anpassungen{#polls-customizations}
 
 Ändern Sie Größe, Breite und Interaktionsoptionen der Umfrage-App.
 
@@ -27,7 +30,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 * **[!UICONTROL Choices]** (2 Min.)
 
-   Geben Sie die Antworten ein, die für Ihre Umfrage angezeigt werden.
+   Geben Sie die Antworten ein, die für Ihre Umfrage angezeigt werden sollen.
 
 * **[!UICONTROL Display total votes]**
 
@@ -47,7 +50,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 * **[!UICONTROL Show poll results]**
 
-   Wenn diese Option aktiviert ist, können die Viewer die Ergebnisse der Umfrage anzeigen. Wenn diese Option deaktiviert ist, sehen die Wähler nach Abschluss der Umfrage nur den Bildschirm "Vielen Dank".
+   Wenn diese Option aktiviert ist, können die Viewer die Ergebnisse der Umfrage anzeigen. Wenn diese Option deaktiviert ist, sehen die Wähler nach Abschluss der Umfrage nur den Bildschirm &quot;Vielen Dank&quot;.
 
 * **[!UICONTROL Disclaimer]** *optional*
 
@@ -55,7 +58,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Sie können Umfragen wie folgt anpassen:
 
-* **[!UICONTROL Style]** und **[!UICONTROL Config]** Optionen für alle Apps im **[!UICONTROL App Designer]**. Weitere Informationen zu den Standard- **[!UICONTROL Style]** und **[!UICONTROL Config]** -Optionen für alle Apps im Abschnitt Anpassen von Apps finden Sie unter **[!UICONTROL App Designer]**.
+* **[!UICONTROL Style]** und  **[!UICONTROL Config]** Optionen für alle Apps im  **[!UICONTROL App Designer]**. Weitere Informationen zu den Standardoptionen **[!UICONTROL Style]** und **[!UICONTROL Config]** für alle Apps in **[!UICONTROL App Designer]** finden Sie unter Anpassen von Apps.
 
 * Integrationstools. Weitere Informationen zum Anpassen von Apps mit Integrationstools finden Sie unter Umfragen.
 
