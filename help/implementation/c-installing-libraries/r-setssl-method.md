@@ -7,6 +7,9 @@ title: setSSL-Netzwerkmethode
 uuid: 8d989e63-c859-456a-99ca-8d87933913ba
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '70'
+ht-degree: 7%
 
 ---
 
@@ -17,7 +20,7 @@ Legt SSL fest, damit API-Aufrufe ein- oder ausgeschaltet werden.
 
 | Variable | Typ | Beschreibung |
 |--- |--- |--- |
-| ssl | Boolesch | Der Standardwert ist "true". wenn SSL aktiviert sein soll, andernfalls false. <br><ul><li>True - SSL unter </li><li>False - SSL deaktiviert</li></ul> |
+| ssl | Boolesch | Der Standardwert ist &quot;true&quot;. wenn SSL aktiviert sein soll, andernfalls false. <br><ul><li>True - SSL unter </li><li>False - SSL deaktiviert</li></ul> |
 
 ## Java-Beispiel {#section_nyl_ycs_rz}
 
