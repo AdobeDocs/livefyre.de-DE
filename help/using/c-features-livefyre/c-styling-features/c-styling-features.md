@@ -1,18 +1,21 @@
 ---
-description: Sie können Ihre Livefyre-Apps so gestalten, dass sie sich auf verschiedene Weise verhalten oder sie so gestalten, dass sie wie der Rest Ihrer Markenkampagne aussehen und sich anfühlen.
-seo-description: Sie können Ihre Livefyre-Apps so gestalten, dass sie sich auf verschiedene Weise verhalten oder sie so gestalten, dass sie wie der Rest Ihrer Markenkampagne aussehen und sich anfühlen.
+description: Sie können Ihre Livefyre-Apps so gestalten, dass sie sich auf verschiedene Weise verhalten oder sie so gestalten, dass sie wie die restliche Kampagne Ihrer Marke aussehen und fühlen.
+seo-description: Sie können Ihre Livefyre-Apps so gestalten, dass sie sich auf verschiedene Weise verhalten oder sie so gestalten, dass sie wie die restliche Kampagne Ihrer Marke aussehen und fühlen.
 seo-title: Stilfunktionen
 title: Stilfunktionen
 uuid: 72a3843d-692a-43ff-b72b-6bd840de87d6
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '139'
+ht-degree: 7%
 
 ---
 
 
-# Stilfunktionen{#styling-features}
+# Formatierungsfunktionen{#styling-features}
 
-Sie können Ihre Livefyre-Apps so gestalten, dass sie sich auf verschiedene Weise verhalten oder sie so gestalten, dass sie wie der Rest Ihrer Markenkampagne aussehen und sich anfühlen.
+Sie können Ihre Livefyre-Apps so gestalten, dass sie sich auf verschiedene Weise verhalten oder sie so gestalten, dass sie wie die restliche Kampagne Ihrer Marke aussehen und fühlen.
 
 ## Standardstil {#section_yjl_rfs_d1b}
 
