@@ -7,11 +7,14 @@ title: Kommentaranpassung
 uuid: 7ec08aaf-553f-49a2-b237-d4bdcb5714ff
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '347'
+ht-degree: 0%
 
 ---
 
 
-# Kommentaranpassung{#comments-customizations}
+# Kommentaranpassungen{#comments-customizations}
 
 Passen Sie Kommentare an, um Echtzeit-Unterhaltungen auf Ihrer Site einzubetten.
 
@@ -29,7 +32,7 @@ Verwenden Sie verfügbare Optionen, damit Ihre Benutzer Inhalte über Twitter, F
 
 * **[!UICONTROL Posts appear in cards]**
 
-   Wenn diese Option aktiviert ist, werden Beiträge in einem umgebenden Feld angezeigt und die Hintergrundfarbe wird durch die **[!UICONTROL Theme]** Auswahl festgelegt.
+   Wenn diese Option aktiviert ist, werden Beiträge in einem umgebenden Feld angezeigt und die Hintergrundfarbe wird durch die Auswahl **[!UICONTROL Theme]** festgelegt.
 
 * **[!UICONTROL Expand media]**
 
@@ -53,27 +56,27 @@ Verwenden Sie verfügbare Optionen, damit Ihre Benutzer Inhalte über Twitter, F
 
 * **[!UICONTROL Users may upload photos]**
 
-   If enabled users may upload photos.
+   Wenn aktiviert, können Benutzer Fotos hochladen.
 
 * **[!UICONTROL Users may share posts]**
 
-   If enabled users may share posts. If enabled, users may share posted content to Twitter, Facebook, or LinkedIn. For more information on enabling sharing, see Settings &gt; Integration Settings &gt; Social Sharing.
+   Wenn aktiviert, können Benutzer Beiträge freigeben. Wenn diese Option aktiviert ist, können Benutzer gepostete Inhalte für Twitter, Facebook oder LinkedIn freigeben. Weitere Informationen zum Aktivieren der Freigabe finden Sie unter Einstellungen > Integrationseinstellungen > Social Sharing.
 
 * **[!UICONTROL Featured content at top of stream]**
 
-   When enabled, Featured content will be displayed above the editor in the App.
+   Wenn diese Option aktiviert ist, werden spezielle Inhalte über dem Editor in der App angezeigt.
 
 * **[!UICONTROL High velocity comment queuing]**
 
-   Allows you to control the speed with which comments are displayed on the page, and is best used for high velocity conversations. When enabled, Livefyre will list the number of new comments at the top of the stream, rather than displaying content in its entirety. Clicking this number will display the 10 oldest comments in the stream.
+   Damit können Sie die Geschwindigkeit steuern, mit der Kommentare auf der Seite angezeigt werden, und sie eignet sich am besten für Gespräche mit hoher Geschwindigkeit. Bei Aktivierung wird Livefyre die Anzahl der neuen Kommentare oben im Stream Liste, anstatt den gesamten Inhalt anzuzeigen. Wenn Sie auf diese Zahl klicken, werden die 10 ältesten Kommentare im Stream angezeigt.
 
 * **[!UICONTROL Most liked comment sort]**
 
-   If enabled, allows users to sort by  or  (in addition to the default  and  sort options).**[!UICONTROL Top Comments]****[!UICONTROL Hot Threads]****[!UICONTROL Newest]****[!UICONTROL Oldest]**
+   Wenn diese Option aktiviert ist, können Benutzer nach **[!UICONTROL Top Comments]** oder **[!UICONTROL Hot Threads]** sortieren (zusätzlich zu den standardmäßigen Sortierungsoptionen **[!UICONTROL Newest]** und **[!UICONTROL Oldest]**).
 
-You can customize Comments using:
+Sie können Kommentare wie folgt anpassen:
 
-* **[!UICONTROL Style]** and  options for all Apps in the . **[!UICONTROL Config]****[!UICONTROL App Designer]** See Customizing Apps for details on the standard  and  options for all Apps in the .**[!UICONTROL Style]****[!UICONTROL Config]****[!UICONTROL App Designer]**
+* **[!UICONTROL Style]** und  **[!UICONTROL Config]** Optionen für alle Apps im  **[!UICONTROL App Designer]**. Weitere Informationen zu den Standardoptionen **[!UICONTROL Style]** und **[!UICONTROL Config]** für alle Apps in **[!UICONTROL App Designer]** finden Sie unter Anpassen von Apps.
 
-* **[!UICONTROL Integration tools]**. See Comments for more on how to customize Comments using Integration Tools.
+* **[!UICONTROL Integration tools]**. Weitere Informationen zum Anpassen von Kommentaren mit Integrationstools finden Sie unter Kommentare.
 
