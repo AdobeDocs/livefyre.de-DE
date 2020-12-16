@@ -1,20 +1,23 @@
 ---
-description: Erlauben Sie Benutzern, das Bild anzupassen, das mit ihrem Inhalt angezeigt wird.
-seo-description: Erlauben Sie Benutzern, das Bild anzupassen, das mit ihrem Inhalt angezeigt wird.
+description: Erlauben Sie Benutzern, das Bild, das mit ihrem Inhalt angezeigt wird, anzupassen.
+seo-description: Erlauben Sie Benutzern, das Bild, das mit ihrem Inhalt angezeigt wird, anzupassen.
 seo-title: Avatare
 title: Avatare
 uuid: bf20f3bc-3dcc-4e16-a629-3380d1a7a3f2
 translation-type: tm+mt
 source-git-commit: 7dc3ac6725a27460cecfa6051549da85370ca053
+workflow-type: tm+mt
+source-wordcount: '214'
+ht-degree: 1%
 
 ---
 
 
-# Avatare{#avatars}
+# Avatars{#avatars}
 
-Erlauben Sie Benutzern, das Bild anzupassen, das mit ihrem Inhalt angezeigt wird.
+Erlauben Sie Benutzern, das Bild, das mit ihrem Inhalt angezeigt wird, anzupassen.
 
-Benutzeravatare werden (standardmäßig) neben Inhalten in allen Apps angezeigt und aus dem Identitätsprofil-System gezogen, das in Ihrer Implementierung verwendet wird. Diese Avatare variieren je nach App, in der sie angezeigt werden.
+Benutzeravatare werden (standardmäßig) neben Inhalten in allen Apps angezeigt und aus dem Identitäts-Profil-System gezogen, das in Ihrer Implementierung verwendet wird. Diese Avatare variieren je nach App, in der sie angezeigt werden.
 
 (Mit Livefyre können Sie Avatare deaktivieren, wenn Sie sie nicht in Ihren Apps anzeigen möchten.)
 
@@ -22,13 +25,13 @@ Benutzeravatare werden (standardmäßig) neben Inhalten in allen Apps angezeigt 
 >
 >Avatare werden für Chat mit 25p x 25p und für die meisten anderen Apps mit 50p x 50p angezeigt.
 
-## Avatar-Speicher {#section_zbh_x1f_wy}
+## Avatar-Datenspeicherung {#section_zbh_x1f_wy}
 
-Avatare werden asynchron in Livefyre geladen. Wenn sich ein Benutzer zum ersten Mal bei der App anmeldet oder die zugehörige Avatar-Bilddatei ändert, wird sein Profilbild einer Aufgabenwarteschlange hinzugefügt. (Ein Standardavatar wird vorübergehend angezeigt, während das des Benutzers in den Speicherort des Livefyre-Avatars hochgeladen wird.)
+Avatare werden asynchron in Livefyre geladen. Wenn sich ein Benutzer zum ersten Mal bei der App anmeldet oder die zugehörige Avatar-Bilddatei ändert, wird sein Profil einer Aufgabe hinzugefügt. (Ein Standardavatar wird vorübergehend angezeigt, während der Benutzer den Link zur Livefyre-Avatar-Datenspeicherung hochgeladen hat.)
 
-## Gravatar {#section_mqh_p1f_wy}
+## Gravatars {#section_mqh_p1f_wy}
 
-Livefyre unterstützt die Anwendung von Gravatars. Wenn ein Benutzer keinen benutzerdefinierten Avatar als Teil seines Benutzerprofils hat, sucht Livefyre nach einem Gravatar für diesen Benutzer. Wenn kein Gravatar vorhanden ist, wird der Standardavatar verwendet.
+Livefyre unterstützt die Anwendung von Gravatars. Wenn ein Benutzer nicht über einen benutzerdefinierten Avatar als Teil seines Profils verfügt, sucht Livefyre nach einem Gravatar für diesen Benutzer. Wenn kein Gravatar vorhanden ist, wird der Standardavatar verwendet.
 
 
 Apps, die diese Funktion verwenden:
