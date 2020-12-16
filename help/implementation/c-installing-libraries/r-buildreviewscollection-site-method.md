@@ -7,6 +7,9 @@ title: buildReviewsCollection-Site-Methode
 uuid: 88af4c68-57de-4ae9-9394-550c94ede48f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '119'
+ht-degree: 5%
 
 ---
 
