@@ -7,6 +7,9 @@ title: Übersetzungssätze
 uuid: 88b705e5-57c8-4065-8a41-a73546bd929a
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '1347'
+ht-degree: 7%
 
 ---
 
@@ -17,7 +20,7 @@ Mit Übersetzungssätzen können Sie eine andere Sprache für Apps festlegen.
 
 Verwenden Sie Übersetzungseinstellungen, um Apps in verschiedenen Sprachen zu lokalisieren oder um alternativen Text für mehrere Apps von einer Position in Studio aus anzugeben. Sie können beispielsweise sicherstellen, dass alle Sites in spanischer Sprache für alle App-Felder Spanisch verwenden. Sie können den Text auch so ändern, dass alle Felder der Stimme und dem Gefühl Ihrer Site oder Ihres Netzwerks entsprechen.
 
-Sie können Übersetzungseinstellungen für alle Apps mit Ausnahme von Storify 2 angeben. Weitere Informationen darüber, welche Felder lokalisiert werden können, finden Sie unter [Strings](/help/using/c-settings-other/c-translation-sets/c-localize-strings.md#c-localize-strings)lokalisieren.
+Sie können Übersetzungseinstellungen für alle Apps mit Ausnahme von Storify 2 angeben. Weitere Informationen darüber, welche Felder lokalisiert werden können, finden Sie unter [Strings lokalisieren](/help/using/c-settings-other/c-translation-sets/c-localize-strings.md#c-localize-strings).
 
 Kommentare, Live-Blog und Chat verwenden dieselben Zeichenfolgen innerhalb eines Übersetzungssatzes.
 
@@ -25,16 +28,23 @@ Geben Sie einen Übersetzungssatz für ein Netzwerk, eine Site, eine App oder ei
 
 Die Übersetzungssätze auf verschiedenen Ebenen setzen sich gegenseitig außer Kraft, indem sie diesem Muster folgen:
 
-Der API-Übersetzungssatz setzt alle Übersetzungssätze auf allen Ebenen (App, Netzwerk und Site) außer Kraft. Der App-Übersetzungssatz setzt Übersetzungssätze auf Netzwerk- und Site-Ebene außer Kraft.
+Übersetzungsset der API setzt alle Übersetzungssätze auf jeder Ebene (App, Netzwerk und Site) außer Kraft
+Der Übersetzungssatz der App setzt Übersetzungssätze auf Netzwerk- und Site-Ebene außer Kraft.
 Übersetzungssätze auf Site-Ebene setzen Übersetzungssätze auf Netzwerkebene außer Kraft.
 
-## Textzeichenfolgen überprüfen {#c_review_text_strings}
+## Überprüfen von Textzeichenfolgen {#c_review_text_strings}
 
 Anpassen der Textzeichenfolgen für Livefyre-Reviews.
 
-Auf dieser Seite werden die zur Anpassung in Review-Apps verfügbaren Zeichenfolgen aufgeführt und beschrieben. Die hier aufgeführten Zeichenfolgen werden zusätzlich zu den Standardzeichenfolgen für Livefyre-Core-Apps und deren Überschreibungen angezeigt, die unter Zeichenfolgenanpassung aufgeführt sind. Wenn Duplikate aufgeführt sind, sind die in diesen Tabellen aufgeführten Zeichenfolgen die Standardwerte für Reviews-Apps.
+Auf dieser Seite werden die zur Anpassung in Review-Apps verfügbaren Zeichenfolgen Liste und beschrieben. Die hier aufgeführten Zeichenfolgen werden zusätzlich zu den Standardzeichenfolgen für Livefyre-Core-Apps und deren Überschreibungen angezeigt, die unter Zeichenfolgenanpassung aufgeführt sind. Wo Duplikat aufgeführt sind, sind die in diesen Tabellen aufgeführten Zeichenfolgen die Standardwerte für Reviews-Apps.
 
-ImplementationReview/Rating InterfaceStream InfoAuthor/Content InfoBenutzeraktionenPost-FunktionenFehler
+Implementierung
+Benutzeroberfläche für Review/Bewertung
+Stream-Info
+Autor-/Inhaltsinformationen
+Benutzeraktionen
+Post-Funktionen
+Fehler
 
 ## Implementierung {#section-vsy-1k4-xz}
 
@@ -53,9 +63,9 @@ networkConfig["strings"] = customStrings; fyre.conv.load(
 );
 ```
 
-## Benutzeroberfläche für Review/Bewertung {#section_iyv_zj4_xz}
+## Überprüfungs-/Bewertungsschnittstelle {#section_iyv_zj4_xz}
 
-Für die Benutzeroberfläche "Review and Rating"verfügbare Zeichenfolgen.
+Für die Benutzeroberfläche &quot;Review and Rating&quot;verfügbare Zeichenfolgen.
 
 | Element | Schlüssel | Standardtext |
 |--- |--- |--- |
@@ -64,8 +74,8 @@ Für die Benutzeroberfläche "Review and Rating"verfügbare Zeichenfolgen.
 |  | reviewsClosed | Abgeschlossene Reviews |
 |  | showReviewBtn | Review anzeigen |
 |  | follow | Ich interessiere mich |
-|  | shareText | Ich habe gerade eine Überprüfung geschrieben. Schau es dir an! |
-| QuickInfos zur Bewertung | ratingValues | Als Array. Standard = `[‘Poor’, ‘Poor’, ‘Fair’, ‘Fair’, ‘Average’, ‘Average’, ‘Good’, ‘Good’, ‘Excellent’, ‘Excellent’]`; <br>Hinweis: Die Werte im Array müssen dupliziert werden, damit sowohl die linke als auch die rechte Hälfte jedes Sterns denselben Namen erhalten. |
+|  | shareText | Ich habe gerade eine Rezension geschrieben. Schau es dir an! |
+| Ratings-QuickInfos | ratingValues | Als Array. Standard = `[‘Poor’, ‘Poor’, ‘Fair’, ‘Fair’, ‘Average’, ‘Average’, ‘Good’, ‘Good’, ‘Excellent’, ‘Excellent’]`; <br>Hinweis: Die Werte im Array müssen dupliziert werden, damit sowohl die linke als auch die rechte Hälfte jedes Sterns denselben Namen erhalten. |
 | Bewertungsunterteile | ratingSubpartPlaceholders | Als Array. Standardeinstellung = [] |
 |  | ratingSubpartTitles | Als Array. Standardeinstellung = [] |
 |  | reviewStreamTitle | Standardmäßig leer. Titel des Übersichtsabschnitts der Überprüfung. |
@@ -82,7 +92,7 @@ Für Informationen und Anzeigen von Inhaltsströmen verfügbare Zeichenfolgen.
 
 | Element | Schlüssel | Standardtext |
 |---|---|---|
-| Sortieren |  sortBy | *Standardmäßig leer.* |
+| Sortieren | sortBy | *Standardmäßig leer.* |
 |  | sortHighestRated | [Höchste Bewertung](https://d.pr/i/huTd) |
 |  | sortLowestRated | [Niedrigste Bewertung](https://d.pr/i/huTd) |
 |  | sortMostHelpful | [Am meisten hilfreich](https://d.pr/i/huTd) |
@@ -137,7 +147,7 @@ Zeichenfolgen für Benutzer, die Reviews posten.
 | Editor | bodyPlaceholder | Überprüfung schreiben... |
 |  | postEditButton | Vorlage      |
 |  | postEditCancelButton | Abbrechen |
-|  | postAsButton | Prüfung nach ... |
+|  | postAsButton | Beitragsüberprüfung als... |
 |  | postButton | Beitragsüberprüfung |
 |  | postReplyAsButton | Posten als... |
 |  | postReplyButton | Posten |
@@ -176,9 +186,16 @@ Für allgemeine Fehlermeldungen verfügbare Zeichenfolgen.
 
 Anpassen der Textzeichenfolgen für Livefyre Sibezeichnet
 
-Auf dieser Seite werden alle Zeichenfolgen aufgelistet, die für die Anpassung in Sidebar-Apps verfügbar sind. Informationen zu den für die Livefyre-Core-Apps verfügbaren Zeichenfolgen finden Sie unter Zeichenfolgen-Anpassungen.
+Auf dieser Seite werden alle Zeichenfolgen, die zur Anpassung in Sidebar-Apps verfügbar sind, Liste und beschrieben. Informationen zu Zeichenfolgen, die für die Core-Livefyre-Apps verfügbar sind, finden Sie unter Zeichenfolgen-Anpassungen.
 
-ImplementationAuthStream InfoAuthor/Content InfoBenutzeraktionenPost-FunktionenModerator-SchnittstelleFehler
+Implementierung
+Auth
+Stream-Info
+Autor-/Inhaltsinformationen
+Benutzeraktionen
+Post-Funktionen
+Moderator-Oberfläche
+Fehler
 
 ## Implementierung {#section_wp2_ql4_xz}
 
@@ -217,7 +234,7 @@ Für Informationen und Anzeigen von Inhaltsströmen verfügbare Zeichenfolgen.
 
 | Element | Schlüssel | Standardtext |
 |---|---|---|
-| Optionen im Menü "Info" | menuInfoCopyright | © Livefyre, Inc. 2014 |
+| Optionen im Menü &quot;Info&quot; | menuInfoCopyright | © Livefyre, Inc. 2014 |
 |  | menuInfoHelp | Hilfe |
 |  | menuInfoLivefyreLink | Besuch Livefyre.com |
 
@@ -235,9 +252,9 @@ Stings verfügbar für Autor- und individuelle Inhaltsinformationen.
 |  | commentVoteCount | stimmen |
 |  | commentVoteCountSing | Stimme |
 |  | datetimeMinutePrefix | m |
-|  | datetimeMonths | Als Array. Default =[ ‘January’, ‘February’, ‘March’, ‘April’, ‘May’, ‘June’, ‘July’, ‘August’, ‘September’, ‘October’, ‘November’, ‘December’ ] |
-|  | QuestionExplanation | Sie können Kommentare jetzt direkt zu Sätzen, Absätzen, Bildern und Anführungszeichen lesen und schreiben.<br><br><span class="&rdquo;lf-highlight-text&rdquo;">Markieren Sie Text</span> und klicken Sie auf das <span class="&rdquo;fycon-write&rdquo;"></span> Symbol oder klicken Sie auf das <span class="&rdquo;fycon-action-view&rdquo;"></span> Symbol am Ende jedes Absatzes. |
-|  | QuestionMockText | Was "vertraut" ist, ist nicht richtig bekannt, nur weil es "vertraut" ist. |
+|  | datetimeMonths | Als Array. Standard =[ &quot;Januar&quot;, &quot;Februar&quot;, &quot;März&quot;, &quot;April&quot;, &quot;Mai&quot;, &quot;Juni&quot;, &quot;Juli&quot;, &quot;August&quot;, &quot;September&quot;, &quot;Oktober&quot;, &quot;November&quot;, &quot;Dezember&quot;] |
+|  | QuestionExplanation | Sie können Kommentare jetzt direkt zu Sätzen, Absätzen, Bildern und Anführungszeichen lesen und schreiben.<br><br><span class="&rdquo;lf-highlight-text&rdquo;">Markieren Sie </span> den Text und klicken Sie auf das  <span class="&rdquo;fycon-write&rdquo;"></span> Symbol oder klicken Sie auf das  <span class="&rdquo;fycon-action-view&rdquo;"></span> Symbol am Ende jedes Absatzes. |
+|  | QuestionMockText | Was &quot;vertraut&quot; ist, ist nicht richtig bekannt, nur weil es &quot;vertraut&quot; ist. |
 |  | QuestionTitle | Was ist ein Sidenote? |
 
 ## Benutzeraktionen {#section_qxd_fl4_xz}
@@ -251,12 +268,12 @@ Für Benutzeraktionen verfügbare Zeichenfolgen: Markieren, Freigeben und Verkn�
 | Menüoptionen freigeben | menuShareOptionFacebook | Facebook |
 |  | menuShareOptionTwitter | Twitter |
 |  | menuShareTitle | Freigabe |
-| Optionen im Menü "Flag" | menuFlagOptionDismatch | widersprechen |
+| Optionen im Menü &quot;Flag&quot; | menuFlagOptionDismatch | widersprechen |
 |  | menuFlagOptionOffensive | Offensive |
 |  | menuFlagOptionOffTopic | Off-Thema |
 |  | menuFlagOptionSpam | Spam |
 |  | menuFlagTitle | Kennzeichnung als... |
-|  | facebookShareCaption | Simit auf "{title}" |
+|  | facebookShareCaption | Simit auf &quot;{title}&quot; |
 | Mobile Benutzeroptionen | reglerCommentTally | of |
 |  | reglerInviteRead | Gelesen |
 |  | reglerInviteWrite | schreiben |
@@ -301,7 +318,7 @@ Zeichenfolgen, die für die benutzerdefinierte Moderatoroberfläche verfügbar s
 
 | Element | Schlüssel | Standardtext |
 |---|---|---|
-| Bestätigungsmeldungen im Menü "Mehr" | notificationApproved | Genehmigt |
+| Bestätigungsmeldungen im Menü &quot;Mehr&quot; | notificationApproved | Genehmigt |
 |  | notificationDeleted | Gelöscht |
 |  | notificationGekennzeichnet | Gekennzeichnet |
 
