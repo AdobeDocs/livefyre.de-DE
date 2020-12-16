@@ -6,11 +6,14 @@ title: 27. April 2017
 uuid: 30284115-92c0-4a85-acdb-adc70605ed5f
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+workflow-type: tm+mt
+source-wordcount: '307'
+ht-degree: 8%
 
 ---
 
 
-# April 27, 2017{#april}
+# 27. April 2017{#april}
 
 Versionshinweise für die Version vom 27. April 2017.
 
@@ -19,10 +22,10 @@ Versionshinweise für die Version vom 27. April 2017.
 | **Art des Problems** | **Komponente** | **Versionshinweise** |
 |---|---|---|
 | Fehler | App-Designer | Es wurde ein Fehler behoben, durch den in Designer keine neuen App-Titel-Namen in verschiedenen Apps gespeichert werden konnten. |
-| Fehler | App Manager | Die Suchergebnisse bei der Suche nach Artikel-ID im App-Manager wurden verbessert. |
+| Fehler | App-Manager | Die Suchergebnisse bei der Suche nach Artikel-ID im App-Manager wurden verbessert. |
 | Fehler | Asset-Bibliothek | Es wurde ein Fehler behoben, der dazu führte, dass Unicode-Inhalte nicht dargestellt wurden, wenn mehr Details zu einem Asset in der Bibliothek angezeigt wurden. |
 | Verbesserung | Mosaik | Es wurde die Möglichkeit hinzugefügt, in Designer konfigurierte oder über das SDK instanziierte Mosaic-Apps zu konfigurieren, um auf eine beliebige Stelle auf einer Inhaltskarte zu klicken, um das Modal zu öffnen. Es gibt jetzt 3 Animationstypen für Mosaic: Flip, Fade und Click. |
-| Verbesserung | Reviews | Es wurde eine Funktion in Reviews hinzugefügt, um "Review schreiben"und "Meine Überprüfung anzeigen"zu trennen, um Kunden mehr Flexibilität beim Anpassen der App zu ermöglichen. |
+| Verbesserung | Reviews | Es wurde eine Funktion in Reviews hinzugefügt, um &quot;Review schreiben&quot;und &quot;Meine Überprüfung anzeigen&quot;zu trennen, um Kunden mehr Flexibilität beim Anpassen der App zu ermöglichen. |
 | Fehler | Reviews | Es wurden einige Benutzerfreundlichkeits-Fehler behoben, die beim Aktivieren des Parameters alwaysShowEditor in der Reviews-App auftraten. |
 | Fehler | S1-Erfassungsregeln | Es wurde ein Fehler behoben, durch den Suchbegriffe nach dem Speichern einer Regel bearbeitet werden konnten. |
 | Fehler | Storify 2 | Es wurde ein Fehler behoben, der verhinderte, dass Storify 2-Einbettungen bei der Verwendung der requireJS-Bibliothek auf der Seite gerendert wurden. |
