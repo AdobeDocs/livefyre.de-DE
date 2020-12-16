@@ -7,11 +7,14 @@ title: Tumblr-Regeln
 uuid: fe9601ab-aa5e-48c6-a5bf-5543c179cb90
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '195'
+ht-degree: 0%
 
 ---
 
 
-# Tumblr-Regeln{#tumblr-rules}
+# Tumblr Rules{#tumblr-rules}
 
 Sie können Stream-Regeln erstellen, die Inhalte von Tumblr abrufen.
 
@@ -21,9 +24,9 @@ Um Tumblr-Regeln zu erstellen, um Inhalte aus Tumblr in Ihre App oder Ihren Ordn
 
 * **[!UICONTROL Blog]**
 
-   * Geben Sie die **[!UICONTROL Blog Name]** für den Tumblr-Blog ein. Geben Sie die URL (*employee.tumblr.com*) oder den Namen des Blogs (*Mitarbeiter*) ein.
+   * Geben Sie das **[!UICONTROL Blog Name]** für das Tumblr-Blog ein. Geben Sie die URL (*employee.tumblr.com*) oder den Namen des Blogs (*employee*) ein.
 
-   * Schließen Sie bis zu einem ein, **[!UICONTROL Tag]** um die Ergebnisse nach Beiträgen einschließlich eines angegebenen Tags zu filtern.
+   * Schließen Sie bis zu einem **[!UICONTROL Tag]** ein, um die Ergebnisse nach Beiträgen einschließlich eines angegebenen Tags zu filtern.
 
 * **[!UICONTROL Include recent items.]** Wenn dies auf Folgendes festgelegt ist:
 
