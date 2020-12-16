@@ -7,6 +7,9 @@ title: Trends
 uuid: 3031523d-b487-4eea-bba6-5d8f9971874f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '151'
+ht-degree: 5%
 
 ---
 
@@ -21,7 +24,7 @@ Verwenden Sie Trendansicht, um die Sammlungen mit der neuesten Aktivität in Ihr
 
 Die schnellste Möglichkeit zur Integration in Trending besteht darin, die auf Livefyre’s CDN gehostete Version zu verwenden.
 
-Fügen Sie Ihrer Seite zunächst [Livefyre.js](https://github.com/Livefyre/Livefyre.js) hinzu.
+Fügen Sie zunächst [Livefyre.js](https://github.com/Livefyre/Livefyre.js) zu Ihrer Seite hinzu.
 
 ```
 <script src="//cdn.livefyre.com/Livefyre.js"></script> 
@@ -33,7 +36,7 @@ Positionieren Sie dann das Element, in dem die App angezeigt wird.
 <div id="trending"></div>
 ```
 
-Verwenden Sie schließlich `Livefyre.require` zum Erstellen der Komponente.
+Verwenden Sie zum Schluss `Livefyre.require`, um die Komponente zu erstellen.
 
 ```
 <script> 
@@ -49,7 +52,7 @@ Livefyre.require([
 </script>
 ```
 
-Sie haben jetzt eine Trending App! Sehen Sie dies alles in Aktion in [diesem Beispiel](https://codepen.io/gobengo/pen/GijEy).
+Sie haben jetzt eine Trend-App! Sehen Sie dies alles in Aktion in [diesem Beispiel](https://codepen.io/gobengo/pen/GijEy).
 
 ## Konfiguration {#section_k5k_qhb_c1b}
 
