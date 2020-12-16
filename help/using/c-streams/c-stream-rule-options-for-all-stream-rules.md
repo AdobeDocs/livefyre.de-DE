@@ -7,6 +7,9 @@ title: Stream-Regeloptionen für alle Stream-Regeln
 uuid: 4072ee83-31e7-4de6-918c-134b8b8032e1
 translation-type: tm+mt
 source-git-commit: 8bdb537b38d78dba033d6671b710c2a61934d6b2
+workflow-type: tm+mt
+source-wordcount: '412'
+ht-degree: 1%
 
 ---
 
@@ -17,26 +20,26 @@ Diese Optionen gelten für alle Stream-Regeln aus allen sozialen Netzwerken oder
 
 Suchfunktionen für Text- und Suchbegriffsfelder:
 
-* Wenn Sie Suchbegriffe eingeben, verwendet Livefyre automatisch den booleschen Operator **OR** , wenn es sich um einzelne Wörter handelt. Wenn Sie z. B. nach Beiträgen mit dem Wort *cake* oder *recipe* suchen möchten, geben Sie *cake* ein und geben Sie dann *recipe* in das **[!UICONTROL keyword]** Feld ein.
+* Wenn Sie Suchbegriffe eingeben, verwendet Livefyre automatisch den booleschen Operator **OR**, wenn es sich um einzelne Wörter handelt. Um beispielsweise nach Beiträgen mit dem Wort *cake* oder *recipe* zu suchen, geben Sie *cake* ein und geben Sie dann *recipe* in das Feld **[!UICONTROL keyword]** ein.
 
-* Sie können nach genauen Wortgruppen suchen, indem Sie den genauen Wortlaut in Anführungszeichen setzen. Um beispielsweise nach dem genauen Wortlaut des *Tortenrezepts* zu suchen, geben Sie *"Tortenrezept"* in das **[!UICONTROL keyword]** Feld ein.
+* Sie können nach genauen Wortgruppen suchen, indem Sie den genauen Wortlaut in Anführungszeichen setzen. Um beispielsweise nach dem genauen Wortlaut *cake recipe* zu suchen, geben Sie *&quot;cake recipe&quot;* in das Feld **[!UICONTROL keyword]** ein.
 
-* Sie können die Suche nach booleschen und exakten Wortgruppen in einer Stream-Regel kombinieren. Sie können beispielsweise nach *Kuchen*, *Rezept* und *"Tortenrezepte"* suchen, indem Sie die einzelnen Wortgruppen einzeln eingeben.
+* Sie können die Suche nach booleschen und exakten Wortgruppen in einer Stream-Regel kombinieren. Sie können beispielsweise nach *cake*, *recipe* und *&quot;cake recipe&quot;* suchen, indem Sie die einzelnen Phrasen einzeln eingeben.
 
 **[!UICONTROL Additional Filters]**:
 
 * **[!UICONTROL Media]**. Wählen Sie eine der folgenden Optionen:
 
    * **[!UICONTROL All Content.]** Zulassen von Inhalten
-   * **[!UICONTROL Media Required.]** Nur Inhalte mit Bildern und Videos zulassen (Für Instagram- und Facebook-Inhalte können Sie **[!UICONTROL Photos]** oder **[!UICONTROL Videos]** nur angeben.)
+   * **[!UICONTROL Media Required.]** Nur Inhalte mit Bildern und Videos zulassen (Für Instagram- und Facebook-Inhalte können Sie nur **[!UICONTROL Photos]** oder **[!UICONTROL Videos]** angeben.)
 
 * **[!UICONTROL Language]**. Wählen Sie die Sprache, in der gesucht werden soll. Englisch ist die Standardsprache.
-* **[!UICONTROL Smart Tags]**. Wählen Sie die Tags aus, die zur Identifizierung des Inhalts verwendet werden sollen. Livefyre nutzt die Technologie zur Computervisualisierung, um Fotos und Videos mit bestimmten Smart-Tags zu identifizieren, um diese Suche präziser zu gestalten. Mit dem **[!UICONTROL ANY]** Modifikator können Sie Inhalte mit einem beliebigen Tag oder dem **[!UICONTROL ALL]** Modifikator in den Stream filtern, der alle Tags verwendet. Verwenden Sie das **[!UICONTROL Image contains none of these smart tags]** Feld, um Tags für Fotos einzugeben, die Inhalte enthalten, die Sie nicht im Stream haben möchten. Diese Option funktioniert nicht für Textinhalte.
+* **[!UICONTROL Smart Tags]**. Wählen Sie die Tags aus, die zur Identifizierung des Inhalts verwendet werden sollen. Livefyre nutzt die Technologie zur Computervisualisierung, um Fotos und Videos mit bestimmten Smart-Tags zu identifizieren, um diese Suche präziser zu gestalten. Verwenden Sie den Modifikator **[!UICONTROL ANY]**, um Inhalte mit einem beliebigen Tag in den Stream zu filtern, oder den Modifikator **[!UICONTROL ALL]**, um Inhalte in den Stream zu filtern, der alle Tags verwendet. Verwenden Sie das Feld **[!UICONTROL Image contains none of these smart tags]**, um Tags für Fotos einzugeben, die Inhalte enthalten, die Sie nicht im Stream haben möchten. Diese Option funktioniert nicht für Textinhalte.
 
-* **[!UICONTROL Products]**. Fügen Sie Produkt-Tags hinzu, um die Stream-Regel mit Produkten aus Ihrem Produktkatalog abzugleichen.
+* **[!UICONTROL Products]**. hinzufügen Produkt-Tags zur Übereinstimmung der Stream-Regel mit Produkten aus Ihrem Produktkatalog.
 * **[!UICONTROL Premoderate]**. Wählen Sie eine der folgenden Optionen:
 
-   * **[!UICONTROL On]**. Moderieren Sie den gesamten Inhalt der eingehenden Regel. Sie können vormoderierte Inhalte im Streams-Abschnitt von ModQ anzeigen. **[!UICONTROL On]** überschreibt die Einstellungen in den App-Einstellungen.
+   * **[!UICONTROL On]**. Moderieren Sie den gesamten Inhalt der eingehenden Regel. Sie können vormoderierte Ansichten aus dem Streams-Bereich von ModQ erstellen. **[!UICONTROL On]** überschreibt die Einstellungen in den App-Einstellungen.
    * **[!UICONTROL Off]**. Keine Inhalten eingehender Regeln vormoderieren. **[!UICONTROL Off]** überschreibt die Einstellungen in den App-Einstellungen.
    * **[!UICONTROL Inherited (Off)]**. Verwenden Sie die voreingestellten Einstellungen der Site (unter **[!UICONTROL Site Settings]**).
 
