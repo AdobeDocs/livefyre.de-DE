@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Wir möchten Ihnen einen aktuellen Überblick über die sich ändernde Dynamik benutzergenerierter Inhalte (UGC) und die Auswirkungen geben, die dies auf Facebook- und Twitter-Inhalte im Produkt hat.
 
-Im letzten Jahr hat Facebook die API für öffentliche Feeds nicht mehr unterstützt. Wir haben Gespräche geführt, um einen Weg nach vorn zu finden. Wir wurden aufgefordert, Facebook-Daten aus dem Livefyre-Produkt zu entfernen. Wir erfüllen die Anforderung von Facebook und Adobe arbeitet zügig daran, sicherzustellen, dass wir unsere Kunden schützen.
+Im letzten Jahr hat Facebook die API für öffentliche Feeds nicht mehr unterstützt. Wir haben Gespräche geführt, um einen Weg nach vorn zu finden. Wir wurden aufgefordert, Facebook-Daten aus dem Livefyre-Produkt zu entfernen. Wir erfüllen die Anforderungen von Facebook und die Adobe arbeitet zügig daran sicherzustellen, dass wir unsere Kunden schützen.
 
 Bitte beachten Sie, dass der Zugriff auf neue und gespeicherte Facebook-Inhalte im Laufe der nächsten Wochen entfernt wird.
 
@@ -32,7 +32,7 @@ Diese Änderung hat keine Auswirkungen auf Instagram-Inhalte, auf die in Livefyr
 
 Wir möchten auch teilen, dass aufgrund der begrenzten Kundennachfrage nach Twitter-Inhalten der Zugriff auf Twitter im nächsten Jahr am 3. Mai 2021 aus Livefyre entfernt wird. Bis zu diesem Datum haben Sie weiterhin uneingeschränkten Zugriff auf neue und gespeicherte Twitter-Inhalte.
 
-Darüber hinaus stehen weiterhin alle anderen Funktionen zur Verfügung, einschließlich Bewertungen und Reviews, Kommentierung, Siegels und Live-Blogging. Adobe bietet weiterhin Unterstützung für Fehlerbehebungen und Betriebssystem- und Sicherheitsupdates.
+Darüber hinaus stehen weiterhin alle anderen Funktionen zur Verfügung, einschließlich Bewertungen und Reviews, Kommentierung, Siegels und Live-Blogging. Adobe bietet auch weiterhin Unterstützung für Fehlerbehebungen und Betriebssystem- und Sicherheitsupdates.
 
 ## 25. Oktober 2019
 
@@ -44,7 +44,7 @@ Inhalte, die bereits auf Ihrer Website(s) veröffentlicht wurden, werden nicht b
 
 Wir freuen uns, Ihnen mitteilen zu können, dass Facebook Fanpage-Inhalte wieder in Ordner und Apps in Livefyre gestreamt wurden. Sie müssen keine Aktionen ausführen, um den Fluss dieses Inhalts zu ermöglichen.
 
-Wir schätzen Ihre Geduld während dieses unerwarteten Ausfalls sehr.
+Wir schätzen Ihre Geduld während dieses unerwarteten Ausfalls.
 
 ## 7. Juni 2019
 
@@ -81,13 +81,13 @@ Zwei zusätzliche Funktionen, die die Herabsetzung der Instagram API ab Anfang M
 
 * **Automatische Überwachung von Anfragen zu Verwendungsrechten bei datenbankbasierten Suchvorgängen**
 
-   Facebook hat auch die Möglichkeit für Partner wie Adobe, im Auftrag ihrer Kunden Nachrichten über Rechte-Anfragen von Instagram zu senden, entfernt, wodurch die Möglichkeit zur vollautomatischen Rights-Verwaltung von Livefyre entfällt. Im Mai lieferten wir eine manuelle, Schnitt- und Einfügefunktion, um Kunden die Möglichkeit zu geben, die Genehmigung von Nutzungsrechten wiederaufzunehmen und Aufzeichnungen zur Prüfung zu führen. Ab heute - nur bei datenbankbasierten Suchvorgängen - ist die Möglichkeit verfügbar, Antworten auf Berechtigungsanfragen automatisch zu überwachen und den Verlauf der Aktivität in Livefyre zu aktualisieren.
+   Facebook hat auch die Möglichkeit für Partner wie Adobe, im Auftrag ihrer Kunden Anfragen zu Rechten an Instagram zu senden, entfernt, wodurch die Möglichkeit zur vollautomatischen Verwaltung von Rechten bei Livefyre entfällt. Im Mai lieferten wir eine manuelle, Schnitt- und Einfügefunktion, um Kunden die Möglichkeit zu geben, die Genehmigung von Nutzungsrechten wiederaufzunehmen und Aufzeichnungen zur Prüfung zu führen. Ab heute - nur bei datenbankbasierten Suchvorgängen - ist die Möglichkeit verfügbar, Antworten auf Berechtigungsanfragen automatisch zu überwachen und den Verlauf der Aktivität in Livefyre zu aktualisieren.
 
-## June 22, 2018 {#section_k1t_vmv_g2b}
+## 22. Juni 2018 {#section_k1t_vmv_g2b}
 
 Wir freuen uns, Ihnen mitteilen zu können, dass die Möglichkeit, nach Videoinhalten in Instagram zu suchen, wieder eingeführt wurde.
 
-## June 14, 2018 {#section_kk5_qpz_d2b}
+## 14. Juni 2018 {#section_kk5_qpz_d2b}
 
 Bitte lesen Sie die neuesten Aktualisierungen zum Status der Funktionen im Zusammenhang mit der Einstellung der Instagram API:
 
@@ -97,15 +97,15 @@ Bitte lesen Sie die neuesten Aktualisierungen zum Status der Funktionen im Zusam
 
 * **Arbeitsablauf für Verwendungsrechte**
 
-   Am 24. Mai haben wir eine manuelle Lösung im Arbeitsablauf für die Anforderung von Verwendungsrechten für Instagram-Inhalte bereitgestellt. Wir arbeiten weiterhin an der Wiederherstellung der Funktion, die die Reaktion auf Ihre Rechtegenehmigung automatisch überwacht und den Verlauf der Aktivität aktualisiert. Wir gehen davon aus, dass diese Funktion im Sommer verfügbar sein wird und werden Sie darüber informieren, sobald sie live ist.
+   Am 24. Mai haben wir eine manuelle Lösung im Arbeitsablauf für die Anforderung von Verwendungsrechten für Instagram-Inhalte bereitgestellt. Wir arbeiten weiterhin an der Wiederherstellung der Funktion, die automatisch überwacht die Antwort auf Ihre Anfrage und aktualisiert den Verlauf der Aktivität. Wir gehen davon aus, dass diese Funktion im Sommer verfügbar sein wird und werden Sie darüber informieren, sobald sie live ist.
 
-## May 24, 2018 {#section_xbk_wvd_ydb}
+## 24. Mai 2018 {#section_xbk_wvd_ydb}
 
 Teil eins von zwei Aktualisierungen des Arbeitsablaufs für die Anforderung von Verwendungsrechten für Instagram-Inhalte ist jetzt verfügbar. Sie können jetzt aus App Content und der Bibliothek die Meldung mit den Anforderungsrechten aus Livefyre Studio kopieren und in den genauen Instagram-Beitrag einfügen, den Sie zur Verwendung der Genehmigung verwenden möchten. Die Möglichkeit, dies in ModQ zu tun, wird in einer zukünftigen Version bereitgestellt. Bis zum 14. Juni 2018 werden wir die Funktion wiederherstellen, die die Antwort auf Ihre Anfrage automatisch überwacht und den Verlauf der Aktivität aktualisiert.
 
-Bitte lesen Sie die Versionshinweise [vom 24.](/help/using/c-rn/previous-rns/rn2018/c-rn-2018-may-24.md#c_rn) Mai 2018, um weitere Informationen und Anleitungen zur Verwendung dieser Funktion zu erhalten.
+Bitte lesen Sie die Versionshinweise [24. Mai 2018](/help/using/c-rn/previous-rns/rn2018/c-rn-2018-may-24.md#c_rn), um weitere Informationen und Anleitungen zur Verwendung dieser Funktion zu erhalten.
 
-## May 17, 2018 {#section_hwb_1qz_wdb}
+## 17. Mai 2018 {#section_hwb_1qz_wdb}
 
 Wir freuen uns, Ihnen mitteilen zu können, dass die folgenden Instagram-Funktionen in Livefyre wieder verfügbar sind:
 
@@ -113,7 +113,7 @@ Wir freuen uns, Ihnen mitteilen zu können, dass die folgenden Instagram-Funktio
 * Ansicht der einzelnen Inhaltselemente
 * Durchführen von Moderationsaktionen für neue Instagram-Inhalte in ModQ
 
-## May 7, 2018 {#section_dms_ypz_wdb}
+## Donnerstag, 7. Mai 2018 {#section_dms_ypz_wdb}
 
 Für alle Livefyre-Kunden
 
@@ -138,7 +138,7 @@ Nach einer vollständigen Analyse des Systems sind hier die Funktionen aufgefüh
 
 * **Arbeitsablauf für Benutzersuche und Streams - 14. Juni 2018**
 
-   Obwohl Sie nach Hashtag und Keyword suchen können, wurde die Möglichkeit, persönliche Instagram-Konten zu durchsuchen, ausgeschlossen. Als Alternative baut Livefyre Funktionen auf, mit denen Sie Inhalte aus Geschäftskonten suchen und streamen können. Wenn Sie Livefyre verwenden, um die Instagram-Inhalte Ihrer eigenen Organisation zu durchsuchen und zu streamen, sollten Sie auf ein Geschäftskonto [aktualisieren](https://help.instagram.com/502981923235522?helpref=search&amp;sr=2&amp;query=change%20personal%20account%20to%20business%20account) , um diese Funktion zu nutzen.
+   Obwohl Sie nach Hashtag und Keyword suchen können, wurde die Möglichkeit, persönliche Instagram-Konten zu durchsuchen, ausgeschlossen. Als Alternative baut Livefyre Funktionen auf, mit denen Sie Inhalte aus Geschäftskonten suchen und streamen können. Wenn Sie Livefyre verwenden, um die Instagram-Inhalte Ihres Unternehmens zu durchsuchen und zu streamen, stellen Sie sicher, dass Sie [upgrade](https://help.instagram.com/502981923235522?helpref=search&amp;sr=2&amp;query=change%20personal%20account%20to%20business%20account) auf ein Geschäftskonto setzen, um diese Funktion zu nutzen.
 
 **Wir bewerten weiterhin Lösungen für die folgenden Funktionen, die wir kurzfristig nicht ersetzen können:**
 
