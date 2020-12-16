@@ -7,6 +7,9 @@ title: Token für ein Social-Konto aktualisieren
 uuid: 8a25305c-aaa3-460f-b782-404a55b491cd
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '232'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Aktualisieren Sie ein Token für ein Social-Konto, wenn es abläuft.
 
-Instagram-Token können ablaufen, oft ohne Warnung. Für die folgenden sozialen Netzwerke müssen Sie Token aktualisieren, um sicherzustellen, dass sie verwendet und aktiv sind:
+Instagram-Token können ablaufen, oft mit wenig oder gar keiner Warnung. Bei den folgenden sozialen Netzwerken müssen Sie Token aktualisieren, um sicherzustellen, dass sie verwendet und aktiv sind:
 
 * Twitter
 * Instagram-persönliche Konten
@@ -28,8 +31,8 @@ Wenn ein Token abläuft, benachrichtigt Livefyre Sie wie folgt:
 * Wenn Sie nach Instagram-Inhalten suchen, wird in einem Fenster unten links angezeigt, dass Ihr Instagram-Token abgelaufen ist. Wenn Sie andere Instagram-Konten einrichten, sucht Livefyre Instagram automatisch mit dem nächsten Instagram-Konto in Ihrer Liste.
 * Wenn Sie Rechte mit einem bestimmten, abgelaufenen Instagram-Konto anfordern, wird ein Fehler angezeigt. Sie müssen ein anderes Instagram-Konto auswählen oder das Token für das abgelaufene Konto aktualisieren und erneut auf Anforderungsrechte klicken.
 * Streams, die ein abgelaufenes Instagram-Konto verwenden, funktionieren nicht.
-* Konten mit abgelaufenen Token unter **[!UICONTROL Network Settings]** &gt; **[!UICONTROL Social Accounts]** zeigen ein Fehlerwarnsymbol an ( ![](assets/warningError.png)
+* Konten mit abgelaufenen Token in **[!UICONTROL Network Settings]** > **[!UICONTROL Social Accounts]** zeigen ein Fehlerwarnsymbol ( ![](assets/warningError.png)
 
    ).
 
-Sie können Ihr Token aktualisieren, indem Sie auf Token aktualisieren neben dem Konto unter **[!UICONTROL Network Settings]** &gt; **[!UICONTROL Social Accounts]** &gt; **[!UICONTROL Instagram Accounts]**.
+Sie können Ihr Token aktualisieren, indem Sie neben dem Konto unter **[!UICONTROL Network Settings]** > **[!UICONTROL Social Accounts]** > **[!UICONTROL Instagram Accounts]** auf Token aktualisieren klicken.
