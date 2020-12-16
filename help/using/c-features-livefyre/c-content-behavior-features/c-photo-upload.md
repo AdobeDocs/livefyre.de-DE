@@ -7,6 +7,9 @@ title: Foto-Upload
 uuid: 1fc92fbe-1dd4-43f3-a43f-cc9a5ac3aea1
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '127'
+ht-degree: 3%
 
 ---
 
@@ -15,11 +18,11 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 Hochladen von Bildern in einen Live-Blog-, Chat-, Reviews- oder Kommentar-Stream
 
-Fotos können direkt von der mobilen Fotobibliothek, der Computerfestplatte oder den Konten eines sozialen Netzwerks eines Benutzers in eine beliebige App hochgeladen werden.
+Fotos können direkt von der mobilen Fotobibliothek, von der Computerfestplatte oder von Konten in sozialen Netzwerken eines Benutzers in eine beliebige App hochgeladen werden.
 
 Mit den Einstellungen für eine Sammlung oder Site können Sie festlegen, ob Benutzer Fotos in eine App hochladen dürfen. Diese Option kann auf Netzwerk-, Site- oder Sammlungsebene aktiviert werden. Eigentümer und Moderatoren können jederzeit Fotos in eine beliebige App hochladen.
 
-Diese Funktion zum Hochladen von Fotos kann zusammen mit der Einstellung "Medien vormoderieren"verwendet werden.
+Diese Funktion zum Hochladen von Fotos kann zusammen mit der Einstellung &quot;Medien vormoderieren&quot;verwendet werden.
 
 Apps, die diese Funktion verwenden:
 
