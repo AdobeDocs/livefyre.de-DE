@@ -1,9 +1,9 @@
 ---
 description: Erfassen Sie die Anzahl der Beiträge und Kommentare für bestimmte Sammlungen, die auf Ihren Indexseiten angezeigt werden sollen.
 seo-description: Erfassen Sie die Anzahl der Beiträge und Kommentare für bestimmte Sammlungen, die auf Ihren Indexseiten angezeigt werden sollen.
-seo-title: Anzahl angezeigter Kommentare
+seo-title: Anzahl der Kommentare anzeigen
 solution: Experience Manager
-title: Anzahl angezeigter Kommentare
+title: Anzahl der Kommentare anzeigen
 uuid: 0f39b25e-11e0-4945-be71-55fb4798b6c7
 translation-type: tm+mt
 source-git-commit: c2594f919f153d1230b3dc0370f31d64cb698146
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 Erfassen Sie die Anzahl der Beiträge und Kommentare für bestimmte Sammlungen, die auf Ihren Indexseiten angezeigt werden sollen.
 
-Mit Livefyre `CommentCount.js` können Sie die Inhaltszählung für Sammlungen auf Ihrer Site abrufen. Obwohl Apps die Anzahl der Kommentare für die aktuelle Sammlung anzeigen, kann es nützlich sein, diese Zahlen auf Ihrer Website zu synchronisieren. Diese Funktion ist besonders hilfreich, wenn Sie keine Inhalte in Ihrer Datenbank beibehalten (oder wenn Ihre CMS-Datenbank nicht mit Livefyre synchronisiert wird).
+Mit dem Livefyre `CommentCount.js` können Sie die Inhaltszählung für Sammlungen auf Ihrer Site abrufen. Obwohl Apps die Anzahl der Kommentare für die aktuelle Sammlung anzeigen, kann es nützlich sein, diese Zahlen auf Ihrer Website zu synchronisieren. Diese Funktion ist besonders hilfreich, wenn Sie keine Inhalte in Ihrer Datenbank beibehalten (oder wenn Ihre CMS-Datenbank nicht mit Livefyre synchronisiert wird).
 
 1. Laden Sie das JavaScript.
 
-   Betten Sie `CommentCount.js`die JavaScript-Datei zunächst in den `<head>` Abschnitt der Seite oder Vorlage ein, in der Sie sie verwenden möchten.
+   Um `CommentCount.js` zu verwenden, müssen Sie die JavaScript-Datei zuerst im Abschnitt `<head>` der Seite oder Vorlage einbetten, in der Sie sie verwenden möchten.
 
    ```
    <script 
@@ -34,7 +34,7 @@ Mit Livefyre `CommentCount.js` können Sie die Inhaltszählung für Sammlungen a
 
 1. Binden Sie das HTML-Element.
 
-   Nach dem Laden des Skripts wird versucht, andere Elemente auf der Seite mit dem Klassennamen `livefyre-commentcount`zu finden. Für jedes dieser Elemente sucht das Skript nach `data-lf-site-id` und `data-lf-article-id` HTML-Attributen und verwendet diese zum Abrufen von Inhalten aus Livefyre und zur Aktualisierung jedes Elements mit dem neuesten Wert.
+   Nach dem Laden des Skripts wird versucht, andere Elemente auf der Seite mit dem Klassennamen `livefyre-commentcount` zu finden. Für jedes dieser Elemente sucht das Skript nach den HTML-Attributen `data-lf-site-id` und `data-lf-article-id` und verwendet diese zum Abrufen von Inhalten aus Livefyre und zum Aktualisieren jedes Elements mit dem neuesten Wert.
 
    Beispielsweise würde das folgende Element aktualisiert:
 
@@ -46,7 +46,7 @@ Mit Livefyre `CommentCount.js` können Sie die Inhaltszählung für Sammlungen a
 
    >[!NOTE]
    >
-   >Der `CommentCount.js` Code sucht nach einem numerischen Wert, der mit der tatsächlichen Anzahl aktualisiert werden soll. Achten Sie darauf, zwischen den Tags einen numerischen Wert einzufügen.
+   >Der `CommentCount.js`-Code sucht nach einem numerischen Wert, der mit der tatsächlichen Anzahl aktualisiert wird. Achten Sie darauf, zwischen den Tags einen numerischen Wert einzufügen.
 
    **Beispiel 1** (Verwenden der URL als Artikel-ID):
 
@@ -64,18 +64,18 @@ Mit Livefyre `CommentCount.js` können Sie die Inhaltszählung für Sammlungen a
 
 1. Optionen konfigurieren.
 
-   Um mehr Kontrolle darüber zu erhalten, wie die Inhaltszählung ersetzt wird, rufen Sie ein Objekt mit den Konfigurationsoptionen auf `LF.CommentCount()` und übergeben Sie es. Achten Sie darauf, die Funktion aufzurufen, nachdem sich alle zu ersetzenden Elemente im DOM befinden. Am besten rufen Sie diese Methode in der Fußzeile auf. Dies passiert, wenn das DOM geladen wird, aber vor Dokument- und Fensterbereitstellungen.
+   Um mehr Kontrolle darüber zu erhalten, wie die Inhaltszählung ersetzt wird, rufen Sie `LF.CommentCount()` auf und geben Sie ein Objekt mit den Konfigurationsoptionen ein. Achten Sie darauf, die Funktion aufzurufen, nachdem sich alle zu ersetzenden Elemente im DOM befinden. Am besten rufen Sie diese Methode in der Fußzeile auf. Dies passiert, wenn das DOM geladen wird, aber vor Dokument- und Fensterbereitstellungen.
 
    Folgende Konfigurationsoptionen sind zulässig:
 
-* **Ersatz:** Funktion oder Regex, mit der der Text der einzelnen Inhaltszähler ersetzt wird.
+* **replace:** Funktion oder Regex, mit der der Text der einzelnen Inhaltszähler ersetzt wird.
 
-* **Funktion:** Wird verwendet, um den Austausch für jedes Element durchzuführen. Die Argumente der Funktion lauten:
+* **function:Wird** zum Ersetzen der Elemente verwendet. Die Argumente der Funktion lauten:
 
    **element:** Das HTML-Element, das aktualisiert wird.
    **count:** Die Inhaltszählung für dieses Element.
 
-* **regex:** Wird verwendet, um festzulegen, welcher Teil des Elementtextes durch die Anzahl ersetzt werden soll.
+* **regex:** Hiermit wird bestimmt, welcher Teil des Elementtextes durch die Anzahl ersetzt werden soll.
 
    **Beispiel**:
 
