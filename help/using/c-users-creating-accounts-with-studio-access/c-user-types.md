@@ -14,7 +14,7 @@ ht-degree: 0%
 ---
 
 
-# User Roles and Permissions{#user-roles-and-permissions}
+# Benutzerrollen und Berechtigungen{#user-roles-and-permissions}
 
 Livefyre bietet mehrere Benutzertypen mit unterschiedlichen Berechtigungen.
 
@@ -37,23 +37,23 @@ Die folgenden Benutzerrollen und aufgelisteten Zugriffsberechtigungen sind in St
    * Browser und IP-Adressen verbieten
 
 * **Asset Manager**
-   * Hinzufügen von Assets zur Bibliothek mithilfe der Social-Suche
+   * hinzufügen von Assets zur Bibliothek mithilfe der Social-Suche
    * Erstellen und Bearbeiten von Streams, die an freigegebene Ordner angeschlossen werden
    * Freigegebene Ordner und die Assets in freigegebenen Ordnern erstellen und bearbeiten
 
 * **User Manager**
    * Ansicht und Bearbeitung der Kontodetails für Endbenutzer
-   * Endbenutzer mit oder ohne Liste zulassen
+   * Endbenutzer von Verboten oder Listen zulassen
 
 * **Data Manager:** gewährt Zugriff auf die Verwendung des Livefyre Analytics-Dashboards.
 * **App-Manager**
    * Apps erstellen und bearbeiten
    * Erstellen und Bearbeiten von Streams, die auf Apps verweisen
-   * Hinzufügen von Assets mit der Social-Suche direkt in Apps
+   * hinzufügen von Assets mit der Social-Suche direkt in Apps
 
 * **Content Manager:**
    * Ansicht und Moderation von Inhalten auf der Seite &quot;App-Inhalt&quot;
-   * Hinzufügen und Bearbeiten von Tags, Flags, Notizen und Rights-Anfragen für Inhalte
+   * hinzufügen und Bearbeiten von Tags, Flags, Notizen und Rights-Anfragen für Inhalte
 
 * **Moderator:**
    * Zugriff auf ModQ
