@@ -7,17 +7,26 @@ title: Textzeichenfolgen überprüfen
 uuid: 86251e49-bc73-4eec-9f9b-b4b0a5b42099
 translation-type: tm+mt
 source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+workflow-type: tm+mt
+source-wordcount: '710'
+ht-degree: 4%
 
 ---
 
 
-# Textzeichenfolgen überprüfen{#review-text-strings}
+# Überprüfen von Textzeichenfolgen{#review-text-strings}
 
 Anpassen der Textzeichenfolgen für Livefyre-Reviews.
 
-Auf dieser Seite werden die zur Anpassung in Review-Apps verfügbaren Zeichenfolgen aufgeführt und beschrieben. Die hier aufgeführten Zeichenfolgen werden zusätzlich zu den Standardzeichenfolgen für Livefyre-Core-Apps und deren Überschreibungen angezeigt, die unter Zeichenfolgenanpassung aufgeführt sind. Wenn Duplikate aufgeführt sind, sind die in diesen Tabellen aufgeführten Zeichenfolgen die Standardwerte für Reviews-Apps.
+Auf dieser Seite werden die zur Anpassung in Review-Apps verfügbaren Zeichenfolgen Liste und beschrieben. Die hier aufgeführten Zeichenfolgen werden zusätzlich zu den Standardzeichenfolgen für Livefyre-Core-Apps und deren Überschreibungen angezeigt, die unter Zeichenfolgenanpassung aufgeführt sind. Wo Duplikat aufgeführt sind, sind die in diesen Tabellen aufgeführten Zeichenfolgen die Standardwerte für Reviews-Apps.
 
-ImplementationReview/Rating InterfaceStream InfoAuthor/Content InfoBenutzeraktionenPost-FunktionenFehler
+Implementierung
+Benutzeroberfläche für Review/Bewertung
+Stream-Info
+Autor-/Inhaltsinformationen
+Benutzeraktionen
+Post-Funktionen
+Fehler
 
 ## Implementierung {#section-vsy-1k4-xz}
 
@@ -36,9 +45,9 @@ networkConfig["strings"] = customStrings; fyre.conv.load(
 );
 ```
 
-## Benutzeroberfläche für Review/Bewertung {#section_iyv_zj4_xz}
+## Überprüfungs-/Bewertungsschnittstelle {#section_iyv_zj4_xz}
 
-Für die Benutzeroberfläche "Review and Rating"verfügbare Zeichenfolgen.
+Für die Benutzeroberfläche &quot;Review and Rating&quot;verfügbare Zeichenfolgen.
 
 | Element | Schlüssel | Standardtext |
 |--- |--- |--- |
@@ -47,8 +56,8 @@ Für die Benutzeroberfläche "Review and Rating"verfügbare Zeichenfolgen.
 |  | reviewsClosed | [Abgeschlossene Reviews](https://d.pr/i/zr7M) |
 |  | showReviewBtn | [Review anzeigen](https://d.pr/i/onxU) |
 |  | follow | Ich interessiere mich |
-|  | shareText | Ich habe gerade eine Überprüfung geschrieben. Schau es dir an! |
-| QuickInfos zur Bewertung | ratingValues | Als Array. Standard = `[‘Poor’, ‘Poor’, ‘Fair’, ‘Fair’, ‘Average’, ‘Average’, ‘Good’, ‘Good’, ‘Excellent’, ‘Excellent’]`; <br>Hinweis: Die Werte im Array müssen dupliziert werden, damit sowohl die linke als auch die rechte Hälfte jedes Sterns denselben Namen erhalten. |
+|  | shareText | Ich habe gerade eine Rezension geschrieben. Schau es dir an! |
+| Ratings-QuickInfos | ratingValues | Als Array. Standard = `[‘Poor’, ‘Poor’, ‘Fair’, ‘Fair’, ‘Average’, ‘Average’, ‘Good’, ‘Good’, ‘Excellent’, ‘Excellent’]`; <br>Hinweis: Die Werte im Array müssen dupliziert werden, damit sowohl die linke als auch die rechte Hälfte jedes Sterns denselben Namen erhalten. |
 | Bewertungsunterteile | ratingSubpartPlaceholders | Als Array. Standardeinstellung = `[]` |
 |  | ratingSubpartTitles | Als Array. Standardeinstellung = `[]` |
 |  | reviewStreamTitle | Standardmäßig leer. Titel des Übersichtsabschnitts der Überprüfung. |
@@ -65,7 +74,7 @@ Für Informationen und Anzeigen von Inhaltsströmen verfügbare Zeichenfolgen.
 
 | Element | Schlüssel | Standardtext |
 |---|---|---|
-| Sortieren |  sortBy | Standardmäßig leer. |
+| Sortieren | sortBy | Standardmäßig leer. |
 |  | sortHighestRated | [Höchste Bewertung](https://d.pr/i/huTd) |
 |  | sortLowestRated | [Niedrigste Bewertung](https://d.pr/i/huTd) |
 |  | sortMostHelpful | [Am meisten hilfreich](https://d.pr/i/huTd) |
@@ -120,7 +129,7 @@ Zeichenfolgen für Benutzer, die Reviews posten.
 | Editor | bodyPlaceholder | Überprüfung schreiben... |
 |  | postEditButton | Vorlage      |
 |  | postEditCancelButton | Abbrechen |
-|  | postAsButton | Prüfung nach ... |
+|  | postAsButton | Beitragsüberprüfung als... |
 |  | postButton | Beitragsüberprüfung |
 |  | postReplyAsButton | Posten als... |
 |  | postReplyButton | Posten |
