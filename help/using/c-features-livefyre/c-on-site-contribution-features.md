@@ -1,21 +1,24 @@
 ---
-description: Wählen Sie, wie Site-Besucher mit Apps interagieren und auf welche Weise sie mit dem Inhalt interagieren können.
-seo-description: Wählen Sie, wie Site-Besucher mit Apps interagieren und auf welche Weise sie mit dem Inhalt interagieren können.
+description: Wählen Sie, wie Site-Besucher mit Apps interagieren und wie sie mit den Inhalten interagieren können.
+seo-description: Wählen Sie, wie Site-Besucher mit Apps interagieren und wie sie mit den Inhalten interagieren können.
 seo-title: Funktionen für Onsite-Beiträge
 solution: Experience Manager
 title: Funktionen für Onsite-Beiträge
 uuid: 1f441490-28eb-4fc4-9fe8-0879c62c4b4a
 translation-type: tm+mt
 source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+workflow-type: tm+mt
+source-wordcount: '302'
+ht-degree: 3%
 
 ---
 
 
-# Funktionen für Onsite-Beiträge{#on-site-contribution-features}
+# On-Site-Beitragsfunktionen{#on-site-contribution-features}
 
-Wählen Sie, wie Site-Besucher mit Apps interagieren und auf welche Weise sie mit dem Inhalt interagieren können.
+Wählen Sie, wie Site-Besucher mit Apps interagieren und wie sie mit den Inhalten interagieren können.
 
-## Beitrag zur Umfrage {#section_tdg_zsr_d1b}
+## Umfragebeitrag {#section_tdg_zsr_d1b}
 
 Sie können Endbenutzern die Möglichkeit geben, in einer Umfrage abzustimmen. Betten Sie die Umfrage auf eine Seite ein, damit Site-Besucher einen Beitrag leisten und eine Stimme abgeben können.
 
@@ -25,9 +28,9 @@ Apps, die diese Funktion verwenden:
 
 * [Umfragen](../c-about-apps/c-polls-app/c-polls-app.md#c_polls_app)
 
-## Textupload {#section_pwy_m2s_d1b}
+## Text-Upload {#section_pwy_m2s_d1b}
 
-Site-Besucher können durch das Schreiben von Textelementen zur App beitragen. Dies kann mithilfe von Konversations-Apps oder der Schaltfläche Hochladen für Visualisierungs-Apps erfolgen.
+Site-Besucher können einen Beitrag zur App leisten, indem sie Textbeiträge schreiben. Dies kann mithilfe von Konversations-Apps oder der Schaltfläche Hochladen für Visualisierungs-Apps erfolgen.
 
 Sie müssen die Authentifizierung für die Verwendung dieser Funktion einrichten.
 
@@ -43,7 +46,7 @@ Apps, die diese Funktion verwenden:
 
 ## Video-Upload {#section_mlm_42s_d1b}
 
-Site-Besucher können durch Hochladen von Videos zur App beitragen. Dies kann mithilfe von Konversations-Apps oder der Schaltfläche "Hochladen"für Visualisierungs-Apps erfolgen. Weitere Informationen dazu, ob eine App diese Funktion unterstützt, finden Sie in der Dokumentation zu einzelnen Apps. erfordert auth
+Site-Besucher können durch Hochladen von Videos zur App beitragen. Dies kann mithilfe von Konversations-Apps oder der Schaltfläche &quot;Hochladen&quot;für Visualisierungs-Apps erfolgen. Weitere Informationen dazu, ob eine App diese Funktion unterstützt, finden Sie in der Dokumentation zu einzelnen Apps. erfordert auth
 
 Sie müssen die Authentifizierung für die Verwendung dieser Funktion einrichten.
 
@@ -53,9 +56,9 @@ Apps, die diese Funktion verwenden:
 
 ## Upload-Schaltfläche kompatibel {#section_vzs_t2s_d1b}
 
-Sie können wählen, ob eine Schaltfläche "Hochladen"in Ihrer App angezeigt werden soll, über die Besucher der Site Text oder Medien in eine App oder in Ihre Bibliothek hochladen können.
+Sie können die Schaltfläche &quot;Hochladen&quot;in Ihrer App anzeigen, über die Site-Besucher Text oder Medien in eine App oder in Ihre Bibliothek hochladen können.
 
-Trends, Umfragen und Storify 2 sind nicht mit der Schaltfläche "Hochladen"kompatibel.
+Trends, Umfragen und Storify 2 sind nicht mit der Schaltfläche &quot;Hochladen&quot;kompatibel.
 
 Sie müssen die Authentifizierung für die Verwendung dieser Funktion einrichten.
 
@@ -72,7 +75,7 @@ Apps, die diese Funktion verwenden:
 
 ## Benutzerergebnisse {#section_azw_dx4_h1b}
 
-Zeigt an, wie oft ein Benutzer jede Antwort in einer Umfrage ausgewählt hat.
+Ansicht, wie oft ein Benutzer jede Antwort in einer Umfrage ausgewählt hat.
 
 Apps, die diese Funktion verwenden:
 
