@@ -7,6 +7,9 @@ title: Sortierfunktionen
 uuid: e40f5877-acdc-48c2-a2c3-8a8d253cdb93
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '204'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 Sie können verschiedene Sortieroptionen auswählen, abhängig von der App und dem, was Site-Besucher tun sollen.
 
-## Nach Bewertung sortieren {#section_elc_hfs_d1b}
+## Sortieren nach Bewertung {#section_elc_hfs_d1b}
 
 Diese Funktion steht nur für Reviews zur Verfügung. Sortieren Sie Inhalte nach Anzahl der Sterne oder einer anderen Qualitätsmetrikbewertung.
 
@@ -23,15 +26,15 @@ Apps, die diese Funktion verwenden:
 
 * [Reviews](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 
-## Sortieren nach Hilfe {#section_grr_hfs_d1b}
+## Sortieren nach Hilfeleistung {#section_grr_hfs_d1b}
 
-Diese Funktion steht nur für Reviews zur Verfügung. Sortieren Sie den Inhalt nach der Anzahl der Sitebesucher, die einen nützlichen Inhalt gefunden haben.
+Diese Funktion steht nur für Reviews zur Verfügung. Sortieren Sie den Inhalt nach der Anzahl der Site-Besucher, die einen hilfreichen Inhalt gefunden haben.
 
 Apps, die diese Funktion verwenden:
 
 * [Reviews](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 
-## Sortieren nach Neuestem bis Älteste, Erste bis Letzte {#section_t4s_hfs_d1b}
+## Sortieren nach Neuestem nach Ältestem, Erste nach Letzten {#section_t4s_hfs_d1b}
 
 Für die Kommentaranwendung können Sie festlegen, dass Benutzer vom zuletzt veröffentlichten Inhalt bis zum zuletzt veröffentlichten Inhalt sortieren können.
 
