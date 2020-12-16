@@ -1,21 +1,24 @@
 ---
-description: Storify allows you to add content at any position in your story.
-seo-description: Storify allows you to add content at any position in your story.
-seo-title: Add Text
+description: Mit Storify können Sie Inhalte an jeder Position in Ihrer Geschichte hinzufügen.
+seo-description: Mit Storify können Sie Inhalte an jeder Position in Ihrer Geschichte hinzufügen.
+seo-title: hinzufügen
 solution: Experience Manager
-title: Add Text
+title: hinzufügen
 uuid: 01dba567-daf9-4cfa-9671-b85f3d132ddc
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '155'
+ht-degree: 0%
 
 ---
 
 
-# Text hinzufügen{#add-text}
+# hinzufügen Text{#add-text}
 
-Storify allows you to add content at any position in your story.
+Mit Storify können Sie Inhalte an jeder Position in Ihrer Geschichte hinzufügen.
 
-Verwenden Sie den Inhaltsbereich des Editors, um Ihre Entwürfe anzuzeigen und Inhaltselemente zu finden, um Ihrer Geschichte Kontext hinzuzufügen. Verwenden Sie die Registerkarte "Editor", um eine Storyline zu erstellen, Kontext zu Ihren Storyelementen hinzuzufügen und eine Erläuterung für die Seite zu erstellen.
+Verwenden Sie den Inhaltsbereich des Editors, um Ihre Entwürfe Ansicht und Inhaltselemente zu finden, um Ihrer Geschichte Kontext hinzuzufügen. Verwenden Sie die Registerkarte &quot;Editor&quot;, um eine Storyline zu erstellen, Kontext zu Ihren Storyelementen hinzuzufügen und eine Erläuterung für die Seite zu erstellen.
 
 Inhaltselemente können bearbeitet oder neu positioniert werden. Text kann mit standardmäßigen Formatierungsoptionen wie Fett, Kursiv, Unterstreichen und Durchstreichen formatiert werden.
 
