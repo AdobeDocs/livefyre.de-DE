@@ -1,29 +1,32 @@
 ---
-description: Eine Liste der Browser und Geräte, die von der Livefyre App Suite unterstützt werden.
-seo-description: Eine Liste der Browser und Geräte, die von der Livefyre App Suite unterstützt werden.
+description: Eine Liste von Browsern und Geräten, die von der Livefyre App Suite unterstützt werden.
+seo-description: Eine Liste von Browsern und Geräten, die von der Livefyre App Suite unterstützt werden.
 seo-title: Geräte- und Browserunterstützung
 title: Geräte- und Browserunterstützung
 uuid: 338f78b2-051d-4831-a0b9-e987f92660ce
 translation-type: tm+mt
 source-git-commit: 7d7af443eeffdbb09c2fa58006813c328785ad56
+workflow-type: tm+mt
+source-wordcount: '149'
+ht-degree: 8%
 
 ---
 
 
 # Geräte- und Browserunterstützung{#device-and-browser-support}
 
-Eine Liste der Browser und Geräte, die von der Livefyre App Suite unterstützt werden.
+Eine Liste von Browsern und Geräten, die von der Livefyre App Suite unterstützt werden.
 
 Livefyre unterstützt die folgenden Geräte, Betriebssysteme und Browser.
 
 |  | Core-Apps | Storify 2 | Studio | ModQ |
 |---|---|---|---|---|
 | **Desktop-Browser** |  |  |  |  |
-| Chrome | ✓ | ✓ | ✓ | ✓ |
-| Edge | ✓ | ✓ | ✓ | ✓ |
+| Chrome | they | they | they | they |
+| Edge | they | they | they | they |
 | IE 11 | Limited | Limited | Limited | Limited |
-| Firefox | ✓ | ✓ | ✓ | ✓ |
-| Safari | ✓ | ✓ | ✓ | ✓ |
+| Firefox | they | they | they | they |
+| Safari | they | they | they | they |
 |  |  |  |  |  |
 | **Geräte** |  |  |  |  |
 | Android Browser 2.3+ | Limited | Limited | nicht angegeben | Limited |
