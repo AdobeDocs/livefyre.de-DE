@@ -7,6 +7,9 @@ title: Übersetzungssätze
 uuid: 8ba66a61-5520-482a-bc0b-e4f6b57f1744
 translation-type: tm+mt
 source-git-commit: 366b7248c2f3b6994fa10419599e66fa1c8e5e48
+workflow-type: tm+mt
+source-wordcount: '1355'
+ht-degree: 7%
 
 ---
 
@@ -21,7 +24,7 @@ c_translation_sets.dita
 
 Verwenden Sie Übersetzungseinstellungen, um Apps in verschiedenen Sprachen zu lokalisieren oder um alternativen Text für mehrere Apps von einer Position in Studio aus anzugeben. Sie können beispielsweise sicherstellen, dass alle Sites in spanischer Sprache für alle App-Felder Spanisch verwenden. Sie können den Text auch so ändern, dass alle Felder der Stimme und dem Gefühl Ihrer Site oder Ihres Netzwerks entsprechen.
 
-Sie können Übersetzungseinstellungen für alle Apps mit Ausnahme von Storify 2 angeben. Weitere Informationen darüber, welche Felder lokalisiert werden können, finden Sie unter [Strings](/help/using/c-settings-other/c-translation-sets/c-localize-strings.md)lokalisieren.
+Sie können Übersetzungseinstellungen für alle Apps mit Ausnahme von Storify 2 angeben. Weitere Informationen darüber, welche Felder lokalisiert werden können, finden Sie unter [Strings lokalisieren](/help/using/c-settings-other/c-translation-sets/c-localize-strings.md).
 
 Kommentare, Live-Blog und Chat verwenden dieselben Zeichenfolgen innerhalb eines Übersetzungssatzes.
 
@@ -33,11 +36,11 @@ Die Übersetzungssätze auf verschiedenen Ebenen setzen sich gegenseitig außer 
 * Der Übersetzungssatz der App setzt Übersetzungssätze auf Netzwerk- und Site-Ebene außer Kraft.
 * Übersetzungssätze auf Site-Ebene setzen Übersetzungssätze auf Netzwerkebene außer Kraft.
 
-## Textzeichenfolgen überprüfen {#c-review-text-strings}
+## Überprüfen von Textzeichenfolgen {#c-review-text-strings}
 
 Anpassen der Textzeichenfolgen für Livefyre-Reviews.
 
-Auf dieser Seite werden die zur Anpassung in Review-Apps verfügbaren Zeichenfolgen aufgeführt und beschrieben. Die hier aufgeführten Zeichenfolgen werden zusätzlich zu den Standardzeichenfolgen für Livefyre-Core-Apps und deren Überschreibungen angezeigt, die unter Zeichenfolgenanpassung aufgeführt sind. Wenn Duplikate aufgeführt sind, sind die in diesen Tabellen aufgeführten Zeichenfolgen die Standardwerte für Reviews-Apps.
+Auf dieser Seite werden die zur Anpassung in Review-Apps verfügbaren Zeichenfolgen Liste und beschrieben. Die hier aufgeführten Zeichenfolgen werden zusätzlich zu den Standardzeichenfolgen für Livefyre-Core-Apps und deren Überschreibungen angezeigt, die unter Zeichenfolgenanpassung aufgeführt sind. Wo Duplikat aufgeführt sind, sind die in diesen Tabellen aufgeführten Zeichenfolgen die Standardwerte für Reviews-Apps.
 
 * Implementierung
 * Benutzeroberfläche für Review/Bewertung
@@ -64,9 +67,9 @@ networkConfig["strings"] = customStrings; fyre.conv.load(
 );
 ```
 
-## Benutzeroberfläche für Review/Bewertung {#section_iyv_zj4_xz}
+## Überprüfungs-/Bewertungsschnittstelle {#section_iyv_zj4_xz}
 
-Für die Benutzeroberfläche "Review and Rating"verfügbare Zeichenfolgen.
+Für die Benutzeroberfläche &quot;Review and Rating&quot;verfügbare Zeichenfolgen.
 
 | Element | Schlüssel | Standardtext |
 | --------------- | ------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -76,9 +79,9 @@ Für die Benutzeroberfläche "Review and Rating"verfügbare Zeichenfolgen.
 |  | reviewsClosed | Abgeschlossene Reviews |
 |  | showReviewBtn | Review anzeigen |
 |  | follow | Ich interessiere mich |
-|  | shareText | Ich habe gerade eine Überprüfung geschrieben. Schau es dir an! |
-| QuickInfos zur Bewertung |  |  |
-|  | ratingValues | Als Array. Standard =["arm", "arm", "fair", "fair", "mittel", "mittel", "gut", "gut", "hervorragend", "hervorragend"]; |
+|  | shareText | Ich habe gerade eine Rezension geschrieben. Schau es dir an! |
+| Ratings-QuickInfos |  |  |
+|  | ratingValues | Als Array. Standard = [&quot;Poor&quot;, &quot;Poor&quot;, &quot;Fair&quot;, &quot;Fair&quot;, &quot;Average&quot;, &quot;Average&quot;, &quot;Good&quot;, &quot;Good&quot;, &quot;Excellent&quot;, &quot;Excellent&quot;]; |
 |  |  | Hinweis: Die Werte im Array müssen dupliziert werden, damit sowohl die linke als auch die rechte Hälfte jedes Sterns denselben Namen erhält. |
 | Bewertungsunterteile |  |  |
 |  | ratingSubpartPlaceholders | Als Array. Standardeinstellung = [] |
@@ -99,7 +102,7 @@ Für Informationen und Anzeigen von Inhaltsströmen verfügbare Zeichenfolgen.
 | Element | Schlüssel | Standardtext |
 |---|---|---|
 | *Sortieren* |  |  |
-|  |  sortBy | *Standardmäßig leer.* |
+|  | sortBy | *Standardmäßig leer.* |
 |  | sortHighestRated | [Höchste Bewertung](https://d.pr/i/huTd) |
 |  | sortLowestRated | [Niedrigste Bewertung](https://d.pr/i/huTd) |
 |  | sortMostHelpful | [Am meisten hilfreich](https://d.pr/i/huTd) |
@@ -167,7 +170,7 @@ Zeichenfolgen für Benutzer, die Reviews posten.
 |  | bodyPlaceholder | Überprüfung schreiben... |
 |  | postEditButton | Vorlage      |
 |  | postEditCancelButton | Abbrechen |
-|  | postAsButton | Prüfung nach ... |
+|  | postAsButton | Beitragsüberprüfung als... |
 |  | postButton | Beitragsüberprüfung |
 |  | postReplyAsButton | Posten als... |
 |  | postReplyButton | Posten |
@@ -213,7 +216,7 @@ c_sidenotes_text_strings.dita
 
  -->
 
-Auf dieser Seite werden alle Zeichenfolgen aufgelistet, die für die Anpassung in Sidebar-Apps verfügbar sind. Informationen zu den für die Livefyre-Core-Apps verfügbaren Zeichenfolgen finden Sie unter Zeichenfolgen-Anpassungen.
+Auf dieser Seite werden alle Zeichenfolgen, die zur Anpassung in Sidebar-Apps verfügbar sind, Liste und beschrieben. Informationen zu Zeichenfolgen, die für die Core-Livefyre-Apps verfügbar sind, finden Sie unter Zeichenfolgen-Anpassungen.
 
 * Implementierung
 * Auth
@@ -221,7 +224,7 @@ Auf dieser Seite werden alle Zeichenfolgen aufgelistet, die für die Anpassung i
 * Autor-/Inhaltsinformationen
 * Benutzeraktionen
 * Post-Funktionen
-* Moderatorschnittstelle
+* Moderator-Oberfläche
 * Fehler
 
 ## Implementierung {#section_wp2_ql4_xz}
@@ -262,7 +265,7 @@ Für Informationen und Anzeigen von Inhaltsströmen verfügbare Zeichenfolgen.
 
 | Element | Schlüssel | Standardtext |
 |---|---|---|
-| *Optionen im Menü "Info"* |  |  |
+| *Optionen im Menü &quot;Info&quot;* |  |  |
 |  | menuInfoCopyright | © Livefyre, Inc. 2014 |
 |  | menuInfoHelp | Hilfe |
 |  | menuInfoLivefyreLink | Besuch Livefyre.com |
@@ -281,9 +284,9 @@ Stings verfügbar für Autor- und individuelle Inhaltsinformationen.
 |  | commentVoteCount | stimmen |
 |  | commentVoteCountSing | Stimme |
 |  | datetimeMinutePrefix | m |
-|  | datetimeMonths | *Als Array. Default = *[ ‘January’, ‘February’, ‘March’, ‘April’, ‘May’, ‘June’, ‘July’, ‘August’, ‘September’, ‘October’, ‘November’, ‘December’ ] |
+|  | datetimeMonths | *Als Array. Standard = *[ &quot;Januar&quot;, &quot;Februar&quot;, &quot;März&quot;, &quot;April&quot;, &quot;Mai&quot;, &quot;Juni&quot;, &quot;Juli&quot;, &quot;August&quot;, &quot;September&quot;, &quot;Oktober&quot;, &quot;November&quot;, &quot;Dezember&quot;] |
 |  | QuestionExplanation | Sie können Kommentare jetzt direkt zu Sätzen, Absätzen, Bildern und Anführungszeichen lesen und schreiben. <br>Markieren Sie den Text und klicken Sie auf das Symbol oder klicken Sie auf das Symbol am Ende jedes Absatzes. |
-|  | QuestionMockText | Was "vertraut" ist, ist nicht richtig bekannt, nur weil es "vertraut" ist. |
+|  | QuestionMockText | Was &quot;vertraut&quot; ist, ist nicht richtig bekannt, nur weil es &quot;vertraut&quot; ist. |
 |  | QuestionTitle | Was ist ein Sidenote? |
 
 ## Benutzeraktionen {#section_qxd_fl4_xz}
@@ -299,13 +302,13 @@ Für Benutzeraktionen verfügbare Zeichenfolgen: Markieren, Freigeben und Verkn�
 |  | menuShareOptionFacebook | Facebook |
 |  | menuShareOptionTwitter | Twitter |
 |  | menuShareTitle | Freigabe |
-| *Optionen im Menü "Flag"* |  |  |
+| *Optionen im Menü &quot;Flag&quot;* |  |  |
 |  | menuFlagOptionDismatch | widersprechen |
 |  | menuFlagOptionOffensive | Offensive |
 |  | menuFlagOptionOffTopic | Off-Thema |
 |  | menuFlagOptionSpam | Spam |
 |  | menuFlagTitle | Kennzeichnung als... |
-|  | facebookShareCaption | Simit auf "{title}" |
+|  | facebookShareCaption | Simit auf &quot;{title}&quot; |
 | *Mobile Benutzeroptionen* |  |  |
 |  | reglerCommentTally | of |
 |  | reglerInviteRead | Gelesen |
@@ -353,7 +356,7 @@ Zeichenfolgen, die für die benutzerdefinierte Moderatoroberfläche verfügbar s
 
 | Element | Schlüssel | Standardtext |
 |---|---|---|
-| *Bestätigungsmeldungen im Menü "Mehr"* |  |  |
+| *Bestätigungsmeldungen im Menü &quot;Mehr&quot;* |  |  |
 |  | notificationApproved | Genehmigt |
 |  | notificationDeleted | Gelöscht |
 |  | notificationGekennzeichnet | Gekennzeichnet |
