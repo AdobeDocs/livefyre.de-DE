@@ -7,6 +7,9 @@ title: buildBlogCollection-Site-Methode
 uuid: 6a5ec6b9-bc32-467a-abe6-a57c6defe067
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '119'
+ht-degree: 5%
 
 ---
 
