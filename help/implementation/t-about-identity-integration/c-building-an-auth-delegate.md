@@ -1,27 +1,30 @@
 ---
-description: Das AuthDelegate-Objekt implementiert Ihr gewünschtes Verhalten zum Durchführen von Authentifizierungsaktionen und -ereignissen, damit Sie die Integration mit dem vorhandenen Authentifizierungssystem Ihrer Site anpassen können.
-seo-description: Das AuthDelegate-Objekt implementiert Ihr gewünschtes Verhalten zum Durchführen von Authentifizierungsaktionen und -ereignissen, damit Sie die Integration mit dem vorhandenen Authentifizierungssystem Ihrer Site anpassen können.
+description: Das AuthDelegate-Objekt implementiert Ihr gewünschtes Verhalten zum Durchführen von Authentifizierungsaktionen und Ereignissen, damit Sie die Integration mit dem vorhandenen Authentifizierungssystem Ihrer Site anpassen können.
+seo-description: Das AuthDelegate-Objekt implementiert Ihr gewünschtes Verhalten zum Durchführen von Authentifizierungsaktionen und Ereignissen, damit Sie die Integration mit dem vorhandenen Authentifizierungssystem Ihrer Site anpassen können.
 seo-title: AuthDelegate-Objekt
 solution: Experience Manager
 title: AuthDelegate-Objekt
 uuid: a6acc4ef-d442-4782-9bfa-bbe494547c2e
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '277'
+ht-degree: 0%
 
 ---
 
 
 # AuthDelegate-Objekt{#authdelegate-object}
 
-Das AuthDelegate-Objekt implementiert Ihr gewünschtes Verhalten zum Durchführen von Authentifizierungsaktionen und -ereignissen, damit Sie die Integration mit dem vorhandenen Authentifizierungssystem Ihrer Site anpassen können.
+Das AuthDelegate-Objekt implementiert Ihr gewünschtes Verhalten zum Durchführen von Authentifizierungsaktionen und Ereignissen, damit Sie die Integration mit dem vorhandenen Authentifizierungssystem Ihrer Site anpassen können.
 
 ## Erstellen eines Auth-Delegates {#section_wmn_tv2_gz}
 
-Das auth-Paket muss mit einem auth-Delegaten bereitgestellt werden, bevor eine Aktion ausgeführt werden kann. Ein auth-Delegat ist ein JavaScript-Objekt, das eine der Methoden in diesem Thema implementiert.
+Das auth-Paket muss mit einem auth-Delegaten bereitgestellt werden, bevor eine Aktion durchgeführt werden kann. Ein auth-Delegat ist ein JavaScript-Objekt, das eine der Methoden in diesem Thema implementiert.
 
 ## .login(completedLogin) {#section_mpk_lv2_gz}
 
-Melden Sie sich bei einem gültigen Benutzer an und rufen Sie die Funktion "OberflächeLogin"entweder mit einem Error-Objekt bei einem Fehler oder mit den Livefyre-Anmeldeinformationen des Benutzers auf. Allgemeine Implementierungen dieser Methode leiten den Benutzer zu einer Anmeldeseite oder öffnen ein neues Fenster oder ein neues Modell.
+Melden Sie sich bei einem gültigen Benutzer an und rufen Sie die Funktion &quot;OberflächeLogin&quot;entweder mit einem Error-Objekt bei einem Fehler oder mit den Livefyre-Anmeldeinformationen des Benutzers auf. Allgemeine Implementierungen dieser Methode leiten den Benutzer zu einer Anmeldeseite oder öffnen ein neues Fenster oder ein neues Modell.
 
 In diesem Beispiel wird der Autor eines Livefyre-Benutzers automatisch mit dem Authentifizierungstoken (Token) benachrichtigt:
 
@@ -49,7 +52,7 @@ authDelegate.login = function contrivedLogin(finishLogin) {
 
 ## .logout(completedLogout) {#section_uqz_2v2_gz}
 
-Melden Sie sich bei einem Benutzer ab und rufen Sie die Funktion "OberflächeLogout"mit einem Error-Objekt auf, wenn ein Fehler aufgetreten ist, oder mit null, um die Benachrichtigung zu erhalten, dass die Abmeldung erfolgreich war.
+Melden Sie sich bei einem Benutzer ab und rufen Sie die Funktion &quot;OberflächeLogout&quot;mit einem Error-Objekt auf, wenn ein Fehler aufgetreten ist, oder mit null, um die Benachrichtigung zu erhalten, dass die Abmeldung erfolgreich war.
 
 Beispiel:
 
@@ -62,7 +65,7 @@ authDelegate.logout = function (finishLogout) {
 
 ## .viewProfile(user) {#section_kkv_dv2_gz}
 
-Gehen Sie vor, um das Profil eines Benutzers anzuzeigen.
+Gehen Sie vor, um das Profil eines Benutzers Ansicht.
 
 ```
 authDelegate.viewProfile = function (user) { 
