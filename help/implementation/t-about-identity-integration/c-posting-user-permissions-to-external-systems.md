@@ -28,7 +28,7 @@ Livefyre verwendet eine PUSH-Schnittstelle, um externe Systeminformationen über
 | Keine | Dieser Benutzer ist ein Standardbenutzer und hat keine speziellen Berechtigungen. |
 | outcast | Dieser Benutzer wurde von der Teilnahme an Unterhaltungen ausgeschlossen. |
 
-Um Benutzerberechtigungen für externe Systeme zu veröffentlichen, müssen Sie eine URL registrieren, die Berechtigungsdaten als POST-Anforderungen erhält.
+Um Benutzerberechtigungen auf externen Systemen zu veröffentlichen, müssen Sie eine URL registrieren, die Berechtigungsdaten als POST-Anfragen erhält.
 
 Beispiel:
 
@@ -46,7 +46,7 @@ Die registrierte URL sollte POSTs mit den folgenden Daten als Inhaltstyp akzepti
 
 | Parameter | Beschreibung |
 |--- |--- |
-| jid | JID des Benutzers, dessen Verbindung geändert wird. Eine JID ist eine Zeichenfolge im Formular `user_id@network`. |
+| jid | JID des Benutzers, dessen Verbindung geändert wird. Eine JID ist eine Zeichenfolge des Formulars `user_id@network`. |
 | Mitgliedschaft | Name der zugewiesenen Berechtigungen, die einer der folgenden sein müssen:  `{admin | member | none | outcast | owner}` |
 
-Weitere Informationen zum Aktualisieren der Einstellungen für die Benutzerzugehörigkeit finden Sie in der [Hinzufügen Benutzerzuordnungs-API-Referenz](https://api.livefyre.com/docs/apis/by-category/user-management#operation=urn:livefyre:apis:quill:operations:api:v3.0:affiliation:add:method=post).
+Weitere Informationen zum Aktualisieren der Benutzerzugehörigkeitseinstellungen finden Sie in der [Hinzufügen Benutzerzuordnungs-API-Referenz](https://api.livefyre.com/docs/apis/by-category/user-management#operation=urn:livefyre:apis:quill:operations:api:v3.0:affiliation:add:method=post).
