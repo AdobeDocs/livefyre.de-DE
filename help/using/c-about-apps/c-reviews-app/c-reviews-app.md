@@ -7,6 +7,9 @@ title: Reviews
 uuid: 5386fc74-7a3b-4b2a-91fd-cfe5300e602d
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '282'
+ht-degree: 0%
 
 ---
 
@@ -15,24 +18,24 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Bewerten und überprüfen Sie alle Inhalte Ihrer Website in Echtzeit.
 
-Reviews allows users to easily rate and review products, services, articles or any piece of content on your website, in real-time.
+Mit Reviews können Benutzer Produkte, Services, Artikel oder beliebige Inhalte Ihrer Website einfach in Echtzeit bewerten und überprüfen.
 
 Jeder in einer Reviews-App veröffentlichte Review besteht aus einem einzeiligen Review-Titel, einem Body und einer numerischen Bewertung. Durch die Aufnahme eines Titels und einer Bewertung quantifiziert die Reviews-App die Meinung eines Benutzers und bietet eine Zusammenfassung der Erfahrungen des Benutzers mit diesem Produkt oder Service.
 
-Die standardmäßige Reviews-App besteht aus einer Sammlung von Reviews und einem Abschnitt mit einer Zusammenfassung, in dem die Aufschlüsselung "Durchschnittliche Benutzerbewertung"und "Bewertung"für die Sammlung angezeigt wird. Users may read and interact with the Reviews, in real-time.
+Die standardmäßige Reviews-App besteht aus einer Sammlung von Reviews und einem Abschnitt mit einer Zusammenfassung, in dem die Aufschlüsselung &quot;Durchschnittliche Benutzereinstufung&quot;und &quot;Bewertung&quot;für die Sammlung angezeigt wird. Benutzer können die Reviews in Echtzeit lesen und mit ihnen interagieren.
 
-Allure nutzt Reviews, um ihre Benutzer einzuladen, Ratings und Meinungen zu den Produkten, die sie kennzeichnen. Mit Reviews kann Allure wertvolles und persönliches Feedback von Benutzern aus ihrem Publikum erfassen.
+Allure nutzt Reviews, um ihre Benutzer einzuladen, Ratings und Meinungen zu den Produkten, die sie kennzeichnen. Mit Reviews kann Allure wertvolles und persönliches Feedback von Nutzern aus ihrer Audience erfassen.
 
 ![](assets/ReviewsAllure.png)
 
-## Funktionen überprüfen {#section_awq_xph_21b}
+## Reviews Funktionen {#section_awq_xph_21b}
 
-Reviews offers several features which are specific to this App.
+Hier finden Sie eine Übersicht über verschiedene Funktionen, die für diese App spezifisch sind.
 
 * Schnelle visuelle Darstellung der Trends (Sternbewertungen und durchschnittliche Bewertungszusammenfassung) über dem Stream.
-* Anpassbare Bewertungsoberfläche, einschließlich der Anzahl der Sterne und ihres Bildes, der Bewertungsunterteile (z. B. "Pros"und "Cons") und mehrerer Bewertungskategorien.
-* Summarize reviews using a graphic visualization of the Average User Rating and the Rating Breakdown for the Reviews Collection.
-* Warteschlangen-Reviews zur Anzeige, wobei die Überprüfung des Benutzers für die Ansicht oben in der Liste angezeigt wird.
+* Anpassbare Bewertungsoberfläche, einschließlich der Anzahl der Sterne und ihres Bildes, Bewertungskomponenten (z. B. &quot;Pros&quot;und &quot;Cons&quot;) und mehrerer Kategorien für die Bewertung.
+* Zusammenfassen von Reviews mit einer grafischen Visualisierung der durchschnittlichen Benutzerbewertung und der Bewertungsaufschlüsselung für die Reviews-Sammlung.
+* Warteschlangenüberprüfungen für die Anzeige, wobei die Benutzerüberprüfung für die Ansicht oben auf der Liste stehen muss.
 * Ermöglicht Benutzern, über die Nützlichkeit von Reviews abzustimmen und dann nach der nützlichsten und/oder der höchsten Bewertung zu sortieren.
-* Mobile Benutzeroberfläche
+* Mobile Benutzeroberfläche.
 
