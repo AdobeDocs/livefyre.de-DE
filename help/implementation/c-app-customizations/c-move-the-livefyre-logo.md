@@ -7,17 +7,20 @@ title: Das Livefyre-Logo verschieben
 uuid: 807304ae-6070-4505-87db-169a925f714c
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '81'
+ht-degree: 0%
 
 ---
 
 
-# Das Livefyre-Logo verschieben{#move-the-livefyre-logo}
+# Das Livefyre-Logo{#move-the-livefyre-logo} verschieben
 
 Positionieren Sie das Livefyre-Logo auf Ihrer Seite neu.
 
 Wenn Ihr Vertrag mit Livefyre dies zulässt, können Sie das Livefyre-Logo von der Oberseite des Inhaltsstreams nach unten verschieben.
 
-Fügen Sie Ihrer Seite beispielsweise unmittelbar nach dem Element mit der Livefyre-App den folgenden HTML-Code hinzu:
+Fügen Sie Ihrer Seite beispielsweise unmittelbar nach dem Element, das die Livefyre-App enthält, den folgenden HTML-Code hinzu:
 
 ```
 <div id="powered_by_livefyre_new"><a href="https://livefyre.com" target="_blank">Powered by Livefyre</a></div>
