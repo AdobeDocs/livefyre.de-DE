@@ -1,19 +1,22 @@
 ---
-description: Passen Sie Chat-Apps an, um Inhalte als kontinuierlichen Stream von nicht verketteten Chat anzuzeigen, sodass Ihre Zielgruppe in Echtzeit Gespräche über Live-Veranstaltungen oder -Mitteilungen führen kann.
-seo-description: Passen Sie Chat-Apps an, um Inhalte als kontinuierlichen Stream von nicht verketteten Chat anzuzeigen, sodass Ihre Zielgruppe in Echtzeit Gespräche über Live-Veranstaltungen oder -Mitteilungen führen kann.
+description: Passen Sie Chat-Apps an, um Inhalte als fortlaufenden Stream von nicht verketteten Chat anzuzeigen, sodass Ihre Audience in Echtzeit Gespräche über Live-Ereignisse oder Ankündigungen führen kann.
+seo-description: Passen Sie Chat-Apps an, um Inhalte als fortlaufenden Stream von nicht verketteten Chat anzuzeigen, sodass Ihre Audience in Echtzeit Gespräche über Live-Ereignisse oder Ankündigungen führen kann.
 seo-title: Chat-Anpassungen
 solution: Experience Manager
 title: Chat-Anpassungen
 uuid: eac7be2f-2dcd-4a6b-ac84-e5e650af82e0
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '259'
+ht-degree: 0%
 
 ---
 
 
 # Chat-Anpassungen{#chat-customizations}
 
-Passen Sie Chat-Apps an, um Inhalte als kontinuierlichen Stream von nicht verketteten Chat anzuzeigen, sodass Ihre Zielgruppe in Echtzeit Gespräche über Live-Veranstaltungen oder -Mitteilungen führen kann.
+Passen Sie Chat-Apps an, um Inhalte als fortlaufenden Stream von nicht verketteten Chat anzuzeigen, sodass Ihre Audience in Echtzeit Gespräche über Live-Ereignisse oder Ankündigungen führen kann.
 
 
 
@@ -25,7 +28,7 @@ Diese Optionen stehen in der Chat-App zur Verfügung:
 
 * **[!UICONTROL Posts appear in cards]**
 
-   Wenn diese Option aktiviert ist, werden Beiträge mit einem umgebenden Feld und der durch die Auswahl des **Designs** vorgegebenen Hintergrundfarbe angezeigt.
+   Wenn diese Option aktiviert ist, werden Beiträge mit einem umgebenden Feld angezeigt und die Hintergrundfarbe wird durch die Auswahl **Design** festgelegt.
 
 * **[!UICONTROL Preview media]**
 
@@ -45,15 +48,15 @@ Diese Optionen stehen in der Chat-App zur Verfügung:
 
 * **[!UICONTROL Users may share comments]**
 
-   Falls aktiviert, können Benutzer gepostete Kommentare an Twitter, Facebook oder LinkedIn weitergeben. Weitere Informationen zum Aktivieren der Freigabe finden Sie unter Einstellungen &gt; Integrationseinstellungen &gt; Social Sharing.
+   Wenn diese Option aktiviert ist, können Benutzer gepostete Kommentare an Twitter, Facebook oder LinkedIn weitergeben. Weitere Informationen zum Aktivieren der Freigabe finden Sie unter Einstellungen > Integrationseinstellungen > Social Sharing.
 
 * **[!UICONTROL Additional sort option]**
 
-   Ermöglicht Ihnen, Sortierungsoptionen für Ihre Endbenutzer anzubieten:*** [!UICONTROL Most liked]* oder **[!UICONTROL Most active]**.
+   Ermöglicht Ihnen die Angebot-Sortieroptionen für Ihre Endbenutzer:** [!UICONTROL Most liked]* oder **[!UICONTROL Most active]**.
 
 Sie können den Chat anpassen, indem Sie:
 
-* **[!UICONTROL Style]** und **[!UICONTROL Config]** Optionen für alle Apps im **[!UICONTROL App Designer]**. Weitere Informationen zu den Standard- **[!UICONTROL Style]** und **[!UICONTROL Config]** -Optionen für alle Apps im Abschnitt Anpassen von Apps finden Sie unter **[!UICONTROL App Designer]**.
+* **[!UICONTROL Style]** und  **[!UICONTROL Config]** Optionen für alle Apps im  **[!UICONTROL App Designer]**. Weitere Informationen zu den Standardoptionen **[!UICONTROL Style]** und **[!UICONTROL Config]** für alle Apps in **[!UICONTROL App Designer]** finden Sie unter Anpassen von Apps.
 
 * Integrationstools. Weitere Informationen zum Anpassen von Chat mit Integrationstools finden Sie unter Chat.
 
