@@ -7,11 +7,14 @@ title: 14. Juni 2018
 uuid: f1bba3af-2020-4dfc-9938-05b1183c30ab
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+workflow-type: tm+mt
+source-wordcount: '145'
+ht-degree: 13%
 
 ---
 
 
-# June 14, 2018{#june}
+# 14. Juni 2018{#june}
 
 Versionshinweise für die Version vom 14. Juni 2018.
 
@@ -21,7 +24,7 @@ Versionshinweise für die Version vom 14. Juni 2018.
 
 Der Wert von evars.appType javascript und generator.name wurde in neue Werte wie in der folgenden Tabelle dargestellt geändert:
 
-## Änderungen am Variablennamen "evars.appType"
+## Änderungen am Variablennamen &quot;evars.appType&quot;
 
 | Vorheriger Name | Neuer Name |
 |---|---|
