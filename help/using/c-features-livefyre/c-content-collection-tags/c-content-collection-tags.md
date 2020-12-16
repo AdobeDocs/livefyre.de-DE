@@ -1,23 +1,26 @@
 ---
-description: Fügen Sie Stichwort-Tags zu Sammlungen und Inhalten hinzu, um Inhalte zu kategorisieren und zu organisieren, sodass sie einfach abgerufen werden können.
-seo-description: Fügen Sie Stichwort-Tags zu Sammlungen und Inhalten hinzu, um Inhalte zu kategorisieren und zu organisieren, sodass sie einfach abgerufen werden können.
+description: hinzufügen Sie Stichwort-Tags zu Sammlungen und Inhalten, um Inhalte zu kategorisieren und zu organisieren, sodass sie einfach abgerufen werden können.
+seo-description: hinzufügen Sie Stichwort-Tags zu Sammlungen und Inhalten, um Inhalte zu kategorisieren und zu organisieren, sodass sie einfach abgerufen werden können.
 seo-title: Sammlungs- und Inhalts-Tags
 solution: Experience Manager
 title: Sammlungs- und Inhalts-Tags
 uuid: 1f6900ac-40ff-41ec-ac26-25ff476cd820
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '192'
+ht-degree: 7%
 
 ---
 
 
-# Sammlungs- und Inhalts-Tags{#collection-and-content-tags}
+# Collection- und Content-Tags{#collection-and-content-tags}
 
-Fügen Sie Stichwort-Tags zu Sammlungen und Inhalten hinzu, um Inhalte zu kategorisieren und zu organisieren, sodass sie einfach abgerufen werden können.
+hinzufügen Sie Stichwort-Tags zu Sammlungen und Inhalten, um Inhalte zu kategorisieren und zu organisieren, sodass sie einfach abgerufen werden können.
 
 Durch Zuweisen von Tags können Sie Suchvorgänge nach einem bestimmten Tag filtern und Daten für die Heat Index-API abrufen.
 
-Tags können über die **[!UICONTROL Content]** und **[!UICONTROL Collections]** Bereiche in Studio oder direkt zu den Sammlungsmetadaten (mithilfe des Objekts collectionMeta) hinzugefügt werden, wenn die Sammlung mit Livefyre initialisiert oder aktualisiert wird.
+Tags können über die Bedienfelder **[!UICONTROL Content]** und **[!UICONTROL Collections]** in Studio oder direkt zu den Sammlungsmetadaten (mithilfe des collectionMeta-Objekts) hinzugefügt werden, wenn die Sammlung mit Livefyre initialisiert oder aktualisiert wird.
 
 Apps, die diese Funktion verwenden:
 
@@ -35,7 +38,7 @@ Apps, die diese Funktion verwenden:
 * [Trends](/help/using/c-about-apps/c-trending-app/c-trending-app.md#c_trending_app)
 * [Hochladen-Schaltfläche](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
 
-## Sammlungs-Tags mit der Heat Index-API verwenden {#section_uhd_frk_wy}
+## Verwenden von Collection-Tags mit der Heat Index-API {#section_uhd_frk_wy}
 
 Die Heat Index-API akzeptiert einen Tag-Parameter, mit dem Sie relative Helligkeit für jede Sammlung mit diesem Tag über eine Site oder das gesamte Netzwerk abrufen können.
 
