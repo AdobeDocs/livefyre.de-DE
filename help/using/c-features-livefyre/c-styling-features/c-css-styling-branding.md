@@ -6,11 +6,14 @@ title: CSS-Stil und Branding
 uuid: 729a2780-f757-4c54-b446-ff832cecf620
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '277'
+ht-degree: 2%
 
 ---
 
 
-# CSS-Stil und Branding{#css-styling-and-branding}
+# CSS-Stil und -Branding{#css-styling-and-branding}
 
 Verwenden Sie CSS, um Elemente einer Livefyre-App zu gestalten und an Ihre Marke anzupassen.
 
@@ -20,9 +23,9 @@ Die Formatierungsoptionen umfassen:
 
 * **[!UICONTROL Styling the Stream:]** Livefyre-Streams können gestylt und an Ihre Marke und den Rest Ihrer Site angepasst werden. Weitere Informationen finden Sie unter CSS-Anpassungen.
 * **[!UICONTROL Styling the Comment Editor:]** Der Kommentareditor kann angepasst werden, indem Sie Farbe, Größe und Familie der Schriftart ändern oder die Hintergrundfarbe für das Kommentarfeld ändern. Weitere Informationen finden Sie unter Editor-CSS.
-* **[!UICONTROL Moving the Livefyre Logo:]** Während sich der Standardspeicherort für das Livefyre-Logo oben im Stream befindet, kann dieses Bild entfernt und durch ein kleineres "Powered by Livefyre"-Logo unten im Stream ersetzt werden. Weitere Informationen finden Sie unter Verschieben des Livefyre-Logos.
-* **[!UICONTROL Hiding elements of the stream:]** Elemente des Streams können ausgeblendet werden, wenn sie für Ihre Community nicht relevant sind. Elemente, die entfernt werden können, sind die Antwortschaltfläche, das Menü "Profil bearbeiten", das Menü "Abmelden", der Kommentar-Benachrichtiger und Benutzeravatare. Weitere Informationen zum Entfernen dieser Elemente finden Sie unter Ausblenden von App-Elementen.
-* **[!UICONTROL Customizing the Friend Tagging Logo:]** Standardmäßig wird das Livefyre-Logo in der Dropdownliste mit dem Freund-Tagging für alle Benutzer angezeigt, die im Stream auf der Seite Kommentare abgegeben haben. Um dieses Bild durch Ihr eigenes Logo zu ersetzen, sehen Sie bitte Branding in Studio.
+* **[!UICONTROL Moving the Livefyre Logo:]** Während sich der Standardspeicherort für das Livefyre-Logo oben im Stream befindet, kann dieses Bild entfernt und durch ein kleineres &quot;Powered by Livefyre&quot;-Logo unten im Stream ersetzt werden. Weitere Informationen finden Sie unter Verschieben des Livefyre-Logos.
+* **[!UICONTROL Hiding elements of the stream:]** Elemente des Streams können ausgeblendet werden, wenn sie für Ihre Community nicht relevant sind. Elemente, die entfernt werden können, umfassen die Schaltfläche &quot;Antwort&quot;, das Menü &quot;Profil bearbeiten&quot;, das Menü &quot;Abmelden&quot;, den Kommentar-Benachrichtiger und Benutzeravatare. Weitere Informationen zum Entfernen dieser Elemente finden Sie unter Ausblenden von App-Elementen.
+* **[!UICONTROL Customizing the Friend Tagging Logo:]** Standardmäßig wird das Livefyre-Logo in der Dropdown-Liste mit dem Freund-Tagging für alle Benutzer angezeigt, die im Stream auf der Seite Kommentare abgegeben haben. Um dieses Bild durch Ihr eigenes Logo zu ersetzen, sehen Sie bitte Branding in Studio.
 
 Apps, die diese Funktion verwenden:
 
