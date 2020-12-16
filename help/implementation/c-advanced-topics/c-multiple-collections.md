@@ -7,6 +7,9 @@ title: Mehrere Sammlungen
 uuid: 9675ffd7-1a59-42a1-b3ba-40af1744cfd1
 translation-type: tm+mt
 source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
+workflow-type: tm+mt
+source-wordcount: '117'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
 
 Zeigen Sie mehrere Sammlungen auf einer Seite an.
 
-Sie können mehrere Sammlungen auf einer einzelnen Seite Ihrer Site hinzufügen. Um beispielsweise ein Ereignis zu veröffentlichen, haben Sie während der Veranstaltung möglicherweise eine Live-Blog- oder Chat-Diskussion mit einer separaten App auf der Seite, die zugehörige kuratierte Inhalte aus dem gesamten Social Web anzeigt. Sie können auch eine Kommentar-App unterhalb eines Artikels mit einem Chat an der Seite einfügen.
+Sie können mehrere Sammlungen auf einer einzelnen Seite Ihrer Site hinzufügen. Um beispielsweise ein Ereignis zu veröffentlichen, können Sie während des Ereignisses eine Live-Blog- oder Chat-Diskussion mit einer separaten App auf Ihrer Seite führen, in der zugehörige kuratierte Inhalte aus dem gesamten Social Web angezeigt werden. Sie können auch eine Kommentar-App unterhalb eines Artikels mit einem Chat an der Seite einfügen.
 
 Um mehrere Konversationen auf einer Seite abzurufen, fügen Sie eine oder mehrere Konfigurationen in einem Array hinzu und übergeben Sie das Array an den Ladeaufruf. Beispiel.
 
