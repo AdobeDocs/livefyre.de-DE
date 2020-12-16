@@ -1,12 +1,15 @@
 ---
-description: Bibliotheken für serverseitige Aufgaben von Livefyre installieren
-seo-description: Bibliotheken für serverseitige Aufgaben von Livefyre installieren
+description: Bibliotheken für serverseitige Livefyre-Aufgaben installieren
+seo-description: Bibliotheken für serverseitige Livefyre-Aufgaben installieren
 seo-title: Installation
 solution: Experience Manager
 title: Installation
 uuid: f60b4cc7-178f-4a16-ba75-f1d0d171c52f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '317'
+ht-degree: 1%
 
 ---
 
@@ -56,7 +59,7 @@ Die Java-Bibliothek ist von den folgenden Modulen abhängig:
 </dependency> 
 ```
 
-Weitere Informationen finden Sie in den Java-Dokumenten oder in der Quelle auf [GitHub](https://github.com/Livefyre/livefyre-java-utils).
+Weitere Informationen finden Sie in den Java-Dokumenten oder in der Quelle unter [GitHub](https://github.com/Livefyre/livefyre-java-utils).
 
 ## NodeJS {#section_swj_pwq_rz}
 
@@ -72,7 +75,7 @@ Die NodeJS-Bibliothek ist von den folgenden Modulen abhängig:
 "jsonwebtoken": ">=5.0.0" 
 ```
 
-Weitere Informationen finden Sie im Dokument NodeJs oder in der Quelle auf [GitHub](https://github.com/Livefyre/livefyre-nodejs-utils).
+Weitere Informationen finden Sie im Dokument NodeJs oder in der Quelle unter [GitHub](https://github.com/Livefyre/livefyre-nodejs-utils).
 
 Links: [Restler](https://github.com/danwrong/restler), [Validator](https://www.npmjs.org/package/validator), [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken).
 
@@ -92,7 +95,7 @@ Installieren Sie anschließend mithilfe von:
 composer.phar install 
 ```
 
-Wenn Sie Composer **nicht** verwenden, können Sie die neueste Version der Bibliothek wie folgt abrufen:
+Wenn Sie **not** Composer verwenden, rufen Sie die neueste Version der Bibliothek unter folgender Verwendung ab:
 
 ```
 git clone https://github.com/Livefyre/livefyre-php-utils 
@@ -112,9 +115,9 @@ Die PHP-Bibliothek ist von den folgenden Modulen abhängig:
 "firebase/php-jwt": ">=2.0" 
 ```
 
-For more information, read the PHP docs or see the source on [GitHub](https://github.com/Livefyre/livefyre-php-utils).
+Weitere Informationen finden Sie in den PHP-Dokumenten oder in der Quelle unter [GitHub](https://github.com/Livefyre/livefyre-php-utils).
 
-Links: [ext-json](https://php.net/manual/en/book.json.php), [Requests](https://github.com/rmccue/Requests/), [PHP-JWT](https://github.com/firebase/php-jwt/tree/v2.0.0)
+Links: [ext-json](https://php.net/manual/en/book.json.php), [Anforderungen](https://github.com/rmccue/Requests/), [PHP-JWT](https://github.com/firebase/php-jwt/tree/v2.0.0)
 
 ## Python {#section_irk_fxq_rz}
 
@@ -132,9 +135,9 @@ enum34 == 1.0
 ordereddict == 1.1 if sys.version_info[:2] < 2.7 
 ```
 
-Weitere Informationen finden Sie in den Python-Dokumenten oder in der Quelle auf [GitHub](https://github.com/Livefyre/livefyre-python-utils).
+Weitere Informationen finden Sie in den Python-Dokumenten oder in der Quelle unter [GitHub](https://github.com/Livefyre/livefyre-python-utils).
 
-Links: [PyJWT](https://github.com/progrium/pyjwt), [Requests](https://github.com/kennethreitz/requests), [Python-Dateutil](https://pypi.python.org/pypi/python-dateutil), [Enum34](https://pypi.python.org/pypi/enum34), [OrderedDict](https://pypi.python.org/pypi/ordereddict)
+Links: [PyJWT](https://github.com/progrium/pyjwt), [Anforderungen](https://github.com/kennethreitz/requests), [Python-Dateutil](https://pypi.python.org/pypi/python-dateutil), [Enum34](https://pypi.python.org/pypi/enum34), [OrderedDict](https://pypi.python.org/pypi/ordereddict)
 
 ## Ruby {#section_fv2_tzq_rz}
 
@@ -156,6 +159,6 @@ Die Ruby-Bibliothek ist von den folgenden Modulen abhängig:
 "addressable", '~> 2.3', ">= 2.3.6" 
 ```
 
-Weitere Informationen finden Sie in den Ruby-Dokumenten oder in der Quelle auf [GitHub](https://github.com/Livefyre/livefyre-ruby-utils).
+Weitere Informationen finden Sie in den Ruby-Dokumenten oder in der Quelle unter [GitHub](https://github.com/Livefyre/livefyre-ruby-utils).
 
 Links: [Ruby JWT](https://github.com/firebase/php-jwt/tree/v2.0.0), [REST Client](https://github.com/rest-client/rest-client/), [Addressable](https://github.com/sporkmonger/addressable)
