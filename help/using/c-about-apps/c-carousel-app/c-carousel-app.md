@@ -7,6 +7,9 @@ title: Karussell
 uuid: c0704fba-6119-44ca-9ad1-1e2cb692ebda
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '642'
+ht-degree: 2%
 
 ---
 
@@ -45,15 +48,15 @@ Unterstützte Inhaltsquellen:
 
 ## Wie sieht ein Site-Besucher Inhalte in einem Karussell? Kann ich Inhalte in ein Karussell streamen? {#section_jvs_mnt_wy}
 
-Ein Site-Besucher sieht Inhalte, die aus einem Studio-Stream oder einer Social-Suche in ein Karussell aus Studio gefüllt werden. Wenn neue Inhalte in der App veröffentlicht werden, während sich ein Sitebesucher auf der Seite befindet, muss der Sitebesucher die Seite aktualisieren, um den aktualisierten Inhalt anzuzeigen. Neue veröffentlichte Inhalte werden in der App nach bis zu 5 Minuten angezeigt.
+Ein Site-Besucher sieht Inhalte, die aus einem Studio-Stream oder einer Social-Suche in ein Karussell aus Studio gefüllt werden. Wenn neue Inhalte in der App veröffentlicht werden, während sich ein Site-Besucher auf der Seite befindet, muss der Site-Besucher die Seite aktualisieren, damit der aktualisierte Inhalt angezeigt wird. Neue veröffentlichte Inhalte werden in der App nach bis zu 5 Minuten angezeigt.
 
 ## Wie viele Zeichen wird für jede Karte ein Karussell angezeigt? {#section_qsx_xrt_wy}
 
-Bei einem Karussell wird die Anzahl der anzuzeigenden Zeichen je nach Bildschirm- oder Containergröße dynamisch neu berechnet. Wenn mehr Zeichen vorhanden sind, als das Karussell anzeigen kann, wird der angezeigte Text mit einem Auslassungszeichen ("...") beendet.
+Bei einem Karussell wird die Anzahl der anzuzeigenden Zeichen je nach Bildschirm- oder Container-Größe dynamisch neu berechnet. Wenn mehr Zeichen vorhanden sind, als das Karussell anzeigen kann, wird der angezeigte Text mit einem Auslassungszeichen (&quot;...&quot;) beendet.
 
 ## Wie sieht eine URL für eine Karte in einem Karussell aus? {#section_hnh_wrt_wy}
 
-Wenn eine URL vorhanden ist, wird die URL in einer Leiste markiert, wenn Sie auf den Inhalt klicken. Wenn es mehr als eine URL gibt, markiert die Karte nur eine URL. Alle zusätzlichen URLs werden durch ein Auslassungszeichen ("...") abgeschnitten.
+Wenn eine URL vorhanden ist, wird die URL in einer Leiste hervorgehoben, wenn Sie auf den Inhalt klicken. Wenn es mehr als eine URL gibt, markiert die Karte nur eine URL. Alle zusätzlichen URLs werden durch ein Auslassungszeichen (&quot;...&quot;) abgeschnitten.
 
 ## Wie sieht ein Karussell auf verschiedenen Plattformen aus? {#section_hpc_5rt_wy}
 
@@ -67,17 +70,17 @@ Sie können den gewünschten Modus auswählen:
 * Vertikaler Desktop-Modus: Immer vertikal schrumpft, wenn der Container kleiner wird
 * Mobil: Immer vertikal schrumpft, um die Bildschirmgröße anzupassen
 
-## Was passiert, wenn ein Site-Besucher auf einen Artikel in einem Karussell klickt? {#section_xn3_2xm_wy}
+## Was passiert, wenn ein Site-Besucher auf ein Element in einem Karussell klickt? {#section_xn3_2xm_wy}
 
-Ein Sitebesucher kann:
+Ein Site-Besucher kann:
 
 * Klicken Sie auf ein Bild, um ein größeres Bild anzuzeigen.
-* Klicken Sie auf ein Video, um es anzuzeigen.
+* Klicken Sie auf ein Video, um es anzuschauen.
 * Klicken Sie auf Inhalte mit mehreren Elementen, um durch die Elemente zu blättern.
 
 ## Was bewirkt das Hinzufügen von Inhalten mit Elementen in einem Karussell? {#section_tdp_cxm_wy}
 
-Inhalte mit dem Tag "Vorgestellt"werden vorne angezeigt. Wenn Sie mehr als ein Inhaltselement verwenden, wird jedes Element in der Reihenfolge des Veröffentlichungsdatums vor der App angezeigt.
+Inhalte mit dem Tag &quot;Vorgestellt&quot;werden vorne angezeigt. Wenn Sie mehr als ein Inhaltselement verwenden, wird jedes Element in der Reihenfolge des Veröffentlichungsdatums vor der App angezeigt.
 
 ## Was soll ich noch darüber wissen, wie ein Karussell auf einer Website aussieht? {#section_r3q_bxm_wy}
 
@@ -87,4 +90,4 @@ Umgehung: Ein Karussell umschließt das letzte Element bis zum ersten Element. W
 
 ## Kann ich eine Upload-Schaltfläche zu einem Karussell hinzufügen? {#section_ozs_1xm_wy}
 
-Sie können einem Karussell eine Upload-Schaltfläche hinzufügen. Wenn Sie die Schaltfläche "Hochladen"in der App veröffentlichen, während sich ein Sitebesucher auf der Seite befindet, muss der Sitebesucher die Seite aktualisieren, um den aktualisierten Inhalt anzuzeigen. Die Schaltfläche "Hochladen"wird in der App nach bis zu 5 Minuten angezeigt.
+Sie können einem Karussell eine Upload-Schaltfläche hinzufügen. Wenn Sie die Schaltfläche &quot;Hochladen&quot;in der App veröffentlichen, während sich ein Site-Besucher auf der Seite befindet, muss der Site-Besucher die Seite aktualisieren, damit der aktualisierte Inhalt angezeigt wird. Die Schaltfläche &quot;Hochladen&quot;wird in der App nach bis zu 5 Minuten angezeigt.
