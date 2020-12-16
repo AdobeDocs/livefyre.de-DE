@@ -7,6 +7,9 @@ title: Seitenzeichenfolgen
 uuid: a3735237-e55d-4bc0-b88d-8a323980ee09
 translation-type: tm+mt
 source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+workflow-type: tm+mt
+source-wordcount: '501'
+ht-degree: 12%
 
 ---
 
@@ -15,9 +18,16 @@ source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 Anpassen der Textzeichenfolgen für Livefyre Sibezeichnet
 
-Auf dieser Seite werden alle Zeichenfolgen aufgelistet, die für die Anpassung in Sidebar-Apps verfügbar sind. Informationen zu den für die Livefyre-Core-Apps verfügbaren Zeichenfolgen finden Sie unter Zeichenfolgen-Anpassungen.
+Auf dieser Seite werden alle Zeichenfolgen, die zur Anpassung in Sidebar-Apps verfügbar sind, Liste und beschrieben. Informationen zu Zeichenfolgen, die für die Core-Livefyre-Apps verfügbar sind, finden Sie unter Zeichenfolgen-Anpassungen.
 
-ImplementationAuthStream InfoAuthor/Content InfoBenutzeraktionenPost-FunktionenModerator-SchnittstelleFehler
+Implementierung
+Auth
+Stream-Info
+Autor-/Inhaltsinformationen
+Benutzeraktionen
+Post-Funktionen
+Moderator-Oberfläche
+Fehler
 
 ## Implementierung {#section_wp2_ql4_xz}
 
@@ -56,7 +66,7 @@ Für Informationen und Anzeigen von Inhaltsströmen verfügbare Zeichenfolgen.
 
 | Element | Schlüssel | Standardtext |
 |---|---|---|
-| Optionen im Menü "Info" | menuInfoCopyright | © Livefyre, Inc. 2014 |
+| Optionen im Menü &quot;Info&quot; | menuInfoCopyright | © Livefyre, Inc. 2014 |
 |  | menuInfoHelp | Hilfe |
 |  | menuInfoLivefyreLink | Besuch Livefyre.com |
 
@@ -75,8 +85,8 @@ Stings verfügbar für Autor- und individuelle Inhaltsinformationen.
 |  | commentVoteCountSing | Stimme |
 |  | datetimeMinutePrefix | m |
 |  | datetimeMonths | Als Array. Standardeinstellung =`[‘January’, ‘February’, ‘March’, ‘April’, ‘May’, ‘June’, ‘July’, ‘August’, ‘September’, ‘October’, ‘November’, ‘December’]` |
-|  | QuestionExplanation | Sie können Kommentare jetzt direkt zu Sätzen, Absätzen, Bildern und Anführungszeichen lesen und schreiben.<br><br><span class="&rdquo;lf-highlight-text&rdquo;">Markieren Sie Text</span> und klicken Sie auf das <span class="&rdquo;fycon-write&rdquo;"></span> Symbol oder klicken Sie auf das <span class="&rdquo;fycon-action-view&rdquo;"></span> Symbol am Ende jedes Absatzes. |
-|  | QuestionMockText | Was "vertraut" ist, ist nicht richtig bekannt, nur weil es "vertraut" ist. |
+|  | QuestionExplanation | Sie können Kommentare jetzt direkt zu Sätzen, Absätzen, Bildern und Anführungszeichen lesen und schreiben.<br><br><span class="&rdquo;lf-highlight-text&rdquo;">Markieren Sie </span> den Text und klicken Sie auf das  <span class="&rdquo;fycon-write&rdquo;"></span> Symbol oder klicken Sie auf das  <span class="&rdquo;fycon-action-view&rdquo;"></span> Symbol am Ende jedes Absatzes. |
+|  | QuestionMockText | Was &quot;vertraut&quot; ist, ist nicht richtig bekannt, nur weil es &quot;vertraut&quot; ist. |
 |  | QuestionTitle | Was ist ein Sidenote? |
 
 ## Benutzeraktionen {#section_qxd_fl4_xz}
@@ -90,12 +100,12 @@ Für Benutzeraktionen verfügbare Zeichenfolgen: Markieren, Freigeben und Verkn�
 | Menüoptionen freigeben | menuShareOptionFacebook | Facebook |
 |  | menuShareOptionTwitter | Twitter |
 |  | menuShareTitle | Freigabe |
-| Optionen im Menü "Flag" | menuFlagOptionDismatch | widersprechen |
+| Optionen im Menü &quot;Flag&quot; | menuFlagOptionDismatch | widersprechen |
 |  | menuFlagOptionOffensive | Offensive |
 |  | menuFlagOptionOffTopic | Off-Thema |
 |  | menuFlagOptionSpam | Spam |
 |  | menuFlagTitle | Kennzeichnung als... |
-|  | facebookShareCaption | Simit auf "{title}" |
+|  | facebookShareCaption | Simit auf &quot;{title}&quot; |
 | Mobile Benutzeroptionen | reglerCommentTally | of |
 |  | reglerInviteRead | Gelesen |
 |  | reglerInviteWrite | schreiben |
@@ -140,7 +150,7 @@ Zeichenfolgen, die für die benutzerdefinierte Moderatoroberfläche verfügbar s
 
 | Element | Schlüssel | Standardtext |
 |---|---|---|
-| Bestätigungsmeldungen im Menü "Mehr" | notificationApproved | Genehmigt |
+| Bestätigungsmeldungen im Menü &quot;Mehr&quot; | notificationApproved | Genehmigt |
 |  | notificationDeleted | Gelöscht |
 |  | notificationGekennzeichnet | Gekennzeichnet |
 
