@@ -7,17 +7,20 @@ title: Einstellungen formatieren
 uuid: 030936fb-7c8b-487e-b468-7128b641c8ed
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '133'
+ht-degree: 0%
 
 ---
 
 
-# Einstellungen formatieren{#storify-settings}
+# Storify Settings{#storify-settings}
 
 Passen Sie die Einstellungen für Storify 2-Textabschnitte wie Tags, Moderation und zulässige Inhalte an.
 
 >[!NOTE]
 >
->Die meisten Einstellungen für die Steuerungsoptionen für "Storify 2 Apps"für "Sidebar"werden angezeigt, sofern aktiviert.
+>Die meisten Einstellungen für die Steuerungsoptionen für &quot;Storify 2 Apps&quot;für &quot;Sidebar&quot;werden angezeigt, sofern aktiviert.
 
 * **[!UICONTROL Tags]**
 
