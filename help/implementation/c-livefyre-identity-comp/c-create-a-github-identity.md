@@ -6,6 +6,9 @@ title: Erstellen einer GitHub-Identitätsanwendung zur Verwendung mit Livefyre-I
 uuid: cf56164c-1521-4a42-89cb-39483764807e
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '214'
+ht-degree: 0%
 
 ---
 
@@ -21,13 +24,13 @@ Damit sich Benutzer mit ihren GitHub-Identitätsberechtigungen anmelden können,
 
 So erstellen Sie eine GitHub-Identitäts-App zur Verwendung mit Livefyre-Identität:
 
-1. Erstellen oder melden Sie sich bei einem GitHub-Konto an [](https://github.com/settings/developers).
+1. Erstellen oder melden Sie sich bei einem GitHub-Konto unter [](https://github.com/settings/developers) an.
 1. Registrieren Sie eine neue oder wählen Sie eine vorhandene App zur Verwendung mit Livefyre Identity.
-1. Geben Sie alle Informationen in das Formular ein. Geben Sie den **[!UICONTROL Authorization callback URL]** Namen anstelle des Netzwerknamens ein `{network-name}: {network-name}: https://identy.livefyre.com/{network-name}.fyre.co/api/v.1.0/public/profile/social/complete/github_fyre`.
+1. Geben Sie alle Informationen in das Formular ein. Geben Sie **[!UICONTROL Authorization callback URL]** unter Verwendung Ihres Netzwerknamens anstelle von `{network-name}: {network-name}: https://identy.livefyre.com/{network-name}.fyre.co/api/v.1.0/public/profile/social/complete/github_fyre` ein.
 
-1. Schalten Sie **[!UICONTROL Livefyre Integration Settings Livefyre Identity GitHub]** den **[!UICONTROL Enable GitHub Login]** Umschalter in **[!UICONTROL On]**.
+1. Wechseln Sie in **[!UICONTROL Livefyre Integration Settings Livefyre Identity GitHub]** den Umschalter **[!UICONTROL Enable GitHub Login]** zu **[!UICONTROL On]**.
 
 1. Geben Sie die GitHub-Client-ID und den geheimen GitHub-Client ein.
-1. Klicken Sie auf **[!UICONTROL Save Settings]**.
+1. Klicken **[!UICONTROL Save Settings]**.
 
-Nach Abschluss des Vorgangs werden auf der Seite mit den App-Details von GitHub Identity die Client-ID (Consumer Key) und der geheime Clientschlüssel (Consumer Secret) der App für die Verwendung auf der Seite "Integrationseinstellungen"von Studio aufgelistet.
+Nach Abschluss des Vorgangs wird auf der Seite mit den App-Details von GitHub Identity die Client-ID (Consumer key) und der geheime Clientschlüssel (Consumer secret) der App für die Verwendung auf der Seite &quot;Integrationseinstellungen&quot;von Studio Liste.
