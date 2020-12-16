@@ -7,11 +7,14 @@ title: Aggregierte spezielle Inhalte mit den speziellen APIs
 uuid: e9c9ff26-37b6-4328-af85-aa550e7ffdfd
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '243'
+ht-degree: 1%
 
 ---
 
 
-# Aggregierte spezielle Inhalte mit den speziellen APIs{#aggregated-featured-content-using-the-featured-apis}
+# Aggregierte spezielle Inhalte mithilfe der speziellen APIs{#aggregated-featured-content-using-the-featured-apis}
 
 Livefyre bietet vier spezielle APIs, mit denen Sie die 50 zuletzt hervorgehobenen Inhaltselemente für das Eingabenetzwerk, die Site oder die Sammlung oder die beiden Inhaltselemente, die oben in einer Eingabesammlung vorgestellt werden, abrufen können.
 
@@ -355,7 +358,7 @@ GET https://{networkName}.bootstrap.fyre.co/bs3/v3.1/{network}/{siteId}/{b64arti
 }
 ```
 
-## Vorgestellt (Head) {#section_n4b_lmw_xz}
+## Vorgestellt (Kopf) {#section_n4b_lmw_xz}
 
 Gibt die beiden zuletzt herausgegebenen Inhaltselemente für die Eingabesammlung zurück.
 
