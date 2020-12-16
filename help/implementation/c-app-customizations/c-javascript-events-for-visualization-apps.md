@@ -7,19 +7,22 @@ title: JavaScript-Ereignisse für Visualisierungs-Apps
 uuid: 0797c384-7e8e-44fc-9738-a10a48d490cc
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '554'
+ht-degree: 74%
 
 ---
 
 
-# JavaScript-Ereignisse für Visualisierungs-Apps{#javascript-events-for-visualization-apps}
+# JavaScript-Ereignis für Visualisierungs-Apps{#javascript-events-for-visualization-apps}
 
 Die verfügbaren Ereignisse, an die Sie JavaScript für Visualisierungs-Apps binden können (z. B. Media Wall).
 
-Die folgende Tabelle zeigt die App-Ereignisse für Visualisierungs-Apps. Ein X gibt an, dass das Ereignis für die App verfügbar ist, kein Hinweis, dass das Ereignis nicht für die App gilt, und keine Kennzeichnung bedeutet, dass das Ereignis für diese App nicht verfügbar ist:
+Die folgende Tabelle zeigt die App-Ereignis für Visualisierungs-Apps. Ein X bedeutet, dass das Ereignis für die App verfügbar ist, ein Hinweis darauf, dass das Ereignis nicht für die App gilt, und keine Kennzeichnung bedeutet, dass das Ereignis für diese App nicht verfügbar ist:
 
 ## Visualisierung von App-Ereignissen
 
-| Ereignis-  | Medienwall | Mosaik | Landkarte | Einzelne Karte | Karussell | Schaltfläche "Posten" | FilmStrip |
+| Ereignis-  | Medienwall | Mosaik | Landkarte | Einzelne Karte | Karussell | Schaltfläche &quot;Posten&quot; | FilmStrip |
 |---|---|---|---|---|---|---|---|
 | Init | X | X | X | X | X | X | X |
 | Load | X |  |  |  |  |  |  |
@@ -31,7 +34,7 @@ Die folgende Tabelle zeigt die App-Ereignisse für Visualisierungs-Apps. Ein X g
 | LF like | X |  | Keine | Keine | Keine | Keine | Keine |
 | LF Anders | X |  | Keine | Keine | Keine | Keine | Keine |
 | Auf Beitrag teilen | Keine |  | Keine | Keine | Keine | Keine | Keine |
-| Schaltfläche "Freigeben" | X | X |  | X | X | nicht angegeben | X |
+| Schaltfläche &quot;Freigeben&quot; | X | X |  | X | X | nicht angegeben | X |
 | Twitter teilen | X | X |  | X | X | nicht angegeben | X |
 | Facebook teilen | X | X |  | X | X | nicht angegeben | X |
 | URL freigeben | X | X |  | X | X | nicht angegeben | X |
