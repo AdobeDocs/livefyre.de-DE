@@ -6,11 +6,14 @@ title: Benutzerdefinierte Zeichenfolgen für Sidebar
 uuid: 73745273-d3fb-4569-8910-d149fb37a7b4
 translation-type: tm+mt
 source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
+workflow-type: tm+mt
+source-wordcount: '341'
+ht-degree: 11%
 
 ---
 
 
-# Benutzerdefinierte Zeichenfolgen für Sidebar{#sidenotes-custom-strings}
+# Seitenbezeichner Benutzerdefinierte Zeichenfolgen{#sidenotes-custom-strings}
 
 Benutzerdefinierte Zeichenfolgen werden über ein Objekt angewendet, das in den Siunterschiedlichsten Konstruktor eingefügt wird, und überschreiben Standardzeichenfolgen, die über die Anwendung verwendet werden. Diese können verwendet werden, um einen beliebigen Teil der Sprache an Ihre Stil- oder Sprachspezifikationen anzupassen. Strings werden automatisch mit den Standardeinstellungen zusammengeführt.
 
@@ -46,7 +49,7 @@ new Livefyre.Sidenotes({
 | errorDuplicate | Ihre Notiz gefällt uns ebenfalls, aber Sie können sie nicht zweimal posten. |
 | errorGeneral | Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut. |
 | errorServer | Etwas ist mit unserem Server schiefgelaufen. Versuch das noch einmal? |
-| facebookShareCaption | SideNotes zu "{title}" |
+| facebookShareCaption | SideNotes zu &quot;{title}&quot; |
 | menuAuthSignedInMsg | Sie müssen bei {action} angemeldet sein |
 | menuAuthSignInBtn | Anmelden |
 | menuBackBtn | Zurück |
@@ -81,8 +84,8 @@ new Livefyre.Sidenotes({
 | notificationGekennzeichnet | Gekennzeichnet |
 | permalinkBackBtn | Alle |
 | permalinkTitle | Permalink |
-| QuestionExplanation | Sie können Kommentare jetzt direkt zu Sätzen, Absätzen, Bildern und Anführungszeichen lesen und schreiben.<br><br>Markieren Sie Text und klicken Sie auf das Symbol "fycon-write"oder klicken Sie am Ende jedes Absatzes auf das Symbol "fycon-action-view". |
-| QuestionMockText | Was "vertraut" ist, ist nicht richtig bekannt, nur weil es "vertraut" ist. |
+| QuestionExplanation | Sie können Kommentare jetzt direkt zu Sätzen, Absätzen, Bildern und Anführungszeichen lesen und schreiben.<br><br>Markieren Sie den Text und klicken Sie auf das Symbol &quot;fycon-write&quot;oder klicken Sie am Ende jedes Absatzes auf das Symbol &quot;fycon-action-Ansicht&quot;. |
+| QuestionMockText | Was &quot;vertraut&quot; ist, ist nicht richtig bekannt, nur weil es &quot;vertraut&quot; ist. |
 | QuestionTitle | Was ist ein Sidenote? |
 | queuedCommentsPlural | {number} Neues Attribut |
 | queuedCommentsSingular | 1 Neuer Sidente |
