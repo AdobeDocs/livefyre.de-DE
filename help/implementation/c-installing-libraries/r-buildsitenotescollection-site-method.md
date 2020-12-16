@@ -7,6 +7,9 @@ title: buildSitenotesCollection-Site-Methode
 uuid: 2bfbc032-4c0c-48d2-8ce6-02460b38bd6c
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '119'
+ht-degree: 5%
 
 ---
 
