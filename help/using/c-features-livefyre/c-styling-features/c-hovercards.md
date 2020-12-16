@@ -6,6 +6,9 @@ title: Hovercards
 uuid: a7336a4d-b92f-4b3b-a3de-713aa388b58a
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '205'
+ht-degree: 0%
 
 ---
 
@@ -14,21 +17,21 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 Aktivieren oder deaktivieren Sie Benutzerhovercards auf Ihrer Site.
 
-Die Livefyre-Hovercard ist ein Popup, in dem eine schnelle Momentaufnahme der Benutzerinformationen angezeigt wird, einschließlich Anzeigename, Biografie, soziale Netzwerke, "Gefällt mir"-Klicks für Benutzer, Profilseite-URL und Link zum Anzeigen ihres vollständigen Profils. Hovercards sind für alle Livefyre-Streams verfügbar, einschließlich Kommentare, Live-Blog und Chat.
+Die Livefyre-Hovercard ist ein Popup, das eine schnelle Momentaufnahme der Benutzerinformationen wie Anzeigename, Biografie, soziale Netzwerke, &quot;Gefällt mir&quot;-Klicks, URL der Profil-Seite und Link zur Ansicht des vollständigen Profils anzeigt. Hovercards sind für alle Livefyre-Streams verfügbar, einschließlich Kommentare, Live-Blog und Chat.
 
 >[!NOTE]
 >
 >Hovercards können nur auf Netzwerkebene ein- oder ausgeschaltet werden und werden auf allen Sites in Ihrem benutzerdefinierten Netzwerk implementiert oder deaktiviert. Wenden Sie sich an Ihren Kundenbetreuer, wenn Sie möchten, dass die Hovercards für Ihr Netzwerk eingeschaltet werden.
 
-## Ansicht von Hovercards {#section_zjl_jtk_wy}
+## Anzeigen von Mauszeigern {#section_zjl_jtk_wy}
 
 Wenn Sie den Mauszeiger über den Avatar eines Benutzers bei Kommentaren, Live-Blog oder Chat bewegen, wird dessen Hovercard angezeigt.
 
-Durch Klicken auf **[!UICONTROL View Full Profile]** wird der Benutzer zur vollständigen Profilseite für diesen Benutzer geleitet.
+Wenn Sie auf **[!UICONTROL View Full Profile]** klicken, wird der Benutzer zur vollständigen Profil-Seite für diesen Benutzer geleitet.
 
 >[!NOTE]
 >
->Die Karten zeigen Informationen in Ihrem Benutzerprofilsystem an. Felder, die nicht in diesem System enthalten sind, werden nicht in den Hovercards angezeigt. Wenn Sie keine öffentlichen Profilseiten haben, wird keine Seite angezeigt. Wenn Sie die Hovercards für Ihr benutzerdefiniertes Netzwerk deaktivieren möchten, wenden Sie sich bitte an Ihren technischen Kundenbetreuer.
+>Die Karten zeigen Informationen in Ihrem User Profil-System an. Felder, die nicht in diesem System enthalten sind, werden nicht in den Hovercards angezeigt. Wenn Sie keine öffentlichen Profil-Seiten haben, wird keine Seite angezeigt. Wenn Sie die Hovercards für Ihr benutzerdefiniertes Netzwerk deaktivieren möchten, wenden Sie sich bitte an Ihren technischen Kundenbetreuer.
 
 
 
