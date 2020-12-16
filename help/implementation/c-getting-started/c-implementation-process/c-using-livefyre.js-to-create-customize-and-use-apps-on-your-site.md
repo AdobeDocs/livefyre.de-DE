@@ -5,21 +5,24 @@ title: Eine App einbetten
 uuid: e75caf0e-04ea-4b04-89ed-fea1183ecf63
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '235'
+ht-degree: 0%
 
 ---
 
 
-# Eine App einbetten{#embed-an-app}
+# Eine App{#embed-an-app} einbetten
 
-Fügen Sie Ihren Webseiten Livefyre-Apps mithilfe der Livefyre.js-Einbettungscodestruktur hinzu.
+hinzufügen Sie Livefyre-Apps mithilfe der Livefyre.js-Einbettungscode-Struktur auf Ihre Webseiten.
 
-Diese Dokumentation ist für eine technische Zielgruppe gedacht. Für [nicht-technische Informationen über Apps](/help/using/c-about-apps/c-about-apps.md).
+Diese Dokumentation ist für eine technische Audience gedacht. Für [nicht technische Informationen über Apps](/help/using/c-about-apps/c-about-apps.md).
 
 In diesem Abschnitt wird die Codestruktur beschrieben, die Sie in Ihre Seitenvorlage aufnehmen müssen, um Livefyre-Apps auf Ihrer Site einzubetten.
 
 1. Erstellen Sie eine HTML-Datei mit einem Livefyre-Platzhalter.
 
-   Erstellen Sie eine neue HTML-Datei im Texteditor Ihrer Wahl. Erstellen Sie ein Platzhalter-Livefyre- `<div>` Element, in das die App eingebettet wird.
+   Erstellen Sie eine neue HTML-Datei im Texteditor Ihrer Wahl. Erstellen Sie ein Platzhalter für das Element Livefyre `<div>`, in das die App eingebettet wird.
 
    ```
    <html> 
@@ -32,7 +35,7 @@ In diesem Abschnitt wird die Codestruktur beschrieben, die Sie in Ihre Seitenvor
 
 1. Schließen Sie die Bibliothek Livefyre.js ein.
 
-   Schließen Sie dann die Livefyre JS-Bibliothek ein. Fügen Sie den folgenden Verweis in ein `<script>` Element in Ihrem `<head>` Element ein. Öffnen Sie dann Ihre Seite in einem Browser und bestätigen Sie mit dem Webinspektor Ihres Browsers, dass Livefyre geladen wurde.
+   Schließen Sie dann die Livefyre JS-Bibliothek ein. Fügen Sie den folgenden Verweis in ein `<script>`-Element im `<head>`-Element ein. Öffnen Sie dann Ihre Seite in einem Browser und bestätigen Sie mit dem Webinspektor Ihres Browsers, dass Livefyre geladen wurde.
 
    ```
    <head> 
@@ -42,11 +45,11 @@ In diesem Abschnitt wird die Codestruktur beschrieben, die Sie in Ihre Seitenvor
 
 1. Erstellen Sie die Livefyre-App.
 
-   Verwenden Sie `Livefyre.require` zum Erstellen von Core- und SDK-Apps die Übergabe der Livefyre-Pakete, die Sie verwenden möchten.
+   Verwenden Sie `Livefyre.require`, um sowohl Core- als auch SDK-Apps zu erstellen, indem Sie die Livefyre-Pakete, die Sie verwenden möchten, übergeben.
 
    1. Erstellen Sie eine Core-App.
 
-      Verwenden Sie zum Erstellen einer Core-App (Kommentare, Live-Blog oder Chat) die folgende Struktur:
+      Um eine Core-App (Kommentare, Live-Blog oder Chat) zu erstellen, verwenden Sie die folgende Struktur:
 
       ```
       Livefyre.require(['fyre.conv#@{fyre_conv_version_prod}'], function(Conv) { 
@@ -56,7 +59,7 @@ In diesem Abschnitt wird die Codestruktur beschrieben, die Sie in Ihre Seitenvor
 
    1. Erstellen Sie eine SDK-App.
 
-      Verwenden Sie zum Erstellen einer SDK-App wie Media Wall oder Feed die folgende Struktur:
+      Verwenden Sie zum Erstellen einer SDK-App wie Media Pinnwand oder Feed die folgende Struktur:
 
       ```
              Livefyre.require(['app#{version_number}'], 
@@ -74,6 +77,6 @@ In diesem Abschnitt wird die Codestruktur beschrieben, die Sie in Ihre Seitenvor
       }); 
       ```
 
-      Siehe [weitere Informationen zu bestimmten Apps](/help/using/c-about-apps/c-about-apps.md). Es wird empfohlen, die neueste Hauptversion des Pakets zu veröffentlichen (die über [Livefyre.require](https://cdn.livefyre.com/packages.html)zu finden ist), um unerwartete fehlerhafte Integrationen zu vermeiden.
+      Siehe [weitere Informationen zu bestimmten Apps](/help/using/c-about-apps/c-about-apps.md). Es wird empfohlen, die neueste Hauptversion des Pakets zu veröffentlichen (die über [Livefyre.require](https://cdn.livefyre.com/packages.html) zu finden ist), um unerwartete fehlerhafte Integrationen zu vermeiden.
 
-Weiter: Fügen Sie Ihrer Site eine Authentifizierung hinzu, damit Ihre Benutzer Kommentare posten können.
+Weiter: hinzufügen Authentifizierung für Ihre Site, damit Ihre Benutzer Kommentare posten können.
