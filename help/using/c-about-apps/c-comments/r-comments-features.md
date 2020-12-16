@@ -7,6 +7,9 @@ title: Kommentarfunktionen
 uuid: ec00fcc9-1b5e-4d0b-b1da-95f9f26b4cc1
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '122'
+ht-degree: 7%
 
 ---
 
@@ -25,7 +28,7 @@ Die Kommentaranwendung enthält viele Funktionen, mit denen Sie Echtzeit-Konvers
 * [Benutzerdefinierte Textzeichenfolgen](/help/using/c-features-livefyre/c-custom-text-strings.md#c_custom_text_strings)
 * [Datum und Zeitstempel](/help/using/c-features-livefyre/c-styling-features/c-date-and-timestamp.md#c_date_and_timestamp)
 * [E-Mail-Benachrichtigungen](/help/using/c-features-livefyre/c-notifications-features/c-email-notifications.md#c_email_notifications)
-* [Embedly-Integration](/help/using/c-features-livefyre/c-content-collection-tags/c-embedly-integration.md#c_embedly_integration)
+* [Embedly-Integration ](/help/using/c-features-livefyre/c-content-collection-tags/c-embedly-integration.md#c_embedly_integration)
 * [Dargebotener Inhalt](/help/using/c-features-livefyre/c-content-collection-tags/c-featured-content.md#c_featured_content)
 * [Freundschaftsansichten](/help/using/c-features-livefyre/c-enagement-features.md#section_yw5_fdm_d1b)
 * [Nachbesprechungen](/help/using/c-features-livefyre/c-enagement-features.md#section_bw3_ndm_d1b)
