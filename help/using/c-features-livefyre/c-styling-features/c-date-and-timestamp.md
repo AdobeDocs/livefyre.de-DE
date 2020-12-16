@@ -6,6 +6,9 @@ title: Datum und Zeitstempel
 uuid: 3022059f-cfdc-4e13-aa3d-7537875ef431
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '113'
+ht-degree: 3%
 
 ---
 
@@ -16,7 +19,7 @@ Sie können das Datum- und Uhrzeitstempelformat an Ihre Anforderungen anpassen.
 
 Standardmäßig zeigen Livefyre-Apps einen relativen Zeitstempel für Beiträge zum Stream an (vor 4 Minuten, vor 5 Stunden, vor 8 Tagen, vor 2 Monaten).
 
-Sie können den angezeigten Zeitstempel mithilfe der Datums- und Zeitstempelanpassung anpassen, sodass Sie aus einer Liste der verfügbaren Formate auswählen können. Weitere Informationen finden Sie unter [Datum und Zeitstempel](/help/using/c-features-livefyre/c-styling-features/c-date-and-timestamp.md)
+Sie können den angezeigten Zeitstempel mithilfe der Datums- und Zeitstempelanpassung anpassen, sodass Sie aus einer Liste verfügbarer Formate auswählen können. Weitere Informationen finden Sie unter [Datum und Zeitstempel](/help/using/c-features-livefyre/c-styling-features/c-date-and-timestamp.md)
 
 Apps, die diese Funktion verwenden:
 
