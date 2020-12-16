@@ -7,6 +7,9 @@ title: Anwenden benutzerdefinierter Stile
 uuid: 0556aa2f-4fcd-4bde-abb5-479ec682f573
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '286'
+ht-degree: 0%
 
 ---
 
@@ -21,12 +24,12 @@ Beim Konvertieren von Benutzer-Tags in CSS-Klassen:
 
 * Livefyre erstellt zwei Klassen: fyre-author-tag-****** und fyre-tag-author-*****. Beides kann zum Formatieren des Inhalts verwendet werden.
 
-* Alle im Tag enthaltenen Leerzeichen werden in Unterstriche umgewandelt. Beispiel: "Favoritenbenutzer"wird zu "favorite_user".
-* In Gruppennamen enthaltene Unicode-Zeichen werden nicht konvertiert und in den Klassennamen als Unicode angezeigt. Beispiel: Die Benutzergruppe "modérateur"wird fyre-comment-author-tag-modérateur.
+* Alle im Tag enthaltenen Leerzeichen werden in Unterstriche umgewandelt. Beispiel: &quot;Favoritenbenutzer&quot;wird zu &quot;favorite_user&quot;.
+* In Gruppennamen enthaltene Unicode-Zeichen werden nicht konvertiert und in den Klassennamen als Unicode angezeigt. Beispiel: Die Benutzergruppe &quot;modérateur&quot;wird fyre-comment-author-tag-modérateur.
 
 Nachdem Sie Ihre Benutzergruppen erstellt haben, verwenden Sie die CSS-Klassen von Livefyre, um benutzerdefinierte Stile für den Inhalt anzuwenden.
 
-## Stilinhalte für Moderatoren (und Inhaber) {#section_vjv_2cv_xz}
+## Stilinhalt für Moderatoren (und Inhaber) {#section_vjv_2cv_xz}
 
 * Verwenden Sie die CSS-Klasse .fyre-moderator.
 
@@ -68,7 +71,7 @@ Erstellen Sie eine CSS-Regel, um eine Markierung für die Gruppe anzuzeigen oder
 }
 ```
 
-Verwenden Sie die CSS-Klasse fyre-author-tag-***** oder fyre-tag-author-****&lt;Ihre_Gruppe&gt;*****, um die Schriftart und den Hintergrund für jedes Element zu gestalten, das von einem Konto veröffentlicht wird, das mit dem ausgewählten Tag verknüpft ist.
+Verwenden Sie die CSS-Klasse fyre-author-tag-***** oder fyre-tag-author-****&lt;Ihre_Gruppe>*****, um die Schriftart und den Hintergrund für jedes Element zu gestalten, das von einem Konto veröffentlicht wird, das mit dem ausgewählten Tag verknüpft ist.
 
 ```
 .fyre-comment-author-tag-<your_group> .fyre-comment-author-tag { 
