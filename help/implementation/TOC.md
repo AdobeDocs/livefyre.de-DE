@@ -23,7 +23,7 @@ ht-degree: 4%
       + [Implementieren von Livefyre mit Integration von Drittanbietern](c-app-integrations/implement-livefyre-3rd-party.md)
       + [Architektur](c-getting-started/c-implementation-process/c-architecture.md)
       + [Eine App einbetten](c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md)
-      + [Hinzufügen einer App mithilfe von Livefyre.js](c-getting-started/c-implementation-process/c-add-authetication-to-an-app-using-livefyre.js.md)
+      + [hinzufügen einer App mithilfe von Livefyre.js](c-getting-started/c-implementation-process/c-add-authetication-to-an-app-using-livefyre.js.md)
       + [Serverseitige Tokens erstellen](c-getting-started/c-implementation-process/c-build-server-side-tokens.md)
       + [CollectionMeta-Token](c-getting-started/c-implementation-process/c-collectionmeta-tokent.md)
       + [Auth-Token des Benutzers](c-getting-started/c-implementation-process/c-user-auth-token.md)
@@ -34,7 +34,7 @@ ht-degree: 4%
    + [Authentifizierungspaket](t-about-identity-integration/c-authorization-package.md)
    + [AuthDelegate-Objekt](t-about-identity-integration/c-building-an-auth-delegate.md)
    + [Veröffentlichen von Benutzerberechtigungen auf externen Systemen (optional)](t-about-identity-integration/c-posting-user-permissions-to-external-systems.md)
-   + Einführung der einmaligen Anmeldung {#implementing-sso}
+   + Implementierung von SSO {#implementing-sso}
       + [Implementierung der SSO](t-about-identity-integration/c-implementing-sso/c-implementing-sso.md)
       + [Debuggen des Auth-Delegates](t-about-identity-integration/c-implementing-sso/c-debugging-auth.md)
    + Synchronisieren mit Livefyre {#sync-ping-for-pull}
@@ -47,16 +47,16 @@ ht-degree: 4%
 + Livefyre-Identität {#livefyre-identity}
    + [Livefyre-Identität](c-livefyre-identity-comp/c-livefyre-identity-comp.md)
    + [Livefyre-Identität aktivieren](c-livefyre-identity-comp/t-enable-livefyre-identity.md)
-   + Social-Apps mit Livefyre-Identität verwenden {#use-social-apps-with-livefyre-identity}
+   + Social-Apps mit Livefyre-Identität {#use-social-apps-with-livefyre-identity} verwenden
       + [Social-Apps erstellen](c-livefyre-identity-comp/t-create-your-social-apps.md)
       + [Facebook-App zur Verwendung mit Livefyre-Identität erstellen](c-livefyre-identity-comp/t-create-a-facebook-app-for-use-with-livefyre-identity.md)
       + [Erstellen einer Twitter-App zur Verwendung mit einer Livefyre-Identität](c-livefyre-identity-comp/t-create-a-twitter-app-for-use-with-livefyre-identity.md)
-      + [Erstellen Sie ein Yahoo! App für die Verwendung mit Livefyre-Identität](c-livefyre-identity-comp/t-create-a-yahoo-app-for-use-with-livefyre-identity.md)
+      + [Erstellen Sie ein Yahoo! App zur Verwendung mit Livefyre-Identität](c-livefyre-identity-comp/t-create-a-yahoo-app-for-use-with-livefyre-identity.md)
       + [Erstellen einer Microsoft Live-Identitäts-App zur Verwendung mit Livefyre-Identität](c-livefyre-identity-comp/t-create-a-microsoft-live-id-app-for-use-with-livefyre-identity.md)
       + [Erstellen einer LinkedIn-App zur Verwendung mit Livefyre-Identität](c-livefyre-identity-comp/t-create-a-linkedin-app-for-use-with-livefyre-identity.md)
       + [Erstellen einer GitHub-Identitätsanwendung zur Verwendung mit Livefyre-Identität](c-livefyre-identity-comp/c-create-a-github-identity.md)
       + [Verwenden von Studio zum Verbinden Ihrer Social-Apps mit Ihrer Livefyre-Implementierung](c-livefyre-identity-comp/t-using-studio-to-connect-your-social-apps-to-your-livefyre-implementation.md)
-   + [Hinzufügen von Livefyre.js zur Seite](c-livefyre-identity-comp/t-add-livefyre.js-to-the-page.md)
+   + [hinzufügen von Livefyre.js zur Seite](c-livefyre-identity-comp/t-add-livefyre.js-to-the-page.md)
    + [Livefyre-Identität initialisieren](c-livefyre-identity-comp/t-initialize-livefyre-identity.md)
    + [E-Mails für Livefyre-Identität](c-livefyre-identity-comp/c-emails-for-livefyre-identity.md)
    + [Janrain Capture/Backplane](c-livefyre-identity-comp/c-janrain-capture-backplane-comp.md)
@@ -104,7 +104,7 @@ ht-degree: 4%
       + [Kommentare](c-app-integrations/c-comments-integration/c-comments-integration.md)
    + [Live-Blog](c-app-integrations/c-live-blog-integration.md)
    + [Reviews](c-app-integrations/c-reviews-integration.md)
-   + Sir {#sidenotes}
+   + Sibezeichnet {#sidenotes}
       + [Integration von Sizilien](c-app-integrations/c-sidenotes-integration/r-sidenotes-integration.md)
       + [Hinzufügen von Sidemarken zu einer Seite](c-app-integrations/c-sidenotes-integration/r-adding-sidenotes-to-a-page.md)
       + [Sizilien-App-Ereignis](c-app-integrations/c-sidenotes-integration/r-app-events.md)
@@ -137,13 +137,13 @@ ht-degree: 4%
       + [Feature APIs](c-app-customizations/c-feature-apis.md)
    + [Verbinden von Janrain mit Livefyre mithilfe von AuthDelegate](c-app-customizations/c-connecting-janrain-to-livefyre-using-authdelegate.md)
    + [Aggregierte spezielle Inhalte mit den speziellen APIs](c-app-customizations/c-aggregated-featured-content-using-the-featured-apis.md)
-   + Inhalt formatieren {#style-content}
+   + Style Content {#style-content}
       + [Inhalt der Benutzergruppe formatieren](c-app-customizations/c-style-user-group-content.md)
       + [Hinzufügen von Benutzern zu Gruppen](c-app-customizations/c-adding-users-to-groups.md)
    + Benutzerdefinierte Stile anwenden {#apply-custom-styles}
       + [Anwenden benutzerdefinierter Stile](c-app-customizations/c-applying-custom-styles-.md)
-      + [Hinzufügen benutzerdefinierter Schaltflächen](c-app-customizations/t-add-custom-buttons.md)
-   + JavaScript-Ereignisse {#javascript-events}
+      + [hinzufügen benutzerdefinierter Schaltflächen](c-app-customizations/t-add-custom-buttons.md)
+   + JavaScript-Ereignis {#javascript-events}
       + [JavaScript-Ereignisse - Definitionen und Beispiele](c-app-customizations/c-javascript-events.md)
       + [JavaScript-Ereignisse für Visualisierungs-Apps](c-app-customizations/c-javascript-events-for-visualization-apps.md)
       + [JavaScript-Ereignisse für Media Wall](c-app-customizations/c-javascript-events-media-wall.md)
@@ -155,12 +155,12 @@ ht-degree: 4%
 + [Stresstest-Richtlinie](c-stress-test-policy.md)
 + Analytics {#analytics}
    + [Analytics](livefyre-analytics/livefyre-analytics.md)
-   + [Verwenden von Livefyre mit Adobe Analytics und dem dynamischen Tag-Manager (DTM)](livefyre-analytics/c-use-livefyre-with-adobe-analytics.md)
+   + [Verwenden von Livefyre mit Adobe Analytics und Dynamischem Tag-Manager (DTM)](livefyre-analytics/c-use-livefyre-with-adobe-analytics.md)
    + [Verwenden von Livefyre mit anderen Analysetools](livefyre-analytics/c-livefyre-analytics.md)
    + [Livefyre Analytics-Ereignis](livefyre-analytics/c-livefyre-analytics-events.md)
 + [Integration von Livefyre mit AEM](c-livefyre-aem-integration.md)
 + Erweiterte Themen {#advanced-topics}
-   + [Anzahl angezeigter Kommentare](c-advanced-topics/t-display-comment-count.md)
+   + [Anzahl der Kommentare anzeigen](c-advanced-topics/t-display-comment-count.md)
    + [Social Sharing aktivieren](c-advanced-topics/c-enabling-social-sharing.md)
    + [Aktivitäten-Stream](c-advanced-topics/c-activity-stream.md)
    + [Bootstrap-HTML](c-advanced-topics/c-bootstrap-html.md)
