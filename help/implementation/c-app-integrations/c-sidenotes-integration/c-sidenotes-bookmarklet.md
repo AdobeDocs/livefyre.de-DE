@@ -6,11 +6,14 @@ title: Si7 Bookmarklet
 uuid: b6f6263e-85b1-4e49-ba3c-7f12746a4f59
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '77'
+ht-degree: 0%
 
 ---
 
 
-# Si7 Bookmarklet{#sidenotes-bookmarklet}
+# Siegels Bookmarklet{#sidenotes-bookmarklet}
 
 Sidebar kann auf (fast) jede vorhandene Seite geladen werden.
 
