@@ -7,6 +7,9 @@ title: Sammlung ändern
 uuid: 81c8a554-375f-4659-9e25-5b3618824633
 translation-type: tm+mt
 source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
+workflow-type: tm+mt
+source-wordcount: '128'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +22,7 @@ Verwenden Sie den Delegaten zum Ändern der Sammlung, um die auf einer Seite ang
 
 Wenn Sie beispielsweise auf ein Video oder Foto in einer Galerie klicken, wird eine für diese Auswahl spezifische Sammlung geladen, während sich die URL der Seite nicht ändert.
 
-So [laden Sie eine von drei Sammlungen von einer Seite](../c-advanced-topics/t-display-comment-count.md#t_display_comment_count):
+So laden Sie eine von drei Sammlungen von einer einzelnen Seite[:](../c-advanced-topics/t-display-comment-count.md#t_display_comment_count)
 
 ```
 <html> 
