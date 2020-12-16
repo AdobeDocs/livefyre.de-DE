@@ -7,6 +7,9 @@ title: App-Anpassungen
 uuid: 6f27654d-c2b4-45b5-aae7-6fbf312fb829
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '171'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +20,7 @@ Passen Sie die App-Anzeigeoptionen an Ihren Branding- und Stil an und fügen Sie
 
 Verfügbar für Chat, Kommentare, Live-Blog, Reviews und Siegels.
 
-Livefyre bietet verschiedene Möglichkeiten, die Interaktions- und Anzeigeoptionen Ihrer Apps an Ihren Stil anzupassen und die Zielgruppe einzubinden.
+Livefyre-Angebot bieten verschiedene Möglichkeiten, die Interaktions- und Anzeigeoptionen Ihrer Apps an Ihren Stil anzupassen und Ihre Audience zu beeinflussen.
 
 >[!NOTE]
 >
@@ -31,11 +34,11 @@ Livefyre bietet verschiedene Möglichkeiten, die Interaktions- und Anzeigeoption
 
    Verwenden Sie die Formatierung, um ausgewählte Inhalte oder Benutzergruppen hervorzuheben und zu bewerben.
 
-* **Benutzerdefinierte Schaltflächen hinzufügen**
+* **hinzufügen benutzerdefinierter Schaltflächen**
 
    Auslösen benutzerdefinierter Aktionen, wenn Benutzer mit Ihrer Livefyre-App interagieren.
 
 * **Anzeigen von App-Ereignissen**
 
-   Verwenden Sie verfügbare JavaScript-Ereignisse, um Ihre Benutzererfahrung weiter anzupassen und zu verfolgen.
+   Verwenden Sie verfügbare JavaScript-Ereignis, um Ihre Benutzererfahrung weiter anzupassen und zu verfolgen.
 
