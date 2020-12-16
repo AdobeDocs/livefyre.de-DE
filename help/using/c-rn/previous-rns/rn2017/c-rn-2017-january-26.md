@@ -13,7 +13,7 @@ ht-degree: 8%
 ---
 
 
-# January 26, 2017{#january}
+# 26. Januar 2017{#january}
 
 Versionshinweise für die Version vom 26. Januar 2017.
 
