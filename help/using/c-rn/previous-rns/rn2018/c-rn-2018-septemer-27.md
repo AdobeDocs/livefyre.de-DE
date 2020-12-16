@@ -4,9 +4,12 @@ seo-description: Versionshinweise für die Version vom 27. September 2018.
 seo-title: 27. September 2018
 solution: Experience Manager
 title: 27. September 2018
-uuid: 8d3b01fe-6d1f-4123-aaf-3009e7c6599f
+uuid: 8d3b01fe-6d1f-4123-aaaf-3009e7c6599f
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+workflow-type: tm+mt
+source-wordcount: '300'
+ht-degree: 7%
 
 ---
 
@@ -32,7 +35,7 @@ Die Probleme in den folgenden Tabellen wurden in der Produktionsversion dieser V
 | Fehler | Kommentare | Es wurde ein Problem behoben, bei dem Kommentare in einem Mobile-Browser nicht wie erwartet funktionierten. |
 | Fehler | Medienwall | Es wurde ein Problem behoben, bei dem Bilder und Text nicht wie erwartet über ein Stream-Hashtag auf einer Medienwand veröffentlicht wurden. |
 | Fehler | Medienwall | Es wurde ein Problem behoben, durch das hochgeladene Videos auf einer Medienmanagerseite nicht wiedergegeben werden konnten, obwohl sie in der Asset-Bibliothek abspielbar waren. |
-| Fehler | Storify | Es wurde ein Problem behoben, bei dem "Gefällt mir"-Klicks für Storify 2 auf sicheren Domänen nicht funktionierten. |
+| Fehler | Storify | Es wurde ein Problem behoben, bei dem &quot;Gefällt mir&quot;-Klicks für Storify 2 auf sicheren Domänen nicht funktionierten. |
 | Fehler | Streams | Es wurde ein Problem behoben, bei dem keine standardmäßigen NSFW-Filter hinzugefügt wurden, wenn die NSFW-Filterfunktion deaktiviert und die standardmäßigen NSFW-Filter hinzugefügt wurden, wenn die NSFW-Funktion aktiviert wurde. |
 | Geschichte | Streams | Folgende Aktualisierungen für Facebook-Seitenstreams wurden vorgenommen:  </br><ul><li>Die Zeit, die Apps schlafen, nachdem sie die API-Rate von einer Minute auf eine Stunde begrenzt haben, wurde verlängert. </li><li>Die Zeit, die Seiten und Beiträge zur Verarbeitung gesendet werden, wurde von 10 Minuten auf eine Stunde verlängert.</li></ul> |
 
