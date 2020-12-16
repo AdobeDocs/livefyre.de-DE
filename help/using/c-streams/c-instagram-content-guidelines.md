@@ -14,11 +14,11 @@ ht-degree: 0%
 ---
 
 
-# Richtlinien für Instagram-Inhalte{#instagram-content-guidelines}
+# Inhaltsrichtlinien für Instagram{#instagram-content-guidelines}
 
 Beim Kuratieren von Inhalten aus Instagram müssen Sie die Richtlinien und Best Practices befolgen.
 
-Sie müssen ein *Instagram-Geschäftskonto* konfigurieren, um Instagram-Streams von einem anderen bestimmten Instagram-Geschäftskonto aus mithilfe des **[!UICONTROL By Author]** Felds zu erstellen. Das Benutzerkonto, das Sie im **[!UICONTROL By Author]** Feld angeben, muss ein Geschäftskonto sein.
+Sie müssen ein *Instagram-Geschäftskonto* konfigurieren, um Instagram-Streams von einem anderen bestimmten Instagram-Geschäftskonto aus zu erstellen, indem Sie das Feld **[!UICONTROL By Author]** verwenden. Das Benutzerkonto, das Sie im Feld **[!UICONTROL By Author]** angeben, muss ein Geschäftskonto sein.
 
 Weitere Informationen zum Einrichten eines Instagram-Geschäftskontos in Livefyre finden Sie unter [Info zu Instagram-Konten](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts).
 
