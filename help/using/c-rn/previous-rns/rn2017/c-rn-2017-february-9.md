@@ -13,7 +13,7 @@ ht-degree: 5%
 ---
 
 
-# February 9, 2017{#february}
+# 9. Februar 2017{#february}
 
 Versionshinweise für die Version vom 9. Februar 2017.
 
@@ -30,7 +30,7 @@ SocialSync für Twitter gehört seit mehreren Jahren zu unseren Kernfunktionen. 
 | Fehler | Mosaik | Mosaic wurde zusätzliche Barrierefreiheitsunterstützung hinzugefügt, damit Benutzer die Registerkarte zwischen Inhaltskarten wechseln können. |
 | Fehler | Reviews | Es wurde ein Fehler behoben, der verhinderte, dass Rating-Bearbeitungen korrekt angezeigt wurden. |
 | Fehler | Social-Suche | Es wurde ein Fehler behoben, der dazu führte, dass die Schaltfläche Mehr anzeigen in den Suchergebnissen der Twitter-Liste abgeschnitten wurde. |
-| Verbesserung | Storify 2 | Erweiterter Storify 2, um die Suche nach kostenlosen Inhalten zu unterstützen. Kopieren Sie die kostenlose Suche über Flickr, Noun Project, Kuler, Pixabay und Unsplash nach kopierbaren Bildern. |
+| Verbesserung | Storify 2 | Erweiterter Storify 2, um die Suche nach kostenlosen Inhalten zu unterstützen. Kopieren Sie die kostenlose Suche über Flickr, Noun Project, Kuler, Pixabay und Unsplash nach kostenlosen Bildern. |
 | Fehler | Streams | Es wurde ein Fehler behoben, durch den Tumblr-Stream-Regeln nicht gespeichert werden konnten. |
 | Fehler | Streams | Es wurde ein Fehler behoben, der zu falschen Generator-IDs im Collection-JSON für RSS-Feeds führte. |
 | Verbesserung | Streams | Die Einstellung der Option &quot;Nur verifizierte Konten&quot;wurde entsprechend angepasst und ist standardmäßig deaktiviert. |
@@ -45,7 +45,7 @@ SocialSync für Twitter gehört seit mehreren Jahren zu unseren Kernfunktionen. 
 | Fehler | Mosaik | Es wurde ein Fehler behoben, durch den jetzt alle Twitter-Bilder über HTTPS bereitgestellt werden. |
 | Fehler | Social-Suche | Es wurde ein Fehler behoben, der dazu führte, dass das grüne Häkchen &quot;gespeichert&quot;beim Speichern von Assets in der Social-Suche und beim Anzeigen von Assets in der Bibliothek nicht angezeigt wurde. |
 | Fehler | Social-Suche | Es wurde ein Fehler behoben, durch den die Option &quot;Explizite Bilder konfigurieren&quot;nicht ordnungsgemäß funktionierte. |
-| Verbesserung | Storify 2 | Erweiterter Storify 2, um Permalinks zu unterstützen, die ein modales Öffnen unterstützen (zuvor scrollte die App zur Position des Beitrags auf der Seite). In Storify 2&#39;s Designer haben wir eine Konfiguration hinzugefügt, um zwischen Scroll- und Modal Permalink-Verhalten umzuschalten. Modales Permalink-Verhalten ist das Standardverhalten. |
+| Verbesserung | Storify 2 | Erweiterter Storify 2, um Permalinks zu unterstützen, die ein modales Öffnen unterstützen (zuvor scrollte die App zur Position des Beitrags auf der Seite). In Storify 2&#39;s Designer haben wir eine Konfiguration hinzugefügt, um zwischen Scroll- und Modal-Permalink-Verhalten umzuschalten. Modales Permalink-Verhalten ist das Standardverhalten. |
 | Verbesserung | Storify 2 | Die Storify 2-Google AMP-Integration wurde erweitert, um eine kleinere CSS-Datei zu erstellen. |
 | Fehler | Streams | Verbesserter Inhalt (Bilder und Videos) aus E-Mail-Stream-Regeln, der über HTTPS verfügbar ist. |
 | Fehler | Streams | Es wurde eine Beschriftung für den Wert &quot;Mile Radius&quot;in Maps in Twitter-Stream-Regeln hinzugefügt. |
