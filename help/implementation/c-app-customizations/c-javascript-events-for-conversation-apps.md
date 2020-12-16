@@ -1,25 +1,28 @@
 ---
 description: Die verfügbaren Ereignisse, an die Sie JavaScript für Konversations-Apps binden können (z. B. Kommentare, Chat, Live-Blog, Bewertungen und Anmerkungen).
 seo-description: Die verfügbaren Ereignisse, an die Sie JavaScript für Konversations-Apps binden können (z. B. Kommentare, Chat, Live-Blog, Bewertungen und Anmerkungen).
-seo-title: JavaScript-Ereignisse für Konvertierungs-Apps
+seo-title: JavaScript-Ereignis für Konvertierungs-Apps
 solution: Experience Manager
-title: JavaScript-Ereignisse für Konvertierungs-Apps
+title: JavaScript-Ereignis für Konvertierungs-Apps
 uuid: cce112b5-7c3a-4721-9854-fc8471f3d5d0
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '542'
+ht-degree: 73%
 
 ---
 
 
-# JavaScript-Ereignisse für Konvertierungs-Apps{#javascript-events-for-conversation-apps}
+# JavaScript-Ereignis für Konvertierungs-Apps{#javascript-events-for-conversation-apps}
 
 Die verfügbaren Ereignisse, an die Sie JavaScript für Konversations-Apps binden können (z. B. Kommentare, Chat, Live-Blog, Bewertungen und Anmerkungen).
 
-## Tabelle mit Konvertierungs-Apps und Ereignissen {#section_y4j_x4m_ybb}
+## Tabelle mit Konvertierungs-Apps und -Ereignissen{#section_y4j_x4m_ybb}
 
-Im Folgenden finden Sie eine Matrix der Ereignisse, die für Konversations-Apps verfügbar sind. Ein X gibt an, dass das Ereignis für die App verfügbar ist, kein Hinweis, dass das Ereignis nicht für die App gilt, und keine Kennzeichnung bedeutet, dass das Ereignis für diese App nicht verfügbar ist:
+Im Folgenden finden Sie eine Matrix der für Konversations-Apps verfügbaren Ereignis. Ein X bedeutet, dass das Ereignis für die App verfügbar ist, ein Hinweis darauf, dass das Ereignis nicht für die App gilt, und keine Kennzeichnung bedeutet, dass das Ereignis für diese App nicht verfügbar ist:
 
-### Konversations-App-Ereignisse
+### Ereignisse zur Konvertierungsanwendung
 
 | Ereignis-  | Kommentare | Chat | Liveblog | Reviews | Sir | Umfragen | Trends |
 |---|---|---|---|---|---|---|---|
@@ -33,7 +36,7 @@ Im Folgenden finden Sie eine Matrix der Ereignisse, die für Konversations-Apps 
 | LF like | X | X | X | X | Keine | Keine | Keine |
 | LF Anders | X | X | X | X | Keine | Keine | Keine |
 | Auf Beitrag teilen | X | X |  | X | Keine | Keine | Keine |
-| Schaltfläche "Freigeben" | X | X | X | X |  | Keine | Keine |
+| Schaltfläche &quot;Freigeben&quot; | X | X | X | X |  | Keine | Keine |
 | Twitter teilen | X | X | X | X | X | Keine | Keine |
 | Facebook teilen | X | X | X | X | X | Keine | Keine |
 | URL freigeben | X | X | X | X |  | Keine | Keine |
