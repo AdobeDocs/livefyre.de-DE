@@ -7,6 +7,9 @@ title: Chat
 uuid: 1da65e9a-736c-46d3-87e1-371b77f94661
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '97'
+ht-degree: 3%
 
 ---
 
@@ -15,9 +18,9 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Aktivieren Sie Echtzeit-Chat auf Ihren Sites.
 
-Mit dem Chat können Zielgruppen in Echtzeit über Live-Veranstaltungen, Ankündigungen oder Shows sprechen. Inhalte werden als kontinuierlicher Stream von nicht-Thread-Chats angezeigt, um eine schnelle Interaktion und Aktivitätsbelebung auf der Seite zu ermöglichen.
+Chat ermöglicht es Audiencen, sich in Echtzeit über Live-Ereignisse, Ankündigungen oder Shows zu unterhalten. Der Inhalt wird als fortlaufender Stream von nicht-thread-Chat angezeigt, um eine schnelle Interaktion zu ermöglichen und die Aktivität auf der Seite zu beleben.
 
-Fox News nutzte den Chat, um die Meinung und Reflexion des Publikums über die Wahl von Papst Bergoglio zu erfassen. Da Fox News weiß, dass es eine Welle relevanter und aktiver Teilnahme geben würde, hat sie innerhalb von Minuten nach der Ankündigung einen Chat gestartet, um eine sofortige Unterhaltung zu schaffen.
+Fox News nutzte Chat, um Meinungen und Reflexion über die Audience zur Wahl von Papst Bergoglio zu erfassen. Da Fox News weiß, dass es eine Welle relevanter und aktiver Teilnahme geben würde, hat sie innerhalb von Minuten nach der Ankündigung einen Chat gestartet, um eine sofortige Unterhaltung zu schaffen.
 
 ![](assets/chat_example.png)
 
