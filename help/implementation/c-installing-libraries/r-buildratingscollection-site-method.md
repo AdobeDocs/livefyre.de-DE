@@ -6,6 +6,9 @@ title: buildRatingsCollection-Site-Methode
 uuid: 5eea2ba3-48e1-4cd2-aa73-ea81788af1df
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '119'
+ht-degree: 5%
 
 ---
 
