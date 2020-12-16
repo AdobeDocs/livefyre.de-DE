@@ -1,23 +1,26 @@
 ---
-description: Verwenden Sie JavaScript-Ereignisse, um auf Ereignisse zu warten, die in einer Medienmanschette auftreten, und diese an das Analysetool Ihrer Wahl zu senden.
-seo-description: Verwenden Sie JavaScript-Ereignisse, um auf Ereignisse zu warten, die in einer Medienmanschette auftreten, und diese an das Analysetool Ihrer Wahl zu senden.
-seo-title: JavaScript-Ereignisse für Medienwall
+description: Verwenden Sie JavaScript-Ereignis, um auf Ereignis zu warten, die in einer Medienmanschette auftreten, und diese an das Analysetool Ihrer Wahl zu senden.
+seo-description: Verwenden Sie JavaScript-Ereignis, um auf Ereignis zu warten, die in einer Medienmanschette auftreten, und diese an das Analysetool Ihrer Wahl zu senden.
+seo-title: JavaScript-Ereignisse für Media Wall
 solution: Experience Manager
-title: JavaScript-Ereignisse für Medienwall
+title: JavaScript-Ereignisse für Media Wall
 uuid: 8afc0529-4640-476a-b207-91b2c70101f0
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '315'
+ht-degree: 0%
 
 ---
 
 
-# JavaScript-Ereignisse für Medienwall{#javascript-events-for-media-wall}
+# JavaScript-Ereignis für Media Wall{#javascript-events-for-media-wall}
 
-Verwenden Sie JavaScript-Ereignisse, um auf Ereignisse zu warten, die in einer Medienmanschette auftreten, und diese an das Analysetool Ihrer Wahl zu senden.
+Verwenden Sie JavaScript-Ereignis, um auf Ereignis zu warten, die in einer Medienmanschette auftreten, und diese an das Analysetool Ihrer Wahl zu senden.
 
-Livefyre bietet JavaScript-Ereignisse zur Verfolgung von Benutzeraktivitäten in Ihren Livefyre-Apps. Beispielsweise können Sie die Seite aktualisieren, wenn Benutzer Inhalte auf Twitter oder Facebook teilen oder wenn neue Inhalte veröffentlicht werden.
+Livefyre bietet JavaScript-Ereignisse zur Verfolgung der Aktivität von Benutzern in Ihren Livefyre-Apps. Beispielsweise können Sie die Seite aktualisieren, wenn Benutzer Inhalte auf Twitter oder Facebook teilen oder wenn neue Inhalte veröffentlicht werden.
 
-Hier ist ein Beispiel, wie die Ereignisse empfangen werden. Ersetzen Sie `console.log` durch Ihren Code, um das Ereignis Ihrer Analytics-Integration zuzuordnen und zu senden (dynamisches Tag-Management, Adobe Analytics JS, Google Analytics usw.):
+Hier ist ein Beispiel, wie man die Ereignis erhält. Ersetzen Sie `console.log` durch Ihren Code, um das Ereignis Ihrer Analytics-Integration (dynamisches Tag-Management, Adobe Analytics JS, Google Analytics usw.) zuzuordnen und zu senden:
 
 ```
 document.body.addEventListener('insights', function (data) { 
@@ -25,22 +28,22 @@ document.body.addEventListener('insights', function (data) {
 });
 ```
 
-Liste der unterstützten Media Wall-Ereignisse:
+Liste unterstützter Media Wall-Ereignis:
 
-## Medienwall-Ereignisse
+## Media Wall-Ereignisse
 
 | Ereignis | Definition |
 |---|---|
 | `Init` | Wenn eine Medienwall auf einer Seite enthalten ist. |
 | `Load` | Wenn die Medienmanagerseite unabhängig von der Position auf einer Seite geladen wurde. |
-| `PostButtonClick` | Wenn ein Benutzer auf eine Schaltfläche "Hochladen"auf einer Medienplatine klickt. |
+| `PostButtonClick` | Wenn ein Benutzer auf eine Schaltfläche &quot;Hochladen&quot;auf einer Medienplatine klickt. |
 | `RequestMore` | Wenn der Benutzer mehr Inhalte in eine Medienmanagerei lädt. |
-| `TwitterReplyClick` | Wenn ein Benutzer auf die Schaltfläche "Twitter-Antwort"von der Medienmanagerfläche klickt. |
-| `TwitterRetweetClick` | Wenn ein Benutzer auf die Schaltfläche "Twitter-Retweet"von der Medienkonsole klickt. |
-| `TwitterLikeClick` | Wenn ein Benutzer auf die Schaltfläche "Gefällt mir"-Klicks/Favoriten in Twitter von der Medienkonsole aus klickt. |
-| `ModalView` | Wenn der Benutzer klickt, um Media Pinnwand-Inhalte in einem größeren modalen Fenster anzuzeigen. |
-| `Like` | Wenn ein Benutzer auf der Medienmanagerseite auf die Schaltfläche "Gefällt mir"klickt. |
-| `ShareButtonClick` | Jedes Mal, wenn ein Benutzer auf die Schaltfläche "Freigeben"auf einer Medienwall-Karte klickt. |
-| `ShareURL` | Wenn der Textbereich "Mit URL teilen"ausgewählt/aus der Medienmauer kopiert wird. |
-| `ShareFacebook` | Wenn auf "Auf Facebook teilen"aus der Medienmauer geklickt wird. |
-| `ShareTwitter` | Wenn auf "Mit Twitter teilen"von der Medienmauer aus geklickt wird. |
+| `TwitterReplyClick` | Wenn ein Benutzer auf die Schaltfläche &quot;Twitter-Antwort&quot;von der Medienmanagerfläche klickt. |
+| `TwitterRetweetClick` | Wenn ein Benutzer auf die Schaltfläche &quot;Twitter-Retweet&quot;von der Medienkonsole aus klickt. |
+| `TwitterLikeClick` | Wenn ein Benutzer auf die Schaltfläche &quot;Gefällt mir&quot;-Klicks/Favoriten in Twitter von der Medienkonsole aus klickt. |
+| `ModalView` | Wenn der Benutzer in einem größeren modalen Fenster auf die Ansicht von Media Pinnwänden klickt. |
+| `Like` | Wenn ein Benutzer auf der Medienmanagerseite auf die Schaltfläche &quot;Gefällt mir&quot;klickt. |
+| `ShareButtonClick` | Jedes Mal, wenn ein Benutzer auf die Schaltfläche &quot;Freigeben&quot;auf einer Medienwall-Karte klickt. |
+| `ShareURL` | Wenn der Textbereich &quot;Mit URL teilen&quot;ausgewählt/aus der Medienmauer kopiert wird. |
+| `ShareFacebook` | Wenn auf &quot;Auf Facebook teilen&quot;aus der Medienmauer geklickt wird. |
+| `ShareTwitter` | Wenn auf &quot;Mit Twitter teilen&quot;von der Medienmauer aus geklickt wird. |
