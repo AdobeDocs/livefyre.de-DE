@@ -7,21 +7,24 @@ title: Beitrag zum Storisieren von 2 fixieren
 uuid: c4043ea6-8763-4afb-bc1b-d69e1c8eca61
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '202'
+ht-degree: 0%
 
 ---
 
 
-# Beitrag zum Storisieren von 2 fixieren{#pin-a-post-to-storify}
+# Beitrag an Storify 2 {#pin-a-post-to-storify} anheften
 
 Veröffentlichen Sie einen Beitrag, um die Aufmerksamkeit auf bestimmte Inhalte zu lenken, wenn Sie zum ersten Mal auf einer Seite mit eingebettetem Storify 2 landen.
 
-Sie können wichtige Informationen hervorheben, auf die sich die Zielgruppen zuerst konzentrieren können, z. B. einen entscheidenden Augenblick in einer Meldung oder aktuellen Übereinstimmungswerten und ein Foto des letzten Ziels.
+Sie können wichtige Informationen hervorheben, auf die sich die Audiencen zuerst konzentrieren können, z. B. einen entscheidenden Moment in einer Nachrichtenmeldung oder aktuellen Übereinstimmungsergebnissen und ein Foto des letzten Tore.
 
 Wenn Sie einen Beitrag veröffentlichen:
 
 * Sie können jeweils nur einen Beitrag veröffentlichen. Wenn Sie sich dafür entscheiden, einen anderen Beitrag zu veröffentlichen, wird der aktuelle fixierte Beitrag nicht mehr veröffentlicht.
 * Das Pin-Symbol wird sofort beim Pinnen in einem veröffentlichten Beitrag angezeigt.
-* Der fixierte Inhalt bleibt am Anfang der Meldung und andere veröffentlichte Inhalte werden nach dem fixierten Beitrag gesendet.
+* Der fixierte Inhalt bleibt am Anfang der Meldung und andere veröffentlichte Inhaltsströme werden nach dem fixierten Beitrag gesendet.
 * Das Ändern der Beitragsreihenfolge von der neuesten in die älteste hat keine Auswirkungen auf den fixierten Beitrag.
 
 1. Erstellen Sie Storify 2 post und veröffentlichen Sie Inhalte.
