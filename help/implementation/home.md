@@ -16,7 +16,7 @@ ht-degree: 6%
 
 Implementieren Sie Livefyre Studio- und Livefyre-Apps mithilfe von Entwicklerwerkzeugen, um Ihr Erlebnis anzupassen.
 
-Informationen zur Verwendung von Livefyre Studio und Livefyre-Apps in Livefyre Studio finden Sie im [*Adobe Experience Manager Livefyre-Benutzerhandbuch *](/help/using/home.md).
+Informationen zur Verwendung von Livefyre Studio und Livefyre-Apps in Livefyre Studio finden Sie im [*Adobe Experience Manager Livefyre Benutzerhandbuch*](/help/using/home.md).
 
 ## Häufige Themen
 
