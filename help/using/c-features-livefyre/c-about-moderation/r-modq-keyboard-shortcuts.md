@@ -27,6 +27,6 @@ Die folgenden Tastaturbefehle stehen Moderatoren in ModQ zur Verfügung.
 | Anfang der Warteschlange | Springen zum ersten Element oben in der Warteschlange | l |  |
 | Flag stumm oder unstumm | Flag vom ausgewählten Benutzer stummschalten oder deaktivieren | Umschalttaste + M |  |
 | Benutzer sperren | Ausgewählten Benutzer nur für diese Site sperren | Umschalt + B |  |
-| Whitelist-Benutzer | Ausgewählte Liste nur für diese Site zulassen | Umschalttaste + W |  |
+| Whitelist-Benutzer | Ausgewählten Benutzer nur für diese Site zulassen | Umschalttaste + W |  |
 | Site-Filter löschen | Alle Elemente im Netzwerk anzeigen | Umschalttaste + Q |  |
 
