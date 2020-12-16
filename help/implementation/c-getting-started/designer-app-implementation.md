@@ -1,12 +1,15 @@
 ---
-description: Verwenden Sie Bootstrap- und Stream-API mit Livefyre-Apps.
-seo-description: Verwenden Sie Bootstrap- und Stream-API mit Livefyre-Apps.
+description: Verwenden Sie die Bootstrap- und Stream-API mit Livefyre-Apps.
+seo-description: Verwenden Sie die Bootstrap- und Stream-API mit Livefyre-Apps.
 seo-title: App-Implementierung
 solution: Experience Manager
 title: App-Implementierung
 uuid: null
 translation-type: tm+mt
 source-git-commit: b737f2c6afb03d91041a317cc0afb790c3eadcb1
+workflow-type: tm+mt
+source-wordcount: '312'
+ht-degree: 0%
 
 ---
 
@@ -14,19 +17,19 @@ source-git-commit: b737f2c6afb03d91041a317cc0afb790c3eadcb1
 
 Verwendungsfall: Als Kunde möchte ich Livefyre mithilfe der Livefyre.js-Methode in mein Drittanbieter-CMS integrieren.
 
-Es gibt drei Möglichkeiten, Livefyre in eine benutzerdefinierte AEM-Komponente oder andere CMS-Komponenten wie WordPress, SiteCore oder DemandWare zu implementieren: Integration von Designer-App-Implementierung, -API, -Implementierung und Drittanbieter-Authentifizierung
+Es gibt drei Möglichkeiten, Livefyre in eine benutzerdefinierte AEM oder andere CMS-Komponenten wie WordPress, Sitecore oder DemandWare zu implementieren: Integration von Designer-App-Implementierung, -API, -Implementierung und Drittanbieter-Authentifizierung
 
 ## Designer-App-Implementierung {#designerapp}
 
 Was: Einfachste und schnellste Integration einer Livefyre-App. Sie können einen benutzerdefinierten JavaScript-Einbettungscode entwerfen, konfigurieren und erstellen, um eine Liveyfre-App in wenigen Minuten auf einer Seite zu integrieren.
 
-Wie: Erstellen, Anzeigen einer Vorschau, Veröffentlichen und Einbetten einer Livefyre-App [](/help/using/c-about-apps/c-create-an-app.md)
+Wie: [Erstellen, Vorschau, Veröffentlichen und Einbetten einer Livefyre-App](/help/using/c-about-apps/c-create-an-app.md)
 
 Beispiel: [https://codepen.io/dharafyre/pen/bvGrLo](https://codepen.io/dharafyre/pen/bvGrLo)
 
 ### Livefyre.js-Implementierung {#livefyrejsimp}
 
-Was: [Livefyre.js](/help/implementation/c-livefyre.js.md) ist die Kernbibliothek, mit der Apps und Auth auf einer Site ausgeführt werden. Es definiert das globale `window.Livefyre` Objekt und eine einzige öffentliche Methode, Livefyre.require, die zum Laden anderer Livefyre JavaScript-Bibliotheken verwendet werden kann, die beim Einbetten von Livefyre-Apps und bei der Integration mit Auth-Plattformen von Drittanbietern helfen.
+Was: [Livefyre.js](/help/implementation/c-livefyre.js.md) ist die Hauptbibliothek, die Apps und Auth auf einer Site aktiviert. Es definiert das globale `window.Livefyre`-Objekt und eine einzige öffentliche Methode, Livefyre.require, die zum Laden anderer Livefyre JavaScript-Bibliotheken verwendet werden kann, die beim Einbetten von Livefyre-Apps und bei der Integration mit externen User Auth-Plattformen helfen.
 
 Wie:
 
@@ -50,7 +53,7 @@ Zur Erstellung benutzerdefinierter Erlebnisse und Datenvisualisierungen können 
 
 ## Integration der Drittanbieter-Authentifizierung {#thirdpartyauth}
 
-Informationen zu Livefyre-Apps, die eine Authentifizierung erfordern, finden Sie unter [Identitätsintegration](/help/implementation/t-about-identity-integration/t-about-identity-integration.md) für Authentifizierungsplattformen von Drittanbietern.
+Informationen zu LiveCycle-Apps, die eine Authentifizierung erfordern, finden Sie unter [Identitätsintegration](/help/implementation/t-about-identity-integration/t-about-identity-integration.md) für Authentifizierungsplattformen von Drittanbietern.
 
 ## Kundenbeispiele {#customerexamples}
 
