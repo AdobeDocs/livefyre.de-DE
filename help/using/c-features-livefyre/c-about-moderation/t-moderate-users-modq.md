@@ -14,7 +14,7 @@ ht-degree: 0%
 ---
 
 
-# Benutzer moderieren{#moderate-users}
+# Moderieren von Benutzern{#moderate-users}
 
 Im Bereich &quot;Benutzerzusammenfassung&quot;finden Sie Benutzerinformationen zur Moderation.
 
@@ -22,7 +22,7 @@ Standardmäßig werden Informationen für den Autor des ausgewählten Inhalts an
 
 >[!NOTE]
 >
->Bei Streaming-Inhalten werden nur die Quelle des Inhalts sowie der Benutzername und der Avatar des Autors (sofern verfügbar) angezeigt. Benutzermoderation ist nicht für Stream-Inhaltsersteller verfügbar.
+>Bei gestreuten Inhalten werden nur die Quelle des Inhalts sowie der Benutzername und der Avatar des Autors (sofern verfügbar) angezeigt. Benutzermoderation ist nicht für Stream-Inhaltsersteller verfügbar.
 
 Die folgenden Informationen werden (sofern verfügbar) für jeden Ihrer registrierten Livefyre-Benutzer angezeigt:
 
@@ -35,7 +35,7 @@ Die folgenden Informationen werden (sofern verfügbar) für jeden Ihrer registri
 * **[!UICONTROL Email]**: die aufgelistete E-Mail-Adresse.
 * **[!UICONTROL IP Address]**: ihre IP-Adresse, wie von Livefyre bestimmt.
 * **[!UICONTROL Bio]**: Beschreibung des Benutzers.
-* **[!UICONTROL Bans]**: Listen-Sites, für die der Nutzer gesperrt wurde oder für die Bozo’d.
-* **[!UICONTROL Whitelists]**: Listen-Sites, für die der Benutzer zugelassen wurde.
+* **[!UICONTROL Bans]**: listen-Sites, für die der Nutzer gesperrt wurde oder für die Bozo’d.
+* **[!UICONTROL Whitelists]**: listen-Sites, für die der Benutzer zugelassen wurde.
 
-Weitere Informationen zum Moderieren von Benutzern auf der Registerkarte &quot;App-Inhalt&quot;finden Sie unter [Moderieren mit App-Inhalten](/help/using/c-features-livefyre/c-about-moderation/c-moderate-content-using-app-content.md#c_moderate_content_using_app_content).
+Weitere Informationen zum Moderieren von Benutzern auf der Registerkarte &quot;App-Inhalt&quot;finden Sie unter [Moderieren mit App-Inhalt](/help/using/c-features-livefyre/c-about-moderation/c-moderate-content-using-app-content.md#c_moderate_content_using_app_content).
