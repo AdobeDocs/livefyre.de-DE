@@ -7,6 +7,9 @@ title: Funktionsinhalt
 uuid: c45f594b-69de-4db4-820b-465015d74825
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '170'
+ht-degree: 2%
 
 ---
 
@@ -31,7 +34,7 @@ Mithilfe von Inhalten können Sie die Aufmerksamkeit auf ausgewählte Benutzerbe
    * [Funktion](#c_feature_apis/section_jpw_nqw_xz)
    * [Rückgängig](#c_feature_apis/section_knh_mqw_xz)
 
-1. Zusammenfassen von speziellen Inhalten. Siehe [](../c-app-customizations/c-aggregated-featured-content-using-the-featured-apis.md#c_aggregated_featured_content_using_the_featured_apis).
+1. Aggregat-spezifische Inhalte Siehe [](../c-app-customizations/c-aggregated-featured-content-using-the-featured-apis.md#c_aggregated_featured_content_using_the_featured_apis).
 
    * [Vorgestellt (Netzwerk)](#c_aggregated_featured_content_using_the_featured_apis/section_cgm_1nw_xz)
    * [Vorgestellt (Site)](#c_aggregated_featured_content_using_the_featured_apis/section_lq5_ymw_xz)
