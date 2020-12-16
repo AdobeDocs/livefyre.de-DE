@@ -16,7 +16,7 @@ ht-degree: 4%
 
 # Livefyre Analytics-Ereignis
 
-## Ereignis-Objektdefinition {#section_dh1_yhn_pdb}
+## Ereignis Object Definition {#section_dh1_yhn_pdb}
 
 Der folgende Code definiert die Felder im Ereignis-Objekt, die vom Analytics-Handler auf einer Seite empfangen werden.
 
@@ -100,7 +100,7 @@ Im Folgenden finden Sie eine Liste von Konversionsvariablen (eVars), die Livefyr
 
 Weitere Informationen zu den auf dieser Seite behandelten Themen finden Sie unter:
 
-* [Report Suite](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html)[ManagerDTM](https://docs.adobe.com/content/help/en/livefyre/using/apps/filmstrip/c-filmstrip-app.html)
+* [Report Suite ](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html)[ManagerDTM](https://docs.adobe.com/content/help/en/livefyre/using/apps/filmstrip/c-filmstrip-app.html)
 
 * [Regeln](https://docs.adobe.com/content/help/en/dtm/using/resources/rules/create-rules.html)
 * [Livefyre.js](/help/implementation/c-livefyre.js.md)
