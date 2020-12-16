@@ -7,34 +7,37 @@ title: Ping für vollständige Antwort erstellen
 uuid: f90871d5-601f-40dc-b3d2-ab78635e4a88
 translation-type: tm+mt
 source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
+workflow-type: tm+mt
+source-wordcount: '539'
+ht-degree: 1%
 
 ---
 
 
-# Ping für vollständige Antwort erstellen{#build-the-ping-for-pull-response}
+# Ping für Pullantwort{#build-the-ping-for-pull-response} erstellen
 
 Erstellen Sie die Ping for Pull-Antwort, um aktualisierte Benutzerinformationen an Livefyre zu senden.
 
 | Typ | Eigenschaft | Beschreibung |
 |--- |--- |--- |
-| Zeichenfolge *erforderlich* | id | Die Benutzer-ID des Benutzers in Ihrem Profilsystem. Dies muss für alle Benutzer in Ihrem Netzwerk eindeutig sein und darf sich nicht ändern. |
-| Zeichenfolge *erforderlich* | display_name | Der Anzeigename des Benutzers. Dies wird mit Livefyre-Inhalten gerendert, die vom Benutzer veröffentlicht wurden. |
+| Zeichenfolge *erforderlich* | id | Die Benutzer-ID des Profils. Dies muss für alle Benutzer in Ihrem Netzwerk eindeutig sein und darf sich nicht ändern. |
+| Zeichenfolge *erforderlich* | display_name | Der Anzeigename des Benutzers. Dies wird mit Livefyre-Inhalten gerendert, die vom Benutzer gepostet werden. |
 | Objekt *optional, jedoch empfohlen* | name | Zeichenfolgen zum Definieren der formatierten, ersten, mittleren und letzten Namen des Benutzers. |
-| Zeichenfolge *optional, jedoch empfohlen* | E-Mail | User’s email address. Dient zum Senden von E-Mail-Benachrichtigungen. |
-| String optional, but recommended ** | image_url | URL to an avatar to display for the user. Livefyre scales uploaded images to 100×100, 75×75, or 50×50 pixels, as appropriate. For best results, users should upload a square image, at 100×100 pixels. To ensure the avatar image is updated in Livefyre, modify the image_url for each image update so Ping for Pull detects that the image was changed. For example, attach a timestamp to the filename or increment the image changes. Hinweis:  All URLs must be fully qualified and accessible. |
-| String optional, but recommended ** | profile_url | URL to the user’s profile page on your site. |
-| String optional, but recommended ** | settings_url | URL to a page where users may configure the user’s profile settings for your site. |
-| Array *optional, jedoch empfohlen* | Tags | Used to assign users to user groups. Tags may include 1-63 alphanumeric and underscore characters. |
-| Boolescher Wert *optional, jedoch empfohlen* | autofollow_convertions | Definiert, ob ein Benutzer einer Sammlung nach dem Posten in der Sammlung automatisch folgen möchte. Wenn Benutzer einer Sammlung folgen, erhalten sie E-Mail-Benachrichtigungen, wenn andere Benutzer teilnehmen. Kann wahr oder falsch sein. Der Standardwert ist true. |
-| Objekt *optional, jedoch empfohlen* | email_notifications | Definiert die Häufigkeit verfügbarer Livefyre-E-Mail-Benachrichtigungen. Für jeden Benachrichtigungstyp können unterschiedliche Frequenzen festgelegt werden. Standardmäßig werden keine Benachrichtigungen gesendet. <br><ul><li> sofort Benachrichtigungen beim aufgelisteten Ereignis ausgeben. </li><li>gibt oft Benachrichtigungen in Stapeln aus. </li><li> keine E-Mail-Benachrichtigung für die Aktivität senden. </li><li>*Kommentare*: Definiert, wann Benachrichtigungen gesendet werden, wenn andere Benutzer Inhalte in Sammlungen veröffentlichen, denen dieser Benutzer folgt. </li><li>*Antworten*: Definiert, wann Benachrichtigungen gesendet werden, wenn ein anderer Benutzer auf den Inhalt dieses Benutzers antwortet.</li><li>*gefällt*: Definiert, wann Benachrichtigungen gesendet werden, wenn der Inhalt dieses Benutzers einem anderen Benutzer gefällt.</li><li>*moderator_comments*: Definiert, wann Benachrichtigungen an Moderatoren gesendet werden, wenn Benutzer Inhalte an eine Sammlung im Netzwerk posten.</li><li>*moderator_flags*: Definiert, wann Benachrichtigungen an Moderatoren gesendet werden, wenn andere Benutzer Inhalte in einer Sammlung im Netzwerk kennzeichnen.</li></ul> |
+| Zeichenfolge *optional, jedoch empfohlen* | E-Mail | E-Mail-Adresse des Benutzers. Dient zum Senden von E-Mail-Benachrichtigungen. |
+| Zeichenfolge *optional, jedoch empfohlen* | image_url | URL zu einem Avatar, der für den Benutzer angezeigt werden soll. Livefyre skaliert hochgeladene Bilder auf 100 x 100, 75 x 75 oder 50 x 50 Pixel, je nach Bedarf. Die besten Ergebnisse erzielen Sie, wenn Sie ein quadratisches Bild mit 100 x 100 Pixeln hochladen. Um sicherzustellen, dass das Avatarbild in Livefyre aktualisiert wird, ändern Sie die image_url für jede Bildaktualisierung, damit Ping for Pull erkennt, dass das Bild geändert wurde. Fügen Sie beispielsweise dem Dateinamen einen Zeitstempel hinzu oder erhöhen Sie die Bildänderungen. Hinweis:  Alle URLs müssen vollständig qualifiziert und zugänglich sein. |
+| Zeichenfolge *optional, jedoch empfohlen* | profil_url | URL zur Profil-Seite des Benutzers auf Ihrer Site. |
+| Zeichenfolge *optional, jedoch empfohlen* | settings_url | URL zu einer Seite, auf der Benutzer die Benutzereinstellungen für das Profil Ihrer Site konfigurieren können. |
+| Array *optional, jedoch empfohlen* | Tags | Dient zum Zuweisen von Benutzern zu Benutzergruppen. Tags können 1-63 alphanumerische Zeichen und Unterstriche enthalten. |
+| Boolean *optional, jedoch empfohlen* | autofollow_convertions | Definiert, ob ein Benutzer einer Sammlung nach dem Posten in der Sammlung automatisch folgen möchte. Wenn Benutzer einer Sammlung folgen, erhalten sie E-Mail-Benachrichtigungen, wenn andere Benutzer teilnehmen. Kann wahr oder falsch sein. Der Standardwert ist true. |
+| Objekt *optional, jedoch empfohlen* | email_notifications | Definiert die Häufigkeit verfügbarer Livefyre-E-Mail-Benachrichtigungen. Für jeden Benachrichtigungstyp können unterschiedliche Frequenzen festgelegt werden. Standardmäßig werden keine Benachrichtigungen gesendet. <br><ul><li> sofort Benachrichtigungen beim aufgelisteten Ereignis ausgeben. </li><li>gibt oft Benachrichtigungen in Stapeln aus. </li><li> keine E-Mail-Benachrichtigung für die Aktivität senden. </li><li>*Kommentare*: Definiert, wann Benachrichtigungen gesendet werden, wenn andere Benutzer Inhalte in Sammlungen veröffentlichen, denen dieser Benutzer folgt. </li><li>*Antworten*: Definiert, wann Benachrichtigungen gesendet werden, wenn ein anderer Benutzer auf den Inhalt dieses Benutzers antwortet.</li><li>*&quot;Gefällt mir&quot;*: Definiert, wann Benachrichtigungen gesendet werden, wenn der Inhalt dieses Benutzers einem anderen Benutzer gefällt.</li><li>*moderator_comments*: Definiert, wann Benachrichtigungen an Moderatoren gesendet werden, wenn Benutzer Inhalte an eine Sammlung im Netzwerk posten.</li><li>*moderator_flags*: Definiert, wann Benachrichtigungen an Moderatoren gesendet werden, wenn andere Benutzer Inhalte in einer Sammlung im Netzwerk kennzeichnen.</li></ul> |
 | Zeichenfolge *optional* | Position | Ein vom Benutzer gesendeter Speicherort. |
 | Zeichenfolge *optional* | bio | Eine vom Benutzer übermittelte Autobiografie. |
-| Array *optional* | websites | Ein Array von vom Benutzer übermittelten Sites. Max = 2. |
-| Objekt *optional* | display_rules | Defines which profile properties are publicly visible to other users. Each available parameter takes Boolean input true or false. Available parameters:  <br><ul><li>bio </li><li> Position</li><li>  Geschlecht </li><li>nameimage </li><li> remote_profile_url</li></ul> |
-| Boolean optional ** | moderator | Defines whether the user has moderator privileges across the network. |
-| Boolean optional ** | gravatar_disabled | Defines whether to disable Livefyre’s use of a gravatar if no  image_url is provided. |
+| Array *optional* | websites | Ein Array von vom Benutzer gesendeten Sites. Max = 2. |
+| Objekt *optional* | display_rules | Definiert, welche Profil-Eigenschaften für andere Benutzer öffentlich sichtbar sind. Für jeden verfügbaren Parameter ist die boolesche Eingabe &quot;true&quot;oder &quot;false&quot;erforderlich. Verfügbare Parameter:  <br><ul><li>bio </li><li> Position</li><li>  Geschlecht </li><li>namimage </li><li> remote_Profil_url</li></ul> |
+| Boolean *optional* | moderator | Definiert, ob der Benutzer über Moderatorberechtigungen im Netzwerk verfügt. |
+| Boolean *optional* | gravatar_disabled | Definiert, ob Livefyre die Verwendung eines Gravatars deaktivieren soll, wenn keine image_url angegeben ist. |
 
-## Example Response {#section_uxt_3dd_mz}
+## Beispielantwort {#section_uxt_3dd_mz}
 
 ```
 {
