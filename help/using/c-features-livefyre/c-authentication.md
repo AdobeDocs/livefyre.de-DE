@@ -1,21 +1,24 @@
 ---
-description: Sie können festlegen, ob und wie Ihre Site-Besucher sich bei Ihren Apps anmelden möchten.
-seo-description: Sie können festlegen, ob und wie Ihre Site-Besucher sich bei Ihren Apps anmelden möchten.
+description: Sie können festlegen, ob und wie Ihre Site-Besucher sich bei Ihren Apps anmelden sollen.
+seo-description: Sie können festlegen, ob und wie Ihre Site-Besucher sich bei Ihren Apps anmelden sollen.
 seo-title: Authentifizierungsfunktionen
 solution: Experience Manager
 title: Authentifizierungsfunktionen
 uuid: 6f1236a0-7766-47c6-b6b5-1e6b8f1c0781
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '84'
+ht-degree: 5%
 
 ---
 
 
 # Authentifizierungsfunktionen{#authentication-features}
 
-Sie können festlegen, ob und wie Ihre Site-Besucher sich bei Ihren Apps anmelden möchten.
+Sie können festlegen, ob und wie Ihre Site-Besucher sich bei Ihren Apps anmelden sollen.
 
-Richten Sie die Authentifizierung mit livefyre.js ein. Weitere Informationen finden Sie unter [Hinzufügen der Authentifizierung zu einer App mithilfe von Livefyre.js](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md)
+Richten Sie die Authentifizierung mit livefyre.js ein. Weitere Informationen finden Sie unter [Hinzufügen Authentifizierung einer App mit Livefyre.js](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md)
 
 Apps, die diese Funktion verwenden:
 
