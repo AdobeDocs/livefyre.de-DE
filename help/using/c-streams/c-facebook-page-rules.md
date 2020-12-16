@@ -7,6 +7,9 @@ title: Facebook-Seitenregeln
 uuid: 2be63476-1a92-409d-a22f-e1ec66b6dcc8
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '288'
+ht-degree: 1%
 
 ---
 
@@ -21,7 +24,7 @@ Um Facebook-Seitenregeln zu erstellen, mit denen Sie Inhalte aus Facebook-Seiten
 
 * **[!UICONTROL Facebook Page]**
 
-   * Geben Sie die **[!UICONTROL Name]** Seite ein. Geben Sie nur den nachfolgenden Text für die URL ein. **** Beispiel: Um Inhalte hinzuzufügen, `https://facebook.com/KellysSuperFunFanPage`geben Sie *KellysSuperFunFanPage* in das **[!UICONTROL Name]** Feld ein.
+   * Geben Sie **[!UICONTROL Name]** für die Seite ein. Geben Sie nur den nachgestellten Text für die URL ein. **Beispiel:** Um Inhalte hinzuzufügen,  `https://facebook.com/KellysSuperFunFanPage`geben Sie  ** KellysSuperFunFanPagein in das  **[!UICONTROL Name]** Feld ein.
 
    * Schalten Sie **[!UICONTROL Include Facebook Comments for each post]** ein, wenn Sie Benutzerkommentare zu Seitenbeiträgen hinzufügen möchten.
    * Schalten Sie **[!UICONTROL Only Show Author Posts]** ein, wenn Sie Beiträge von anderen Benutzern ausschließen möchten.
