@@ -1,19 +1,22 @@
 ---
-description: Die Mosaic-App bietet diese Funktionen für Ihre Site.
-seo-description: Die Mosaic-App bietet diese Funktionen für Ihre Site.
+description: Die Mosaic-App Angebot diese Funktionen für Ihre Site.
+seo-description: Die Mosaic-App Angebot diese Funktionen für Ihre Site.
 seo-title: Mosaic-Funktionen
 solution: Experience Manager
 title: Mosaic-Funktionen
 uuid: 95129d56-a4c4-42d5-8c68-c5fc159017e6
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '72'
+ht-degree: 2%
 
 ---
 
 
-# Mosaic-Funktionen{#mosaic-features}
+# Mosaikfunktionen{#mosaic-features}
 
-Die Mosaic-App bietet diese Funktionen für Ihre Site.
+Die Mosaic-App Angebot diese Funktionen für Ihre Site.
 
 
 
