@@ -6,6 +6,9 @@ title: Verbinden von Janrain mit Livefyre mithilfe von AuthDelegate
 uuid: 9d56e3f4-960a-4108-aab5-2795b0e71c88
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '276'
+ht-degree: 1%
 
 ---
 
@@ -14,7 +17,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Livefyre.require stellt ein Plugin zur Verfügung, mit dem Autoren den Janrain Backplane Bus hören können.
 
-Wenn im Backplane-Kanal eine Identitäts-/Anmelde-Nachricht gesendet wird, wird auth.authentication() mit dem Livefyre-Authentifizierungstoken des Benutzers für Sie aufgerufen. Sie müssen weiterhin einen AuthDelegate implementieren.
+Wenn eine Identitäts-/Anmelde-Nachricht im Backplane-Kanal gesendet wird, wird auth.authentication() mit dem Livefyre-Authentifizierungstoken des Benutzers für Sie aufgerufen. Sie müssen weiterhin einen AuthDelegate implementieren.
 
 ```
 Livefyre.require(['auth', 'backplane-auth-plugin#0'], function(auth, backplanePluginFactory) { 
@@ -39,8 +42,8 @@ Im Folgenden finden Sie einige Beispiele dafür, wie ein Auth-Delegierter nach e
 
 <!--Hannah: Mystery stray bullet found here. Please check against source. -Bob -->
 
-*  Der Rückruf, der an die Anmeldemethode Ihres Authentidelegaten weitergeleitet wird
-*  Der Verweis auf Ihre Janrain-Erfassungsvariable.
+* Der Rückruf, der an die Anmeldemethode Ihres Authentidelegaten weitergeleitet wird
+* Der Verweis auf Ihre Janrain-Erfassungsvariable.
 * : Ein Verweis auf das Backplane-Objekt.
 
 ```
@@ -76,9 +79,9 @@ authDelegate.login = function(finishLogin) {
 
 Abmeldung
 
-* **** completionLogout: Der Rückruf, der an die Anmeldemethode des Authentifizierungsdelegaten weitergeleitet wird.
+* **OberflächeLogout:** Der Rückruf, der an die Anmeldemethode des Authentifizierungsdelegaten weitergeleitet wird.
 
-* **** window.Backplane: Ein Verweis auf das Backplane-Objekt.
+* **window.backplane:** Ein Verweis auf Ihr Backplane-Objekt.
 
 ```
 /** 
@@ -96,7 +99,7 @@ authDelegate.logout = function(finishLogout) {
 
 Profil bearbeiten
 
-Dies kann zu jedem Teil der Site verlinken, den Benutzer besuchen möchten, um ihre eigene Profilseite anzuzeigen. In diesem Beispiel wird lediglich das übergebene Autorenobjekt ausgedruckt.
+Dies kann zu jedem Teil der Site führen, den Sie zur Ansicht der eigenen Profil-Seite aufrufen möchten. In diesem Beispiel wird lediglich das übergebene Autorenobjekt ausgedruckt.
 
 ```
 /** 
@@ -108,9 +111,9 @@ authDelegate.editProfile = function(user) {
 }; 
 ```
 
-Profil anzeigen
+Ansicht Profil
 
-Wie "Profil bearbeiten"sollte dieser Link zu einer Benutzerseite führen, die sich vom derzeit angemeldeten Benutzer unterscheidet. Dies kann implementiert werden, wie Sie es für richtig halten. In diesem Beispiel wird der Parameter author einfach in der Konsole protokolliert.
+Wie beim Bearbeiten von Profil sollte dieser Link zu einer Benutzerseite führen, die sich vom derzeit angemeldeten Benutzer unterscheidet. Dies kann implementiert werden, wie Sie es für richtig halten. In diesem Beispiel wird der Parameter author einfach in der Konsole protokolliert.
 
 ```
 /** 
