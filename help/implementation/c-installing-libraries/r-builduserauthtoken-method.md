@@ -7,6 +7,9 @@ title: buildUserAuthToken-Netzwerkmethode
 uuid: 8828d356-c3c6-46a6-91bf-83bd59e35050
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 6%
 
 ---
 
@@ -19,7 +22,7 @@ Gibt ein vom Benutzer authentifiziertes verschlüsseltes Token für das Netzwerk
 |--- |--- |--- |
 | userId | Zeichenfolge | Die Benutzer-ID des Benutzers, dem dieses Token angehört. |
 | displayName | Zeichenfolge | Der Anzeigename des Benutzers. |
-| expires | Double | Wenn das Token in Sekunden abläuft. |
+| expires | Double | Wenn das Token in Sekunden ablaufen soll. |
 
 ## Java-Beispiel {#section_nyl_ycs_rz}
 
