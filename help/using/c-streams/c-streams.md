@@ -7,6 +7,9 @@ title: Streams
 uuid: 01ea5d33-5ec1-46f4-b724-8431cda443a1
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '171'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +26,7 @@ Mit Ordnerzielen definierte Streams speichern Inhalte als Assets in Ihrer Asset-
 
 Mehrere Streams können an ein einzelnes Ziel (Ordner oder App) gesendet werden.
 
-Mit App-Zielen definierte Streams senden Inhalte direkt an Ihre App und sind über die Registerkarte "Veröffentlicht"in Ihrer Bibliothek verfügbar.
+Mit App-Zielen definierte Streams senden Inhalte direkt an Ihre App und sind über die Registerkarte &quot;Veröffentlicht&quot;in Ihrer Bibliothek verfügbar.
 
 Verwenden Sie die Streams-Oberfläche, um Regeln zu definieren, nach denen Studio ausgewählte Inhalte an Ihre Livefyre-Apps oder Asset-Bibliothek weiterleitet.
 
