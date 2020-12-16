@@ -7,6 +7,9 @@ title: Site-Klassenmethoden
 uuid: cf1e641a-d4ef-4c92-a7d1-985380434fc2
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 1%
 
 ---
 
