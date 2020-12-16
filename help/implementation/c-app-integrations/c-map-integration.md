@@ -7,6 +7,9 @@ title: Landkarte
 uuid: 1c3e399d-a610-4b80-a3b2-a5502b31480d
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '252'
+ht-degree: 2%
 
 ---
 
@@ -19,13 +22,13 @@ Mit der Karte können Sie geotaggte Inhalte auf eine Weltkarte übertragen, soda
 
 >[!NOTE]
 >
->Karten werden mit [© OpenStreetMap](https://www.openstreetmap.org/copyright)betrieben, das die Daten bereitstellt, die Livefyre zum Rendern seiner Karten verwendet.
+>Karten werden mit [© OpenStreetMap](https://www.openstreetmap.org/copyright) betrieben, das die Daten bereitstellt, die Livefyre zum Rendern seiner Maps verwendet.
 
 ## Integration {#section_w2m_db2_d1b}
 
 Die schnellste Möglichkeit, Map zu verwenden, ist die auf Livefyres CDN gehostete Version zu verwenden.
 
-Fügen Sie Ihrer Seite zunächst [Livefyre.js](https://github.com/Livefyre/Livefyre.js) hinzu.
+Fügen Sie zunächst [Livefyre.js](https://github.com/Livefyre/Livefyre.js) zu Ihrer Seite hinzu.
 
 ```
 <script src="https://cdn.livefyre.com/Livefyre.js"></script> 
@@ -56,7 +59,7 @@ function (Map, SDK) {
 </script>
 ```
 
-Sehen Sie sich dieses [Live-Beispiel](https://codepen.io/cheung31/pen/wkmbF)an.
+Sehen Sie sich dieses [Live-Beispiel](https://codepen.io/cheung31/pen/wkmbF) an.
 
 ## Konfiguration {#section_jc5_gxb_c1b}
 
@@ -73,7 +76,7 @@ var map = new Map({
 
 `leafletMapOptions`
 
-Optionen, die an die zugrunde liegende [Imagemap](https://leafletjs.com/) übergeben werden, welche Map zum Rendern verwendet. Verwenden Sie diese Option, um die [Optionen](https://leafletjs.com/reference.html#map-options)für die Imagemap festzulegen, einschließlich des Anfangs- und des Anfangs- sowie des maximalen Zoomgrads. (Optional.)
+Optionen, die an die zugrunde liegende [Gebrauchsinformation](https://leafletjs.com/)-Map weitergegeben werden, welche Map zum Rendern verwendet. Verwenden Sie diese Option, um [Optionen für die Imagemap](https://leafletjs.com/reference.html#map-options) festzulegen, einschließlich des anfänglichen Zentrums der Map sowie der Anfangs- und Maximalzoomwerte. (Optional.)
 
 ```
 var map = new Map({ 
