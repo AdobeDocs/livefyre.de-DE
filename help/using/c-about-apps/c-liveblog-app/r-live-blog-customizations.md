@@ -7,11 +7,14 @@ title: Anpassung des Live-Blogs
 uuid: f07d4c33-4aef-4d69-b9dd-3fd3c27ffd6d
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '247'
+ht-degree: 0%
 
 ---
 
 
-# Anpassung des Live-Blogs{#live-blog-customizations}
+# Live-Blog-Anpassungen{#live-blog-customizations}
 
 Passen Sie den Stil und die Art und Weise an, wie Kommentare in Ihrem Live-Blog angezeigt werden.
 
@@ -25,7 +28,7 @@ Mit dem Live-Blog können Sie aktuelle Meldungen in Echtzeit veröffentlichen un
 
 * **[!UICONTROL Comments appear in cards]**
 
-   Wenn diese Option aktiviert ist, werden Beiträge mit einem umgebenden Feld und der durch die Auswahl des **Designs** vorgegebenen Hintergrundfarbe angezeigt.
+   Wenn diese Option aktiviert ist, werden Beiträge mit einem umgebenden Feld angezeigt und die Hintergrundfarbe wird durch die Auswahl **Design** festgelegt.
 
 * **[!UICONTROL Nest levels for replies]**
 
@@ -57,11 +60,11 @@ Mit dem Live-Blog können Sie aktuelle Meldungen in Echtzeit veröffentlichen un
 
 * **[!UICONTROL Users may share comments]**
 
-   Falls aktiviert, können Benutzer gepostete Inhalte für Twitter, Facebook oder LinkedIn freigeben. Weitere Informationen zum Aktivieren der Freigabe finden Sie unter Einstellungen &gt; Integrationseinstellungen &gt; Social Sharing.
+   Wenn diese Option aktiviert ist, können Benutzer gepostete Inhalte für Twitter, Facebook oder LinkedIn freigeben. Weitere Informationen zum Aktivieren der Freigabe finden Sie unter Einstellungen > Integrationseinstellungen > Social Sharing.
 
 Sie können das Live-Blog anpassen, indem Sie:
 
-* **[!UICONTROL Style]** und **[!UICONTROL Config]** Optionen für alle Apps im **[!UICONTROL App Designer]**. Weitere Informationen zu den Standard- **[!UICONTROL Style]** und **[!UICONTROL Config]** -Optionen für alle Apps im Abschnitt Anpassen von Apps finden Sie unter **[!UICONTROL App Designer]**.
+* **[!UICONTROL Style]** und  **[!UICONTROL Config]** Optionen für alle Apps im  **[!UICONTROL App Designer]**. Weitere Informationen zu den Standardoptionen **[!UICONTROL Style]** und **[!UICONTROL Config]** für alle Apps in **[!UICONTROL App Designer]** finden Sie unter Anpassen von Apps.
 
 * Integrationstools. Weitere Informationen zum Anpassen von Apps mit Integrationstools finden Sie im Live-Blog.
 
