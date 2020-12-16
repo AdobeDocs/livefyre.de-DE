@@ -1,19 +1,22 @@
 ---
-description: Fügen Sie Livefyre zu Ihren nativen mobilen Apps hinzu.
-seo-description: Fügen Sie Livefyre zu Ihren nativen mobilen Apps hinzu.
+description: hinzufügen Sie Livefyre in Ihre nativen mobilen Apps.
+seo-description: hinzufügen Sie Livefyre in Ihre nativen mobilen Apps.
 seo-title: Mobile SDKs
 solution: Experience Manager
 title: Mobile SDKs
 uuid: 84c7ca1c-3401-492a-bfa5-62b996947a44
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '376'
+ht-degree: 5%
 
 ---
 
 
 # Mobile SDKs{#mobile-sdks}
 
-Fügen Sie Livefyre zu Ihren nativen mobilen Apps hinzu.
+hinzufügen Sie Livefyre in Ihre nativen mobilen Apps.
 
 Es stehen verschiedene Optionen für mobile Implementierungen zur Verfügung, je nach Umfang der Anpassung, die Sie planen:
 
@@ -23,13 +26,13 @@ Es stehen verschiedene Optionen für mobile Implementierungen zur Verfügung, je
 
 ## Mobile Web-Apps {#section_t2k_vpb_11b}
 
-Kunden, die eine Webseite auf einem Mobilgerät öffnen, erhalten automatisch einen Livefyre-Inhaltsstream, der für Mobilgeräte optimiert ist. Dazu gehören die Formatierung, die an die reduzierte Bildschirmgröße angepasst wird, und Änderungen zur Handhabung von Berührungsereignissen.
+Kunden, die eine Webseite auf einem Mobilgerät öffnen, erhalten automatisch einen Livefyre-Inhaltsstream, der für Mobilgeräte optimiert ist. Dazu gehören die Formatierung, die an die reduzierte Bildschirmgröße angepasst wird, sowie Änderungen zur Handhabung von Touch-Ereignissen.
 
 >[!NOTE]
 >
->Bei Verwendung einer Livefyre-App in einer Android-WebView muss der Parameter Android [WebSettings.setDomStorageEnabled](https://developer.android.com/reference/android/webkit/WebSettings.html) auf true eingestellt sein. Wenn localStorage nicht aktiviert ist, kann Livefyre keinen Benutzer bei der Livefyre-App anmelden.
+>Bei Verwendung einer Livefyre-App in einer Android-WebView muss der Parameter Android [WebSettings.setDomStorageEnabled](https://developer.android.com/reference/android/webkit/WebSettings.html) auf true gesetzt werden. Wenn localStorage nicht aktiviert ist, kann Livefyre keinen Benutzer bei der Livefyre-App anmelden.
 
-Zur Optimierung für Mobilgeräte beschränkt Livefyre die Funktionen "Kommentare", "Live-Blog"und "Chat-App"auf Folgendes:
+Zur Optimierung für Mobilgeräte beschränkt Livefyre die Funktionen &quot;Kommentare&quot;, &quot;Live-Blog&quot;und &quot;Chat-App&quot;auf Folgendes:
 
 * Posten
 * Vorlage     
@@ -62,5 +65,5 @@ Die HTTP-APIs sind die Gruppe von Endpunkten, mit denen Sie Konversationen und I
 
 >[!IMPORTANT]
 >
->**Erstellen Sie keine** Benutzerauthentifizierungstoken im mobilen Client, da dies erfordert, dass Sie Ihren Livefyre-geheimen Netzwerkschlüssel in einer unbesicherten App verfügbar machen. Eine stabilere und sicherere Lösung finden Sie im Abschnitt Benutzerauthentifizierungstoken.
+>**Erstellen Sie im mobilen Client** keine Benutzerauthentifizierungstoken, da dies erfordert, dass Sie Ihren Livefyre-geheimen Netzwerkschlüssel in einer ungesicherten App verfügbar machen. Eine stabilere und sicherere Lösung finden Sie im Abschnitt Benutzerauthentifizierungstoken.
 
