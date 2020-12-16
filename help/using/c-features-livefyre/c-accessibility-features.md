@@ -1,21 +1,24 @@
 ---
-description: Livefyre Identity and Apps enthalten Funktionen zur Barrierefreiheit, mit denen alle Site-Besucher mit Inhalten interagieren können, einschließlich derer, die Bildschirmlesehilfen und andere Hilfsgeräte verwenden können.
-seo-description: Livefyre Identity and Apps enthalten Funktionen zur Barrierefreiheit, mit denen alle Site-Besucher mit Inhalten interagieren können, einschließlich derer, die Bildschirmlesehilfen und andere Hilfsgeräte verwenden können.
+description: Livefyre Identity and Apps enthalten Barrierefreiheitsfunktionen, mit denen alle Site-Besucher mit Inhalten interagieren können, einschließlich derer, die Bildschirmlesehilfen und andere Hilfsgeräte verwenden können.
+seo-description: Livefyre Identity and Apps enthalten Barrierefreiheitsfunktionen, mit denen alle Site-Besucher mit Inhalten interagieren können, einschließlich derer, die Bildschirmlesehilfen und andere Hilfsgeräte verwenden können.
 seo-title: Zugänglichkeitsfunktionen
 solution: Experience Manager
 title: Zugänglichkeitsfunktionen
 uuid: e04970d5-f45d-40e0-807e-ae88a9386ef7
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '354'
+ht-degree: 1%
 
 ---
 
 
-# Zugänglichkeitsfunktionen{#accessibility-features}
+# Barrierefreiheitsmerkmale{#accessibility-features}
 
-Livefyre Identity and Apps enthalten Funktionen zur Barrierefreiheit, mit denen alle Site-Besucher mit Inhalten interagieren können, einschließlich derer, die Bildschirmlesehilfen und andere Hilfsgeräte verwenden können.
+Livefyre Identity and Apps enthalten Barrierefreiheitsfunktionen, mit denen alle Site-Besucher mit Inhalten interagieren können, einschließlich derer, die Bildschirmlesehilfen und andere Hilfsgeräte verwenden können.
 
-Livefyre hebt die folgenden Bereiche hervor, um sicherzustellen, dass Besucher der Site auf Livefyre-Identität und -Apps zugreifen können:
+Livefyre hebt die folgenden Bereiche hervor, um sicherzustellen, dass Livefyre-Identitäts- und -Apps für Site-Besucher zugänglich sind:
 
 * Struktur
    * Seiten verwenden Seitentitel- und Header-Tags, die Bildschirmlesehilfen lesen können
@@ -40,7 +43,7 @@ Um zu testen, ob eine App mit Zugänglichkeitsfunktionen funktioniert, können S
 * Schalten Sie eine Bildschirmlesehilfe ein (z. B. [Voiceover](https://www.apple.com/accessibility/mac/vision/) auf einem Mac- oder Apple-Gerät oder [Erzähler](https://www.microsoft.com/en-us/accessibility/windows) auf einem PC), um die Seite mit der App laut zu lesen. Mit einer Bildschirmlesehilfe wird überprüft, ob der Inhalt verfügbar ist
 
 * Registerkarten über eine App erstellen und versuchen, sie nur mit der Tastatur zu verwenden, um zu überprüfen, ob Sie auf jede Schaltfläche oder jeden Link auf eine logische Weise zugreifen können.
-* Ändern Sie die Zoomgrad- und Kontrastverhältnisse, um zu sehen, ob der Inhalt lesbar und leicht anzuzeigen ist.
+* Ändern Sie die Zoomgrad- und Kontrastverhältnisse, um zu sehen, ob der Inhalt lesbar und leicht zu Ansicht dargestellt wird.
 
 Auf Apps und Livefyre-Funktionen zugreifen:
 
