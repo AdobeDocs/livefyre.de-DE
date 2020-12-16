@@ -7,6 +7,9 @@ title: setUserSyncUrl-Netzwerkmethode
 uuid: cd067e90-a2da-4e3d-8e60-7eabfd86fc7f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 3%
 
 ---
 
@@ -17,7 +20,7 @@ Informiert Livefyre, die URL für die Benutzersynchronisierung auf die angegeben
 
 | Variable | Typ | Beschreibung |
 |--- |--- |--- |
-| urlTemplate | Zeichenfolge | Die URL, die bei Livefyre zum Synchronisieren von Benutzer-IDs registriert werden soll. Erfordert, dass "`{id}`"Teil der angegebenen URL-Zeichenfolge ist. |
+| urlTemplate | Zeichenfolge | Die URL, die bei Livefyre für die Synchronisierung von Benutzer-IDs registriert werden soll. Erfordert &quot;`{id}`&quot;als Teil der angegebenen URL-Zeichenfolge. |
 
 ## Java-Beispiel {#section_nyl_ycs_rz}
 
