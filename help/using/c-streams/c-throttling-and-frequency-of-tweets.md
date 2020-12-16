@@ -7,6 +7,9 @@ title: Einschränkungen und Häufigkeit von Tweets
 uuid: b9edfb1e-e6cf-4a48-8756-05f5f18d8799
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '205'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +22,7 @@ Durch Einschränkungen bei Twitter-Regeln und Unterbrechungen bei Twitter-Feeds 
 
 >[!NOTE]
 >
->Um sicherzustellen, dass bestimmte Tweets in Ihrem Stream enthalten sind, verwenden Sie die Option "Asset hochladen"auf der Seite "Alle Assets".
+>Um sicherzustellen, dass bestimmte Tweets in Ihrem Stream enthalten sind, verwenden Sie die Option &quot;Asset hochladen&quot;auf der Seite &quot;Alle Assets&quot;.
 
 * Twitter-Regeln drosseln Inhalte, wobei alle 5 Sekunden ein Tweet pro Regel abgerufen wird. Dadurch können Inhalte in Livefyre-Apps ausgeglichener dargestellt werden und nicht mit Tweets überlastet werden. Die Beschränkung eingehender Tweets auf diese Weise trägt auch dazu bei, zu verhindern, dass der Stream während hoher Traffic-Zeiten überschwemmt oder unleserlich wird.
 
