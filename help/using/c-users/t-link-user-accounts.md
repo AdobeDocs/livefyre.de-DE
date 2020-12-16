@@ -7,6 +7,9 @@ title: Benutzerkonten verknüpfen
 uuid: f1106367-64f9-4304-aa04-f931f79ffd6d
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '161'
+ht-degree: 0%
 
 ---
 
@@ -21,9 +24,9 @@ Verknüpfen Sie Ihr Studio-Konto mit Ihrem Livefyre-Konto, um alle Livefyre-Site
 
 So verknüpfen Sie Konten:
 
-1. Melden Sie sich bei Studio an, nachdem Sie ein Livefyre-Benutzerprofil in Ihrem Netzwerk erstellt haben.
-1. Gehen Sie zu **[!UICONTROL Users]**, suchen Sie Ihr Benutzerprofil und doppelklicken Sie auf , um Details anzuzeigen.
-1. Klicken Sie auf **[!UICONTROL Connect account]**.
+1. Melden Sie sich bei Studio an, nachdem Sie ein Livefyre-Profil in Ihrem Netzwerk erstellt haben.
+1. Gehen Sie zu **[!UICONTROL Users]**, suchen Sie Ihr User-Profil und klicken Sie mit der Dublette auf die Details zur Ansicht.
+1. Klicken **[!UICONTROL Connect account]**.
 1. Wählen Sie im daraufhin geöffneten Fenster das Benutzerkonto aus, das mit diesem Konto verknüpft werden soll.
-1. Bestätigen Sie die **[!UICONTROL Link Profile]** Informationen und klicken Sie auf **[!UICONTROL Link]**. ![](assets/UsersConnectAccount-1024x311.png)
+1. Bestätigen Sie die **[!UICONTROL Link Profile]**-Informationen und klicken Sie auf **[!UICONTROL Link]**. ![](assets/UsersConnectAccount-1024x311.png)
 
