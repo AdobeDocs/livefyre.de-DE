@@ -7,19 +7,22 @@ title: Benutzerbeiträge
 uuid: 41242f4d-614c-4737-a1f6-6f0a914f5f7f
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '656'
+ht-degree: 1%
 
 ---
 
 
 # Benutzerbeiträge{#user-posts}
 
-Ermöglichen Sie Benutzern, Inhalte in Ihren Sammlungen zu posten, zu bearbeiten, zu kennzeichnen, zu löschen, zu beantworten und zu "Gefällt mir"-Klicks zu wechseln, mit einer Reihe von Rich-Text-Formatierungsoptionen.
+Ermöglichen Sie Benutzern, Inhalte in Ihren Sammlungen zu posten, zu bearbeiten, zu kennzeichnen, zu löschen, zu beantworten und zu &quot;Gefällt mir&quot;-Klicks zu wechseln, mit einer Reihe von Rich-Text-Formatierungsoptionen.
 
-Mit Livefyre-Apps können Ihre Benutzer Inhalte nahtlos und intuitiv posten und damit interagieren. Die Livefyre-Oberfläche bietet Rich-Text- und Bildeingaben, die Möglichkeit, Kommentare anderer zu "Gefällt mir"-Klicks, "Markieren"oder "Antworten"zu beantworten sowie die Möglichkeit, Ihre eigenen, vorherigen Beiträge zu bearbeiten oder zu löschen.
+Mit Livefyre-Apps können Ihre Benutzer Inhalte nahtlos und intuitiv posten und damit interagieren. Die Livefyre-Oberfläche bietet Rich-Text- und Bildeingaben, die Möglichkeit, Kommentare anderer zu &quot;Gefällt mir&quot;-Klicks, &quot;Markieren&quot;oder &quot;Antworten&quot;zu beantworten sowie die Möglichkeit, Ihre eigenen, vorherigen Beiträge zu bearbeiten oder zu löschen.
 
 ## Posten {#section_bty_ww2_wy}
 
-Benutzer können Inhalte veröffentlichen, wenn sie angemeldet sind, indem sie einen Kommentar- oder Medienlink in das Editor-Feld eingeben und auf **[!UICONTROL Post comment]**.
+Benutzer können Inhalte veröffentlichen, wenn sie angemeldet sind, indem sie einen Kommentar- oder Medienlink in das Editor-Feld eingeben und auf **[!UICONTROL Post comment]** klicken.
 
 Um Inhalte zu veröffentlichen, die nicht angemeldet sind, geben Benutzer einen Kommentar- oder Medienlink in den Editor ein und klicken auf **[!UICONTROL Post comment as…]**. Das Anmeldefenster wird angezeigt, um eine Anmeldung anzufordern.
 
@@ -27,7 +30,7 @@ Um Inhalte zu veröffentlichen, die nicht angemeldet sind, geben Benutzer einen 
 
 ## Rich-Text-Formatierung {#section_mg1_sw2_wy}
 
-Benutzer können Kommentare mit Rich-Text-Formatierung formatieren, einschließlich fett, kursiv, unterstrichen, nummeriert und mit Aufzählungszeichen versehen.
+Sie können Kommentare mit Rich-Text-Formatierung formatieren, einschließlich fett, kursiv, unterstrichen, nummeriert und mit Aufzählungszeichen versehen.
 
 >[!NOTE]
 >
@@ -43,21 +46,21 @@ Bei Chat und Live Blog können Antworten mithilfe der Einstellungen der Sammlung
 
 Benutzer müssen angemeldet sein, um wie der Inhalt eines anderen Benutzers zu funktionieren, und möglicherweise nicht wie ihre eigenen Inhalte.
 
-Die Anzahl der "Gefällt mir"-Klicks und bis zu vier Benutzeravatare werden neben der **[!UICONTROL Like]** Schaltfläche angezeigt.
+Die Anzahl der &quot;Gefällt mir&quot;-Klicks und bis zu vier Benutzeravatare werden neben der Schaltfläche **[!UICONTROL Like]** angezeigt.
 
-Bei "Gefällt mir"-Klicks ändert sich der **[!UICONTROL Like]** Link in **[!UICONTROL Unlike]**. Durch Klicken **[!UICONTROL Unlike]** wird der Avatar für diesen Benutzer entfernt und die Zahl um 1 verringert.
+Bei &quot;Gefällt mir&quot;-Klicks ändert sich der Link **[!UICONTROL Like]** in **[!UICONTROL Unlike]**. Durch Klicken auf **[!UICONTROL Unlike]** wird der Avatar für diesen Benutzer entfernt und die Zahl um 1 verringert.
 
 ## Vorlage     {#section_ubt_qwx_vy}
 
-Standardmäßig können Benutzer ihre eigenen Inhalte innerhalb von 5 Minuten nach der Veröffentlichung bearbeiten, indem sie auf den **[!UICONTROL Edit]** Link klicken, um ein Textfeld "Bearbeiten"zu öffnen.
+Standardmäßig können Benutzer ihren eigenen Inhalt innerhalb von 5 Minuten nach dem Posten bearbeiten, indem sie auf den Link **[!UICONTROL Edit]** klicken, um ein Textfeld bearbeiten zu öffnen.
 
 Sie können diese Funktion auf Sammlungsebene über das Einstellungsbedienfeld von Studio deaktivieren. Das Einstellungsbedienfeld kann auch verwendet werden, um die Zeit zu ändern, in der Kommentare auf Netzwerkebene bearbeitet werden können.
 
-Moderatoren können Benutzerinhalte jederzeit bearbeiten, sowohl inline im Stream als auch im Inhaltsbedienfeld.
+Moderatoren können Benutzerinhalte jederzeit bearbeiten, sowohl inline im Stream als auch über das Inhaltsbedienfeld.
 
 ## Löschen {#section_gbr_pwx_vy}
 
-Benutzer können ihre eigenen Inhalte jederzeit löschen, indem sie auf klicken **[!UICONTROL Delete]** (angezeigt, wenn sie den Mauszeiger über den Inhalt bewegen). Moderatoren können auf klicken, **[!UICONTROL Delete]** um den Inhalt eines Benutzers zu entfernen. ( **[!UICONTROL Delete]** ist auf Mobilgeräten nicht verfügbar.)
+Benutzer können ihre eigenen Inhalte jederzeit löschen, indem sie auf **[!UICONTROL Delete]** klicken (angezeigt, wenn Sie den Mauszeiger über den Inhalt bewegen). Moderatoren können auf **[!UICONTROL Delete]** klicken, um den Inhalt eines Benutzers zu entfernen. ( **[!UICONTROL Delete]** ist auf Mobilgeräten nicht verfügbar.)
 
 >[!NOTE]
 >
@@ -65,13 +68,13 @@ Benutzer können ihre eigenen Inhalte jederzeit löschen, indem sie auf klicken 
 
 ## Markierung {#section_j3l_qvx_vy}
 
-Benutzer können den Inhalt eines anderen Benutzers kennzeichnen, indem sie auf den **[!UICONTROL Flag]** Link klicken, der angezeigt wird, wenn Sie den Mauszeiger über den Inhalt bewegen.
+Benutzer können den Inhalt eines anderen Benutzers kennzeichnen, indem sie auf den **[!UICONTROL Flag]**-Link klicken, der angezeigt wird, wenn Sie den Mauszeiger über den Inhalt bewegen.
 
-Wenn Sie auf diesen Link klicken, wird das Modal "Flag"angezeigt, sodass Benutzer den Inhalt als **[!UICONTROL Offensive]**, **[!UICONTROL Disagree]**, **[!UICONTROL Off Topic]** oder **[!UICONTROL Spam]** kennzeichnen können. Eine optionale Notiz und E-Mail-Adresse können mit dem Flag hinzugefügt werden.
+Wenn Sie auf diesen Link klicken, wird das Modal &quot;Flag&quot;angezeigt, sodass Benutzer den Inhalt als **[!UICONTROL Offensive]**, **[!UICONTROL Disagree]**, **[!UICONTROL Off Topic]** oder **[!UICONTROL Spam]** kennzeichnen können. Eine optionale Notiz und E-Mail-Adresse können mit dem Flag hinzugefügt werden.
 
 Benutzer müssen nicht angemeldet sein, um einen Kommentar zu kennzeichnen, sodass jeder einen Kommentar zur Moderation kennzeichnen kann, ohne ein Konto erstellen zu müssen.
 
-Um andere Benutzer davon abzuhalten, einfach gekennzeichnete Inhalte zu markieren, ändert das Kennzeichnen eines Kommentars seine Anzeige nicht. Flags sind nur für Moderatoren sichtbar, die mit Studio nach Flag suchen und anzeigen können. Moderatoren können E-Mails auch aktivieren, um sie sofort zu benachrichtigen, wenn ein Kommentar in moderierten Konversationen gekennzeichnet wird.
+Um andere Benutzer davon abzuhalten, einfach gekennzeichnete Inhalte zu markieren, ändert das Kennzeichnen eines Kommentars seine Anzeige nicht. Flags sind nur für Moderatoren sichtbar, die mit Studio nach Flag suchen und Ansicht verwenden können. Moderatoren können E-Mails auch aktivieren, um sie sofort zu benachrichtigen, wenn ein Kommentar in moderierten Konversationen gekennzeichnet wird.
 
 Wenn ein Moderator einen Kommentar als Spam kennzeichnet, wird der Kommentar sofort auf den Bozo-Status gesetzt und aus dem Stream entfernt. Der Spam-Filter wird auf der Grundlage dieser Aktion für Ihr Netzwerk aktualisiert und verbessert.
 
@@ -79,7 +82,7 @@ Sie können auch Moderationsregeln erstellen, um die Aktionen zu automatisieren,
 
 ## Sortieren {#section_bpg_nwx_vy}
 
-Streaming-Inhalte können nach Alter, neuestem Ersten (Standard) oder Ältesten zuerst sortiert werden, indem Sie auf die **[!UICONTROL Newest]** oder **[!UICONTROL Oldest]** Links oben im Stream klicken.
+Streaming-Inhalte können nach Alter, neuestem Ersten (Standard) oder Ältesten zuerst sortiert werden, indem Sie auf die Links **[!UICONTROL Newest]** oder **[!UICONTROL Oldest]** oben im Stream klicken.
 
 ## Reduzieren/Erweitern {#section_ypt_qr4_h1b}
 
