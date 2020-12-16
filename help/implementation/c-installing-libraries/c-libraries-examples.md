@@ -7,6 +7,9 @@ title: Beispiele
 uuid: 94e38dab-6234-43a2-a840-13a87f0237f1
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '31'
+ht-degree: 9%
 
 ---
 
