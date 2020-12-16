@@ -7,13 +7,16 @@ title: SSL-Durchsetzung
 uuid: e64af8c2-3ab6-4034-b385-0e552d828c6e
 translation-type: tm+mt
 source-git-commit: 7dc3ac6725a27460cecfa6051549da85370ca053
+workflow-type: tm+mt
+source-wordcount: '542'
+ht-degree: 2%
 
 ---
 
 
 # SSL-Durchsetzung{#ssl-enforcement}
 
-Um sicherzustellen, dass Ihre Daten sicher bleiben, wird HTTP zugunsten von HTTPS eingestellt. Adobe Livefyre deaktiviert alle HTTP- und unsicheren SSL/TLS-Chiffren bis Ende August 2018 vollständig. Dies ist ein Adobe Standard, der die Privatsphäre von Ihnen und Ihren Benutzern schützen soll.
+Um sicherzustellen, dass Ihre Daten sicher bleiben, wird HTTP zugunsten von HTTPS eingestellt. Adobe Livefyre wird alle HTTP- und unsicheren SSL/TLS-Chiffren bis Ende August 2018 vollständig deaktivieren. Dies ist eine Adobe Standard zum Schutz der Privatsphäre von Ihnen und Ihren Benutzern.
 
 ## Wer ist betroffen? {#section_jf2_4yz_kcb}
 
@@ -32,7 +35,7 @@ Dies könnte sich auf Livefyre-Kunden auswirken, die:
    * Benutzerdefinierte Anwendungen (Streamhub-SDK oder direkt kodiert).
 
 1. Server to Server und Mobile HTTP Clients müssen TLS 1.2 unterstützen
-1. Ändern Sie die Hostnamen von `{*}.<network>.fyre.co` in `<network>.{*}.fyre.co`. Der Hostname `example.network.fyre.co` ändert sich beispielsweise in `network.`example.fyre.co. Beispiel:
+1. Ändern Sie die Hostnamen von `{*}.<network>.fyre.co` in `<network>.{*}.fyre.co`. Beispielsweise ändert sich der Hostname `example.network.fyre.co` in `network.`example.fyre.co&quot;. Beispiel:
 
    * `bootstrap.<network_name>.fyre.co`auf `<network_name>.bootstrap.fyre.co`
 
@@ -42,7 +45,7 @@ Dies könnte sich auf Livefyre-Kunden auswirken, die:
 
 ## Woher weiß ich, ob ich die Änderungen vorgenommen habe? {#section_sqk_5d5_kcb}
 
-Sie können möglicherweise bereits HTTPS verwenden, aber Livefyre empfiehlt eine doppelte Überprüfung, insbesondere wenn Sie Folgendes haben:
+Sie können möglicherweise bereits HTTPS verwenden, aber Livefyre empfiehlt eine Überprüfung der Dublette, insbesondere wenn Sie über Folgendes verfügen:
 
 * Server-zu-Server-Aufrufe von Ihrem CMS oder CRM.
 * Benutzerdefinierter Code oder Verwendung von SDKs für benutzerdefinierte Apps in JavaScript oder Mobile.
@@ -57,18 +60,18 @@ Eine Person, die an der Entwicklung Ihrer Site arbeitet, kann:
 
 * Identifizieren Sie die Clientsoftware.
 * Identifizieren Sie die Version.
-* Read documentation to ensure the API client supports TLS 1.2.
+* Lesen Sie die Dokumentation, um sicherzustellen, dass der API-Client TLS 1.2 unterstützt.
 * Schalten Sie bei Bedarf den Debug-Modus ein.
 
 ## Java-Unterstützung für TLS 1.2 {#section_lwn_rwk_ycb}
 
-Oracle- und OpenJDK-JVMs für Java 8 und höher sind standardmäßig für alle SSL-Verbindungen für die Verwendung von TLS 1.2 konfiguriert. Wenn Sie Java 8 oder höher verwenden, müssen Sie keine weiteren Schritte ausführen.
+Oracle und OpenJDK JVMs für Java 8 und höher sind standardmäßig für alle SSL-Verbindungen für die Verwendung von TLS 1.2 konfiguriert. Wenn Sie Java 8 oder höher verwenden, müssen Sie keine weiteren Schritte ausführen.
 
 Benutzer von Java 7 oder früher sollten sich die öffentliche Dokumentation zur Aktivierung von TLS 1.2 ansehen.
 
 ## Warum muss ich meine Hostnamen ändern? {#section_d5q_p25_kcb}
 
-Livefyre verfügt nicht über SSL-Zertifikate für `{*}.<network>.fyre.co` Domänen. Wenn Sie die URL einfach in HTTPS ändern, wird die Anwendung unterbrochen.
+Livefyre verfügt nicht über SSL-Zertifikate für `{*}.<network>.fyre.co`-Domänen. Wenn Sie die URL einfach in HTTPS ändern, wird die Anwendung unterbrochen.
 
 ## Muss ich auf die neueste Version von Livefyre SDKs aktualisieren? {#section_dw5_s25_kcb}
 
