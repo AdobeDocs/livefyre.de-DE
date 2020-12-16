@@ -28,15 +28,15 @@ So implementieren Sie Konvertierungs-Apps (Kommentare, Chat, Live-Blog, Siegels)
 a. Erstellen Sie eine Sammlung mit dem CollectionMeta-Token.
 b. Integrieren von Livefyre-Apps in Sites mithilfe der Livefyre.js-Einbettungscode-Struktur.
 
-   * Weitere Informationen zur Verwendung der Livefyre.js-Einbettungscode-Struktur finden Sie unter [Einbetten einer App](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md).
+   * Weitere Informationen zur Verwendung der Livefyre.js-Einbettungscode-Struktur finden Sie unter [Eine App](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md) einbetten.
 
    * Informationen zur Integration der Kommentaranwendung finden Sie unter [Kommentare](/help/using/c-about-apps/c-comments/c-comments.md).
 
    * Informationen zur Integration der Chat-App finden Sie unter [Chat](/help/using/c-about-apps/c-chat-app/c-chat-app.md).
 
-   * Informationen zur Integration der Live-Blog-App finden Sie im [Live-Blog](/help/using/c-about-apps/c-liveblog-app/c-liveblog-app.md).
+   * Informationen zur Integration der Live-Blog-App finden Sie unter [Live-Blog](/help/using/c-about-apps/c-liveblog-app/c-liveblog-app.md).
 
-   * Weitere Informationen zur Integration der Sibezeichnet-App finden Sie unter [Sibezeichnet](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md).
+   * Weitere Informationen zur Integration der Siegels-App finden Sie unter [Sibezeichnet](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md).
 
 1. Authentifizierungsintegration durchführen.
 a. Erstellen Sie Auth-Token für Benutzer, um Benutzerdaten in Livefyre zu übermitteln und zu speichern.
@@ -48,13 +48,13 @@ So erstellen Sie eine Visualisierungs-App (Map, Media Wall, Trending, Karussell,
 
 1. Führen Sie eine App-Integration durch.
 a. Erstellen Sie eine Sammlung mit dem CollectionMeta-Token.
-b. Integrieren von Livefyre-Apps in Sites mithilfe der Livefyre.js-Einbettungscode-Struktur. Weitere Informationen zur Verwendung der Livefyre.js-Einbettungscode-Struktur finden Sie unter [Einbetten einer App](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md).
+b. Integrieren von Livefyre-Apps in Sites mithilfe der Livefyre.js-Einbettungscode-Struktur. Weitere Informationen zur Verwendung der Livefyre.js-Einbettungscode-Struktur finden Sie unter [Eine App](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md) einbetten.
 
    * Informationen zur Integration der Map-App finden Sie unter [Map](/help/using/c-about-apps/c-map-app/c-map-app.md).
 
-   * Informationen zur Integration der Media Wall-App finden Sie unter [Media Wall](/help/using/c-about-apps/c-media-wall-app/c-media-wall-app.md).
+   * Weitere Informationen zur Integration der Media Wall-App finden Sie unter [Medienwall](/help/using/c-about-apps/c-media-wall-app/c-media-wall-app.md).
 
-   * Informationen zur Integration der Trends-App finden Sie unter [Trends](/help/using/c-about-apps/c-trending-app/c-trending-app.md).
+   * Weitere Informationen zur Integration der Trendanwendung finden Sie unter [Trending](/help/using/c-about-apps/c-trending-app/c-trending-app.md).
 
 1. Authentifizierungsintegration durchführen.
 a. Erstellen Sie Auth-Token für Benutzer, um Benutzerdaten an Livefyre zu übermitteln und zu speichern.
@@ -64,4 +64,4 @@ b. Integration von Drittanbieterbenutzern und Authentifizierungsplattformen. Ein
 >
 >Livefyre unterstützt keine Karussell-, Filmstreifen-, Storify-, Feature Card-, Mosaic- und Polls-Apps, die Livefyre.js verwenden.
 
-Integrieren Sie diese Apps mithilfe des Prozesses &quot;App [erstellen](/help/using/c-about-apps/c-create-an-app.md) &quot;.
+Integrieren Sie diese Apps mit dem Vorgang [App](/help/using/c-about-apps/c-create-an-app.md) erstellen.
