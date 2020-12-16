@@ -53,7 +53,7 @@ ht-degree: 7%
       + [Medienwall](c-about-apps/c-media-wall-app/c-media-wall-app.md)
       + [Funktionen der Medienwall](c-about-apps/c-media-wall-app/r-media-wall-features.md)
       + [Anpassung der Medienmauer](c-about-apps/c-media-wall-app/r-media-wall-customizations.md)
-   + Mosaik {#mosaic}
+   + Mosaic {#mosaic}
       + [Mosaik](c-about-apps/c-mosaic-app/c-mosaic-app.md)
       + [Mosaic-Funktionen](c-about-apps/c-mosaic-app/r-mosaic-features.md)
       + [Mosaikanpassungen](c-about-apps/c-mosaic-app/c-mosaic-customizations.md)
@@ -66,7 +66,7 @@ ht-degree: 7%
       + [Reviews](c-about-apps/c-reviews-app/c-reviews-app.md)
       + [Erstellen einer Reviews-App](c-about-apps/c-reviews-app/c-creating-reviews.md)
       + [Review posten](c-about-apps/c-reviews-app/t-using-reviews.md)
-   + Sir {#sidenotes}
+   + Sibezeichnet {#sidenotes}
       + [Sir](c-about-apps/c-sidenotes-app/c-sidenotes-app.md)
       + [Funktionen von Sizilien](c-about-apps/c-sidenotes-app/r-sidenotes-features.md)
       + [Sifikanpassung](c-about-apps/c-sidenotes-app/r-sidenotes-customizations.md)
@@ -85,7 +85,7 @@ ht-degree: 7%
       + [Arbeiten mit mehreren Editoren in derselben Meldung](c-about-apps/c-storify2/t-working-with-multiple-editors-on-same-story.md)
       + [Verwenden Sie Streams, um Social-Inhalte in Ihrer Geschichte Hinzufügen.](c-about-apps/c-storify2/t-use-streams-to-add-social-content.md)
       + [Beitrag zum Storisieren von 2 fixieren](c-about-apps/c-storify2/t-pin-posts-to-storify2.md)
-      + Navigationsanleitung {#navigation-guide}
+      + Navigationshandbuch {#navigation-guide}
          + [Navigationsanleitung](c-about-apps/c-storify2/c-navigation-guide.md)
          + [Navigationshandbuch zu Storify 2 Hinzufügen](c-about-apps/c-storify2/t-add-navigation-guide-to-storify2.md)
          + [hinzufügen eines Titels zum Navigationshandbuch](c-about-apps/c-storify2/t-add-a-title-to-the-navigation-guide.md)
@@ -105,11 +105,11 @@ ht-degree: 7%
    + [Zugänglichkeitsfunktionen](c-features-livefyre/c-accessibility-features.md)
    + [Authentifizierungsfunktionen](c-features-livefyre/c-authentication.md)
    + [Benutzerdefinierte Aktionsaufruf-Schaltfläche](c-features-livefyre/c-call-to-action-button.md)
-   + Funktionen des Inhaltsverhaltens {#content-behavior-features}
+   + Inhaltsverhaltensfunktionen {#content-behavior-features}
       + [Funktionen des Inhaltsverhaltens](c-features-livefyre/c-content-behavior-features/c-content-behavior-features.md)
       + [Foto-Upload](c-features-livefyre/c-content-behavior-features/c-photo-upload.md)
       + [Benutzerbeiträge](c-features-livefyre/c-content-behavior-features/c-user-posts.md)
-   + Sammlungs- und Inhalts-Tags {#collection-content-tags}
+   + Collection- und Content-Tags {#collection-content-tags}
       + [Sammlungs- und Inhalts-Tags](c-features-livefyre/c-content-collection-tags/c-content-collection-tags.md)
       + [Sammlung ändern](c-features-livefyre/c-content-collection-tags/c-change-collection.md)
       + [Suche nach Sammlung oder Inhalts-Tag filtern](c-features-livefyre/c-content-collection-tags/t-filter-search-by-tag.md)
@@ -147,7 +147,7 @@ ht-degree: 7%
       + [Netzwerk-E-Mail einrichten](c-features-livefyre/c-notifications-features/t-set-up-network-email.md)
    + [Funktionen für Onsite-Beiträge](c-features-livefyre/c-on-site-contribution-features.md)
    + [Verweisverfolgung](c-features-livefyre/c-referral-tracking.md)
-   + Smart-Tags {#smart-tags}
+   + Smart Tags {#smart-tags}
       + [Smart-Tags](c-features-livefyre/c-smart-tags/c-smart-tags.md)
       + [Ansichten-Smart-Tags](c-features-livefyre/c-smart-tags/c-view-smart-tags.md)
    + Social Sharing {#social-sharing}
@@ -206,7 +206,7 @@ ht-degree: 7%
    + [Twitter-Regeln](c-streams/c-twitter-rules.md)
    + [Einschränkungen und Häufigkeit von Tweets](c-streams/c-throttling-and-frequency-of-tweets.md)
    + [YouTube-Regeln](c-streams/c-youtube-rules/c-youtube-rules.md)
-+ Berechtigungsanfragen {#rights-requests}
++ Rights Requests {#rights-requests}
    + [Anfordern von Rechten](c-how-requesting-rights-works/c-how-requesting-rights-works.md)
    + [Verwalten von Rights Anfragen](c-how-requesting-rights-works/c-managing-rights-requests.md)
    + [Rights Management einrichten](c-how-requesting-rights-works/t-set-up-rights-management.md)
@@ -236,7 +236,7 @@ ht-degree: 7%
       + [hinzufügen eines Social-Kontos](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/t-configure-social-accout-instagram.md)
       + [Info zu Instagram-Konten](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md)
       + [Token für ein Social-Konto aktualisieren](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-refresh-a-token-for-a-social-account.md)
-+ Einstellungen: Sonstiges {#settings-other}
++ Einstellungen: Andere {#settings-other}
    + [Berechtigungen einrichten](c-settings-other/t-set-up-credentials.md)
    + [hinzufügen einer Site in ein Netzwerk](c-settings-other/t-add-a-site.md)
    + Übersetzungssätze {#translation-sets}
@@ -259,14 +259,14 @@ ht-degree: 7%
       + [userPrivacyOptOut](c-settings-other/c-gdpr-compliance/c-userprivacyoptout.md)
 + Versionshinweise {#release-notes}
    + [Neueste Versionshinweise](c-rn/c-rn.md)
-   + Release Notes 2019 {#rn2019}
+   + Versionshinweise 2019 {#rn2019}
       + [21. März 2019](c-rn/previous-rns/rn2019/c-rn-2019-march-21.md)
       + [14. März 2019](c-rn/previous-rns/rn2019/c-rn-2019-march-14.md)
       + [21. Februar 2019](c-rn/previous-rns/rn2019/c-rn-2019-february-21.md)
       + [7. Februar 2019](c-rn/previous-rns/rn2019/c-rn-2019-february-7.md)
       + [31. Januar 2019](c-rn/previous-rns/rn2019/c-rn-2019-january-31.md)
       + [17. Januar 2019](c-rn/previous-rns/rn2019/c-rn-2019-january-17.md)
-   + Release Notes 2018 {#rn2018}
+   + Versionshinweise 2018 {#rn2018}
       + [18. Dezember 2018](c-rn/previous-rns/rn2018/c-rn-2018-december-18.md)
       + [13. Dezember 2018](c-rn/previous-rns/rn2018/c-rn-2018-december-13.md)
       + [15. November 2018](c-rn/previous-rns/rn2018/c-rn-2018-november-15.md)
@@ -287,7 +287,7 @@ ht-degree: 7%
       + [15. Februar 2018](c-rn/previous-rns/rn2018/c-rn-2018-february-15.md)
       + [1. Februar 2018](c-rn/previous-rns/rn2018/c-2018-february-1.md)
       + [18. Januar 2018](c-rn/previous-rns/rn2018/c-rn-2018-january-18.md)
-   + Release Notes 2017 {#rn2017}
+   + Versionshinweise 2017 {#rn2017}
       + [16. November 2017](c-rn/previous-rns/rn2017/c-rn-2017-november-16.md)
       + [2. November 2017](c-rn/previous-rns/rn2017/c-rn-2017-november-2.md)
       + [19. Oktober 2017](c-rn/previous-rns/rn2017/c-rn-2017-october-19.md)
