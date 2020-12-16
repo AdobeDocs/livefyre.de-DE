@@ -7,11 +7,14 @@ title: Social Sharing aktivieren
 uuid: f584a0ae-46c7-48c1-aea4-36da9f1e259b
 translation-type: tm+mt
 source-git-commit: d77b633b9892e3ea4aaec860317887f1fdf66830
+workflow-type: tm+mt
+source-wordcount: '623'
+ht-degree: 0%
 
 ---
 
 
-# Social Sharing aktivieren {#enabling-social-sharing}
+# Aktivieren von Social Sharing {#enabling-social-sharing}
 
 Richten Sie Anmeldeinformationen ein, mit denen Ihre Benutzer Inhalte für verschiedene soziale Netzwerke freigeben können.
 
@@ -21,7 +24,7 @@ Um Benutzern die Freigabe von Inhalten über Social-Media-Sites zu ermöglichen,
 >
 >Verschiedene Anbieter haben unterschiedliche OAuth-Anforderungen. Bitte fragen Sie bei Ihren Anbietern nach, welche Informationen zu deren Implementierung von OAuth gehören.
 
-## Erforderliche Social-Berechtigungen {#section_gff_cjm_b1b}
+## Erforderliche Social-Anmeldeinformationen {#section_gff_cjm_b1b}
 
 Wenn Sie ein benutzerdefiniertes Benutzeridentitätssystem verwenden, müssen Sie Ihre sozialen Anmeldeinformationen angeben, damit Benutzer über eine Livefyre-App auf Twitter, Facebook oder LinkedIn zugreifen können.
 
@@ -29,48 +32,48 @@ Wenn Sie ein benutzerdefiniertes Benutzeridentitätssystem verwenden, müssen Si
 >
 >Kunden, die Janrain Engage verwenden, müssen nur ihren Engage Domain- und Engage API Key angeben.
 
-Verwenden Sie das Bedienfeld "Integrationseinstellungen"der Admin-Konsole, um die folgenden Social-Anmeldedaten einzugeben oder zu aktualisieren.
+Verwenden Sie das Bedienfeld &quot;Integrationseinstellungen&quot;der Admin Console, um die folgenden Social-Anmeldedaten einzugeben oder zu aktualisieren.
 
 ### Erforderliche Berechtigungen:
 
-* **Facebook** -Client-ID-Client - Geheimer OAuth-Proxy-Umleitung
-* **LinkedIn** API-Schlüssel-API-Geheim
-* **Twitter** -Zugriffstoken - Geheimer API-Schlüssel geheim
+* **** FacebookClient-ID-Client Geheimer OAuth-Proxy-Umleitung
+* **API-Geheimnis** für LinkedInAPI-Schlüssel
+* **API-Schlüssel für** TwitterAccess-Token-Zugriffstoken-Geheimnis
 
 ## Twitter {#section_qp5_1yl_b1b}
 
-Twitter-Anmeldeinformationen sind über das Twitter-App-Dashboard verfügbar. So suchen Sie diese Berechtigungen:
+Twitter-Anmeldeinformationen sind im Twitter App-Dashboard verfügbar. So suchen Sie diese Berechtigungen:
 
-* Öffnen Sie die App-Dev-Seite[ von ](https://dev.twitter.com/apps)Twitter als Inhaber der App, suchen Sie Ihre Anwendung und klicken Sie auf den Titel.
-* Blättern Sie nach unten zu "Ihr Zugriffstoken"und erfassen Sie die Werte aus "Zugriffstoken"und "Zugriffstoken-Geheimnis".
+* Öffnen Sie [Twitters App Dev Page](https://dev.twitter.com/apps) als App-Inhaber, suchen Sie Ihre Anwendung und klicken Sie auf den Titel.
+* Blättern Sie nach unten zu &quot;Ihr Zugriffstoken&quot;und ziehen Sie die Werte aus &quot;Zugriffstoken&quot;und &quot;Zugriffstoken-Geheimnis&quot;ab.
 
 Sie müssen:
 
-* Geben Sie in der Twitter-App einen Wert für das Feld "Rückruf-URL"ein. Dieses Feld kann ein einfacher Platzhalter sein, darf jedoch nicht leer gelassen werden.
-* Legen Sie als Anwendungstyp den **Lese** - und **Schreibzugriff** fest.
+* Geben Sie in der Twitter-App einen Wert für das Feld &quot;Rückruf-URL&quot;ein. Dieses Feld kann ein einfacher Platzhalter sein, darf jedoch nicht leer gelassen werden.
+* Stellen Sie den Anwendungstyp so ein, dass sowohl **read** als auch **write** Zugriff haben.
 * Vergewissern Sie sich, dass sich die URL der Twitter-App-Website in derselben Hostdomäne wie die Livefyre-Core-App befindet.
 
 >[!NOTE]
 >
->Alle Anwendungen, die Twitter-Inhalte anzeigen, müssen ihre Anzeigeanforderungen erfüllen. Weitere Informationen finden Sie in den [Twitter-Anzeigenrichtlinien](https://dev.twitter.com/terms/display-requirements) .
+>Alle Anwendungen, die Twitter-Inhalte anzeigen, müssen ihre Anzeigeanforderungen erfüllen. Weitere Informationen finden Sie unter [Twitter-Anzeigenrichtlinien](https://dev.twitter.com/terms/display-requirements).
 
 ## LinkedIn {#section_lfz_zxl_b1b}
 
-LinkedIn-Anmeldedaten sind im Abschnitt "OAuth-Schlüssel"der API-Schlüssel der LinkedIn-Anwendung verfügbar.
+LinkedIn-Anmeldedaten sind im Abschnitt &quot;OAuth-Schlüssel&quot;der API-Schlüssel der LinkedIn-Anwendung verfügbar.
 
-* Melden Sie sich auf der Seite "Entwickler"von LinkedIn bei Ihrem Konto an [https://developer.linkedin.com/](https://developer.linkedin.com/).
-* Bewegen Sie den Mauszeiger über Ihren Namen oben rechts und wählen Sie im Dropdownmenü die Option API-Schlüssel.
+* Melden Sie sich über die Seite für Entwickler von LinkedIn unter [https://developer.linkedin.com/](https://developer.linkedin.com/) bei Ihrem Konto an.
+* Bewegen Sie den Mauszeiger über Ihren Namen oben rechts und wählen Sie im Dropdown-Menü die Option &quot;API-Schlüssel&quot;.
 * Klicken Sie auf den Titel der Anwendung.
-* Werte für den API-Schlüssel und geheime Schlüssel aus dem Abschnitt "OAuth-Schlüssel"abrufen
+* Werte für den API-Schlüssel und geheime Schlüssel aus dem Abschnitt &quot;OAuth-Schlüssel&quot;abrufen
 
 ## Facebook {#section_zyb_gpl_b1b}
 
-Facebook-Anmeldeinformationen stehen auf Ihrer Seite "Developer Apps"zur Verfügung.
+Facebook-Anmeldeinformationen stehen auf Ihrer Seite &quot;Developer Apps&quot;zur Verfügung.
 
-* Öffnen Sie die [Facebook Developer Apps-Seite](https://developers.facebook.com/apps) als App-Inhaber, suchen Sie Ihre Anwendung und klicken Sie auf den Titel.
-* Erfassen Sie die Werte für App-ID und App-geheim. Für den geheimen App-Schlüssel müssen Sie möglicherweise auf die Schaltfläche "Anzeigen"klicken, um ihn anzuzeigen.
+* Öffnen Sie die Developer Apps-Seite von Facebook [als App-Inhaber, suchen Sie die Anwendung und klicken Sie auf den Titel.](https://developers.facebook.com/apps)
+* Erfassen Sie die Werte für App-ID und App-geheim. Für den geheimen App-Schlüssel müssen Sie möglicherweise auf die Schaltfläche &quot;Anzeigen&quot;klicken, um ihn anzuzeigen.
 
-Für die Freigabe auf Facebook müssen Sie eine Umleitungsseite einrichten, um Facebook-Anforderungen zu erfüllen und die von [Facebook](https://developers.facebook.com/docs/reference/dialogs/oauth/)geforderten Domänenpraktiken einzuhalten. Die Seite muss in Ihrer Domäne gehostet werden, damit Facebook überprüfen kann, ob die Anforderung von einer legitimen Quelle stammt.
+Für die Freigabe auf Facebook müssen Sie eine Umleitungsseite einrichten, um Facebook-Anforderungen zu erfüllen und die Domänenpraktiken einzuhalten, die für [Facebook](https://developers.facebook.com/docs/reference/dialogs/oauth/) erforderlich sind. Die Seite muss in Ihrer Domäne gehostet werden, damit Facebook überprüfen kann, ob die Anforderung von einer legitimen Quelle stammt.
 
 ### Facebook-Umleitung
 
@@ -329,9 +332,9 @@ if (isset($_GET['lfoauth'])) {
 ?>
 ```
 
-## Konfigurieren von Anbietern für die Übermittlung {#section_rdk_dpl_b1b}
+## Konfigurieren von &quot;An&quot;-Anbietern {#section_rdk_dpl_b1b}
 
-Standardmäßig werden in den Livefyre-Core-Anwendungen die Schaltflächen Facebook, LinkedIn und Twitter "Posten auf"angezeigt. Verwenden Sie den Parameter postToButtons, um zu konfigurieren, welche Anbieter beim Einbetten der Livefyre-App angezeigt werden.
+Standardmäßig werden in den Livefyre-Core-Anwendungen die Schaltflächen Facebook, LinkedIn und Twitter &quot;Posten auf&quot;angezeigt. Verwenden Sie den Parameter postToButtons, um zu konfigurieren, welche Anbieter beim Einbetten der Livefyre-App angezeigt werden.
 
 ```
 var convConfig = {}; // Ignoring other options for this example 
