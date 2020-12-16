@@ -7,6 +7,9 @@ title: Authentifizierungspaket
 uuid: 4eec30cf-66b6-408d-985d-3e23b8b70d01
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '280'
+ht-degree: 1%
 
 ---
 
@@ -15,9 +18,9 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Installieren Sie das Authentifizierungspaket, um die Benutzerauthentifizierung zu aktivieren, damit Benutzer mit Ihren Apps interagieren können.
 
-Livefyre-Apps verwenden das globale Authentifizierungspaket, um Benutzer mit App-Aktionen zu verknüpfen. Das Authentifizierungspaket ist erhältlich `Livefyre.require`.
+Livefyre-Apps verwenden das globale Authentifizierungspaket, um Benutzer mit App-Aktionen zu verknüpfen. Das Authentifizierungspaket ist über `Livefyre.require` verfügbar.
 
-Um die Authentifizierung auf Ihrer Seite zu aktivieren, fügen Sie zuerst `Livefyre.js` das Element Ihrer Webseite oder Website-Vorlage `<head>` hinzu.
+Um die Authentifizierung auf Ihrer Seite zu aktivieren, fügen Sie zunächst `Livefyre.js` zum `<head>`-Element Ihrer Webseite oder Website-Vorlage hinzu.
 
 ```
 <script src="//cdn.livefyre.com/Livefyre.js"></script>
@@ -33,7 +36,7 @@ Livefyre.require(['auth'], function (auth) {
 
 ## Methoden {#section_ojx_1lz_fz}
 
-Wenn das Modul Auth wie oben angegeben `Livefyre.require`eingeschlossen ist, stellt es die folgenden Methoden bereit, die Sie aufrufen können, um andere Apps auf der Seite über authentifizierungsbezogene Ereignisse zu informieren.
+Wenn das Auth-Modul, wie oben beschrieben, mit `Livefyre.require` eingeschlossen wurde, stellt es die folgenden Methoden bereit, die Sie aufrufen können, um andere Apps auf der Seite über authentifizierungsbezogene Ereignis zu benachrichtigen.
 
 | Methode | Beschreibung |
 |--- |--- |
