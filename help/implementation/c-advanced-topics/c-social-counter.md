@@ -7,13 +7,16 @@ title: Social-Zähler
 uuid: fa9aa1a8-6a04-4bc1-9bfe-e42c1250fd48
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '242'
+ht-degree: 10%
 
 ---
 
 
 # Social-Zähler{#social-counter}
 
-Zählen Sie die Anzahl der kuratierten sozialen Elemente. Eine vollständige Liste der verfügbaren Endpunkte finden Sie im Abschnitt zur Livefyre- [API-Referenz](https://api.livefyre.com/docs) .
+Zählen Sie die Anzahl der kuratierten sozialen Elemente. Eine vollständige Liste der verfügbaren Endpunkte finden Sie im Abschnitt Livefyre [API-Referenz](https://api.livefyre.com/docs).
 
 Die Social-Zähler-API gibt für eine bestimmte Sammlung für Intervalle über einen bestimmten Zeitraum Zählungen für übereinstimmende Kurationsregeln zurück.
 
@@ -33,18 +36,18 @@ Social-Zähler-API:
 GET https://{networkName}.bootstrap.fyre.co/api/v3.0/stats.collections.curate/{query}.json
 ```
 
-* **** networkName:Ihr Livefyre hat den Netzwerknamen angegeben. Beispiel: *Laboratorien* in `labs.fyre.co`.
-* **** query: Der url-sichere base64-kodierte Hash aller Seiten, Artikel-ID- und Regeltypen, für die Zählungsinformationen abgerufen werden sollen (vorkodiert)
+* **networkName:** Ihr Livefyre-Netzwerkname. Beispiel: *labs* in `labs.fyre.co`.
+* **abfrage:** Der url-sichere base64-kodierte Hash aller Seiten, Artikel-ID- und Regeltypen, für die Zählungsinformationen abgerufen werden sollen (vorkodiert)
 
    ```
    {site ID}:{article ID};{rule-type},  {article ID};{rule-type}|{site ID}:{article ID};{rule-type}
    ```
 
    >[!NOTE]
-   >Die Abfrage ist auf 10 Site-, Artikel-ID-, Regel-Typ-Tupel beschränkt. (Das vorherige Beispiel würde 3 Tupel enthalten.)
+   >Die Abfrage ist auf 10 Site-, Artikel-ID- und Regeltypen beschränkt. (Das vorherige Beispiel würde 3 Tupel enthalten.)
 
-* **from** gibt den relativen oder absoluten Zeitraum bis zum Diagramm an `(optional)` ; from gibt den Anfang an und ist standardmäßig auf vor 24 Stunden eingestellt, wenn kein Wert angegeben wird.
-* **bis** `(optional)` der relative oder absolute Zeitraum für das Diagramm angegeben ist; bis gibt den Anfang an und standardmäßig die aktuelle Zeit (jetzt) an, falls nicht angegeben.
+* **&quot;** `(optional)` form&quot;gibt den relativen oder absoluten Zeitraum für das Diagramm an; from gibt den Anfang an und ist standardmäßig auf vor 24 Stunden eingestellt, wenn kein Wert angegeben wird.
+* **gibt** `(optional)` nicht den relativen oder absoluten Zeitraum für das Diagramm an; bis gibt den Anfang an und standardmäßig die aktuelle Zeit (jetzt) an, wenn kein Wert angegeben wird.
 
 ### Relative Zeit
 
@@ -90,7 +93,7 @@ https://labs-t402.bootstrap.fyre.co/api/v3.0/stats.collections.curate/MTIzNDU2On
 
 Beispiel:
 
-So erhalten Sie Zählungen über die letzte Minute für die Site- `123456` und Artikel-ID `some-article-id` und den Regeltyp `2`, z. B.: `123456:some-article-id;2:`
+So erhalten Sie Zählungen über die letzte Minute für Site `123456` und Artikel-ID `some-article-id` und Regeltyp `2`, z. B.: `123456:some-article-id;2:`
 
 ```
 curl -XGET "https://labs-t402.bootstrap.fyre.co/api/v3.0/stats.collections.curate/MTIzNDU2OnNvbWUtYXJ0aWNsZS1pZDsy.json&from=-1min" 
