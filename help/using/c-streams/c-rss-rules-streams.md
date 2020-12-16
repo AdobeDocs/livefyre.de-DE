@@ -7,6 +7,9 @@ title: RSS-Regeln
 uuid: 3c9e2069-bb85-41dc-8b35-6237642a538a
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '245'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +28,7 @@ Um RSS-Regeln zu erstellen, mit denen Inhalte aus RSS-Feeds in Ihre App oder Ihr
    * **[!UICONTROL Enabled]** hinzugefügt, fügt Livefyre die ersten 50 Inhaltselemente in Ihrem Feed unabhängig vom Veröffentlichungsdatum zum Stream hinzu.
    * **[!UICONTROL Disabled]** hinzugefügt, fügt Livefyre die ersten 50 Inhaltselemente in Ihrem Feed mit einem Veröffentlichungsdatum hinzu, das dem Erstellungsdatum der Stream-Regel oder höher entspricht.
 
-* **[!UICONTROL Extract post information from item link (when disabled, post information is extracted from XML).]** Ziehen Sie Informationen aus dem Elementlink oder aus der XML.
+* **[!UICONTROL Extract post information from item link (when disabled, post information is extracted from XML).]** Ziehen Sie Informationen aus dem Element-Link oder aus der XML.
 
 **RSS-Regeln**
 
