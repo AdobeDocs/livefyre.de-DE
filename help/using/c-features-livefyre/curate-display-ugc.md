@@ -7,17 +7,20 @@ title: UGC kuratieren und anzeigen
 uuid: null
 translation-type: tm+mt
 source-git-commit: c5fd168c0ed74dada9fb85423c92cf6955c4b8c9
+workflow-type: tm+mt
+source-wordcount: '133'
+ht-degree: 0%
 
 ---
 
 
-# UGC kuratieren und anzeigen {#curatedisplayugc}
+# Kuratieren und Anzeigen von UGC {#curatedisplayugc}
 
 Verwenden Sie Livefyre, um UGC mithilfe einer benutzerdefinierten Visualisierung zu kuratieren und anzuzeigen.
 
 1. [Erstellen Sie eine Visualisierungs-App in Studio](/help/using/c-about-apps/c-create-an-app.md).
 
-1. [Konfigurieren Sie Streams und fügen Sie Regeln hinzu, um UGC in die App](/help/using/c-streams/c-streams.md)zu kuratieren.
+1. [Konfigurieren Sie Streams und Hinzufügen Regeln, um UGC in die App](/help/using/c-streams/c-streams.md) zu kuratieren.
 
 Schulungsvideos zum Streamen von UGC finden Sie unter [Erstellen von automatischen Inhaltsströmen und Suchen von Social-Inhalten in Adobe Experience Manager Livefyre](https://helpx.adobe.com/experience-manager/tutorials.html).
 
