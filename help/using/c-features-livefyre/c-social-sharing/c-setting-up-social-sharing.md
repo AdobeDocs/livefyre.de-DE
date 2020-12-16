@@ -6,34 +6,37 @@ title: Social Sharing einrichten
 uuid: e1940e30-9fbb-41e8-b5bb-497a5b06643f
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '355'
+ht-degree: 2%
 
 ---
 
 
-# Setting up Social Sharing{#setting-up-social-sharing}
+# Einrichten von Social Sharing{#setting-up-social-sharing}
 
-The Social Sharing panel allows you to add your social media network app credentials.
+Im Bedienfeld &quot;Social Sharing&quot;können Sie Ihre Anmeldedaten für eine Social Media-Netzwerkanwendung hinzufügen.
 
-Livefyre uses this information to connect to the listed social networks on behalf of your social App, and to post shared content for your users on their behalf. Enter these values to enable social integration. They may be edited at any time.
+Livefyre verwendet diese Informationen, um im Namen Ihrer Social-App eine Verbindung zu den aufgelisteten sozialen Netzwerken herzustellen und um gemeinsame Inhalte für Ihre Benutzer in ihrem Namen zu posten. Geben Sie diese Werte ein, um die soziale Integration zu aktivieren. Sie können jederzeit bearbeitet werden.
 
-Settings available from this page will update to reflect your social sharing system, as defined during your Livefyre integration process. Those integrating using their own custom user identity systems, must supply social network credentials for Facebook, LinkedIn, and Twitter, if they wish to allow their end users to share to these platforms. Janrain Engage customers need only supply their Janrain credentials, and not Facebook, Twitter, or LinkedIn.
+Die auf dieser Seite verfügbaren Einstellungen werden aktualisiert und spiegeln Ihr Social Sharing-System wider, das während des Livefyre-Integrationsprozesses definiert wurde. Diejenigen, die mit ihren eigenen benutzerdefinierten Identitätssystemen integrieren, müssen soziale Netzwerk-Anmeldeinformationen für Facebook, LinkedIn und Twitter bereitstellen, wenn sie ihren Endbenutzern die Freigabe für diese Plattformen ermöglichen möchten. Janrain Engage-Kunden müssen nur ihre Janrain-Anmeldeinformationen angeben, nicht jedoch Facebook, Twitter oder LinkedIn.
 
 >[!NOTE]
 >
->Only one app per Social Media site may be enabled for your Network. Sie können diese Apps auf mehreren Sites einschließen, aber Ihr Netzwerk kann nur eine Facebook-, Twitter-, LinkedIn- und eine Bitly-Integration haben.
+>Pro Social Media-Site kann nur eine App für Ihr Netzwerk aktiviert werden. Sie können diese Apps auf mehreren Sites einschließen, aber Ihr Netzwerk kann nur eine Facebook-, Twitter-, LinkedIn- und eine Bitly-Integration haben.
 
 ## Janrain Engage {#section_dzq_1p1_21b}
 
 Geben Sie die folgenden Anmeldeinformationen ein, um die Integration von Janrain Engage zu aktivieren:
 
-* **[!UICONTROL Engage API Key:]** The API key for your Janrain Engage account.
+* **[!UICONTROL Engage API Key:]** Der API-Schlüssel für Ihr Janrain Engage-Konto.
 * **[!UICONTROL Engage Domain:]** Ihr Janrain hat einen Domänennamen angegeben.
 
 ## Facebook {#section_tch_gp1_21b}
 
 Um Facebook freizugeben, geben Sie die folgenden Facebook-App-Anmeldeinformationen ein:
 
-* **[!UICONTROL Client ID:]** Die Client-ID, die mit Ihrer Facebook-App bereitgestellt wird.
+* **[!UICONTROL Client ID:]** Die Client-ID, die im Lieferumfang Ihrer Facebook-App enthalten ist.
 * **[!UICONTROL Client Secret:]** Das Clientgeheimnis, das mit Ihrer Facebook-App bereitgestellt wurde.
 * **[!UICONTROL OAuth Proxy Redirect:]** Ihre Umleitungsseite zum Empfangen von Facebook-Anfragen.
 
@@ -72,7 +75,7 @@ Apps, die diese Funktion verwenden:
 * [Mosaik](/help/using/c-about-apps/c-mosaic-app/c-mosaic-app.md#c_mosaic_app)
 * [Umfragen](/help/using/c-about-apps/c-polls-app/c-polls-app.md#c_polls_app)
 * [Reviews](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
-* [Sidenotes](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
+* [Sir](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [Trends](/help/using/c-about-apps/c-trending-app/c-trending-app.md#c_trending_app)
 
