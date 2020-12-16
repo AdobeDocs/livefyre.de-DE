@@ -1,19 +1,22 @@
 ---
-description: Die Trend-App bietet diese Funktionen für Ihre Site.
-seo-description: Die Trend-App bietet diese Funktionen für Ihre Site.
+description: Die Trend-App Angebot diese Funktionen für Ihre Site.
+seo-description: Die Trend-App Angebot diese Funktionen für Ihre Site.
 seo-title: Trendfunktionen
 solution: Experience Manager
 title: Trendfunktionen
 uuid: 7e7b1d05-2154-43d8-92e7-63152934c785
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '51'
+ht-degree: 0%
 
 ---
 
 
 # Trendfunktionen{#trending-features}
 
-Die Trend-App bietet diese Funktionen für Ihre Site.
+Die Trend-App Angebot diese Funktionen für Ihre Site.
 
 
 
