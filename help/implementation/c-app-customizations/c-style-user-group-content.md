@@ -14,7 +14,7 @@ ht-degree: 4%
 ---
 
 
-# Inhalt der Benutzergruppe formatieren{#style-user-group-content}
+# Stil-Benutzergruppeninhalt{#style-user-group-content}
 
 Verwenden Sie benutzerdefinierte Stile, um Ihre Benutzer zu unterscheiden.
 
