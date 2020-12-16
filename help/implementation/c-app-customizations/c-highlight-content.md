@@ -7,11 +7,14 @@ title: Inhalt hervorheben
 uuid: 89876b89-3ee2-40cd-9431-377e43ea1e89
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '140'
+ht-degree: 0%
 
 ---
 
 
-# Inhalt hervorheben{#highlight-content}
+# Inhalt{#highlight-content} markieren
 
 Verwenden Sie die Formatierung, um ausgewählte Inhalte oder Benutzergruppen hervorzuheben und zu bewerben.
 
