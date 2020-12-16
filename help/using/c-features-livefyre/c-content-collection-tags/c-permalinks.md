@@ -7,6 +7,9 @@ title: Permalinks
 uuid: 40ef30ec-dc3e-47fe-87a9-f9073cd4c4ff
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '246'
+ht-degree: 1%
 
 ---
 
@@ -19,15 +22,15 @@ Mit Permalinks können Sie Links zu archivierten Kommentaren oder Inhalten in Ih
 
 ## Permalink-Anzeige {#section_mxd_wwg_wy}
 
-Wenn Benutzer von einem sozialen Netzwerk zu einer Livefyre-Content-App auf einen Permalink klicken, werden sie zum Livefyre-Inhaltsstream geleitet. Der Inhalt wird in einer Aufschlüsselungsansicht des Streams direkt unter dem Editor angezeigt, wobei der vollständige Kontext angezeigt wird. Unter dem Avatar wird eine blaue Linie für den permalinierten Inhalt angezeigt. (Diese blaue Linie verschwindet nach einigen Sekunden.)
+Wenn Benutzer von einem sozialen Netzwerk zu einer Livefyre-Content-App auf einen Permalink klicken, werden sie zum Livefyre-Inhaltsstream geleitet. Der Inhalt wird in einer Ansicht der Aufschlüsselung des Streams direkt unterhalb des Editors angezeigt, wobei der vollständige Kontext angezeigt wird. Unter dem Avatar wird eine blaue Linie für den permalinierten Inhalt angezeigt. (Diese blaue Linie verschwindet nach einigen Sekunden.)
 
-(Wenn permalinierter Inhalt gelöscht wird, wird eine entsprechende Meldung in der Aufschlüsselungsansicht angezeigt.)
+(Wenn permalinierter Inhalt gelöscht wird, wird eine entsprechende Meldung in der Ansicht angezeigt.)
 
 ## Benutzerdefinierte Permalinks {#section_uyn_5wg_wy}
 
 Wenn Sie beim Freigeben von Konversationen benutzerdefinierte Permalinks für Kommentare erstellen möchten, können Sie anstelle der standardmäßigen Livefyre-verkürzten URL (fyre.it) Ihr Bitly-Konto verwenden. Durch die Verwendung Ihres Bitly-Kontos können Benutzer daran erinnert werden, dass sie beim Klicken auf einen Permalink Inhalte auf Ihrer Site besuchen werden.
 
-Um diese Funktion zu implementieren, gehen Sie zu **[!UICONTROL Studio > Settings > Integration Settings > Social Sharing]** und geben Sie Ihren Bitly-API-Schlüssel und Ihren Benutzernamen ein.
+Um diese Funktion zu implementieren, gehen Sie zu **[!UICONTROL Studio > Settings > Integration Settings > Social Sharing]** und geben Sie Ihren Bitly API-Schlüssel und Ihren Benutzernamen ein.
 
 >[!NOTE]
 >
