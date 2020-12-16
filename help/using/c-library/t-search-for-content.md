@@ -14,13 +14,13 @@ ht-degree: 0%
 ---
 
 
-# Suche nach Instagram-Inhalten{#search-for-instagram-content}
+# Suche nach Instagram Content{#search-for-instagram-content}
 
 Verwenden Sie die Social-Suche, um nach Instagram-Inhalten zu suchen, die in Ihre Asset-Bibliothek aufgenommen oder in Apps veröffentlicht werden sollen.
 
 >[!NOTE]
 >
->Bevor Sie eine Social-Suche nach Instagram durchführen können, müssen Sie dem **[!UICONTROL Social Accounts]** Abschnitt in ein Instagram-Geschäftskonto hinzufügen **[!UICONTROL Network Settings]** und Livefyre autorisieren, dieses Konto zu verwenden. Informationen zum Einrichten eines Instagram-Geschäftskontos in Adobe Livefyre Studio finden Sie unter [](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts).
+>Bevor Sie eine Social-Suche nach Instagram durchführen können, müssen Sie dem Abschnitt **[!UICONTROL Social Accounts]** in **[!UICONTROL Network Settings]** ein Instagram-Geschäftskonto hinzufügen und Livefyre autorisieren, dieses Konto zu verwenden. Informationen zum Einrichten eines Instagram-Geschäftskontos in Adobe Livefyre Studio finden Sie unter [](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts).
 
 Sie können Suchvorgänge speichern und wiederverwenden. Klicken Sie in der Suchleiste auf , um eine Liste Ihrer zuletzt und gespeicherten Suchen anzuzeigen.
 
@@ -28,8 +28,8 @@ Wenn Sie der Bibliothek neue Assets hinzufügen, werden Assets, die bereits in I
 
 1. Konfigurieren Sie ein Instagram-Geschäftskonto.
 1. Navigieren Sie zu **[!UICONTROL Library]** > **[!UICONTROL Social Search]**.
-1. Wählen Sie **[!UICONTROL Instagram]** zum Durchsuchen von Instagram-Inhalten.
-1. Geben Sie Ihre Suchkriterien ein und klicken Sie auf **[!UICONTROL Show Filter]** , um Ihre Suche zu verfeinern.
+1. Wählen Sie **[!UICONTROL Instagram]** aus, um Instagram-Inhalte zu suchen.
+1. Geben Sie Ihre Suchkriterien ein und klicken Sie auf **[!UICONTROL Show Filter]**, um Ihre Suche zu verfeinern.
 
    * **[!UICONTROL Business User Search:]** Sucht nach Instagram-Beiträgen durch den Eingabeautor.
 
@@ -41,4 +41,4 @@ Wenn Sie der Bibliothek neue Assets hinzufügen, werden Assets, die bereits in I
 
    * **[!UICONTROL Recent Tags Search]**: Suchen Sie nach den neuesten Beiträgen mit dem Hashtag.
 
-Elemente werden angezeigt, die Ihrer Suche entsprechen. Bewegen Sie den Mauszeiger über ein Element, um es **[!UICONTROL View Details]** Ihrer Asset-Bibliothek oder einer App hinzuzufügen **[!UICONTROL Publish]** .
+Elemente werden angezeigt, die Ihrer Suche entsprechen. Bewegen Sie den Mauszeiger über ein Element zu **[!UICONTROL View Details]**, fügen Sie es Ihrer Asset-Bibliothek hinzu oder **[!UICONTROL Publish]** zu einer App.
