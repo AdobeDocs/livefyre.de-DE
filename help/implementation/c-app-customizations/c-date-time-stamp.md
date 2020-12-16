@@ -7,6 +7,9 @@ title: Anpassen des Datums- und Uhrzeitstempels
 uuid: 632ea405-56b7-4664-8d2b-0dd0a7611bd8
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '383'
+ht-degree: 0%
 
 ---
 
@@ -23,10 +26,10 @@ Livefyre-Apps bieten den Optionsparameter datetimeFormat, um das Datumsformat wi
 
 ## Terminologie {#section_xsk_jn4_xz}
 
-* **Absolute Zeitstempel** werden als genaue und spezifische Zeiten definiert (z. B. 1. Januar 2012, 12:00 Uhr)
-* **Relative Zeitstempel** werden als allgemeine und weniger präzise Zeiten definiert (z. B. vor 25 Sekunden, vor 14 Minuten, vor 1 Tag, vor einem Jahr usw.)
+* **Absolute** Zeitstempel werden als genaue und spezifische Zeiten definiert (z. B. 1. Januar 2012, 12:00 Uhr)
+* **Relative** Zeitstempel werden als allgemeine und weniger präzise Zeiten definiert (z. B. vor 25 Sekunden, vor 14 Minuten, vor 1 Tag, vor einem Jahr usw.)
 
-## Formatierung {#section_ynx_gn4_xz}
+## Formatieren {#section_ynx_gn4_xz}
 
 Der Parameter datetimeFormat hat das folgende Standardverhalten, wenn kein Argument angegeben wird:
 
@@ -85,7 +88,7 @@ var conv = fyre.conv.load(networkConfig, [convConfig]);
 
 ## Symbolbezeichnung {#section_inq_2n4_xz}
 
-Die Formatierungsfunktionen für die Datenzeit folgen der Musterspezifikation, wie in JDK, ICU und CLDR definiert, mit geringfügigen Änderungen für die typische Verwendung in JS. Weitere Informationen finden Sie in der Dokumentation zur [Google Closure Library](https://developers.google.com/closure/library/docs/overview).
+Die Formatierungsfunktionen für die Datenzeit folgen der Musterspezifikation, wie in JDK, ICU und CLDR definiert, mit geringfügigen Änderungen für die typische Verwendung in JS. Weitere Informationen finden Sie unter [Google Closure Library Documentation](https://developers.google.com/closure/library/docs/overview).
 
 ```
   Symbol Meaning Presentation        Example 
@@ -119,14 +122,14 @@ Die Formatierungsfunktionen für die Datenzeit folgen der Musterspezifikation, w
   ''       single quote            (Literal)           'o''clock'
 ```
 
-Mit "*"markierte Elemente werden noch nicht unterstützt.
+Mit &quot;*&quot;markierte Elemente werden noch nicht unterstützt.
 
-Mit "#"markierte Elemente funktionieren anders als Java.
+Mit &quot;#&quot;markierte Elemente funktionieren anders als Java.
 
 Das Format wird durch die Anzahl der Musterbuchstaben bestimmt.
 
-* **** Text: 4 oder mehr, verwenden Sie das vollständige Formular. Verwenden Sie weniger als 4, wenn vorhanden, ein kurzes oder abgekürztes Formular. (Beispiel: "EEEE"produziert "Montag", "EEE"produziert "Mon".)
-* **** Nummer: die Mindestanzahl von Ziffern. Kürzere Zahlen werden diesem Betrag Null hinzugefügt (Beispiel: Wenn "m""6"ergibt, erzeugt "mm""06".) Jahr wird besonders behandelt; Wenn also "y"gleich 2 ist, wird das Jahr auf 2 Stellen gekürzt. (Beispiel: Wenn "yyyy"den Wert "1997"ergibt, erzeugt "yy"den Wert "97".) Im Gegensatz zu anderen Feldern werden auf der rechten Seite Bruchteile mit Null aufgefüllt.
-* **** Text und Zahl: 3 oder höher, verwenden Sie Text. Weniger als 3, Nummer verwenden. (Beispiel: "M"erzeugt "1", "MM"produziert "01", "MMM"produziert "Jan", und "MMMM"produziert "Januar".)
+* **Text:** 4 oder mehr, vollständiges Formular verwenden. Verwenden Sie weniger als 4, wenn vorhanden, ein kurzes oder abgekürztes Formular. (Beispiel: &quot;EEEE&quot;produziert &quot;Montag&quot;, &quot;EEE&quot;produziert &quot;Mon&quot;.)
+* **Zahl:** die Mindestanzahl der Ziffern. Kürzere Zahlen werden diesem Betrag Null hinzugefügt (Beispiel: Wenn &quot;m&quot;&quot;6&quot;ergibt, erzeugt &quot;mm&quot;&quot;06&quot;.) Jahr wird besonders behandelt; Wenn also &quot;y&quot;gleich 2 ist, wird das Jahr auf 2 Stellen gekürzt. (Beispiel: Wenn &quot;yyyy&quot;den Wert &quot;1997&quot;ergibt, erzeugt &quot;yy&quot;den Wert &quot;97&quot;.) Im Gegensatz zu anderen Feldern werden auf der rechten Seite Bruchteile mit Null aufgefüllt.
+* **Text und Zahl:** 3 oder höher, verwenden Sie Text. Weniger als 3, Nummer verwenden. (Beispiel: &quot;M&quot;erzeugt &quot;1&quot;, &quot;MM&quot;produziert &quot;01&quot;, &quot;MMM&quot;produziert &quot;Jan&quot;, und &quot;MMMM&quot;produziert &quot;Januar&quot;.)
 
-Alle Zeichen im Muster, die nicht in den Bereichen von ["a"liegen."z’] and [A."Z’] wird als zitierter Text behandelt. Zeichen wie ":", ".", ", "#"und "@"werden im resultierenden Zeittext angezeigt, auch wenn sie nicht in einfache Anführungszeichen gesetzt werden.
+Alle Zeichen im Muster, die sich nicht in den Bereichen von [&quot;a&quot;befinden.&quot;z&quot;] und [&quot;A&quot;..&quot;Z’] wird als zitierter Text behandelt. Zeichen wie &quot;:&quot;, &quot;.&quot;, &quot;, &quot;#&quot;und &quot;@&quot;werden im resultierenden Zeittext angezeigt, auch wenn sie nicht in einfache Anführungszeichen gesetzt werden.
