@@ -7,15 +7,18 @@ title: Implementierung der SSO
 uuid: c96d456c-b1ac-40e0-8d18-224652b9697f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '218'
+ht-degree: 0%
 
 ---
 
 
-# Implementierung der SSO{#implementing-sso}
+# Implementierung von SSO{#implementing-sso}
 
 Um einen Benutzer mit Livefyre über einen Fluss zu authentifizieren, der nicht von einer Livefyre-App ausgelöst wird, empfiehlt Livefyre, die forAnyAuthentication-Methode für das AuthDelegate-Objekt zu implementieren.
 
-Dies wird aufgerufen, wenn die `authDelegate` übergeben wird `auth.delegate`, und es wird eine Authentifizierungsfunktion übergeben, die mehrmals übergeben werden kann. Diese Methode stellt eine Inversion der Steuerung für Authentifizierungsereignisse bereit, sodass Ihr System sich selbst enthalten `AuthDelegateobject` kann, ohne dass ein globaler Verweis auf auth erforderlich ist.
+Dies wird aufgerufen, wenn `authDelegate` an `auth.delegate` übergeben wird, und es wird eine Authentifizierungsfunktion übergeben, die mehrmals übergeben werden kann. Diese Methode stellt eine Inversion der Steuerung für Authentifizierungs-Ereignis bereit, sodass `AuthDelegateobject` unabhängig voneinander sein kann, ohne dass ein globaler Verweis auf auth erforderlich ist.
 
 ```
 authDelegate.forEachAuthentication = function (authenticate) { 
