@@ -7,6 +7,9 @@ title: Strings lokalisieren
 uuid: c0ab352d-5d3a-45d7-bbd0-aed165835646
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '1996'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 Anpassen der Zeichenfolgen der Livefyre-Apps.
 
-Die Textzeichenfolgen für die meisten HTML-Elemente in einer Livefyre-App können angepasst werden. Dies bietet die Flexibilität, den Text von gerenderten HTML-Elementen wie "Posten als", "Kommentar-Zähler"oder "Anmelden"in eine beliebige gültige UTF-8-Zeichenfolge zu ändern. Verwenden Sie diese Funktion, um Ihrer Implementierung des Streams Persönlichkeit hinzuzufügen oder um die Sprache in der App für Ihre Benutzerbasis zu lokalisieren.
+Die Textzeichenfolgen für die meisten HTML-Elemente in einer Livefyre-App können angepasst werden. Dies bietet die Flexibilität, den Text von gerenderten HTML-Elementen wie &quot;Posten als&quot;, &quot;Kommentar-Zähler&quot;oder &quot;Anmelden&quot;in eine beliebige gültige UTF-8-Zeichenfolge zu ändern. Verwenden Sie diese Funktion, um Ihrer Implementierung des Streams Persönlichkeit hinzuzufügen oder um die Sprache in der App für Ihre Benutzerbasis zu lokalisieren.
 
 * Kommentare, Chat und Live-Blog
 
@@ -60,7 +63,7 @@ var customStrings = {
 );
 ```
 
-Diese Seite listet alle Textzeichenfolgen auf, die für die Livefyre-Core-Apps angepasst werden können.
+Auf dieser Seite werden alle Textzeichenfolgen Liste, die für die Livefyre-Core-Apps angepasst werden können.
 
 ## Kontozugriff {#section_cm3_d24_xz}
 
@@ -73,12 +76,12 @@ Für den Authentifizierungsprozess verfügbare Zeichenfolgen und in den authenti
 |  | displayName | %s |
 |  | editProfile | Profil bearbeiten |
 |  | notificationSettings | Benachrichtigungseinstellungen |
-|  | siteAdmin | Admin-Konsole (Links zu Studio) |
+|  | siteAdmin | Admin Console (Links zu Studio) |
 |  | signOut | Abmelden |
 
 ## Stream-Info {#section_wx1_c24_xz}
 
-Für Informationen und Anzeigen von Inhaltsströmen verfügbare Zeichenfolgen. Listet die Anzahl der Personen auf, die zuhören, die Anzahl der Beiträge für die App, und ermöglicht Benutzern, sich anzumelden oder auf ihre Kontoinformationen zuzugreifen.
+Für Informationen und Anzeigen von Inhaltsströmen verfügbare Zeichenfolgen. Liste der Anzahl der Personen, die zuhören, der Anzahl der Beiträge für die App und Ermöglicht Benutzern die Anmeldung oder den Zugriff auf ihre Kontoinformationen.
 
 | Schlüssel | Standardtext | Stream-Daten |
 |---|---|---|
@@ -112,7 +115,7 @@ Ermöglicht es Benutzern, zurückgegebene Inhalte nach Alter oder Popularität z
 |  | sortHotThreads | Hotkeys |
 |  | sortSeparator |  |  |
 |  | streamSorting | Wird geladen |
-|  | topCommentsContentNotFoundMsg | Es gibt noch nicht genug "Gefällt mir"-Klicks. |
+|  | topCommentsContentNotFoundMsg | Es gibt noch nicht genug &quot;Gefällt mir&quot;-Klicks. |
 |  | hotThreadsContentNotFoundMsg | Es sind noch nicht genügend Threads vorhanden. |
 |  | streamRefreshMsg | Erfahren Sie mehr über die neuen Funktionen. |
 | Fußzeilenoptionen | archiveHeaderTitle | Aus dem Archiv |
@@ -122,16 +125,16 @@ Ermöglicht es Benutzern, zurückgegebene Inhalte nach Alter oder Popularität z
 
 ![](assets/strings_threadend-150x47.png)
 
-## Inhaltsinformationen {#section_llv_yd4_xz}
+## Content Info {#section_llv_yd4_xz}
 
-Listet Informationen zum Beitrag auf: Benutzername, alle angewendeten Benutzer-Tags und die Uhrzeit des Beitrags.
+Listen veröffentlichen Informationen: Benutzername, alle angewendeten Benutzer-Tags und die Uhrzeit des Beitrags.
 
 ![](assets/strings_authorinfo-150x52.png)  ![](assets/strings_posttime-150x45.png)
 
 | Schlüssel | Standardtext | Autor |
 |---|---|---|
 |  | moderator | moderator |
-|  | hovercardViewProfile | Vollständiges Profil anzeigen |
+|  | hovercardViewProfile | Ansicht Profil |
 | Beitragsinformationen | timeJustNow | gerade jetzt |
 |  | timeMinutesAgo | Vor  Minute |
 |  | timeMinutesAgoPlural | vor ... Minuten |
@@ -144,9 +147,9 @@ Listet Informationen zum Beitrag auf: Benutzername, alle angewendeten Benutzer-T
 |  | moderatorEditTimestamp | Von einem Moderator bearbeitet |
 |  | commentTombstone | Dieser Kommentar wurde gelöscht |
 |  | permalinkNotFoundMsg | Dieser Kommentar ist nicht mehr sichtbar. |
-|  | quickProfileTooltip | Schnellprofil |
+|  | quickProfileTooltip | Quick Profil |
 
-## Dargebotener Inhalt {#section_gmw_vd4_xz}
+## Vorgestellte Inhalte {#section_gmw_vd4_xz}
 
 Wenn aktiviert, werden spezielle Inhalte oben im Stream aufgeführt.
 
@@ -167,7 +170,7 @@ Standardmäßig ist sie für alle Benutzer am oberen Rand der Seite verfügbar.
 | Editor-Schaltflächen | follow | + Folgen |
 |  | unfollow | - Nicht befolgen |
 |  | liveblogFollow | Live-Blog |
-|  | liveblogUnfollow | Live-Blog nicht |
+|  | liveblogUnfollow | Live-Blog nicht befolgen |
 |  | postButton(Verfügbar für angemeldete Benutzer.) | Kommentar posten |
 |  | postAsButton(Verfügbar für nicht authentifizierte Benutzer.) | Kommentar posten als... |
 |  | postEditButton | Kommentar bearbeiten |
@@ -189,7 +192,7 @@ Sofern nicht anders angegeben, steht allen angemeldeten Benutzern zur Verfügung
 |---|---|---|
 | Benutzerreaktionsoptionen | Verfügbar für Endbenutzer. |  |
 | FlagButton | Markierung |
-|  | flagCommentTooltip | Markierung |
+|  | FlagCommentTooltip | Markierung |
 |  | editButton(Nur für Autoren und Moderatoren verfügbar, falls aktiviert.) | Vorlage      |
 |  | deleteButton(Nur für Autoren und Moderatoren verfügbar, falls aktiviert.) | Löschen |
 |  | deleteCommentTooltip | Löschen |
@@ -223,8 +226,8 @@ Sofern nicht anders angegeben, steht allen angemeldeten Benutzern zur Verfügung
 |  | FlagEmail | E-Mail |
 |  | FlagEmailPlaceholder | you@example.com |
 |  | flagNotes | Hinweise |
-|  | FlagNotesPlaceholder | Hier tippen... |
-|  | flagConfirmButton |  OK- |
+|  | FlagNotesPlaceholder | Beginn hier eingeben... |
+|  | FlagConfirmButton |  OK- |
 |  | FlagCancelButton | Abbrechen |
 |  | flagConfirmationMessage | Kennzeichnen Sie %s Kommentar als %s? |
 |  | FlagSuccessMsg | Kommentar wurde markiert. |
@@ -273,8 +276,8 @@ Sofern nicht anders angegeben, steht allen angemeldeten Benutzern zur Verfügung
 | Schlüssel | Standardtext |  |
 |---|---|---|
 | Modal bearbeiten | Verfügbar für Studio-Administratoren, Benutzermanager oder Moderatoren |  |
-| @(@Erwähnung.) | &lt;/&gt;(Öffnet das benutzerdefinierte HTML-Fenster.) |  |
-|  | customHtmlDialogTitle(Wird als Header für das Modal angezeigt.) | Benutzerspezifischen HTML hinzufügen |
+| @(@Erwähnung.) | &lt;/>(Öffnet das benutzerdefinierte HTML-Fenster.) |  |
+|  | customHtmlDialogTitle(Wird als Header für das Modal angezeigt.) | hinzufügen benutzerdefinierter HTML |
 
 ![](assets/strings_moderatoreditmodal-150x49.png)
 
@@ -303,7 +306,7 @@ Sofern nicht anders angegeben, steht allen angemeldeten Benutzern zur Verfügung
 
 ## Kommentar-Notifizierer {#section_qqt_pd4_xz}
 
-Sofern aktiviert, verfügbar unten auf der Seite für alle Livefyre-Konversations-Apps.
+Sofern aktiviert, verfügbar am unteren Rand der Seite für alle Livefyre-Konversations-Apps.
 
 ![](assets/strings_notifier-150x112.png)
 
@@ -369,7 +372,7 @@ Für die Medienwall-App verfügbare Zeichenfolgen.
 
 | Schlüssel | Standardtext |
 |---|---|
-| postButtonText | Was denkst du? |
+| postButtonText | Was hast du im Kopf? |
 | postModalTitle | Kommentar posten |
 | postModalButton | Kommentar posten |
 | postModalPlaceholder | Was möchten Sie sagen? |
@@ -385,7 +388,7 @@ Für Karten verfügbare Zeichenfolgen.
 | specialText | Vorgestellt |
 | shareButtonText | Freigabe |
 
-## Mosaik {#section_e2s_b5n_xz}
+## Mosaic {#section_e2s_b5n_xz}
 
 Für Mosaics verfügbare Zeichenfolgen.
 
@@ -418,7 +421,7 @@ Für die Upload-App verfügbare Zeichenfolgen.
 
 | Schlüssel | Standardtext |
 |---|---|
-| postButtonText | Was denkst du? |
+| postButtonText | Was hast du im Kopf? |
 | postModalTitle | Kommentar posten |
 | postModalButton | Kommentar posten |
 | postModalTitlePlaceholder | Titel eingeben |
@@ -450,7 +453,7 @@ Für Livefyre Identity verfügbare Zeichenfolgen.
 
 | Schlüssel | Standardtext |
 |--- |--- |
-| autoFollowConversations | Konversationen automatisch ausführen, an denen ich teilnehme |
+| autoFollowConversations | Konversationen, an denen ich teilnehme, automatisch ausführen |
 | back | Zurück |
 | bio | Biographie |
 | erstellen | Erstellung     |
@@ -461,7 +464,7 @@ Für Livefyre Identity verfügbare Zeichenfolgen.
 | completeAccount | Vollständiges Konto |
 | emailWhenAnyReplies | E-Mail, wenn jemand auf mich antwortet |
 | emailCommentsIFollow | E-Mail-Kommentare in Konversationen, die ich befolge |
-| emailSenttoResetPassword | Email gesendet! Überprüfen Sie Ihren Posteingang auf einen Link, um Ihr Kennwort zurückzusetzen. |
+| emailSenttoResetPassword | E-Mail gesendet! Überprüfen Sie Ihren Posteingang auf einen Link, um Ihr Kennwort zurückzusetzen. |
 | emailVerificationSent | E-Mail-Bestätigung gesendet |
 | firstName | Vorname |
 | forgotPassword | Kennwort vergessen? |
@@ -502,7 +505,7 @@ Für Livefyre Identity verfügbare Zeichenfolgen.
 | profileNotificationNiemals | never |
 | previousComments | Letzte Kommentare |
 | zurücksetzen | Reset |
-| resetPassword |  Kennwort zurücksetzen |
+| resetPassword | Kennwort zurücksetzen |
 | signIn | Anmelden |
 | signInWith | Anmelden mit |
 | signInWithEmail | Anmelden mit E-Mail |
@@ -510,7 +513,7 @@ Für Livefyre Identity verfügbare Zeichenfolgen.
 | socialAccount | Social-Konto |
 | successPasswordChanged | Erfolg! Ihr Kennwort wurde geändert und Sie sind jetzt angemeldet |
 | termsAndConditions | Geschäftsbedingungen |
-| termsAndConditionsIntro | Durch die Anmeldung akzeptieren Sie die |
+| termsAndConditionsIntro | Durch die Anmeldung akzeptieren Sie die Variable |
 | termsOfUse | Nutzungsbedingungen |
 | termsOfUseIntro | Durch die Anmeldung stimmen Sie zu, |
 | thisUser | Dieser Benutzer |
@@ -521,9 +524,9 @@ Für Livefyre Identity verfügbare Zeichenfolgen.
 | fieldisrequired | Feld akzeptiert nur eine Ganzzahl |
 | fieldonlyaccept tsavalidemail | Feld akzeptiert nur eine gültige E-Mail |
 | fieldonlyaccept letters | Feld akzeptiert nur Buchstaben |
-| filesizemustbelessthanMB | Dateigröße muss kleiner als {#}MB sein |
+| filesizemustbelessthanMB | Die Dateigröße muss kleiner als {#}MB sein. |
 | invalidusernameorpassword | Ungültiger Benutzername oder ungültiges Kennwort |
-| minimumlengthFlags | Mindestlänge von {#} Zeichen |
+| minimumlengthFlags | Mindestlänge von {#}-Zeichen |
 | maximumholthofcharacters | Maximale Länge von {#} Zeichen |
 | therewasanerror | Es ist ein Fehler aufgetreten |
 | thisFieldDisrequired | Dieses Feld ist ein Pflichtfeld. |
@@ -534,13 +537,13 @@ Für Livefyre Identity verfügbare Zeichenfolgen.
 | passwordSymbols | muss mindestens eine Zahl und ein Symbol enthalten. |
 | passwordUsername | enthält nicht Ihren Benutzernamen. |
 | passwordPopoverTitle | Ihr Kennwort muss: |
-| passwordErrorContainsFirstName | Das von Ihnen eingegebene Kennwort enthält entweder Ihren Benutzernamen, Vornamen oder Nachnamen. Geben Sie aus Sicherheitsgründen ein Kennwort ein, das Ihren Benutzernamen, Vornamen oder Nachnamen nicht enthält. Bitte beachten Sie auch, dass Ihr Kennwort Folgendes enthalten muss: 6 bis 32 Zeichen Ein Großbuchstabe A Kleinbuchstabe A Symbol |
-| passwordErrorContainsLastName | Das von Ihnen eingegebene Kennwort enthält entweder Ihren Benutzernamen, Vornamen oder Nachnamen. Geben Sie aus Sicherheitsgründen ein Kennwort ein, das Ihren Benutzernamen, Vornamen oder Nachnamen nicht enthält. Bitte beachten Sie auch, dass Ihr Kennwort Folgendes enthalten muss: 6 bis 32 Zeichen Ein Großbuchstabe A Kleinbuchstabe A Symbol |
-| passwordErrorContainsUsername | Das von Ihnen eingegebene Kennwort enthält entweder Ihren Benutzernamen, Vornamen oder Nachnamen. Geben Sie aus Sicherheitsgründen ein Kennwort ein, das Ihren Benutzernamen, Vornamen oder Nachnamen nicht enthält. Bitte beachten Sie auch, dass Ihr Kennwort Folgendes enthalten muss: 6 bis 32 Zeichen Ein Großbuchstabe A Kleinbuchstabe A Symbol |
+| passwordErrorContainsFirstName | Das von Ihnen eingegebene Passwort enthält entweder Ihren Benutzernamen, Vornamen oder Nachnamen. Geben Sie aus Sicherheitsgründen ein Kennwort ein, das Ihren Benutzernamen, Vornamen oder Nachnamen nicht enthält. Bitte beachten Sie auch, dass Ihr Passwort Folgendes enthalten muss: 6 bis 32 Zeichen Ein Großbuchstabe A Kleinbuchstabe A Symbol |
+| passwordErrorContainsLastName | Das von Ihnen eingegebene Passwort enthält entweder Ihren Benutzernamen, Vornamen oder Nachnamen. Geben Sie aus Sicherheitsgründen ein Kennwort ein, das Ihren Benutzernamen, Vornamen oder Nachnamen nicht enthält. Bitte beachten Sie auch, dass Ihr Passwort Folgendes enthalten muss: 6 bis 32 Zeichen Ein Großbuchstabe A Kleinbuchstabe A Symbol |
+| passwordErrorContainsUsername | Das von Ihnen eingegebene Passwort enthält entweder Ihren Benutzernamen, Vornamen oder Nachnamen. Geben Sie aus Sicherheitsgründen ein Kennwort ein, das Ihren Benutzernamen, Vornamen oder Nachnamen nicht enthält. Bitte beachten Sie auch, dass Ihr Passwort Folgendes enthalten muss: 6 bis 32 Zeichen Ein Großbuchstabe A Kleinbuchstabe A Symbol |
 | passwordErrorTooShort | Mindestens 6 Zeichen für ein Kennwort |
 | passwordErrorTooLong | Maximal 32 Zeichen für Kennwort |
 | passwordErrorMissingUppercase | Das Kennwort sollte mindestens ein Großbuchstaben enthalten |
 | passwordErrorMissingLowercase | Kennwort sollte mindestens ein Kleinbuchstabe enthalten |
-| passwordErrorMissingSymbol | Das Kennwort sollte mindestens ein Symbol im Satz enthalten `!@#$%^&*()?.,<>\’;:”[]{}|` |
+| passwordErrorMissingSymbol | Das Kennwort sollte mindestens ein Symbol im Satz `!@#$%^&*()?.,<>\’;:”[]{}|` enthalten. |
 
 
