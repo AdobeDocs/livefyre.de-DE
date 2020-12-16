@@ -7,23 +7,26 @@ title: Konfigurationsoptionen
 uuid: 4a7f03b3-6d97-46e9-8832-81e665f06d3a
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '405'
+ht-degree: 0%
 
 ---
 
 
 # Konfigurationsoptionen{#configuration-options}
 
-Wählen Sie in Livefyre Studio die Konfigurationsoptionen "Stil", "Anzeige"und "Benutzerinteraktion"für Storify 2.
+Wählen Sie in Livefyre Studio die Konfigurationsoptionen &quot;Stil&quot;, &quot;Anzeige&quot;und &quot;Benutzerinteraktion&quot;für Storify 2.
 
 **Stiloptionen**
 
 * **[!UICONTROL Theme]**
 
-   Wählen Sie " **Hell** "oder " **Dunkel** ", um die Hintergrundfarbe für den angezeigten Inhalt zu definieren. Änderungen, die an dieser Einstellung vorgenommen wurden, werden sofort in der Vorschau auf der rechten Seite angezeigt. Diese Einstellung steuert Hintergrund, Inhaltstext, Benutzernamen, Zeitstempel, Schaltfläche "Freigeben"und die Farbauswahl für Social-Symbole für die App.
+   Wählen Sie **Light** oder **Dark** aus, um die Hintergrundfarbe für den angezeigten Inhalt zu definieren. Änderungen, die an dieser Einstellung vorgenommen wurden, werden sofort in der Vorschau auf der rechten Seite angezeigt. Diese Einstellung steuert Hintergrund, Inhaltstext, Benutzernamen, Zeitstempel, Schaltfläche &quot;Freigeben&quot;und die Farbauswahl für das Social-Symbol für die App.
 
 * **[!UICONTROL Brand color]**
 
-   Wählen Sie eine Farbe für Ihre App aus. Diese Farbe wird für Hashtags, URLs, Benutzernamen, @mentions, Balkendiagramme und andere App-spezifische Komponenten verwendet, wie im Vorschaufenster rechts angezeigt.
+   Wählen Sie eine Farbe für Ihre App aus. Diese Farbe wird für Hashtags, URLs, Benutzernamen, @mentions, Balkendiagramme und andere App-spezifische Komponenten verwendet, wie im Bereich &quot;Vorschau&quot;rechts angezeigt.
 
 * **[!UICONTROL Font family]**
 
@@ -41,7 +44,7 @@ Wählen Sie in Livefyre Studio die Konfigurationsoptionen "Stil", "Anzeige"und "
 
 * **[!UICONTROL Byline]**
 
-   Wenn diese Option aktiviert ist, können Sie festlegen, ob der Name des ursprünglichen Autors oder ein Teamname als Autorenzeile für Ihre Geschichte angegeben werden soll.
+   Wenn diese Option aktiviert ist, können Sie festlegen, ob der Name des ursprünglichen Autors oder ein Teamname als Autorenzeile Liste werden soll.
 
    >[!NOTE]
    >
@@ -49,7 +52,7 @@ Wählen Sie in Livefyre Studio die Konfigurationsoptionen "Stil", "Anzeige"und "
 
 * **[!UICONTROL Byline type]**
 
-   Wenn diese Option aktiviert **[!UICONTROL Byline]** ist, können Sie mit diesem Pulldown den anzuzeigenden Typ von Byline auswählen: Mannschaftszeichenfolge oder einzelne Zeilen. Verwenden Sie das Feld unten, um den Text einzugeben, der als Autorenzeile angezeigt werden soll. **[!UICONTROL Byline type]**
+   Wenn **[!UICONTROL Byline]** aktiviert ist, können Sie mit diesem Pulldown den anzuzeigenden Typ von Byte auswählen: Mannschaftszeichenfolge oder einzelne Zeilen. Verwenden Sie das Feld unter **[!UICONTROL Byline type]**, um den Text einzugeben, der als Autorenzeile angezeigt werden soll.
 
    >[!NOTE]
    >
@@ -57,17 +60,17 @@ Wählen Sie in Livefyre Studio die Konfigurationsoptionen "Stil", "Anzeige"und "
 
 * **[!UICONTROL Set time zone]**
 
-   Ermöglicht die Auswahl der Zeitzone für die Meldung. Dieser Speicherort wird zum Zeitstempel aller Beiträge in der Meldung verwendet. (Endbenutzer sehen das Dokument in ihre lokale Zeit übersetzt, können jedoch den Mauszeiger über den Zeitstempel bewegen, um den Zeitstempel für die Meldung anzuzeigen.)
+   Ermöglicht die Auswahl der Zeitzone, die für die Meldung verwendet werden soll. Dieser Speicherort wird zum Zeitstempel aller Beiträge in der Meldung verwendet. (Endbenutzer sehen das Dokument in ihre lokale Zeit übersetzt, können jedoch den Mauszeiger über den Zeitstempel bewegen, um den Zeitstempel für die Meldung anzuzeigen.)
 
 * **[!UICONTROL Load more posts]**
 
-   Legen Sie fest, ob Beiträge fortlaufend angezeigt werden, während ein Benutzer nach unten blättert, oder ob eine Schaltfläche "Mehr anzeigen"angezeigt werden soll.
+   Legen Sie fest, ob Beiträge fortlaufend angezeigt werden, wenn ein Benutzer nach unten blättert, oder ob eine Schaltfläche &quot;Mehr anzeigen&quot;angezeigt werden soll.
 
 **[!UICONTROL User Engagement]**
 
 * **[!UICONTROL Users may share posts]**
 
-   Wenn diese Option aktiviert ist, können Benutzer Ihre Geschichte für Twitter oder Facebook freigeben. Weitere Informationen zum Aktivieren der Freigabe finden Sie unter Einstellungen &gt; Integrationseinstellungen &gt; Social Sharing.
+   Wenn diese Option aktiviert ist, können Benutzer Ihre Geschichte für Twitter oder Facebook freigeben. Weitere Informationen zum Aktivieren der Freigabe finden Sie unter Einstellungen > Integrationseinstellungen > Social Sharing.
 
 * **[!UICONTROL Users may add sidenotes]**
 
