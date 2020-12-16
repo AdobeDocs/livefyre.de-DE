@@ -6,11 +6,14 @@ title: 19. Oktober 2017
 uuid: 7f5fba9e-bd07-4d85-b67c-7a5577055447
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+workflow-type: tm+mt
+source-wordcount: '167'
+ht-degree: 9%
 
 ---
 
 
-# October 19, 2017{#october}
+# 19. Oktober 2017{#october}
 
 Versionshinweise für die Version vom 19. Oktober 2017.
 
@@ -18,8 +21,8 @@ Versionshinweise für die Version vom 19. Oktober 2017.
 
 | **Art des Problems** | **Komponente** | **Versionshinweise** |
 |---|---|---|
-| Fehler | Einstellungen | Das Ändern der Farbe in der Einstellung "Markenfarbe"in den Studio-Einstellungen funktioniert jetzt wie vorgesehen. |
-| Fehler | Rights Management | Es wurde ein Fehler behoben, durch den lange Benutzernamen auf der Registerkarte "Rights Modal"angezeigt wurden. |
+| Fehler | Einstellungen | Das Ändern der Farbe in der Einstellung &quot;Markenfarbe&quot;in den Studio-Einstellungen funktioniert jetzt wie vorgesehen. |
+| Fehler | Rights Management | Es wurde ein Fehler behoben, durch den lange Benutzernamen auf der Registerkarte &quot;Rights Modal&quot;angezeigt wurden. |
 
 ## UAT-Version
 
