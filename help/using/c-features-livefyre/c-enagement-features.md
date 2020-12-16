@@ -1,23 +1,26 @@
 ---
-description: Binden Sie Besucher Ihrer Site mit Funktionen ein, mit denen sie bei der Entdeckung Ihres Inhalts auf Ihre Site zurückkehren können.
-seo-description: Binden Sie Besucher Ihrer Site mit Funktionen ein, mit denen sie bei der Entdeckung Ihres Inhalts auf Ihre Site zurückkehren können.
+description: Binden Sie Ihre Site-Besucher mit Funktionen ein, mit denen sie bei der Inhaltserkennung zu Ihrer Site zurückkehren können.
+seo-description: Binden Sie Ihre Site-Besucher mit Funktionen ein, mit denen sie bei der Inhaltserkennung zu Ihrer Site zurückkehren können.
 seo-title: Erweiterungsfunktionen
 solution: Experience Manager
 title: Erweiterungsfunktionen
 uuid: 5841a183-62c0-40ae-9cef-884bffb7c39b
 translation-type: tm+mt
 source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+workflow-type: tm+mt
+source-wordcount: '426'
+ht-degree: 2%
 
 ---
 
 
 # Erweiterungsfunktionen{#enagement-features}
 
-Binden Sie Besucher Ihrer Site mit Funktionen ein, mit denen sie bei der Entdeckung Ihres Inhalts auf Ihre Site zurückkehren können.
+Binden Sie Ihre Site-Besucher mit Funktionen ein, mit denen sie bei der Inhaltserkennung zu Ihrer Site zurückkehren können.
 
 ## Benutzerdefinierte Schaltflächen {#section_jdv_vcm_d1b}
 
-Benutzerdefinierte Aktionsschaltflächen und die zugehörige Aktion können jedem Benutzer oder Inhaltselement einer beliebigen Livefyre-App neben den vorhandenen Schaltflächen "Flag", "Freigeben"und "Löschen"hinzugefügt werden. Beispiele könnten es sein, wenn ein Benutzer Inhalte vor einem anderen Benutzer ausblenden oder einem Benutzer folgen könnte.
+Benutzerdefinierte Aktionsschaltflächen und die zugehörige Aktion können jedem Benutzer oder Inhaltselement einer beliebigen Livefyre-App neben den vorhandenen Schaltflächen &quot;Flag&quot;, &quot;Freigeben&quot;und &quot;Löschen&quot;hinzugefügt werden. Beispiele könnten es sein, wenn ein Benutzer Inhalte vor einem anderen Benutzer ausblenden oder einem Benutzer folgen könnte.
 
 Technische Informationen zum Hinzufügen benutzerdefinierter Aktionsschaltflächen finden Sie unter Hinzufügen benutzerdefinierter Schaltflächen.
 
@@ -29,7 +32,7 @@ Apps, die diese Funktion verwenden:
 
 ## Gefällt mir {#section_q4j_ycm_d1b}
 
-Fügen Sie die Möglichkeit hinzu, einen Kommentar oder eine Antwort zu "Gefällt mir"-Klicks hinzuzufügen.
+hinzufügen die Möglichkeit, einen Kommentar oder eine Antwort zu &quot;Gefällt mir&quot;-Klicks.
 
 Apps, die diese Funktion verwenden:
 
@@ -44,7 +47,7 @@ Apps, die diese Funktion verwenden:
 
 ## Medienerweiterung {#section_pmq_ycm_d1b}
 
-Die Möglichkeit, ein Medienelement in einem größeren modalen Fenster anzuzeigen.
+Die Möglichkeit, ein Medienelement in einem größeren modalen Fenster Ansicht.
 
 Apps, die diese Funktion verwenden:
 
@@ -59,17 +62,17 @@ Apps, die diese Funktion verwenden:
 * [Reviews](../c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 * [Storify 2](../c-about-apps/c-storify2/c-storify2.md#c_storify2)
 
-## Freundschaftsansichten {#section_yw5_fdm_d1b}
+## Freundesangaben {#section_yw5_fdm_d1b}
 
 @erwähnen Sie einen Benutzer oder eine Person, die bereits Inhalte in der Sammlung veröffentlicht hat.
 
-Um jemanden zu erwähnen, der in der Sammlung gepostete Inhalte veröffentlicht hat, können Benutzer auf die Schaltfläche " **[!UICONTROL @]** Erwähnung"klicken oder @ in den Editor eingeben, um eine Liste der Personen anzuzeigen, die zur Erwähnung verfügbar sind. Die Liste enthält alle Benutzer, die der Unterhaltung folgen. (Geben Sie einen Namen ein, um die Liste auf die für den Eingabetext zutreffenden Werte zu beschränken.)
+Um jemanden zu erwähnen, der Inhalte in der Sammlung veröffentlicht hat, können Benutzer auf die **[!UICONTROL @]**-Schaltfläche klicken oder @ in den Editor eingeben, um eine Liste von Personen anzuzeigen, die zur Erwähnung verfügbar sind. Die Liste umfasst alle Benutzer, die die Konversation verfolgen. (Beginn, der einen Namen eingibt, um die Liste auf Übereinstimmungen mit dem Eingabetext zu beschränken.)
 
 >[!NOTE]
 >
 >Benutzer, die @antwortet haben, erhalten keine Benachrichtigung über den Beitrag.
 
-Die Funktion zum Taggen von Freunden ist auf Mobilgeräten nicht verfügbar und ist in IE8 oder früher nicht verfügbar.
+Die Funktion zum Taggen von Freunden ist auf Mobilgeräten nicht verfügbar und steht in IE8 oder früher nicht zur Verfügung.
 
 Apps, die diese Funktion verwenden:
 
@@ -81,15 +84,15 @@ Apps, die diese Funktion verwenden:
 
 Erstellen Sie benutzerdefinierte Aktionsschaltflächen für Inhalte in einer App.
 
-Benutzerdefinierte Aktionsschaltflächen und die zugehörige Aktion können jedem Benutzer oder Inhaltselement einer beliebigen Livefyre-App neben den vorhandenen Schaltflächen "Flag", "Freigeben"und "Löschen"hinzugefügt werden. Beispiele könnten es sein, wenn ein Benutzer Inhalte vor einem anderen Benutzer ausblenden oder einem Benutzer folgen könnte.
+Benutzerdefinierte Aktionsschaltflächen und die zugehörige Aktion können jedem Benutzer oder Inhaltselement einer beliebigen Livefyre-App neben den vorhandenen Schaltflächen &quot;Flag&quot;, &quot;Freigeben&quot;und &quot;Löschen&quot;hinzugefügt werden. Beispiele könnten es sein, wenn ein Benutzer Inhalte vor einem anderen Benutzer ausblenden oder einem Benutzer folgen könnte.
 
-## Nachbesprechungen {#section_bw3_ndm_d1b}
+## Folgen Sie der Konversation {#section_bw3_ndm_d1b}
 
 Ermöglicht Benutzern, E-Mail-Benachrichtigungen zu erhalten, wenn die Konversationen, die sie befolgen, geändert werden.
 
-Nach einer Unterhaltung können Benutzer E-Mail-Benachrichtigungen empfangen, die auf der Konversationsaktivität basieren. Benutzer klicken auf die **[!UICONTROL Follow]** /- **[!UICONTROL Unfollow]** Schaltfläche, um für Konversationen spezifische Voreinstellungen festzulegen, oder verwenden ihre **[!UICONTROL Profile Settings]** Seite, um eine Site-weite Voreinstellung festzulegen, um Konversationen zu folgen.
+Nach einer Unterhaltung können Benutzer E-Mail-Benachrichtigungen empfangen, die auf der Aktivität in der Unterhaltung basieren. Benutzer klicken auf die Schaltfläche **[!UICONTROL Follow]** / **[!UICONTROL Unfollow]**, um für Konversationen spezifische Voreinstellungen festzulegen, oder verwenden ihre **[!UICONTROL Profile Settings]**-Seite, um eine websiteweite Voreinstellung für Konversationen festzulegen.
 
-(Die **[!UICONTROL Follow]** Funktion ist auf Mobilgeräten nicht verfügbar.)
+(Die Funktion **[!UICONTROL Follow]** ist auf Mobilgeräten nicht verfügbar.)
 
 >[!NOTE]
 >
