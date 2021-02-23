@@ -1,14 +1,14 @@
 ---
-description: Der Filmstreifen ist eine Visualisierungs-App, die benutzergenerierte Inhalte in einem dynamischen, horizontalen Fotostreifen darstellt, ähnlich wie ein Filmstreifen einer Kamera.
+description: 'Erfahren Sie alles über die Filmstreifen-App mit unserem vollständigen Leitfaden. Die Visualisierungs-App zeigt Ihre Bilder in einem Streifen mit Retro-Kamerafilm an. Übergeordnet es mit unseren Tipps. '
 seo-description: Der Filmstreifen ist eine Visualisierungs-App, die benutzergenerierte Inhalte in einem dynamischen, horizontalen Fotostreifen darstellt, ähnlich wie ein Filmstreifen einer Kamera.
 seo-title: Filmstreifen
 solution: Experience Manager
-title: Filmstreifen
+title: Handbuch zur Filmstreifen-App
 uuid: 2e3cb6f4-15db-4509-8a5b-a651511cdbd6
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: 2584041dd080c08ee769bd897e55157ec05ce8b6
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '821'
 ht-degree: 1%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 Der Filmstreifen ist eine Visualisierungs-App, die benutzergenerierte Inhalte in einem dynamischen, horizontalen Fotostreifen darstellt, ähnlich wie ein Filmstreifen einer Kamera.
 
-## Über Filmstreifen {#section_tng_slj_yy}
+## Erfahren Sie, wie Sie den Filmstreifen {#section_tng_slj_yy} verwenden
 
 Sie können den Filmstreifen mit UGC in E-Commerce-Szenarien wie Produktseiten oder transaktionale Websites verwenden. Endbenutzer können im Filmstreifen durch Klicken auf die Seitenpfeile durch den verfügbaren Inhalt blättern. Beim Einstieg in die App werden auf der linken Seite neue Inhalte angezeigt. Sie können festlegen, ob neu gestreamt UGC eine Beschriftung mit der Aufschrift *Neu* enthält, um Site-Besuchern die schnelle Identifizierung neuer Inhalte zu erleichtern.
 
