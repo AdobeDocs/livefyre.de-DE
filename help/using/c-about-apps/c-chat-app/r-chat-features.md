@@ -1,18 +1,14 @@
 ---
 description: Chat bietet mehrere Funktionen, um einen schnellen und ansprechenden Dialog zu fördern.
-seo-description: Chat bietet mehrere Funktionen, um einen schnellen und ansprechenden Dialog zu fördern.
-seo-title: Chat-Funktionen
-solution: Experience Manager
 title: Chat-Funktionen
-uuid: 8773a8f9-96cd-41db-80dd-261af749e4b1
+exl-id: 38812de7-ee3f-411f-afac-7a1d5b672292
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # Chat-Funktionen{#chat-features}
 
@@ -30,4 +26,3 @@ Um einen schnellen und ansprechenden Dialog zu fördern, unterscheidet sich Chat
 * Die Schaltfläche &quot;Gefällt mir&quot;wird nur angezeigt, wenn Sie den Mauszeiger über einen Kommentar halten.
 * Die &quot;Gefällt mir&quot;-Klicks für einen Kommentar erscheinen ohne Avatare, nur die Anzahl der &quot;Gefällt mir&quot;-Klicks.
 * Die Stream-Breite kann auf 250 Pixel verringert werden.
-
