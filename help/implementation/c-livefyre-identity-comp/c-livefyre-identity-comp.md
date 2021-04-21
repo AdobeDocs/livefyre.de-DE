@@ -1,18 +1,14 @@
 ---
 description: Arbeiten mit Livefyres Social-User-Management-System.
-seo-description: Arbeiten mit Livefyres Social-User-Management-System.
-seo-title: Livefyre-Identität
-solution: Experience Manager
 title: Livefyre-Identität
-uuid: 5e9219b4-fbd7-40c6-9d57-129bb0649714
+exl-id: 1e6149b6-dcdb-4e2a-a19d-06b24fe1288a
 translation-type: tm+mt
-source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
-
 
 # Livefyre-Identität verwenden{#livefyre-identity}
 
@@ -31,5 +27,4 @@ So fügen Sie Ihrer Livefyre-Integration Social-Anmeldung hinzu:
 
 >[!NOTE]
 >
->In diesem Dokument werden Livefyre-spezifische Aspekte für den App-Erstellungsprozess der Anbieter sozialer Dienste Liste. Livefyre ist nicht verantwortlich für Änderungen an der Benutzeroberfläche, und Livefyre kann auch nicht bei der Erstellung dieser Apps oder deren Genehmigung helfen. Verwenden Sie zum Erstellen dieser Apps die verfügbaren Entwicklerinformationen für Twitter, Facebook, Yahoo! und Google und navigieren Sie ggf. durch den Genehmigungsprozess.
-
+>In diesem Dokument werden Livefyre-spezifische Aspekte für den App-Erstellungsprozess der Anbieter sozialer Dienste Liste. Livefyre ist nicht verantwortlich für Änderungen an der Benutzeroberfläche, und Livefyre kann auch nicht bei der Erstellung dieser Apps oder deren Genehmigung helfen. Verwenden Sie die verfügbaren Twitter-, Facebook-, Yahoo!- und Google-Entwicklerinformationen, um diese Apps zu erstellen, und navigieren Sie ggf. durch den Genehmigungsprozess.
