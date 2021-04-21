@@ -1,18 +1,14 @@
 ---
 description: Die Mosaic-App Angebot diese Funktionen für Ihre Site.
-seo-description: Die Mosaic-App Angebot diese Funktionen für Ihre Site.
-seo-title: Mosaic-Funktionen
-solution: Experience Manager
 title: Mosaic-Funktionen
-uuid: 95129d56-a4c4-42d5-8c68-c5fc159017e6
+exl-id: 75417bcc-5a30-4928-b922-0dfa625d4525
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 2%
+source-wordcount: '61'
+ht-degree: 3%
 
 ---
-
 
 # Mosaikfunktionen{#mosaic-features}
 
@@ -37,4 +33,3 @@ Die Mosaic-App verfügt über die folgenden Funktionen:
 * [Twitter-Aktionsschaltflächen](/help/using/c-features-livefyre/c-enagement-features.md#section_uzm_ldm_d1b)
 * [UGC Commerce](/help/using/c-features-livefyre/c-ugc-commerce.md#c_ugc_commerce)
 * [Funktionen für Onsite-Beiträge](/help/using/c-features-livefyre/c-on-site-contribution-features.md#section_vzs_t2s_d1b)
-
