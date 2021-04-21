@@ -1,18 +1,14 @@
 ---
 description: Ermöglichen Sie Benutzern, Inhalte in Ihren Sammlungen zu posten, zu bearbeiten, zu kennzeichnen, zu löschen, zu beantworten und zu "Gefällt mir"-Klicks zu wechseln, mit einer Reihe von Rich-Text-Formatierungsoptionen.
-seo-description: Ermöglichen Sie Benutzern, Inhalte in Ihren Sammlungen zu posten, zu bearbeiten, zu kennzeichnen, zu löschen, zu beantworten und zu "Gefällt mir"-Klicks zu wechseln, mit einer Reihe von Rich-Text-Formatierungsoptionen.
-seo-title: Benutzerbeiträge
-solution: Experience Manager
 title: Benutzerbeiträge
-uuid: 41242f4d-614c-4737-a1f6-6f0a914f5f7f
+exl-id: 8a9e2bef-d53c-4693-bc54-6186d08ac7d0
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '630'
 ht-degree: 1%
 
 ---
-
 
 # Benutzerbeiträge{#user-posts}
 
@@ -24,7 +20,7 @@ Mit Livefyre-Apps können Ihre Benutzer Inhalte nahtlos und intuitiv posten und 
 
 Benutzer können Inhalte veröffentlichen, wenn sie angemeldet sind, indem sie einen Kommentar- oder Medienlink in das Editor-Feld eingeben und auf **[!UICONTROL Post comment]** klicken.
 
-Um Inhalte zu veröffentlichen, die nicht angemeldet sind, geben Benutzer einen Kommentar- oder Medienlink in den Editor ein und klicken auf **[!UICONTROL Post comment as…]**. Das Anmeldefenster wird angezeigt, um eine Anmeldung anzufordern.
+Um Inhalte zu posten, die nicht angemeldet sind, geben Benutzer einen Kommentar- oder Medienlink in den Editor ein und klicken auf **[!UICONTROL Post comment as…]**. Das Anmeldefenster wird angezeigt, um eine Anmeldung anzufordern.
 
 (In den meisten Browsern sind 8.000 Zeichen zulässig. In Internet Explorer sind 1.500 Zeichen zulässig.)
 
@@ -102,4 +98,3 @@ Apps, die Benutzerbeiträge verwenden:
 * [Sir](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [Hochladen-Schaltfläche](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
-
