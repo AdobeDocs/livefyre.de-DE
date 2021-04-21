@@ -1,18 +1,14 @@
 ---
 description: Verwandeln Sie jede einzelne Seite Ihrer Site in eine interaktive Arbeitsfläche für die Zusammenarbeit.
-seo-description: Verwandeln Sie jede einzelne Seite Ihrer Site in eine interaktive Arbeitsfläche für die Zusammenarbeit.
-seo-title: Best Practices für Sidemarken
-solution: Experience Manager
 title: Best Practices für Sidemarken
-uuid: 0f511fff-275a-436f-a81f-dbdf0bd39900
+exl-id: 2aa42a8b-89c2-4fd1-b21e-96eeb427bc47
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '647'
+source-wordcount: '628'
 ht-degree: 0%
 
 ---
-
 
 # Best Practices für Sidentis{#best-practices-for-sidenotes}
 
@@ -30,7 +26,7 @@ Da Siannover eine neue Art der Kommentierung vorstellt, haben die Produkt- und D
 
 ## Reichweite {#section_w1c_rc4_sy} erweitern
 
-Nicht nur, dass das Angebot eine neue Perspektive für Kommentare hat, sondern auch für das Social Sharing von Inhalten. Wenn Ihre Leser einen Text markieren, öffnet Sidebar mit zwei Klicks eine Schaltfläche, über die sie Ihren Inhalt direkt auf Twitter oder Facebook freigeben können. Diese Funktion mit geringer Reibung erhöht Ihre virale Reichweite und bietet Ihren Benutzern eine neue Möglichkeit, sich einfach mit Ihren Inhalten zu beschäftigen.
+Nicht nur, dass das Angebot eine neue Perspektive für Kommentare hat, sondern auch für das Social Sharing von Inhalten. Wenn Ihre Leser einen Textabschnitt markieren, zeigt Sidebar eine Schaltfläche an, über die sie Ihre Inhalte mit zwei Klicks direkt an Twitter oder Facebook weitergeben können. Diese Funktion mit geringer Reibung erhöht Ihre virale Reichweite und bietet Ihren Benutzern eine neue Möglichkeit, sich einfach mit Ihren Inhalten zu beschäftigen.
 
 ## Anmelden Ihrer Community {#section_ipc_xc4_sy}
 
