@@ -1,17 +1,14 @@
 ---
 description: Erstellen Sie eine Datenschutzanfrage in Livefyre.
-seo-description: Erstellen Sie eine Datenschutzanfrage in Livefyre.
-seo-title: Eine Datenschutzanforderung erstellen
 title: Eine Datenschutzanforderung erstellen
-uuid: 9fdbd564-0cea-4e4f-bdea-d5b8744fe63a
+exl-id: 117e1edb-becd-45f2-bfe5-12fb19ad01e0
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '619'
+source-wordcount: '609'
 ht-degree: 0%
 
 ---
-
 
 # Erstellen einer Datenschutzanforderung{#create-a-privacy-request}
 
@@ -56,15 +53,15 @@ So suchen und suchen Sie einen Benutzer und erstellen einen Bericht über dessen
          * Zulässige Werte: 6-16 Zeichen
       * **[!UICONTROL Instagram User]**
 
-         * Identifiziert das Konto durch eine numerische ID, die von Instagram bereitgestellt wird. Der Antragsteller sollte dies angeben. Sie können Anweisungen zum Auffinden der numerischen Instagram-ID in einem Instagram-Konto finden, indem Sie online suchen
+         * Identifiziert das Konto anhand einer numerischen ID, die von Instagram bereitgestellt wird. Der Antragsteller sollte dies angeben. Informieren Sie sich online, wie Sie die numerische Instagram-ID auf einem Instagram-Konto finden, indem Sie die entsprechende-ID finden.
          * Zulässige Werte: 5-16 Zeichen
       * **[!UICONTROL Twitter User]**
 
-         * Identifiziert ein Konto anhand einer numerischen ID, die von Twitter bereitgestellt wird. Die Person, die die Änderung des Datenschutzes beantragt, sollte dies bereitstellen. Informieren Sie sich online, wie Sie die numerische Twitter-ID für ein Twitter-Konto finden.
+         * Identifiziert ein Konto anhand einer numerischen ID, die von Twitter bereitgestellt wird. Die Person, die die Änderung des Datenschutzes beantragt, sollte dies bereitstellen. Sie können Anweisungen zur Suche nach der numerischen Twitter-ID für ein Twitter-Konto finden, indem Sie online suchen
          * Zulässige Werte: 5-16 Zeichen
       * **[!UICONTROL YouTube User]**
 
-         * Identifiziert ein Konto anhand einer numerischen ID, die von YouTube bereitgestellt wird. Die Person, die die Änderung des Datenschutzes beantragt, sollte dies bereitstellen. Anweisungen zum Auffinden der numerischen YouTube-ID in einem YouTube-Konto [finden Sie hier](https://support.google.com/youtube/answer/3250431?hl=en)
+         * Identifiziert ein Konto anhand einer numerischen ID, die von YouTube bereitgestellt wird. Die Person, die die Änderung des Datenschutzes beantragt, sollte dies bereitstellen. Anweisungen zum Auffinden der numerischen YouTube-ID bei einem YouTube-Konto [finden Sie hier](https://support.google.com/youtube/answer/3250431?hl=en)
          * Zulässige Werte: 5-16 Zeichen
       * **[!UICONTROL Generic Author]**
 
@@ -90,4 +87,3 @@ So suchen und suchen Sie einen Benutzer und erstellen einen Bericht über dessen
    >[!IMPORTANT]
    >
    >Durch das Löschen von Daten für ein Konto werden mit dem Konto verknüpfte Daten dauerhaft gelöscht oder gelöscht. Sie können diese Aktion nicht rückgängig machen und auch keine Daten wiederherstellen, nachdem Sie sie gelöscht haben.
-
