@@ -1,18 +1,14 @@
 ---
 description: Informiert Livefyre, die URL für die Benutzersynchronisierung auf die angegebene URL zu aktualisieren. Gibt einen booleschen Wert zurück.
-seo-description: Informiert Livefyre, die URL für die Benutzersynchronisierung auf die angegebene URL zu aktualisieren. Gibt einen booleschen Wert zurück.
-seo-title: setUserSyncUrl-Netzwerkmethode
-solution: Experience Manager
 title: setUserSyncUrl-Netzwerkmethode
-uuid: cd067e90-a2da-4e3d-8e60-7eabfd86fc7f
+exl-id: 8124ac0f-013f-4943-a33c-6cf8fe696f95
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 3%
+source-wordcount: '82'
+ht-degree: 4%
 
 ---
-
 
 # setUserSyncUrl-Netzwerkmethode{#setusersyncurl-network-method}
 
