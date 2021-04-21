@@ -1,26 +1,22 @@
 ---
-description: Eine Übersicht der Anzeigeanforderungen für Twitter.
-seo-description: Eine Übersicht der Anzeigeanforderungen für Twitter.
-seo-title: Twitter-Anzeigeanforderungen
-solution: Experience Manager
+description: Eine Übersicht über die Display-Anforderungen von Twitter.
 title: Twitter-Anzeigeanforderungen
-uuid: 705c25b8-4a25-4640-9843-074f50ebae4f
+exl-id: f985a47e-4bab-4e60-8b8b-d8c6e5321be7
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
-
 
 # Twitter-Anzeigeanforderungen{#twitter-display-requirements}
 
 Soziale Netzwerke erfordern häufig, dass ihre Inhalte entsprechend ihren Markenstandards angezeigt werden. Wenn Sie die Livefyre-Plattform verwenden, um Twitter-Inhalte wiederzugeben, sind Sie jederzeit für die Einhaltung der Nutzungsbedingungen einschließlich der Anzeigeanforderungen verantwortlich. Bitte lesen und verstehen Sie die Geschäftsbedingungen, bevor Sie deren Inhalt in Ihren Livefyre-Apps anzeigen.
 
-Weitere Informationen finden Sie in der Dokumentation zu den Anzeigeanforderungen für Twitter[.](https://about.twitter.com/company/display-requirements)
+Weitere Informationen finden Sie in der Dokumentation [Twitter&#39;s Display Requirements](https://about.twitter.com/company/display-requirements).
 
-Twitter erfordert die folgenden Präsentationsanforderungen:
+Twitter verlangt folgende Darstellungsanforderungen:
 
 * Die Online- (Web- und mobile) Anzeige muss alle folgenden Elemente enthalten:
 
