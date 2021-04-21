@@ -1,17 +1,14 @@
 ---
 description: Moderieren Sie Inhalte über eine einzige, intelligente Schnittstelle.
-seo-description: Moderieren Sie Inhalte über eine einzige, intelligente Schnittstelle.
-seo-title: Moderieren von Inhalten mit ModQ
 title: Moderieren von Inhalten mit ModQ
-uuid: c630fb85-7bd0-4da0-ac7e-080e970fb4f9
+exl-id: 694b1f45-2b24-4e80-99a1-788e2cecc8a4
 translation-type: tm+mt
-source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1465'
+source-wordcount: '1454'
 ht-degree: 0%
 
 ---
-
 
 # Moderieren von Inhalten mit ModQ{#moderate-content-using-modq}
 
@@ -32,7 +29,7 @@ Livefyre-Inhalte werden bis zu 6 Wochen in ModQ aufgeführt und nicht adressiert
 
 >[!NOTE]
 >
->Ein einzelnes Inhaltselement kann mehrmals aufgeführt werden, wenn es mit mehreren Regeln für die Einbeziehung in ModQ übereinstimmt. Wenn beispielsweise ein Inhaltselement eine Regel für das Kennzeichen des Benutzers für Offensive auslöst und später eine andere Regel für Profane auslöst, wird diese zweimal in ModQ aufgeführt.
+>Ein einzelnes Inhaltselement kann mehrmals aufgeführt werden, wenn es mit mehreren Regeln für die Einbeziehung in ModQ übereinstimmt. Wenn beispielsweise ein Inhaltselement eine Benutzerkennungsregel für Offensive Trigger und später eine andere Regel für Profane Trigger, wird diese zweimal in ModQ aufgeführt.
 
 Inhalte, die nicht in ModQ angezeigt werden, umfassen:
 
@@ -44,14 +41,14 @@ Inhalte, die nicht in ModQ angezeigt werden, umfassen:
 
 ModQ ist in zwei Registerkarten unterteilt:
 
-* **[!UICONTROL Items]** liste aller Livefyre-nativen und SocialSync-Inhalte, die für die Moderation ausgewählt wurden. Diese Registerkarte enthält alle Social Search- oder Stream-Inhalte, die nach der Moderation markiert oder bearbeitet wurden.
-* **[!UICONTROL Streams Premoderation]** liste aller Inhalte, die aus Streams in Ihre Apps eingegeben werden, mit aktivierter Vormoderat. (Weitere Informationen finden Sie unter Erstellen von Streams.)
+* **[!UICONTROL Items]** Liste aller Livefyre-nativen und SocialSync-Inhalte, die für die Moderation ausgewählt wurden. Diese Registerkarte enthält alle Social Search- oder Stream-Inhalte, die nach der Moderation markiert oder bearbeitet wurden.
+* **[!UICONTROL Streams Premoderation]** Liste aller Inhalte, die aus Streams in Ihre Apps eingegeben werden, mit aktivierter Vormoderat. (Weitere Informationen finden Sie unter Erstellen von Streams.)
 
 Auf beiden Registerkarten werden viele derselben Filter und Moderationstools Angebot.
 
 * **[!UICONTROL Item Count]** Die Anzahl der in der Warteschlange verbleibenden Elemente wird in der oberen linken Ecke von ModQ angezeigt.
 * **[!UICONTROL Filter]** Klicken Sie  **[!UICONTROL Filter]** auf , um Parameter zu definieren, mit denen der Inhalt im Bereich aufgeführt wird.
-* **[!UICONTROL History]** Klicken Sie auf die  **[!UICONTROL History]** Schaltfläche oben rechts im Bildschirm, um eine Liste mit kürzlich moderierten Inhalten zu öffnen, sodass Sie Ihre Arbeit überprüfen oder eine kürzlich ausgeführte Moderationsaktion ändern können. Klicken Sie erneut auf die Schaltfläche, um zum Inhalt in der Warteschlange zurückzukehren. Es werden nur Ihre 100 letzten Aktionen angezeigt. **listen, die von einem anderen Moderator** durchgeführt werden, werden in der Vergangenheit nicht berücksichtigt.
+* **[!UICONTROL History]** Klicken Sie auf die  **[!UICONTROL History]** Schaltfläche oben rechts im Bildschirm, um eine Liste mit kürzlich moderierten Inhalten zu öffnen, sodass Sie Ihre Arbeit überprüfen oder eine kürzlich ausgeführte Moderationsaktion ändern können. Klicken Sie erneut auf die Schaltfläche, um zum Inhalt in der Warteschlange zurückzukehren. Es werden nur Ihre 100 letzten Aktionen angezeigt. **Listen, die von einem anderen Moderator** durchgeführt werden, werden in der Vergangenheit nicht berücksichtigt.
 
 * **[!UICONTROL User Pane]** Klicken Sie oben rechts auf der Seite auf die Schaltflächen zum Erweitern oder Reduzieren, um den Bereich &quot;Benutzer&quot;zu öffnen oder zu schließen.
 
@@ -65,7 +62,7 @@ Jedes aufgelistete Inhaltselement enthält Informationen zur Vorschau, einschlie
 
 Die folgenden Informationen werden angezeigt, wenn Sie ein Element auswählen:
 
-* **[!UICONTROL Time in Queue:]** liste der Zeit, in der das Inhaltselement zu ModQ hinzugefügt wurde.
+* **[!UICONTROL Time in Queue:]** Liste der Zeit, in der das Inhaltselement zu ModQ hinzugefügt wurde.
 * **[!UICONTROL App name:]** die App, in der der Inhalt angezeigt wird. Links zur Site mit der App.
 * **[!UICONTROL Content Body:]** Text- und Medien-Miniaturansicht, sofern verfügbar.
 * **[!UICONTROL Status:]** den aktuellen Status des Inhalts (Ausstehend, Gestrichelt usw.).
@@ -171,4 +168,3 @@ Apps, die ModQ verwenden:
 * [Sir](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [Hochladen-Schaltfläche](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
-
