@@ -1,29 +1,25 @@
 ---
-description: Sie können Livefyre Identity mit Facebook verwenden, um Benutzern zu ermöglichen, ihre Facebook-Anmeldungen zu verwenden, um mit Apps auf Ihrer Site zu interagieren.
-seo-description: Sie können Livefyre Identity mit Facebook verwenden, um Benutzern zu ermöglichen, ihre Facebook-Anmeldungen zu verwenden, um mit Apps auf Ihrer Site zu interagieren.
-seo-title: Facebook-App zur Verwendung mit Livefyre-Identität erstellen
-solution: Experience Manager
+description: Sie können Livefyre Identity mit Facebook verwenden, um Benutzern zu ermöglichen, ihre Facebook-Anmeldungen für die Interaktion mit Apps auf Ihrer Site zu verwenden.
 title: Facebook-App zur Verwendung mit Livefyre-Identität erstellen
-uuid: a7f7be4e-8986-4e79-831a-0bb0ae555599
+exl-id: ec320865-6ea3-4f6f-a5f6-31f3d5cbdc93
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 0%
+source-wordcount: '190'
+ht-degree: 1%
 
 ---
 
-
 # Erstellen einer Facebook-App zur Verwendung mit Livefyre-Identität{#create-a-facebook-app-for-use-with-livefyre-identity}
 
-Sie können Livefyre Identity mit Facebook verwenden, um Benutzern zu ermöglichen, ihre Facebook-Anmeldungen zu verwenden, um mit Apps auf Ihrer Site zu interagieren.
+Sie können Livefyre Identity mit Facebook verwenden, um Benutzern zu ermöglichen, ihre Facebook-Anmeldungen für die Interaktion mit Apps auf Ihrer Site zu verwenden.
 
-Damit sich Ihre Benutzer mit ihren Facebook-Anmeldedaten anmelden können, benötigt Livefyre die folgenden Facebook-App-Informationen:
+Damit Ihre Benutzer sich mit ihren Facebook-Anmeldedaten anmelden können, benötigen Sie für Livefyre die folgenden Facebook-App-Informationen:
 
 * App-ID
 * App-Geheim
 
-So erstellen Sie eine Facebook-App zur Verwendung mit Livefyre-Identität:
+So erstellen Sie eine Facebook-App zur Verwendung mit Livefyre Identity:
 
 1. Gehen Sie zu [https://developers.facebook.com/apps](https://developers.facebook.com/apps).
 1. Melden Sie sich bei Ihrem Facebook-Entwicklerkonto an.
@@ -44,4 +40,4 @@ So erstellen Sie eine Facebook-App zur Verwendung mit Livefyre-Identität:
    * Machen Sie die App öffentlich.
    * Stellen Sie sicher, dass **[!UICONTROL Approved Items]** für **[!UICONTROL Login Permissions]** `email`, `public_profile` und `user_friends` eingeschlossen sind.
 
-Nach Abschluss des Vorgangs wird auf der Seite &quot;Dashboard&quot;des Facebook-Entwicklers Ihre App-ID und Ihr geheimer App-Schlüssel zur Verwendung in den Integrationseinstellungen von Studio Liste.
+Nach Abschluss des Vorgangs werden auf der Facebook Developer&#39;s Dashboard-Seite Ihre App-ID und Ihr App-Geheimnis in den Integrationseinstellungen von Studio Liste.
