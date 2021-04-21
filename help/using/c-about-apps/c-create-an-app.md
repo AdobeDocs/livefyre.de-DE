@@ -1,18 +1,14 @@
 ---
 description: Um Ihrer Site eine App hinzuzufügen, müssen Sie zunächst eine App in Livefyre Studio erstellen.
-seo-description: Um Ihrer Site eine App hinzuzufügen, müssen Sie zunächst eine App in Livefyre Studio erstellen.
-seo-title: Eine App erstellen
-solution: Experience Manager
 title: Eine App erstellen
-uuid: 8c2c07fb-a951-47d9-b498-4c487ee83a18
+exl-id: 1d87ae99-3529-497c-b533-13f212abeacd
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1283'
-ht-degree: 1%
+source-wordcount: '1264'
+ht-degree: 0%
 
 ---
-
 
 # Eine App erstellen {#create-an-app}
 
@@ -27,7 +23,7 @@ Die Seite App-Zusammenfassung enthält vier Registerkarten:
 
 * **[!UICONTROL App Summary]**: bietet einen Überblick über den Inhalt und den Status der App und stellt Werkzeuge zum Zugriff auf die App auf der Site und zum Generieren des Einbettungscodes bereit.
 * **[!UICONTROL Designer]**: können Sie Designoptionen für die App auswählen, einschließlich Schriftarten, Farbschemas und App-spezifischer Konfigurationsoptionen.
-* **[!UICONTROL Streams]**: liste aller Stream-Quellen für den Inhalt der App. Klicken Sie auf den Titel des Streams, um die Seite &quot;Stream-Details&quot;zu öffnen, von der aus der Stream bearbeitet werden kann.
+* **[!UICONTROL Streams]**: Liste aller Stream-Quellen für den Inhalt der App. Klicken Sie auf den Titel des Streams, um die Seite &quot;Stream-Details&quot;zu öffnen, von der aus der Stream bearbeitet werden kann.
 * **[!UICONTROL Settings]**: ermöglicht die Auswahl App-spezifischer Einstellungen, einschließlich Regeln zum Hinzufügen von Inhalten zur App und der anzuzeigenden Inhaltstypen. Klicken Sie auf die Registerkarte **[!UICONTROL Settings]**, um die Netzwerk- und Site-Einstellungen für die App zu überschreiben.
 
 ## Apps-Liste {#section_eyp_ykt_bbb}
@@ -174,4 +170,3 @@ So löschen Sie eine App:
 1. Klicken **[!UICONTROL Apps]**.
 1. Klicken Sie auf das Auslassungszeichen rechts neben dem Namen der zu löschenden App.
 1. Klicken Sie auf **[!UICONTROL Delete App]**, um die App zu löschen.
-
