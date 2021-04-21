@@ -1,18 +1,14 @@
 ---
 description: Legen Sie die Einstellungen für das Anfordern von Rechten für Instagram- und Twitter-Beiträge fest.
-seo-description: Legen Sie die Einstellungen für das Anfordern von Rechten für Instagram- und Twitter-Beiträge fest.
-seo-title: Rights Management einrichten
-solution: Experience Manager
 title: Rights Management einrichten
-uuid: 3ffcbc95-484f-4eba-b817-658c1d658bf8
+exl-id: d3d3e837-0ed0-47a8-ac5c-7b9da431d149
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '468'
 ht-degree: 0%
 
 ---
-
 
 # Rights Management{#set-up-rights-management} einrichten
 
@@ -35,7 +31,7 @@ Bevor Sie die Einstellungen für Rights Request definieren können, müssen Sie 
 
    >[!NOTE]
    >
-   >Bei Instagram-Konten müssen Sie über ein Instagram-Geschäftskonto verfügen, um Rechte mit Teilautomatisierung anzufordern. Weitere Informationen zu den verschiedenen Instagram-Konten und deren Verwendung finden Sie unter [Info zu Instagram-Konten](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts).
+   >Für Instagram-Konten müssen Sie über ein Instagram-Geschäftskonto verfügen, um Rechte mit Teilautomatisierung anzufordern. Weitere Informationen zu den verschiedenen Arten von Instagram-Konten und deren Verwendung finden Sie unter [Informationen zu Instagram-Konten](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts).
 
 1. Füllen Sie die angezeigten Felder aus. Alle Felder müssen ausgefüllt werden.
 
@@ -46,11 +42,11 @@ Bevor Sie die Einstellungen für Rights Request definieren können, müssen Sie 
    * **[!UICONTROL Network and sites:]** Das Netzwerk oder die Site, für das bzw. die dieses Konto Wiederverwendungsrechte für Inhalte anfordern kann. Um dieses Konto für Ihr gesamtes Netzwerk verfügbar zu machen, wählen Sie das erste Element in der Liste aus oder beschränken Sie sich mithilfe des Befehls-/STRG-Schlüssels auf bestimmte Sites.
    * **[!UICONTROL Default message:]** Eine Meldung, die zusammen mit Ihrer Rights Request angezeigt wird. Sie können diese Meldung überschreiben, wenn Sie Rechte anfordern.
 
-      * Livefyre zeigt eine der Standardmeldungen an Moderatoren, wenn ein Moderator eine Anforderung an einen Inhaltsersteller sendet. Moderatoren können vor dem Senden eine weitere Standardnachricht erstellen oder die Nachricht bearbeiten. Die Nachrichten müssen den Twitter- oder Instagram-Handle des Autors ({handle}), Ihr Genehmigungs-Hashtag ({grantTag}) und einen Link zu Ihren Geschäftsbedingungen ({termsLink}) enthalten.
+      * Livefyre zeigt eine der Standardmeldungen an Moderatoren, wenn ein Moderator eine Anforderung an einen Inhaltsersteller sendet. Moderatoren können vor dem Senden eine weitere Standardnachricht erstellen oder die Nachricht bearbeiten. Die Nachrichten müssen das Twitter- oder Instagram-Handle des Autors ({handle}), Ihr Genehmigungs-Hashtag ({grantTag}) und einen Link zu Ihren Geschäftsbedingungen ({termsLink}) enthalten.
 
          **[!UICONTROL Note:]** Bei {handle}, {grantTag} und {termsLink} wird die Groß-/Kleinschreibung beachtet.
 
-         **[!UICONTROL Note:]** Um eine böswillige Verwendung zu verhindern, umschließt Twitter alle enthaltenen URLs mit  [t.](https://t.co/) coformat. Damit Ihre Standardnachricht nicht länger als 140 Zeichen ist, empfiehlt Livefyre, keine URLs in die Standardnachricht aufzunehmen.
+         **[!UICONTROL Note:]** Um eine böswillige Verwendung zu verhindern, schließt Twitter alle enthaltenen URLs mit  [t.](https://t.co/) coformat ein. Damit Ihre Standardnachricht nicht länger als 140 Zeichen ist, empfiehlt Livefyre, keine URLs in die Standardnachricht aufzunehmen.
 
       * Empfohlene Vorgehensweisen zum Schreiben von Rechten fordern Meldungen an:
 
