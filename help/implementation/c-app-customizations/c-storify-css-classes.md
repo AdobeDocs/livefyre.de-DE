@@ -1,18 +1,14 @@
 ---
 description: CSS-Klassen, die für Ihre Storify Apps verfügbar sind.
-seo-description: CSS-Klassen, die für Ihre Storify Apps verfügbar sind.
-seo-title: CSS-Klassen formatieren
-solution: Experience Manager
 title: CSS-Klassen formatieren
-uuid: 168a0db0-a209-417a-ba91-a33b4d411c8d
+exl-id: b0e61aaf-0da9-45fa-9ce3-3c633940480d
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '379'
 ht-degree: 2%
 
 ---
-
 
 # CSS-Klassen storifizieren{#storify-css-classes}
 
@@ -46,7 +42,7 @@ Ermöglicht Ihnen, den Kopfzeilenabschnitt für die Story-Seite anzupassen.
 | .s-Countdown | Kopfzeile 1 Countdown-Timer |
 | .s-Livability | Hauptüberschrift Zeile 1 &quot;Live&quot;-Status |
 | .base-header | Kopfzeile 2 |
-| .s-Dropdown | Haupt-Kopfzeile 2 Dropdown-Auslöser für Sortierung. |
+| .s-Dropdown | Kopfzeile 2 Dropdown-Trigger Sortieren |
 | .s-dropdown-Menü | Hauptüberschrift Zeile 2 Dropdown-Menü &quot;Sortieren&quot; |
 | .s-dropdown-Dreieck | Haupt-Kopfzeile 2 Dropdown-Menü &quot;Sortieren&quot; |
 | .s-dropdown-Option | Haupt-Kopfzeile 2 Dropdown-Menüelement Sortieren. |
