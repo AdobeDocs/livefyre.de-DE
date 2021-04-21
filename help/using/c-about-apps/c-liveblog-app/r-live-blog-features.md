@@ -1,18 +1,14 @@
 ---
 description: Die Live-Blog-App Angebot die folgenden Funktionen für Ihre Site.
-seo-description: Die Live-Blog-App Angebot die folgenden Funktionen für Ihre Site.
-seo-title: Live-Blog-Funktionen
-solution: Experience Manager
 title: Live-Blog-Funktionen
-uuid: 5a9fede3-e150-4655-b5e1-3ddaee9a6ba1
+exl-id: f61ff31d-baf1-4862-b7ad-f2a8eb912000
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
-
 
 # Live-Blog-Funktionen{#live-blog-features}
 
@@ -25,4 +21,3 @@ Die Live-Blog-App Angebot die folgenden Funktionen für Ihre Site.
 * Aktualisieren Sie Ihr Live-Blog von Ihrem Mobilgerät aus.
 * Aktivieren Sie Antworten auf die einzelnen Blog-Aktualisierungen, um eine bessere Konversation und Interaktion bei jeder Aktualisierung des Live-Blogs zu fördern.
 * Hochladen von Fotos und Hinzufügen von benutzerdefiniertem HTML zu Beiträgen auf der obersten Navigationsebene
-
