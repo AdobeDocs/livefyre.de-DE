@@ -1,18 +1,14 @@
 ---
 description: Versionshinweise für die Version vom 14. Juni 2018.
-seo-description: Versionshinweise für die Version vom 14. Juni 2018.
-seo-title: 14. Juni 2018
-solution: Experience Manager
 title: 14. Juni 2018
-uuid: f1bba3af-2020-4dfc-9938-05b1183c30ab
+exl-id: 4f91c91e-1979-4d1e-899c-11839524bfe2
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '138'
 ht-degree: 13%
 
 ---
-
 
 # 14. Juni 2018{#june}
 
@@ -48,8 +44,8 @@ Die Probleme in den folgenden Tabellen wurden in dieser Version behoben.
 
 | **Art des Problems** | **Komponente** | **Versionshinweise** |
 |---|---|---|
-| Fehler | Bibliothek/Suche | Es wurde ein Problem behoben, bei dem Instagram-Videos in Social Search oder App-Inhalten nicht korrekt angezeigt wurden. |
-| Fehler | Smart-Tags | Es wurde ein Problem behoben, bei dem intelligente Tags für Inhalte, die mit Instagram erfasst wurden, nicht angezeigt wurden. |
+| Fehler | Bibliothek/Suche | Es wurde ein Problem behoben, bei dem Instagram-Videos in Social Search oder App Content nicht ordnungsgemäß angezeigt wurden. |
+| Fehler | Smart-Tags | Es wurde ein Problem behoben, bei dem intelligente Tags nicht für Inhalte angezeigt wurden, die aus Instagram gesammelt wurden. |
 
 ## UAT-Version
 
