@@ -1,18 +1,14 @@
 ---
 description: Anpassen der Zeichenfolgen der Livefyre-Apps.
-seo-description: Anpassen der Zeichenfolgen der Livefyre-Apps.
-seo-title: Strings lokalisieren
-solution: Experience Manager
 title: Strings lokalisieren
-uuid: c0ab352d-5d3a-45d7-bbd0-aed165835646
+exl-id: 5eb452e3-3b33-4861-9b62-5a41221defab
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1996'
+source-wordcount: '1987'
 ht-degree: 8%
 
 ---
-
 
 # Strings lokalisieren{#localize-strings}
 
@@ -259,7 +255,7 @@ Sofern nicht anders angegeben, steht allen angemeldeten Benutzern zur Verfügung
 
 | Schlüssel | Standardtext |  |
 |---|---|---|
-| Twitter @mension modal | ErwähnungTitle | Erwähnung freigeben |
+| Twitter @mentions modal | ErwähnungTitle | Erwähnung freigeben |
 |  | ErwähnungUntertitelTwitter | Tweet freigeben für: |
 |  | ErwähnungDefaultText | Ich habe Sie in einem Livefyre Kommentar erwähnt! |
 |  | ErwähnungConfirmButton |  OK- |
@@ -267,7 +263,7 @@ Sofern nicht anders angegeben, steht allen angemeldeten Benutzern zur Verfügung
 |  | ErwähnungErrorGeneral | Ups! Etwas ist schiefgelaufen! Livefyre wurde berichtet. |
 |  | ErwähnungErrorNoneSelected | Sie müssen mindestens eine Erwähnung aktiviert haben. |
 |  | ErwähnungMenuTitle | So sehen Sie Ihre Freunde |
-|  | ErwähnungTwitterConnect | Verbindung zu Twitter |
+|  | ErwähnungTwitterConnect | Verbinden mit Twitter |
 |  | ErwähnungTwitterFetching | Freunde werden abgerufen... |
 |  | ErwähnungErfolgMsg | Erwähnungen wurden erfolgreich gesendet. |
 
@@ -545,5 +541,3 @@ Für Livefyre Identity verfügbare Zeichenfolgen.
 | passwordErrorMissingUppercase | Das Kennwort sollte mindestens ein Großbuchstaben enthalten |
 | passwordErrorMissingLowercase | Kennwort sollte mindestens ein Kleinbuchstabe enthalten |
 | passwordErrorMissingSymbol | Das Kennwort sollte mindestens ein Symbol im Satz `!@#$%^&*()?.,<>\’;:”[]{}|` enthalten. |
-
-
