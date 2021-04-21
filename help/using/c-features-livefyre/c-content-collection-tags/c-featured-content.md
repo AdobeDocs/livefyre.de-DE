@@ -1,18 +1,14 @@
 ---
 description: Heben Sie wichtige Inhalte für Ihre Benutzer hervor, indem Sie CSS für benutzerdefinierte Inhalte mit speziellen Stilen verwenden.
-seo-description: Heben Sie wichtige Inhalte für Ihre Benutzer hervor, indem Sie CSS für benutzerdefinierte Inhalte mit speziellen Stilen verwenden.
-seo-title: Dargebotener Inhalt
-solution: Experience Manager
 title: Dargebotener Inhalt
-uuid: 2204a989-69b3-440d-beae-7e9c6e9d5698
+exl-id: 3e8bbdb5-ec3a-4a6a-94c5-63bd9687fe99
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '217'
 ht-degree: 1%
 
 ---
-
 
 # Informationen zu speziellen Inhalten{#featured-content}
 
@@ -41,4 +37,3 @@ Apps, die diese Funktion verwenden:
 * [Mosaik](/help/using/c-about-apps/c-mosaic-app/c-mosaic-app.md#c_mosaic_app)
 * [Reviews](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
-
