@@ -1,18 +1,14 @@
 ---
-description: 'null '
-seo-description: 'null '
-seo-title: Livefyre Analytics-Ereignis
-solution: Experience Manager
 title: Livefyre Analytics-Ereignis
-uuid: 4eb5a196-ca33-40f8-a96d-ed46469223de
+description: Livefyre Analytics-Ereignis
+exl-id: ec32414c-0580-44dc-ae5b-6df0b42c0ec3
 translation-type: tm+mt
-source-git-commit: 5dc11c42a9f8bf3fa088f3245e21b6942d4865fe
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '540'
 ht-degree: 4%
 
 ---
-
 
 # Livefyre Analytics-Ereignis
 
@@ -58,14 +54,14 @@ Die folgenden Livefyre-Ereignis zur Zuordnung zu benutzerdefinierten Ereignissen
 | Ansicht | Wenn eine App zum ersten Mal in den Viewport kam. |
 | Posten | Jedes Mal, wenn ein Benutzer einen Kommentar oder einen Inhaltsbeitrag veröffentlicht, einschließlich z. B.: Top-Level-Beitrag, Antworten, Rezensionen, Media-Pinnwände-Uploads |
 | Gepostet | Wenn ein Beitrag erfolgreich war. |
-| Twitter_Antwort | Jedes Mal, wenn ein Benutzer auf Twitter antwortet |
+| Twitter_Reply | Jedes Mal, wenn ein Benutzer auf Twitter antwortet |
 | Twitter_like | Wo Inhalte freigegeben wurden für: Retweet |
 | Livefyre_like | Jedes Mal, wenn die livefyre like-Funktion in einer App verwendet wird |
 | Livefyre_Unlike | Jedes Mal, wenn ein Benutzer einen Lebenslauf wie |
 | ShareOnPost | Immer wenn ein Benutzer Inhalte veröffentlicht und die Funktion &quot;Teilen auf Beitrag&quot;verwendet |
 | ShareButtonClick | Jedes Mal, wenn ein Benutzer auf die Schaltfläche &quot;Freigeben&quot;für einen Kommentar klickt |
-| ShareTwitter | Beim Klicken auf Auf Twitter teilen |
-| ShareFacebook | Beim Klicken auf Auf Facebook teilen |
+| ShareTwitter | Beim Klicken auf Freigeben für Twitter |
+| ShareFacebook | Beim Klicken auf Freigeben für Facebook |
 | ShareURL | Wenn &quot;Mit URL teilen&quot;ausgewählt/kopiert wird. |
 | ExpandReplies | Wenn ein Benutzer auf den Link + oder Erweitern klickt, um alle Antworten auf einem Beitrag der obersten Ebene Ansicht |
 | ReduzierenAntworten | Wenn ein Benutzer auf den Link - oder Reduzieren klickt, um alle Antworten auf einem Beitrag der obersten Ebene Ansicht |
