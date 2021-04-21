@@ -1,14 +1,12 @@
 ---
 description: Verwenden Sie die Bootstrap- und Stream-API mit Livefyre-Apps.
-seo-description: Verwenden Sie die Bootstrap- und Stream-API mit Livefyre-Apps.
-seo-title: App-Implementierung
-solution: Experience Manager
 title: App-Implementierung
 uuid: null
+exl-id: f1edef86-491d-4f8e-8ce5-f6e019d057ec
 translation-type: tm+mt
-source-git-commit: b737f2c6afb03d91041a317cc0afb790c3eadcb1
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
