@@ -1,17 +1,14 @@
 ---
 description: Um eine Social-Anmeldung zu aktivieren, verwenden Sie Studio, um Ihrer Livefyre-Integration die Anmeldedaten Ihrer Social-Apps hinzuzufügen, und passen Sie das Anmeldemodul an.
-seo-description: Um eine Social-Anmeldung zu aktivieren, verwenden Sie Studio, um Ihrer Livefyre-Integration die Anmeldedaten Ihrer Social-Apps hinzuzufügen, und passen Sie das Anmeldemodul an.
-seo-title: Verwenden von Studio zum Verbinden Ihrer Social-Apps mit Ihrer Livefyre-Implementierung
 title: Verwenden von Studio zum Verbinden Ihrer Social-Apps mit Ihrer Livefyre-Implementierung
-uuid: be14869c-e0df-48cd-a1f3-99eb953dd9ce
+exl-id: 2ccb9737-8c59-4c1d-93d3-61f913b3cdd6
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '617'
-ht-degree: 0%
+source-wordcount: '584'
+ht-degree: 1%
 
 ---
-
 
 # Verwenden von Studio zum Verbinden Ihrer Social-Apps mit Ihrer Livefyre-Implementierung{#using-studio-to-connect-your-social-apps-to-your-livefyre-implementation}
 
@@ -45,7 +42,7 @@ So aktivieren Sie die Anmeldung mit einem nativen Livefyre-Konto:
 
 ## Aktivieren Sie die Anmeldung mit einem Facebook-Konto {#section_ph3_515_bbb}
 
-Verbinden Sie Ihr Facebook-Konto mit Livefyre, damit Benutzer ihre Facebook-Anmeldungen verwenden können, um mit Apps auf Ihrer Site zu interagieren.
+Schließen Sie Ihr Facebook-Konto an Livefyre an, damit Benutzer ihre Facebook-Anmeldungen zur Interaktion mit Apps auf Ihrer Site verwenden können.
 
 So aktivieren Sie die Anmeldung über ein Facebook-Konto:
 
@@ -53,7 +50,7 @@ So aktivieren Sie die Anmeldung über ein Facebook-Konto:
 
 1. hinzufügen Sie **[!UICONTROL App ID]** und **[!UICONTROL App Secret]** Ihrer Facebook-App.
 
-   Diese Werte sind im Dashboard Ihrer Facebook-Entwickler für die App aufgeführt, das unter [https://developers.facebook.com/apps/](https://developers.facebook.com/apps/675503539257343/dashboard/) verfügbar ist.
+   Diese Werte sind im Facebook Developers Dashboard für die App aufgeführt, verfügbar unter [https://developers.facebook.com/apps/](https://developers.facebook.com/apps/675503539257343/dashboard/).
 
 ## Anmeldung mit Google aktivieren {#section_fq3_kb5_bbb}
 
@@ -69,7 +66,7 @@ So aktivieren Sie die Anmeldung über ein Google+-Konto:
 
 ## Aktivieren einer Anmeldung mit einem Twitter-Konto {#section_iyz_wb5_bbb}
 
-Verbinden Sie Ihr Twitter-Konto mit Livefyre, damit Benutzer ihre Twitter-Anmeldungen zur Interaktion mit Apps auf Ihrer Site verwenden können.
+Schließen Sie Ihr Twitter-Konto an Livefyre an, damit Benutzer ihre Twitter-Anmeldungen zur Interaktion mit Apps auf Ihrer Site verwenden können.
 
 So aktivieren Sie die Anmeldung über ein Twitter-Konto:
 
