@@ -1,18 +1,14 @@
 ---
 description: Bewerten und überprüfen Sie alle Inhalte Ihrer Website in Echtzeit.
-seo-description: Bewerten und überprüfen Sie alle Inhalte Ihrer Website in Echtzeit.
-seo-title: Reviews
-solution: Experience Manager
 title: Reviews
-uuid: 5386fc74-7a3b-4b2a-91fd-cfe5300e602d
+exl-id: e065319b-5ee6-40c4-8d04-56a06e0c92fa
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
-
 
 # Reviews{#reviews}
 
@@ -38,4 +34,3 @@ Hier finden Sie eine Übersicht über verschiedene Funktionen, die für diese Ap
 * Warteschlangenüberprüfungen für die Anzeige, wobei die Benutzerüberprüfung für die Ansicht oben auf der Liste stehen muss.
 * Ermöglicht Benutzern, über die Nützlichkeit von Reviews abzustimmen und dann nach der nützlichsten und/oder der höchsten Bewertung zu sortieren.
 * Mobile Benutzeroberfläche.
-
