@@ -1,18 +1,14 @@
 ---
 description: Plotten Sie Benutzerinhalte zu einer interaktiven Map.
-seo-description: Plotten Sie Benutzerinhalte zu einer interaktiven Map.
-seo-title: Landkarte
-solution: Experience Manager
 title: Landkarte
-uuid: 1c3e399d-a610-4b80-a3b2-a5502b31480d
+exl-id: 836b475e-0ec6-49f8-b89f-3af3209cf1f2
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '244'
 ht-degree: 2%
 
 ---
-
 
 # Landkarte{#map}
 
@@ -40,7 +36,7 @@ Positionieren Sie dann das Element, in dem die Map-App angezeigt wird.
 <div id="map" style="height: 500px;"></div>
 ```
 
-Schließlich verwenden Sie Livefyre.require, um die Map zu erstellen und eine Sammlung zu entnehmen, die von streamub-sdk eingeleitet wird. Beachten Sie, dass Map nur Inhalte mit geotageten Metadaten anzeigen kann. Diese Funktion wird von Twitter und Instagram Curate unterstützt. Um eine optimale Leistung zu gewährleisten, fügen Sie in allen Kuratierungsregeln für die Sammlung einen Geolocation-Filter ein.
+Schließlich verwenden Sie Livefyre.require, um die Map zu erstellen und eine Sammlung zu entnehmen, die von streamub-sdk eingeleitet wird. Beachten Sie, dass Map nur Inhalte mit geotageten Metadaten anzeigen kann. Twitter und Instagram Curate unterstützen diese Funktion. Um eine optimale Leistung zu gewährleisten, fügen Sie in allen Kuratierungsregeln für die Sammlung einen Geolocation-Filter ein.
 
 ```
 <script> 
@@ -87,4 +83,3 @@ var map = new Map({
     } 
 });
 ```
-
