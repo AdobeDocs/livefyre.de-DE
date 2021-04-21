@@ -1,17 +1,14 @@
 ---
 description: Erfahren Sie, wie Sie Experience Manager Livefyre mit Hootsuite verwenden, um benutzergenerierte Inhalte direkt über das Hootsuite-Dashboard zu kuratieren, zu verwalten und freizugeben.
-seo-description: Erfahren Sie, wie Sie Experience Manager Livefyre mit Hootsuite verwenden, um benutzergenerierte Inhalte direkt über das Hootsuite-Dashboard zu kuratieren, zu verwalten und freizugeben.
-seo-title: Adobe Experience Manager Livefyre mit Hootsuite verwenden
 title: Adobe Experience Manager Livefyre mit Hootsuite verwenden
-uuid: ebf2ba17-1622-4bbe-a374-fb325357ef9f
+exl-id: 1ca84c72-95ec-485d-9c8e-ace4487225d6
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '678'
+source-wordcount: '649'
 ht-degree: 1%
 
 ---
-
 
 # Verwenden Sie Adobe Experience Manager Livefyre mit Hootsuite{#use-adobe-experience-manager-livefyre-with-hootsuite}
 
@@ -96,7 +93,7 @@ zeigt Links zu diesem Dokument, Support und Synaptive-Website an.
 
 ## Experience Manager Livefyre App Plugin {#task_33C8CEF4F5E44830B970BB3A7AAA2AA6}
 
-Sie können Ihre Asset-Bibliotheken nicht nur in einem Hootsuite-Stream anzeigen, sondern auch Elemente aus Instagram-, Twitter-, Facebook- und YouTube-Streams in Ihren Livefyre-Experience Manager speichern.
+Sie können Ihre Asset-Bibliotheken nicht nur in einem Hootsuite-Stream anzeigen, sondern auch Elemente aus Instagram-, Twitter-, Facebook- und YouTube-Streams in Ihren Experience Manager-Livefyre-Bibliotheken speichern.
 
 1. Klicken Sie auf das Menüsymbol, das sich am unteren Rand jedes Elements befindet.
 
@@ -113,7 +110,7 @@ Sie können Ihre Asset-Bibliotheken nicht nur in einem Hootsuite-Stream anzeigen
 
 Sie können auf Ihre Assets über die Media-Komponenten von Hootsuite Composer zugreifen.
 
-1. Klicken Sie im Composer auf den Link **Medienbibliothek öffnen** im Abschnitt **Medien**.
+1. Klicken Sie im Composer auf den Link **Media Library** im Abschnitt **Media** öffnen.
 
    ![](assets/hootsuite-open-media-library.png)
 
