@@ -1,18 +1,14 @@
 ---
 description: Ermöglicht Benutzern das Durchklicken von Sammlungen aus einem einseitigen Layout und einer URL.
-seo-description: Ermöglicht Benutzern das Durchklicken von Sammlungen aus einem einseitigen Layout und einer URL.
-seo-title: Sammlung ändern
-solution: Experience Manager
 title: Sammlung ändern
-uuid: 81c8a554-375f-4659-9e25-5b3618824633
+exl-id: 5ddae18f-0279-457d-ae02-85e24fe81150
 translation-type: tm+mt
-source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # Sammlung ändern {#change-collection}
 
@@ -22,7 +18,7 @@ Verwenden Sie den Delegaten zum Ändern der Sammlung, um die auf einer Seite ang
 
 Wenn Sie beispielsweise auf ein Video oder Foto in einer Galerie klicken, wird eine für diese Auswahl spezifische Sammlung geladen, während sich die URL der Seite nicht ändert.
 
-So laden Sie eine von drei Sammlungen von einer einzelnen Seite[:](../c-advanced-topics/t-display-comment-count.md#t_display_comment_count)
+So laden Sie eine der drei Sammlungen von einer einzelnen Seite](../c-advanced-topics/t-display-comment-count.md#t_display_comment_count):[
 
 ```
 <html> 
