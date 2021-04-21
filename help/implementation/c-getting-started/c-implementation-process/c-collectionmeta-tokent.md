@@ -1,18 +1,14 @@
 ---
 description: Erstellen Sie ein eindeutiges Token auf Ihrem Server, das jede von Ihnen erstellte Sammlung identifiziert.
-seo-description: Erstellen Sie ein eindeutiges Token auf Ihrem Server, das jede von Ihnen erstellte Sammlung identifiziert.
-seo-title: CollectionMeta-Token
-solution: Experience Manager
 title: CollectionMeta-Token
-uuid: d5db0b0f-2807-4392-874a-94ac3c1e7550
+exl-id: 52edfe75-5ce6-40c9-9afe-c34a3812f1e7
 translation-type: tm+mt
-source-git-commit: 6978f0f36b5698c9c599c1828edea67703423397
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '329'
 ht-degree: 2%
 
 ---
-
 
 # CollectionMeta-Token{#collectionmeta-token}
 
@@ -30,7 +26,7 @@ Livefyre weist jeder erstellten Sammlung einen eindeutigen Bezeichner zu. Livefy
 | siteKey | Zeichenfolge (optional) | Der geheime Schlüssel für die Site (verfügbar unter [!UICONTROL Studio > Settings > Integration Settings > Credentials] ). |
 | articleId | Zeichenfolge (optional) | Eine eindeutige ID für die Sammlung. |
 | title | Zeichenfolge (optional) | Der Titel, den Sie auf die Sammlung anwenden möchten. Normalerweise entspricht dies dem Titel der Seite, auf der die App angezeigt wird. <br>Beispiel: &quot;Integration macht so viel Spaß!&quot; <br>Hinweis: Die maximale Zeichenlänge für den Titel beträgt 255 Zeichen. Das Titelfeld unterstützt keine HTML-Entitäten. Bitte kodieren Sie Sonderzeichen mit UTF-8. |
-| url | Zeichenfolge (optional) | Die kanonische absolute URL, die Sie dieser Sammlung hinzufügen möchten. Diese URL wird verwendet, um aus Inhalten, die auf Facebook und Twitter freigegeben wurden, E-Mail-Benachrichtigungen und Livefyre Studio Links zur App zu generieren. <br>Hinweis: Verwenden Sie bei lokalen Tests eine gültige Basis-URL-Domäne (z. B.: gültig:  `https://customer.com`; ungültig:  `https://localhost:5995`). |
+| url | Zeichenfolge (optional) | Die kanonische absolute URL, die Sie dieser Sammlung hinzufügen möchten. Diese URL wird verwendet, um aus auf Facebook und Twitter freigegebenen Inhalten, E-Mail-Benachrichtigungen und Livefyre Studio Links zurück zur App zu generieren. <br>Hinweis: Verwenden Sie bei lokalen Tests eine gültige Basis-URL-Domäne (z. B.: gültig:  `https://customer.com`; ungültig:  `https://localhost:5995`). |
 | Tags | Zeichenfolge (optional) | Eine kommagetrennte Liste von einzelnen Suchbegriffen oder Ausdrücken. Sammlungen mit Studio nach Tags durchsuchen  </br>Hinweis: Tags dürfen keine Leerzeichen enthalten. Verwenden Sie Unterstriche, wenn ein Leerzeichen in der Benutzeroberfläche angezeigt werden soll. |
 | Erweiterungen | JSON (optional) | Ein JSON-formatierter Satz von Parametern, die an die Sammlung übergeben werden. |
 
