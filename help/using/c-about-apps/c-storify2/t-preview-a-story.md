@@ -1,18 +1,14 @@
 ---
 description: Mit dem App-Designer können Sie Ihre App in mehreren Versand-Formaten und mit Ihren eigenen Daten oder Musterdaten anzeigen.
-seo-description: Mit dem App-Designer können Sie Ihre App in mehreren Versand-Formaten und mit Ihren eigenen Daten oder Musterdaten anzeigen.
-seo-title: Vorschau einer Geschichte
-solution: Experience Manager
 title: Vorschau einer Geschichte
-uuid: 3b5321c3-1fab-4439-86ab-efa2ffc24f41
+exl-id: b86798dc-2b03-456a-9179-7474fd2f19c3
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
-
 
 # Vorschau einer Meldung{#preview-a-story}
 
