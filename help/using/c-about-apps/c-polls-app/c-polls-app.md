@@ -1,18 +1,14 @@
 ---
 description: Erlauben Sie Ihren Kunden, ihre Meinung in Echtzeit zu äußern.
-seo-description: Erlauben Sie Ihren Kunden, ihre Meinung in Echtzeit zu äußern.
-seo-title: Umfragen
-solution: Experience Manager
 title: Umfragen
-uuid: 19264eb2-53f8-4a66-a265-38efb634a207
+exl-id: 1292a7bf-7105-4ef5-a55c-90359301264c
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
-
 
 # Umfragen{#polls}
 
@@ -23,4 +19,3 @@ Mithilfe von Umfragen können Sie schnelle Umfragen mit einer Frage auf Ihrer Si
 >[!NOTE]
 >
 >Umfragen sind nicht mit einem Stream verknüpft.
-
