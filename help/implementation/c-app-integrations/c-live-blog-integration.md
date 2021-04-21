@@ -1,18 +1,14 @@
 ---
 description: Mit dem Live-Blog können Sie Echtzeit-Aktualisierungen und Bilder von den Editoren Ihrer Site anzeigen, wenn Sie ein Live-Ereignis abdecken.
-seo-description: Mit dem Live-Blog können Sie Echtzeit-Aktualisierungen und Bilder von den Editoren Ihrer Site anzeigen, wenn Sie ein Live-Ereignis abdecken.
-seo-title: Live-Blog
-solution: Experience Manager
 title: Live-Blog
-uuid: 5ca373f1-2008-45ab-9ec2-1e295af4e368
+exl-id: e8a16b56-53c9-488e-9807-1cf80b62462e
 translation-type: tm+mt
-source-git-commit: 987e682f9c7cd94543fd269f386fd2a971ee9934
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1497'
+source-wordcount: '1475'
 ht-degree: 2%
 
 ---
-
 
 # Live-Blog{#live-blog}
 
@@ -127,7 +123,7 @@ Das `ConvConfig`-Objekt kann auch die folgenden optionalen Parameter enthalten:
 | **initialNumVisible** | *optional* integer | Damit können Sie die Standardanzahl der Kommentare festlegen, die beim Laden in Ihrer App angezeigt werden. Dies kann eine Ganzzahl von 1 bis 50 sein. |
 | **initialNumVisibleLegacy** | *optional* integer | Ermöglicht Ihnen, die Standardanzahl der Elemente aus alten Inhalten festzulegen, die beim Laden in Ihrer App sichtbar sind. Dies kann eine Ganzzahl von 1 bis 50 sein. Wenn dieser Parameter nicht angegeben ist, wird standardmäßig initialNumVisible verwendet.  Beispiel: Wenn Ihre Sammlung 100 aktive und 100 ältere Kommentare enthält, stellen Sie initalNumVisible:10 und initialNumVisibleLegacy:5 ein, um 10 aktive Kommentare (mit der Schaltfläche &quot;Mehr anzeigen&quot;) und 5 Archivkommentare (mit der Schaltfläche &quot;Mehr anzeigen&quot;) anzuzeigen. |
 | **maxVisible** | *optional* integer | Legt die maximale Anzahl sichtbarer Inhalte der obersten Ebene in der Chat-App fest. Wenn neue Inhaltselemente in den Stream eindringen, werden Inhalte am unteren Rand des Streams von der Seite entfernt. Wenn auf die Schaltfläche Mehr... anzeigen geklickt wird, wird der Parameter ignoriert und der Benutzer kann so viele Inhalte wie gewünscht anzeigen. (Verwenden Sie diesen Parameter, um die Anzahl der Elemente zu steuern, die in Hochgeschwindigkeits-Streams auf der Seite angezeigt werden.) |
-| **postToButtons** | ** optionalarray | Dient zum Konfigurieren der Anbieter, die beim Einbetten der Live-Blog-App angezeigt werden. Verfügbare Optionen sind zwei (Twitter), fb (Facebook) und li (LinkedIn). Die Standardeinstellung ist [ tw , fb ]. |
+| **postToButtons** | ** optionalarray | Dient zum Konfigurieren der Anbieter, die beim Einbetten der Live-Blog-App angezeigt werden. Die verfügbaren Optionen sind &quot;tw&quot;(Twitter), &quot;fb&quot;(Facebook) und &quot;li&quot;(LinkedIn). Die Standardeinstellung ist [ tw , fb ]. |
 | **readOnly** | ** optional | Deaktiviert alle Interaktivität für die Sammlung. Wenn &quot;true&quot;, können sich Benutzer nicht beim Stream anmelden und können keine Inhalte posten, bearbeiten, beantworten oder &quot;Gefällt mir&quot;-Klicks verwenden. Wenn &quot;true&quot;, können Benutzer Inhalte kennzeichnen und freigeben. Standard ist „false“. |
 | **stream** | *optionalobject*  | Enthält Optionen zum Konfigurieren des Streaming der App. |
 | stream.catchup | *optional* integer | Gibt die Anzahl der Sekunden vor dem aktuellen Moment an, die der Stream geladen werden soll. Standardmäßig lädt Livefyre 50 Inhaltselemente und lädt dann alle zwischen diesen und der aktuellen Zeit gesendeten Inhalte. In sehr schnellen Anwendungsfällen können Inhalte zu schnell veröffentlicht werden, um der App eine &quot;Aufholung&quot;zu ermöglichen. Verwenden Sie diese Einstellung, um die Anzahl der Sekunden vor dem ersten Laden festzulegen, für die Inhalte veröffentlicht werden (nach dem ersten Laden). |
@@ -152,7 +148,7 @@ Das `CollectionMeta`-Objekt ist ein JSON-Objekt, das die in der Sammlung zu spei
 |--- |--- |--- |
 | **articleId** | *erforderliche* Zeichenfolge | Eine eindeutige ID für die Sammlung. |
 | **Titel** | *erforderliche* Zeichenfolge | Der Titel, den Sie auf die Sammlung anwenden möchten. Dies entspricht oft dem Titel der Seite, auf der die App angezeigt wird.  Beispiel: &quot;Integration macht so viel Spaß!&quot;  Hinweis:  Die maximale Zeichenlänge für den Titel beträgt 255 Zeichen. Das Titelfeld unterstützt keine HTML-Entitäten. Bitte kodieren Sie Sonderzeichen mit UTF-8. |
-| **url** | *erforderliche* Zeichenfolge | Die kanonische absolute URL, die Sie dieser Sammlung hinzufügen möchten. Diese URL wird verwendet, um aus Inhalten, die auf Facebook und Twitter freigegeben wurden, E-Mail-Benachrichtigungen und Livefyre Studio Links zur App zu generieren.  Hinweis:  Livefyre erfordert die Verwendung eines vollständig qualifizierten Domänennamens; die Anschlussnummer oder ein Rückruf zur Auflösung des lokalen Setups ist nicht erforderlich. Stellen Sie bei lokalen Tests sicher, dass eine gültige Basis-URL-Domäne verwendet wird. (Beispiel: `https://customer.com` ist gültig, `https://localhost:5995` nicht.) Nachdem Sie Ihren lokalen Webserver so eingerichtet haben, dass er einen vollständig qualifizierten Domänennamen akzeptiert, sind keine Rückrufe oder Lösungen erforderlich und die lokale Entwicklung kann wie erwartet fortgesetzt werden. |
+| **url** | *erforderliche* Zeichenfolge | Die kanonische absolute URL, die Sie dieser Sammlung hinzufügen möchten. Diese URL wird verwendet, um aus auf Facebook und Twitter freigegebenen Inhalten, E-Mail-Benachrichtigungen und Livefyre Studio Links zurück zur App zu generieren.  Hinweis:  Livefyre erfordert die Verwendung eines vollständig qualifizierten Domänennamens; die Anschlussnummer oder ein Rückruf zur Auflösung des lokalen Setups ist nicht erforderlich. Stellen Sie bei lokalen Tests sicher, dass eine gültige Basis-URL-Domäne verwendet wird. (Beispiel: `https://customer.com` ist gültig, `https://localhost:5995` nicht.) Nachdem Sie Ihren lokalen Webserver so eingerichtet haben, dass er einen vollständig qualifizierten Domänennamen akzeptiert, sind keine Rückrufe oder Lösungen erforderlich und die lokale Entwicklung kann wie erwartet fortgesetzt werden. |
 | **type** | ** requiredString | Der Sammlungstyp. Muss livechat sein. |
 
 Das `CollectionMeta`-Objekt kann auch den folgenden optionalen Parameter enthalten:
@@ -176,4 +172,3 @@ Livefyre.require(['fyre.conv#3'], function(Conv) {
    }); 
 });
 ```
-
