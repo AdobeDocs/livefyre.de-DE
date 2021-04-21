@@ -1,18 +1,14 @@
 ---
 description: Die Map-App Angebot diese Funktionen für Ihre Site.
-seo-description: Die Map-App Angebot diese Funktionen für Ihre Site.
-seo-title: Funktionen für Imagemaps
-solution: Experience Manager
 title: Funktionen für Imagemaps
-uuid: fdad5f0c-8292-4f59-bac1-c96c01e96ff5
+exl-id: 71ad1b93-ba8a-41ce-ad3d-1ade68c37c45
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '53'
 ht-degree: 0%
 
 ---
-
 
 # Kartenfunktionen{#map-features}
 
@@ -23,4 +19,3 @@ Die Map-App Angebot diese Funktionen für Ihre Site.
 * Inhalt wird in Echtzeit auf die Karte gesetzt.
 * Inhalte aus demselben Bereich werden gruppiert und können in einem Galeriemodal angezeigt werden.
 * Vergrößern Sie die Map, um sich auf Inhalte aus bestimmten Bereichen zu konzentrieren.
-
