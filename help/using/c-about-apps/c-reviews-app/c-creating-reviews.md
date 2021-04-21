@@ -1,18 +1,14 @@
 ---
 description: Hier finden Sie eine umfassende Auswahl an Anpassungen, mit denen Sie eine Review-App erstellen können, die Ihren Anforderungen und Ihrem Branding entspricht.
-seo-description: Hier finden Sie eine umfassende Auswahl an Anpassungen, mit denen Sie eine Review-App erstellen können, die Ihren Anforderungen und Ihrem Branding entspricht.
-seo-title: Erstellen einer Reviews-App
-solution: Experience Manager
 title: Erstellen einer Reviews-App
-uuid: 6caeafe7-c04e-484e-b02f-98dc6d9b3184
+exl-id: 14f074d2-922c-4997-8d7d-f2c92f069e07
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '731'
+source-wordcount: '707'
 ht-degree: 0%
 
 ---
-
 
 # Erstellen einer Reviews-App{#creating-a-reviews-app}
 
@@ -39,7 +35,7 @@ Weitere Informationen finden Sie unter **[!UICONTROL Configure Star Ratings]** u
 
 Bewertungsdimensionen sind die Kategorien, zu denen Ihre Prüfer Ihr Produkt oder Ihre Dienstleistung bewerten. Beispiele für Bewertungsdimensionen sind &quot;Leistung&quot;, &quot;Design&quot;, &quot;Kosten&quot;, &quot;Gesamt&quot;oder eine andere Kategorie, die Sie auswählen.
 
-Standardmäßig wird eine &quot;Gesamt&quot;-Bewertungsdimension angezeigt, Sie können jedoch mehrere Ratingdimensionen definieren und implementieren, wie im Beispiel unten dargestellt.
+Standardmäßig wird eine &quot;Gesamt&quot;-Bewertungsdimension angezeigt. Sie können jedoch mehrere Ratingdimensionen definieren und implementieren, wie im Beispiel unten dargestellt.
 
 Weitere Informationen finden Sie im Feld ratingDimensions unter Sammlungsmetadaten überprüfen.
 
