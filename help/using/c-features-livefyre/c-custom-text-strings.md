@@ -1,18 +1,14 @@
 ---
 description: Passen Sie alle Textzeichenfolgen in der App für die Internationalisierung oder das Branding an.
-seo-description: Passen Sie alle Textzeichenfolgen in der App für die Internationalisierung oder das Branding an.
-seo-title: Übersetzen und benutzerdefinierte Textzeichenfolgen
-solution: Experience Manager
 title: Übersetzen und benutzerdefinierte Textzeichenfolgen
-uuid: 3c79b8ea-37a0-465d-8fb0-30e13e0cd7f7
+exl-id: 23018217-6bf8-415e-8801-584b0492734b
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 10%
+source-wordcount: '90'
+ht-degree: 12%
 
 ---
-
 
 # Übersetzungs- und benutzerdefinierte Textzeichenfolgen{#translation-and-custom-text-strings}
 
@@ -36,4 +32,3 @@ Apps, die diese Funktion verwenden:
 * [Sir](../c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Trends](../c-about-apps/c-trending-app/c-trending-app.md#c_trending_app)
 * [Hochladen-Schaltfläche](../c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
-
