@@ -1,27 +1,23 @@
 ---
-description: Erfahren Sie, welche Regeln und Anforderungen für Instagram gelten, die sich von anderen Social-Konten unterscheiden.
-seo-description: Erfahren Sie, welche Regeln und Anforderungen für Instagram gelten, die sich von anderen Social-Konten unterscheiden.
-seo-title: Info zu Instagram-Konten
-solution: Experience Manager
-title: Info zu Instagram-Konten
-uuid: 1fa2b4ca-264c-42c8-8dcb-57f7543ed2f7
+description: Erfahren Sie, welche Regeln und Anforderungen für Instagram sich von anderen Social-Konten unterscheiden.
+title: Informationen zu Instagram-Konten
+exl-id: 6b337c5f-c0b2-4f27-947f-a3e72b65d8de
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
+# Informationen zu Instagram-Konten{#about-instagram-accounts}
 
-# Info zu Instagram-Konten{#about-instagram-accounts}
-
-Erfahren Sie, welche Regeln und Anforderungen für Instagram gelten, die sich von anderen Social-Konten unterscheiden.
+Erfahren Sie, welche Regeln und Anforderungen für Instagram sich von anderen Social-Konten unterscheiden.
 
 Sie müssen ein *Instagram-Geschäftskonto* konfigurieren, um:
 
-* Führen Sie eine Instagram Social-Suche nach dem Benutzer durch (Benutzer muss ein Instagram-Geschäftskonto sein).
-* Erstellen Sie Instagram-Streams aus einem bestimmten Instagram-Benutzerkonto (das Konto muss ein Geschäftskonto sein).
+* Führen Sie eine Instagram-Social-Suche nach dem Benutzer durch (Benutzer muss ein Instagram-Geschäftskonto sein).
+* Erstellen Sie Instagram-Streams von einem bestimmten Instagram-Benutzerkonto aus (das Konto muss ein Geschäftskonto sein).
 * Anfordern von Berechtigungen für Assets von Instagram mithilfe eines teilweise automatisierten Workflows
 
-Informationen zum Erstellen eines Instagram-Geschäftskontos oder Konvertieren eines Instagram-Privatkontos in ein Geschäftskonto finden Sie unter [Wie richte ich ein geschäftliches Profil auf Instagram ein?](https://www.facebook.com/help/502981923235522)
+Informationen zum Erstellen eines Instagram-Geschäftskontos oder Konvertieren eines Instagram-Privatkontos in ein Geschäftskonto finden Sie unter [Wie richte ich ein Business-Profil auf Instagram ein?](https://www.facebook.com/help/502981923235522)
