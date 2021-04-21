@@ -1,19 +1,16 @@
 ---
 description: Verwenden Sie die Social-Suche, um nach Twitter-Inhalten zu suchen, die in Ihre Asset-Bibliothek aufgenommen oder in Apps veröffentlicht werden sollen.
-seo-description: Verwenden Sie die Social-Suche, um nach Twitter-Inhalten zu suchen, die in Ihre Asset-Bibliothek aufgenommen oder in Apps veröffentlicht werden sollen.
-seo-title: Suchen nach Twitter-Inhalten
 title: Suchen nach Twitter-Inhalten
-uuid: 7e36cc1f-7dce-446b-84b6-22939e8dcaf5
+exl-id: 25cb5b74-0e6c-4f00-90f9-1022a13406ca
 translation-type: tm+mt
-source-git-commit: df5991d9d70282b289f2cca954dc8727c82d699f
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
 
-
-# Suchen nach Twitter-Inhalten{#search-for-twitter-content}
+# Suchen nach Twitter Content{#search-for-twitter-content}
 
 Verwenden Sie die Social-Suche, um nach Twitter-Inhalten zu suchen, die in Ihre Asset-Bibliothek aufgenommen oder in Apps veröffentlicht werden sollen.
 
@@ -22,7 +19,7 @@ Sie können Suchvorgänge speichern und wiederverwenden. Klicken Sie in der Such
 Wenn Sie der Bibliothek neue Assets hinzufügen, werden Assets, die bereits in Ihrer Bibliothek enthalten sind, mit einem Häkchen markiert.
 
 1. Navigieren Sie zu **[!UICONTROL Social Search]**.
-1. Wählen Sie **[!UICONTROL Twitter]** aus, um Twitter-Inhalte zu suchen.
+1. Wählen Sie **[!UICONTROL Twitter]** aus, um nach Twitter-Inhalten zu suchen.
 1. Geben Sie einen Suchbegriff ein: #hashtag oder @person. Sie können einen Suchtyp aus dem rechten Pulldown-Menü in der Suchleiste auswählen, um Ihre Suche zu verfeinern.
 
    * **[!UICONTROL Subject Search:]** durchsucht standardmäßig alle verfügbaren Felder nach dem Eingabetext.
