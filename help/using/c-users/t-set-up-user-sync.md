@@ -1,18 +1,14 @@
 ---
 description: Mit der Benutzersynchronisierung können Sie den Endpunkt eingeben, mit dem Sie Benutzerdaten aus Ihrem Benutzerverwaltungssystem abrufen können.
-seo-description: Mit der Benutzersynchronisierung können Sie den Endpunkt eingeben, mit dem Sie Benutzerdaten aus Ihrem Benutzerverwaltungssystem abrufen können.
-seo-title: Benutzersynchronisierung
-solution: Experience Manager
 title: Benutzersynchronisierung
-uuid: 6259e6fa-0541-4f5b-9d14-4c7c932ef997
+exl-id: 6a7a4bb3-a344-48be-8ba1-fd6d27a3b4af
 translation-type: tm+mt
-source-git-commit: 30aa5cce5e7567208362cc35caeb7b7260c42f3b
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 1%
+source-wordcount: '85'
+ht-degree: 2%
 
 ---
-
 
 # Benutzersynchronisierung{#user-sync}
 
@@ -24,4 +20,3 @@ Weitere Informationen dazu, wie Livefyre diese URL verwendet, um Ihre Benutzerda
 
 **Profil Sync URL:** Geben Sie die URL ein, von der Livefyre die aktualisierten Profil-Informationen abrufen soll.
 * Beispiel: `https://example.yoursite.com/some_path/?id={***id***}`
-
