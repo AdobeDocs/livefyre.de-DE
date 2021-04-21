@@ -1,18 +1,14 @@
 ---
 description: Storifizieren Sie zwei Angebot mehrere Inhaltsquellen, um soziale Inhalte hinzuzufügen.
-seo-description: Storifizieren Sie zwei Angebot mehrere Inhaltsquellen, um soziale Inhalte hinzuzufügen.
-seo-title: hinzufügen Social-Inhalte
-solution: Experience Manager
 title: hinzufügen Social-Inhalte
-uuid: 0bd6579e-ac55-4201-a403-4fcb19e8684b
+exl-id: 2277b525-ef0e-4e66-9260-f81898d93bf1
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
-
 
 # hinzufügen Social Content{#add-social-content}
 
@@ -26,7 +22,7 @@ Auf der Registerkarte &quot;Suche&quot;können Sie nach Social Media-Netzwerken,
 
 >[!NOTE]
 >
->Die Such-API von Twitter gibt nur die letzten 7 Tage zurück.
+>Die Search-API von twitter gibt nur die letzten 7 Tage zurück.
 
 So fügen Sie Ihrer Geschichte Inhalte hinzu:
 
