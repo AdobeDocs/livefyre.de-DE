@@ -1,17 +1,14 @@
 ---
 description: Moderieren Sie mithilfe der Bibliothek Inhalte, die aus einem Stream stammen.
-seo-description: Moderieren Sie mithilfe der Bibliothek Inhalte, die aus einem Stream stammen.
-seo-title: Moderieren von Inhalten aus einem Stream
 title: Moderieren von Inhalten aus einem Stream
-uuid: 38faf651-c547-49b3-b3d1-1a1d65c0f81c
+exl-id: 60111467-be63-4236-a06a-eb59b4c29bbe
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
-
 
 # Moderieren von Inhalten aus einem Stream{#moderate-content-from-a-stream}
 
@@ -46,4 +43,3 @@ Apps, die diese Funktion verwenden:
 * [Reviews](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 * [Sir](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
-
