@@ -1,18 +1,14 @@
 ---
 description: hinzufügen Sie Livefyre in Ihre nativen mobilen Apps.
-seo-description: hinzufügen Sie Livefyre in Ihre nativen mobilen Apps.
-seo-title: Mobile SDKs
-solution: Experience Manager
 title: Mobile SDKs
-uuid: 84c7ca1c-3401-492a-bfa5-62b996947a44
+exl-id: e05001a4-6199-4d98-a661-123e031b657b
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 5%
+source-wordcount: '367'
+ht-degree: 4%
 
 ---
-
 
 # Mobile SDKs{#mobile-sdks}
 
@@ -66,4 +62,3 @@ Die HTTP-APIs sind die Gruppe von Endpunkten, mit denen Sie Konversationen und I
 >[!IMPORTANT]
 >
 >**Erstellen Sie im mobilen Client** keine Benutzerauthentifizierungstoken, da dies erfordert, dass Sie Ihren Livefyre-geheimen Netzwerkschlüssel in einer ungesicherten App verfügbar machen. Eine stabilere und sicherere Lösung finden Sie im Abschnitt Benutzerauthentifizierungstoken.
-
