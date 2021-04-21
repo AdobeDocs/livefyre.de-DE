@@ -1,22 +1,18 @@
 ---
-description: Antworten auf häufig gestellte Fragen (FAQs) zu GDPR-Ready-Datenschutzanfragen.
-seo-description: Antworten auf häufig gestellte Fragen (FAQs) zu GDPR-Ready-Datenschutzanfragen.
-seo-title: Häufig gestellte Fragen zu Datenschutzanfragen
-solution: Experience Manager
+description: Antworten auf häufig gestellte Fragen (FAQs) zu GDPR-Ready-Datenschutzanforderungen.
 title: Häufig gestellte Fragen zu Datenschutzanfragen
-uuid: 0cd6f0d2-504d-46e9-ac46-070536cda086
+exl-id: 6d0add45-589a-46d0-b15a-63a7599aad73
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '412'
 ht-degree: 1%
 
 ---
 
-
 # Häufig gestellte Fragen zu Datenschutzanfragen{#privacy-request-faqs}
 
-Antworten auf häufig gestellte Fragen (FAQs) zu GDPR-Ready-Datenschutzanfragen.
+Antworten auf häufig gestellte Fragen (FAQs) zu GDPR-Ready-Datenschutzanforderungen.
 
 * **Wie können Site-Besucher Opt-out verfolgt werden, wenn sie auf einer Site verfolgt werden, die Livefyre-Apps verwendet?** Wenn sich ein Site-Besucher abmeldet, muss die Kundenimplementierung Livefyre mitteilen, dass der Benutzer sich vor der Instanziierung einer App abgemeldet hat. Livefyre hat eine Möglichkeit geschaffen, dies mit der JavaScript-Option `userPrivacyOptOut` zu tun. Weitere Informationen zur Verwendung von `userPrivacyOptOut` finden Sie unter [userPrivacyOptOut](/help/using/c-settings-other/c-gdpr-compliance/c-userprivacyoptout.md).
 
@@ -41,4 +37,3 @@ Antworten auf häufig gestellte Fragen (FAQs) zu GDPR-Ready-Datenschutzanfragen.
 * **Wie erstelle ich einen Bericht über Daten, die von einem aktuellen oder ehemaligen Mitarbeiter verfolgt werden?** [Ansicht eines ](../../c-settings-other/c-gdpr-compliance/c-view-a-privacy-report.md#c_view_a_privacy_report) Datenschutzberichts, um einen Bericht mit den für ein Benutzerkonto verfolgten Daten zu erstellen.
 
 * **Ist Livefyre Social Stream kompatibel?** Wenn ein Benutzer einen Beitrag oder Tweet aus seinem sozialen Netzwerk löscht, wird der Inhalt innerhalb von 24 Stunden auch aus allen Quellen in Livefyre gelöscht. Dies gilt für Twitter und Facebook.
-
