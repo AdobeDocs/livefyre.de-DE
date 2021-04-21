@@ -1,18 +1,14 @@
 ---
 description: Versionshinweise für die Version vom 23. August 2018.
-seo-description: Versionshinweise für die Version vom 23. August 2018.
-seo-title: 23. August 2018
-solution: Experience Manager
 title: 23. August 2018
-uuid: 668058d8-cd31-416e-afc3-eaf158109e3e
+exl-id: 13117917-6137-49f1-a138-4d4d2e76f17f
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 8%
+source-wordcount: '277'
+ht-degree: 7%
 
 ---
-
 
 # 23. August 2018{#august}
 
@@ -32,10 +28,10 @@ Die Probleme in den folgenden Tabellen wurden in dieser Version behoben.
 | **Art des Problems** | **Komponente** | **Versionshinweise** |
 |---|---|---|
 | Fehler | Kommentare | Die Option &quot;Kurzlink&quot;wurde in Kommentaren und anderen Konversations-Apps wieder in das Dialogfeld &quot;Freigeben&quot;-Schaltfläche eingefügt. |
-| Fehler | GDPR | Es wurde ein Problem behoben, bei dem Ausschluss-Meldungen für einige Instagram-Videos nicht angezeigt wurden. |
+| Fehler | GDPR | Es wurde ein Problem behoben, bei dem Abmeldemeldungen für einige Instagram-Videos nicht angezeigt wurden. |
 | Fehler | Bibliothek | Es wurde ein Problem behoben, bei dem Benutzer keine nativen Livefyre-Videos aus dem Bibliotheksordner in einer App veröffentlichen konnten. |
 | Fehler | Bibliothek | Es wurde ein Problem behoben, bei dem ein Asset nicht in einem Ordner gespeichert werden konnte. |
-| Fehler | Bibliothek/Suche | Die Möglichkeit, URLs aus Instagram in der Social-Suche zu suchen, wurde wiederhergestellt. |
+| Fehler | Bibliothek/Suche | Die Möglichkeit, URLs aus Instagram in Social Search zu suchen, wurde wiederhergestellt. |
 | Fehler | ModQ | Es wurde ein Problem behoben, bei dem das Menü &quot;Mehr Info&quot;in ModQ nicht dort angezeigt wurde, wo erwartet wurde. |
 | Fehler | Rights Management | Es wurde ein Problem behoben, bei dem auf einer Karte mit manuell zugewiesenen Rechten der falsche Anforderungsstatus angezeigt wurde. |
 | Fehler | Rights Management | Es wurde ein Problem behoben, bei dem die Sortierung in ModQ an einer festen Position erfolgen sollte, wenn ein Seitenbildlauf durchgeführt wird. |
