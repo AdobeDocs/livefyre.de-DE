@@ -1,20 +1,16 @@
 ---
 description: Sie können Stream-Regeln erstellen, die Inhalte aus Twitter abrufen.
-seo-description: Sie können Stream-Regeln erstellen, die Inhalte aus Twitter abrufen.
-seo-title: Twitter-Regeln
-solution: Experience Manager
 title: Twitter-Regeln
-uuid: a7fd2398-fd6b-4c24-92b2-7471176d7648
+exl-id: 3a5081eb-048d-4dcf-80a2-366af2cb2c86
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '541'
 ht-degree: 0%
 
 ---
 
-
-# Twitter-Regeln{#twitter-rules}
+# Twitter Rules{#twitter-rules}
 
 Sie können Stream-Regeln erstellen, die Inhalte aus Twitter abrufen.
 
@@ -24,9 +20,9 @@ Wenn Sie **[!UICONTROL Words]** und **[!UICONTROL Username]** für Ihre Regel hi
 
 >[!NOTE]
 >
->Livefyre befolgt die Twitter-Anzeigenrichtlinien und Kunden sind auch für die Einhaltung dieser Richtlinien verantwortlich. Weitere Informationen finden Sie in der Dokumentation zu Twitter unter den [Anzeigeanforderungen](https://dev.twitter.com/terms/display-requirements).
+>Livefyre hält sich an die Twitter-Anzeigenrichtlinien und die Kunden sind auch für die Einhaltung dieser Richtlinien verantwortlich. Weitere Informationen finden Sie in der Twitter-Dokumentation zu den [Anzeigeanforderungen](https://dev.twitter.com/terms/display-requirements).
 
-Um Twitter-Regeln zu erstellen, mit denen Sie Inhalte aus Twitter-Feeds in Ihre App oder Ihren Ordner ziehen können, können Sie nach Folgendem filtern:
+Um Twitter-Regeln zu erstellen, mit denen Inhalte aus Twitter-Feeds in Ihre App oder Ihren Ordner gezogen werden können, können Sie wie folgt filtern:
 
 * **[!UICONTROL Keywords]**
    * Geben Sie **[!UICONTROL Keywords]** ein, um in Ihren Twitter-Stream eingeschlossen oder ausgeschlossen zu werden. Wenn Sie Werte für die Felder **[!UICONTROL Contains any of these words]** und **[!UICONTROL Does not contain any of these words]** angeben, werden Tweets zurückgegeben, die das erste und das zweite enthalten. Es können mehrere Werte für ein einzelnes Feld eingegeben werden, die Ergebnisse zurückgeben, die einen der Werte enthalten. Wenn Sie den Booleschen Operator UND verwenden möchten, um nach Tweets mit zwei oder mehr Wörtern zu suchen, verwenden Sie zwei kaufmännische Und (*&amp;*), um die beiden Wörter zu trennen.
