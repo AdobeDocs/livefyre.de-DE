@@ -1,17 +1,14 @@
 ---
 description: Verknüpfen Sie Produkte mit Inhalten aus der Bibliothek, um Ihre Inhalte und Produktkataloge an einem einfach zu verwaltenden Ort zu synchronisieren.
-seo-description: Verknüpfen Sie Produkte mit Inhalten aus der Bibliothek, um Ihre Inhalte und Produktkataloge an einem einfach zu verwaltenden Ort zu synchronisieren.
-seo-title: Verknüpfen von Produkten mit Inhalten mithilfe der Bibliothek
 title: Verknüpfen von Produkten mit Inhalten mithilfe der Bibliothek
-uuid: 63520f34-c5fe-4cbd-937a-33d707bbcc5f
+exl-id: 4d3e99cc-9188-4b5c-afdb-d177c66f19e6
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
-
 
 # Verknüpfen von Produkten mit Inhalten mithilfe der Bibliothek{#associate-products-with-content-using-the-library}
 
