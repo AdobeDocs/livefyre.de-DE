@@ -1,18 +1,14 @@
 ---
 description: Integrieren Sie eine SIR-App, indem Sie einen ähnlichen Prozess wie Core-Anwendungen ausführen.
-seo-description: Integrieren Sie eine SIR-App, indem Sie einen ähnlichen Prozess wie Core-Anwendungen ausführen.
-seo-title: Integration von Sizilien
-solution: Experience Manager
 title: Integration von Sizilien
-uuid: 4aa14ada-402a-482d-b43e-96f37afa6c53
+exl-id: 368951b1-fef2-46d8-b89c-68c46962e937
 translation-type: tm+mt
-source-git-commit: fcee9dc152e7f8284e64248fdcc5bf81d39618ff
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '153'
 ht-degree: 1%
 
 ---
-
 
 # Integration von Siegels{#sidenotes-integration}
 
