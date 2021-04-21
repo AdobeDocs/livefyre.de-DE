@@ -1,18 +1,14 @@
 ---
 description: Verwenden Sie benutzerdefinierte Stile, um Ihre Benutzer zu unterscheiden.
-seo-description: Verwenden Sie benutzerdefinierte Stile, um Ihre Benutzer zu unterscheiden.
-seo-title: Inhalt der Benutzergruppe formatieren
-solution: Experience Manager
 title: Inhalt der Benutzergruppe formatieren
-uuid: 2205d2c9-1892-427d-a289-bab0bf1dfe19
+exl-id: ed9cd412-5775-4d49-be34-c8b8f6df6358
 translation-type: tm+mt
-source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '221'
 ht-degree: 4%
 
 ---
-
 
 # Stil-Benutzergruppeninhalt{#style-user-group-content}
 
