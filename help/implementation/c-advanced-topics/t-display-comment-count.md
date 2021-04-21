@@ -1,18 +1,14 @@
 ---
 description: Erfassen Sie die Anzahl der Beiträge und Kommentare für bestimmte Sammlungen, die auf Ihren Indexseiten angezeigt werden sollen.
-seo-description: Erfassen Sie die Anzahl der Beiträge und Kommentare für bestimmte Sammlungen, die auf Ihren Indexseiten angezeigt werden sollen.
-seo-title: Anzahl der Kommentare anzeigen
-solution: Experience Manager
 title: Anzahl der Kommentare anzeigen
-uuid: 0f39b25e-11e0-4945-be71-55fb4798b6c7
+exl-id: 03c911f0-1fdd-4d5c-9262-9ff7485b7b14
 translation-type: tm+mt
-source-git-commit: c2594f919f153d1230b3dc0370f31d64cb698146
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
-
 
 # Anzahl angezeigter Kommentare{#display-comment-count}
 
