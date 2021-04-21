@@ -1,18 +1,14 @@
 ---
 description: Anpassen der Textzeichenfolgen für Livefyre Sibezeichnet
-seo-description: Anpassen der Textzeichenfolgen für Livefyre Sibezeichnet
-seo-title: Seitenzeichenfolgen
-solution: Experience Manager
 title: Seitenzeichenfolgen
-uuid: a3735237-e55d-4bc0-b88d-8a323980ee09
+exl-id: 132a7c8d-10e1-419c-9d79-a40553e70785
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '491'
 ht-degree: 12%
 
 ---
-
 
 # Seitenzeichenfolgen{#sidenotes-text-strings}
 
@@ -164,4 +160,3 @@ Für allgemeine Fehlermeldungen verfügbare Zeichenfolgen.
 |  | errorDuplicate | Ihre Notiz gefällt uns ebenfalls, aber Sie können sie nicht zweimal posten. |
 |  | errorGeneral | Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut. |
 |  | errorServer | Etwas ist mit unserem Server schiefgelaufen. Versuch das noch einmal? |
-
