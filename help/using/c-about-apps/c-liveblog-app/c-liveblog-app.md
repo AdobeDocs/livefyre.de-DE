@@ -1,18 +1,14 @@
 ---
 description: Mit dem Live-Blog können Autoren und Redakteure Echtzeit-Aktualisierungen veröffentlichen und so Ihre Site in eine ansprechende Live-News-Quelle verwandeln.
-seo-description: Mit dem Live-Blog können Autoren und Redakteure Echtzeit-Aktualisierungen veröffentlichen und so Ihre Site in eine ansprechende Live-News-Quelle verwandeln.
-seo-title: Live-Blog
-solution: Experience Manager
 title: Live-Blog
-uuid: 40ae3120-c630-440e-b224-49cd99677dc2
+exl-id: 9a356e8b-7120-466b-8c78-4e7d6d21d0c4
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
-
 
 # Live-Blog{#live-blog}
 
@@ -31,4 +27,3 @@ Der Live-Blog unterscheidet sich wie folgt von Kommentaren:
 Mit einem weiteren Schneesturm wollte Slate den Lesern sofortige Informationen über die wilden Wetterschwankungen an der Ostküste liefern. Mit einem Live-Blog konnten Slate-Editoren sofort Updates über den Sturm teilen, einschließlich ihrer eigenen Fotos, Benutzertweets und Informationen über den Schneefall. Der Live-Blog war so nützlich, dass er die Titelseite von Slate&#39;s Website machte.
 
 ![](assets/LiveBlogSlate_example.png)
-
