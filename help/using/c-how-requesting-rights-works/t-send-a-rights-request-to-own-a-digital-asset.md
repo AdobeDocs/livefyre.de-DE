@@ -1,26 +1,22 @@
 ---
 description: Sie können das Recht zur Wiederverwendung des Artikels für Ihre kommerziellen Zwecke über die Bibliothek, den App-Inhalt oder ModQ anfordern.
-seo-description: Sie können das Recht zur Wiederverwendung des Artikels für Ihre kommerziellen Zwecke über die Bibliothek, den App-Inhalt oder ModQ anfordern.
-seo-title: Senden einer Twitter-Berechtigungsanfrage
-solution: Experience Manager
-title: Senden einer Twitter-Berechtigungsanfrage
-uuid: bf3e84a6-dc67-47bc-9707-bd30882cbbf0
+title: Eine Twitter-Berechtigungsanfrage senden
+exl-id: 609ba724-d9c8-4e33-b71c-92df08e2265b
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
 
-
-# Eine Twitter-Berechtigungsanfrage senden{#send-a-twitter-rights-request}
+# Eine Twitter Rights Request senden{#send-a-twitter-rights-request}
 
 Sie können das Recht zur Wiederverwendung des Artikels für Ihre kommerziellen Zwecke über die Bibliothek, den App-Inhalt oder ModQ anfordern.
 
 Bevor Sie eine Berechtigungsanfrage senden können, müssen Sie:
 
-* hinzufügen eines Twitter-Social-Kontos. Weitere Informationen zum Konfigurieren eines Social-Kontos finden Sie unter [Hinzufügen eines Social-Kontos](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/t-configure-social-accout-instagram.md#t_configure_social_accout_instagram).
+* hinzufügen einem Twitter-Sozialkonto. Weitere Informationen zum Konfigurieren eines Social-Kontos finden Sie unter [Hinzufügen eines Social-Kontos](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/t-configure-social-accout-instagram.md#t_configure_social_accout_instagram).
 * Richten Sie Rights Management ein. Weitere Informationen zum Einrichten der Rights Management finden Sie unter [Anfordern von Rechten](../c-how-requesting-rights-works/c-how-requesting-rights-works.md#c_how_requesting_rights_works).
 
 Sie können Berechtigungsanfragen von der Bibliothek, dem App-Inhalt oder dem ModQ senden. In der Bibliothek und im App-Inhalt müssen Sie ein Twitter-Asset speichern, bevor Sie Berechtigungen für dieses Asset anfordern können. Klicken Sie auf die Details für ein Asset, um Rechte anzufordern.
