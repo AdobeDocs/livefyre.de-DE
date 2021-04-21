@@ -1,18 +1,14 @@
 ---
 description: Das Config-Objekt "SiHiermit"ist ein JSON-Objekt, mit dem der von der Livefyre-App auf der Seite wiedergegebene Inhalt angegeben wird.
-seo-description: Das Config-Objekt "SiHiermit"ist ein JSON-Objekt, mit dem der von der Livefyre-App auf der Seite wiedergegebene Inhalt angegeben wird.
-seo-title: Sidebar-Konfigurationsoptionen
-solution: Experience Manager
 title: Sidebar-Konfigurationsoptionen
-uuid: 067e51e6-9720-4226-a805-c7a07c8cdaa0
+exl-id: efebf9e5-6623-4953-a8f6-c58495304ac1
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '455'
 ht-degree: 2%
 
 ---
-
 
 # Siegels-Konfigurationsoptionen{#sidenotes-configuration-options}
 
@@ -35,4 +31,3 @@ Das Objekt enthält die folgenden Parameter:
 | Selektoren | ** requireObject, string oder array | Gibt die Elemente an, auf denen Startersymbole angezeigt werden sollen. (Verwendet CSS3-DOM-Selektorspezifikationen.) Enthält ein Objekt den Abschnitt &quot;Includes&quot;und den Abschnitt &quot;Ausschluss&quot;, der den CSS-Selektor auf alle übereinstimmenden Einschlüsse anwendet, und entfernt alle Elemente, die mit den Ausschlüssen übereinstimmen. Wenn eine Zeichenfolge vorhanden ist, werden alle passenden Elemente auf der Seite eingefügt. Bei Array werden die einzuschließenden Elemente Liste. |
 | Strings | *optionalobject*  | Fügt benutzerdefinierte Textzeichenfolgen hinzu, um eine beliebige Sprache oder Text in der Anwendung zu ändern. Weitere Informationen finden Sie unter Benutzerdefinierte Zeichenfolgen. |
 | threadContainerEl | *optionales* Objekt, String oder Array | Gibt ein Element an, in dem der Thread von &quot;sidences&quot;angezeigt wird. Mit diesem Parameter können Sie den Thread neu positionieren. Wenn der String-Selektor mit mehr als einem Element übereinstimmt, wird das erste Element ausgewählt. (Verwendet CSS3-DOM-Selektorspezifikationen.) |
-
