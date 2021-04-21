@@ -1,18 +1,14 @@
 ---
 description: Erstellen Sie eine neue Storify 2-Geschichte.
-seo-description: Erstellen Sie eine neue Storify 2-Geschichte.
-seo-title: Eine Geschichte erstellen
-solution: Experience Manager
 title: Eine Geschichte erstellen
-uuid: ab1d9b9a-9081-4ca0-8df4-1cc6d9c9fd81
+exl-id: dc5a1c5f-53a1-43e2-820b-a1817c6fffeb
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '31'
-ht-degree: 16%
+source-wordcount: '23'
+ht-degree: 21%
 
 ---
-
 
 # Erstellen einer Meldung{#create-a-story}
 
