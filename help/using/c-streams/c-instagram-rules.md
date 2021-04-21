@@ -1,17 +1,14 @@
 ---
 description: Sie können Stream-Regeln erstellen, die Inhalte aus Instagram abrufen.
-seo-description: Sie können Stream-Regeln erstellen, die Inhalte aus Instagram abrufen.
-seo-title: Instagram-Regeln
 title: Instagram-Regeln
-uuid: 98108ddb-5710-4331-891b-7e1bbb106059
+exl-id: ac00a12c-94b1-4464-ad3f-991382759d71
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
-
 
 # Instagram Rules{#instagram-rules}
 
@@ -19,13 +16,13 @@ Sie können Stream-Regeln erstellen, die Inhalte aus Instagram abrufen.
 
 >[!NOTE]
 >
->Bevor Sie einen Instagram-Stream erstellen, müssen Sie mindestens ein Instagram-Geschäftskonto zum Abschnitt **[!UICONTROL Social Accounts]** in **[!UICONTROL Network Settings]** hinzufügen. Weitere Informationen zum Konfigurieren eines Instagram-Kontos finden Sie unter [Info zu Instagram-Konten](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts).
+>Bevor Sie einen Instagram-Stream erstellen, müssen Sie mindestens ein Instagram-Geschäftskonto zum Abschnitt **[!UICONTROL Social Accounts]** in **[!UICONTROL Network Settings]** hinzufügen. Weitere Informationen zum Konfigurieren eines Instagram-Kontos finden Sie unter [Informationen zu Instagram-Konten](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts).
 
 Erstellen Sie Instagram-Regeln basierend auf @mentions oder Hashtag.
 
 >[!NOTE]
 >
->Für alle Instagram-Regeln ist mindestens ein Hashtag erforderlich. Wenn Sie Suchbegriffe und einen Benutzernamen für Ihre Regel hinzufügen, werden Inhalte zurückgegeben, die beide Einträge enthalten.
+>Alle Instagram-Regeln erfordern mindestens ein Hashtag. Wenn Sie Suchbegriffe und einen Benutzernamen für Ihre Regel hinzufügen, werden Inhalte zurückgegeben, die beide Einträge enthalten.
 
 Um Instagram-Regeln zum Abrufen von Inhalten aus Instagram-Feeds in Ihre App oder Ihren Ordner zu erstellen, filtern Sie nach:
 
@@ -37,7 +34,7 @@ Um Instagram-Regeln zum Abrufen von Inhalten aus Instagram-Feeds in Ihre App ode
 
       >[!NOTE]
       >
-      >Instagram Rules gibt Beiträge zurück, die das aufgelistete Hashtag in den Kommentaren des Autors enthalten, die möglicherweise nicht im Stream angezeigt werden.
+      >Instagram Rules gibt Beiträge zurück, die das aufgelistete Hashtag in den Kommentaren des Autors enthalten, was möglicherweise nicht im Stream angezeigt wird.
 
 * **[!UICONTROL Mentions]**
 
@@ -47,7 +44,7 @@ Um Instagram-Regeln zum Abrufen von Inhalten aus Instagram-Feeds in Ihre App ode
 
    >[!NOTE]
    >
-   >Sie müssen über ein Instagram-Geschäftskonto in Livefyre verfügen, um die Autorensuche in einer Instagram Stream-Regel verwenden zu können. Weitere Informationen zum Einrichten von Instagram-Geschäftskonten in Livefyre finden Sie unter [Info zu Instagram-Konten](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts).
+   >Sie müssen über ein Instagram-Geschäftskonto in Livefyre verfügen, um die Autorensuche in einer Instagram Stream-Regel verwenden zu können. Weitere Informationen zum Einrichten von Instagram-Geschäftskonten in Livefyre finden Sie unter [Informationen zu Instagram-Konten](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts).
 
    * Geben Sie **[!UICONTROL @usernames]** ein, um in den Stream zu ziehen. Das mit dem **@username** verknüpfte Konto muss ein Instagram-Geschäftskonto sein.
 
