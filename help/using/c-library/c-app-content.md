@@ -1,18 +1,14 @@
 ---
 description: Verwalten von Inhalten im gesamten Livefyre-Netzwerk
-seo-description: Verwalten von Inhalten im gesamten Livefyre-Netzwerk
-seo-title: Registerkarte "App-Inhalt"
-solution: Experience Manager
 title: Registerkarte "App-Inhalt"
-uuid: 65b23085-2b79-4a6f-96c9-44b421805312
+exl-id: 8b3e5281-59ba-4321-8fee-4160ab7a5d5e
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1118'
+source-wordcount: '1109'
 ht-degree: 0%
 
 ---
-
 
 # Registerkarte &quot;App-Inhalt&quot;{#app-content-tab}
 
@@ -99,10 +95,10 @@ Im Inhaltsbedienfeld können Sie den Verlauf aller aufgelisteten Inhalte überpr
 
 Verwenden Sie die Registerkarten am unteren Rand des Inhaltsbedienfelds, um den Verlauf Ansicht.
 
-* **[!UICONTROL More Info:]** listen aller Aktivitäten zu diesen Inhalten, einschließlich der Übermittlung, Bearbeitung, Spam-Prüfung, Statusänderung und Notizen. Die Livefyre Content ID und die IP-Adresse des Benutzers werden ebenfalls in diesem Abschnitt angezeigt.
-* **[!UICONTROL Replies:]** liste: maximal 6 Antworten. Klicken Sie auf **[!UICONTROL Show all replies]**, um alle Antworten auf den Beitrag anzuzeigen.
+* **[!UICONTROL More Info:]** Listen aller Aktivitäten zu diesen Inhalten, einschließlich der Übermittlung, Bearbeitung, Spam-Prüfung, Statusänderung und Notizen. Die Livefyre Content ID und die IP-Adresse des Benutzers werden ebenfalls in diesem Abschnitt angezeigt.
+* **[!UICONTROL Replies:]** Liste: maximal 6 Antworten. Klicken Sie auf **[!UICONTROL Show all replies]**, um alle Antworten auf den Beitrag anzuzeigen.
 
-* **[!UICONTROL Flags & Reports:]** liste aller Benutzerkennzeichnungen mit dem Avatar des Benutzers, der den Inhalt markiert hat, und aller Berichte (Hinweise, die vom Benutzer bei der Kennzeichnung des Inhalts hinzugefügt wurden).
+* **[!UICONTROL Flags & Reports:]** Liste aller Benutzerkennzeichnungen mit dem Avatar des Benutzers, der den Inhalt markiert hat, und aller Berichte (Hinweise, die vom Benutzer bei der Kennzeichnung des Inhalts hinzugefügt wurden).
 * **[!UICONTROL Add a note:]** können Sie eine Notiz hinzufügen, die für andere Administratoren oder Moderatoren sichtbar ist.
 * **[!UICONTROL Request Rights:]** öffnet das  **[!UICONTROL New Rights Request]** Dialogfeld, über das eine Rechtsersuchen ausgestellt werden kann.
 
@@ -150,4 +146,3 @@ Für spezielle Inhalte können die meisten regulären Aktionen für Inhalte durc
 
 * Vorgestellte Inhalte können nicht markiert werden.
 * Benutzer können ihre Inhalte nach der Bereitstellung nicht mehr bearbeiten. Sie können sie jedoch trotzdem löschen, wenn sie dies wünschen. Moderatoren können spezielle Inhalte bearbeiten.
-
