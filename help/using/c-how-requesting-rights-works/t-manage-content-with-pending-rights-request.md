@@ -1,18 +1,14 @@
 ---
 description: Zeigen Sie die Assets in Livefyre mit einer Anforderung ausstehender Rechte an und ändern Sie sie.
-seo-description: Zeigen Sie die Assets in Livefyre mit einer Anforderung ausstehender Rechte an und ändern Sie sie.
-seo-title: Verwalten von Inhalten mit einer Anforderung ausstehender Rechte aus der Asset-Bibliothek
-solution: Experience Manager
 title: Verwalten von Inhalten mit einer Anforderung ausstehender Rechte aus der Asset-Bibliothek
-uuid: fab285af-de09-4061-a946-5bede91603de
+exl-id: f25be7d8-6d53-4365-9215-d6076b39f7b4
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
-
 
 # Verwalten von Inhalten mit ausstehenden Berechtigungsanforderungen aus der Asset-Bibliothek{#manage-content-with-a-pending-rights-requests-from-the-asset-library}
 
