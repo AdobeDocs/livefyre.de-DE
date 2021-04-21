@@ -1,18 +1,14 @@
 ---
 description: Verfolgen Sie Klicks vom Verweisverkehr zurück zu Ihrer Seite.
-seo-description: Verfolgen Sie Klicks vom Verweisverkehr zurück zu Ihrer Seite.
-seo-title: Verweisverfolgung
-solution: Experience Manager
 title: Verweisverfolgung
-uuid: 7daf615d-0c07-49d1-adb2-1ac67ea563e7
+exl-id: 44cc221c-1603-4e6e-ae4a-1b993f7dc446
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '227'
 ht-degree: 2%
 
 ---
-
 
 # Verweisverfolgung{#referral-tracking}
 
@@ -28,7 +24,7 @@ Livefyre-Verweisverkehr aus sozialen Netzwerken und E-Mails kann verfolgt werden
 
 ## Implementierungsbeispiel {#section_xvs_x44_xz}
 
-Wenn der Traffic aus einer StreamHub-basierten Benachrichtigung stammt, gibt es einen String-Parameter für die HubRefSrc-Abfrage mit dem Wert &quot;email&quot;, &quot;facebook&quot;, &quot;twitter&quot;, &quot;linkedin&quot;oder &quot;permalink&quot;. Der Parametername &quot;ubRefSrc&quot;kann auf Netzwerkebene von Ihrem Livefyre-Versand-Team konfiguriert werden.
+Wenn der Traffic aus einer StreamHub-basierten Benachrichtigung stammt, gibt es einen String-Parameter für die HubRefSrc-Abfrage mit dem Wert email, facebook, twitter, linkedin oder permalink. Der Parametername &quot;ubRefSrc&quot;kann auf Netzwerkebene von Ihrem Livefyre-Versand-Team konfiguriert werden.
 
 Zur Integration in eine Analytics-Plattform muss Ihre Seite beim Laden nach dem &quot;HubRefSrc&quot;suchen und den Traffic aufzeichnen, wenn dieser vorhanden ist.
 
@@ -59,4 +55,3 @@ Apps, die diese Funktion verwenden:
 * [Kommentare](/help/using/c-about-apps/c-comments/c-comments.md)
 * [Reviews](../c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 * [Sir](../c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
-
