@@ -1,18 +1,14 @@
 ---
 description: Um einen Benutzer mit Livefyre über einen Fluss zu authentifizieren, der nicht von einer Livefyre-App ausgelöst wird, empfiehlt Livefyre, die forAnyAuthentication-Methode für das AuthDelegate-Objekt zu implementieren.
-seo-description: Um einen Benutzer mit Livefyre über einen Fluss zu authentifizieren, der nicht von einer Livefyre-App ausgelöst wird, empfiehlt Livefyre, die forAnyAuthentication-Methode für das AuthDelegate-Objekt zu implementieren.
-seo-title: Implementierung der SSO
-solution: Experience Manager
 title: Implementierung der SSO
-uuid: c96d456c-b1ac-40e0-8d18-224652b9697f
+exl-id: 9af75b8a-9d2a-446e-8cce-2de8645038f2
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
-
 
 # Implementierung von SSO{#implementing-sso}
 
@@ -33,4 +29,3 @@ Livefyre nutzt zur Koordination der Authentifizierung Token. Daher muss dieses T
 >[!NOTE]
 >
 >Nach erfolgreicher Anmeldung erstellt auth eine Sitzung für den Benutzer und versucht, die Sitzung des Benutzers zu laden, wenn die Seite aktualisiert und neu geladen wird. `auth.logout()` wird diese Sitzung beenden. Das bedeutet, dass die Sitzung eines Benutzers nicht unabhängig von der Autorisierung verwaltet werden muss.
-
