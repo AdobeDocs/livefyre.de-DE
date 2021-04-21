@@ -1,18 +1,14 @@
 ---
 description: Registrieren Sie den URL-Endpunkt, damit Livefyre über die URL aktualisierte Profil-Informationen abrufen kann.
-seo-description: Registrieren Sie den URL-Endpunkt, damit Livefyre über die URL aktualisierte Profil-Informationen abrufen kann.
-seo-title: Endpunkt mit Studio registrieren
-solution: Experience Manager
 title: Endpunkt mit Studio registrieren
-uuid: 4eb816ee-d743-43bf-bfee-d9b9fd98b482
+exl-id: 2910a13a-ae88-41d7-ba7c-88d7a1dbe445
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
-
 
 # Registrieren Sie den Endpunkt mit Studio{#register-the-endpoint-with-studio}
 
@@ -24,4 +20,3 @@ Registrieren Sie Ping für Pull-URL nur einmal pro Netzwerk. Nach der Einstellun
 1. Registrieren Sie die URL, von der Livefyre aktualisierte Benutzerinformationen abruft, gehen Sie zu **[!UICONTROL Studio > Settings > Integration Settings > Remote Profiles]** und geben Sie sie in das Feld **[!UICONTROL Ping for Pull URL]** ein.
 
    Die URL kann beispielsweise wie folgt aussehen: `https://example.yoursite.com/some_path/?id={id}`
-
