@@ -1,18 +1,14 @@
 ---
 description: Livefyre führt einen Prüfpfad zur Aktivität Ihrer Rechte.
-seo-description: Livefyre führt einen Prüfpfad zur Aktivität Ihrer Rechte.
-seo-title: Verlauf der Ansicht Rights Aktivität
-solution: Experience Manager
 title: Verlauf der Ansicht Rights Aktivität
-uuid: daa0587d-8d7f-431d-bae2-cd73c0de15f0
+exl-id: 22416fa2-520d-40f9-8f9e-d59eb9544268
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
-
 
 # Ansicht Rights Aktivität History{#view-rights-activity-history}
 
@@ -32,9 +28,8 @@ Livefyre-Tracks:
 
 1. Klicken Sie auf **[!UICONTROL Library]**, um auf die Asset-Bibliothek zuzugreifen.
 1. (Optional) Hinzufügen Inhalt mithilfe der Social-Suche in Ordner.
-1. Öffnen Sie einen Ordner und klicken Sie auf ein Inhaltselement, das Sie in Twitter oder Instagram gespeichert haben. Sie können sehen, woher der Inhalt stammt, indem Sie das Symbol auf dem Inhaltselement betrachten. Zum Beispiel steht ein Teil des Inhalts von Twitter mit dem Twitter-Logo.
+1. Öffnen Sie einen Ordner und klicken Sie auf ein Inhaltselement, das Sie aus Twitter oder Instagram gespeichert haben. Sie können sehen, woher der Inhalt stammt, indem Sie das Symbol auf dem Inhaltselement betrachten. Beispielsweise ist ein Inhaltselement aus Twitter mit dem Twitter-Logo versehen.
 1. Klicken Sie auf das Auslassungszeichen, das angezeigt wird, wenn Sie den Mauszeiger über die Inhaltskarte für **[!UICONTROL More Options]** bewegen.
 1. Klicken Sie auf **[!UICONTROL Rights]**, um das Fenster **[!UICONTROL Rights options]** zu öffnen.
 
 1. Ansicht des Verlaufs unter **[!UICONTROL Activity History]**.
-
