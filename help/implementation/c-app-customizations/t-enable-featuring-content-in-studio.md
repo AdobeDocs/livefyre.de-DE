@@ -1,18 +1,14 @@
 ---
 description: Um Inhalte bereitzustellen, müssen Sie zunächst die Einstellung "Featured Comments aktivieren"in Studio aktivieren.
-seo-description: Um Inhalte bereitzustellen, müssen Sie zunächst die Einstellung "Featured Comments aktivieren"in Studio aktivieren.
-seo-title: Aktivieren von Inhalten in Studio
-solution: Experience Manager
 title: Aktivieren von Inhalten in Studio
-uuid: 6c599525-4c48-4536-9300-add384ba1051
+exl-id: 1bb34e7d-be1d-4796-a1d5-2b3bbc38be30
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 2%
+source-wordcount: '54'
+ht-degree: 3%
 
 ---
-
 
 # Aktivieren von Inhalten in Studio{#enable-featuring-content-in-studio}
 
