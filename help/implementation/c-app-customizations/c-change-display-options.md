@@ -1,18 +1,14 @@
 ---
 description: Passen Sie die App-Anzeigeoptionen an Ihr Branding und Ihren Stil an.
-seo-description: Passen Sie die App-Anzeigeoptionen an Ihr Branding und Ihren Stil an.
-seo-title: Anzeigeoptionen ändern
-solution: Experience Manager
 title: Anzeigeoptionen ändern
-uuid: 121bb921-d9a7-4925-ab46-8e3d7dd0cbfe
+exl-id: 30da2022-9ec8-4f71-be94-facaa5971938
 translation-type: tm+mt
-source-git-commit: bd989c97ae5cf06a5ac3deec215f865b0fe95d16
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
-
 
 # Anzeigeoptionen{#change-display-options} ändern
 
@@ -31,4 +27,3 @@ In diesem Abschnitt werden die folgenden verfügbaren Optionen zur Anpassung der
 * &quot;Medien beschränken&quot;, um zu verhindern, dass Benutzer bestimmte Medieneinbettungsarten hochladen.
 * Blenden Sie App-Elemente aus, um die Benutzererfahrung zu vereinfachen.
 * Ändern Sie das Livefyre `@mention`-Symbol, um ein benutzerdefiniertes Symbol auszuwählen, das in Pulldown @menus für Mitglieder Ihrer Livefyre-Audience angezeigt werden soll.
-
