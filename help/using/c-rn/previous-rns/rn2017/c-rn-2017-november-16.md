@@ -1,18 +1,14 @@
 ---
 description: Versionshinweise für die Version vom 16. November 2017.
-seo-description: Versionshinweise für die Version vom 16. November 2017.
-seo-title: 16. November 2017
-solution: Experience Manager
 title: 16. November 2017
-uuid: e7d09640-d2c1-4d23-8fa6-ecc90d0b2daa
+exl-id: 167b8c7d-f2fb-4735-9681-d349646ec3eb
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '532'
+source-wordcount: '525'
 ht-degree: 8%
 
 ---
-
 
 # 16. November 2017{#november}
 
@@ -38,7 +34,7 @@ Versionshinweise für die Version vom 16. November 2017.
 | Verbesserung | Bibliothek | Wenn ein Kunde ein Asset in der Bibliothek speichert, verwendet Livefyre die Adobe Sensei-Technologie für maschinelles Lernen, um Tags hinzuzufügen, die beschreiben, was sich automatisch im Bild des Assets befindet. Dadurch kann der Benutzer im System nach diesen Tags suchen. |
 | Verbesserung | Bibliothek | Wenn ein Kunde ein bildbasiertes Asset in der Bibliothek speichert, markiert Livefyre es jetzt automatisch mit einem Tag, indem es die Adobe-API-Technologie verwendet und Funktionen, Kategorien und ästhetische Eigenschaften aus dem System extrahiert. Dadurch kann der Benutzer die Bibliothek nach dem durchsuchen, was sich in den Bildern befindet, nicht nur nach dem Text. |
 | Fehler | Livefyre-Identität | Avatars wurden nicht korrekt geladen für Microsofts Implementierung der LF-Identität, dies wurde behoben. |
-| Fehler | ModQ | Es wurde ein Problem behoben, bei dem die Stream-Vormoderation und ModQ nicht alle Inhalte ordnungsgemäß anzeigten. |
+| Fehler | ModQ | Es wurde ein Problem behoben, bei dem die Streams-Vormoderation und ModQ nicht alle Inhalte ordnungsgemäß anzeigten. |
 | Verbesserung | Einstellungen | Die Kunden können nun unsere Datenschutzrichtlinien und die Servicebestimmungen der Adobe in einer Fußzeile in den Einstellungen aufrufen. |
 | Verbesserung | Streams | Es wurde ein Fehler bei der Vormoderation von E-Mail-basierten Stream-Regeln behoben. |
 | Verbesserung | Streams | Es wurde die Möglichkeit hinzugefügt, Stream-Inhalte nach Sprache zu filtern. |
@@ -51,4 +47,3 @@ Versionshinweise für die Version vom 16. November 2017.
 | Fehler | App-Manager | Es wurde ein Problem mit der App-Tag-Suche im App Manager behoben. |
 | Fehler | Bibliothek | Es wurde ein Fehler behoben, der verhinderte, dass in der Asset-Bibliothek Sterne für mehrere Inhaltselemente gleichzeitig hinzugefügt werden konnten. |
 | Fehler | Studio | Es wurde ein Problem behoben, das verhinderte, dass sich einige Benutzer bei Livefyre anmelden konnten. |
-
