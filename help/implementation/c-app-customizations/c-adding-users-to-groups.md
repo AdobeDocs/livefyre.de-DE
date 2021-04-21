@@ -1,18 +1,14 @@
 ---
 description: hinzufügen einem Konto ein Benutzer-Tag, um einen Benutzer zu einer Gruppe hinzuzufügen.
-seo-description: hinzufügen einem Konto ein Benutzer-Tag, um einen Benutzer zu einer Gruppe hinzuzufügen.
-seo-title: Hinzufügen von Benutzern zu Gruppen
-solution: Experience Manager
 title: Hinzufügen von Benutzern zu Gruppen
-uuid: 3633f2df-8d60-4cdd-b9a2-3807218c74a0
+exl-id: 6e799c77-e815-40c2-ae06-bbd076df9fe7
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '377'
 ht-degree: 1%
 
 ---
-
 
 # Hinzufügen von Benutzern zu Gruppen{#adding-users-to-groups}
 
