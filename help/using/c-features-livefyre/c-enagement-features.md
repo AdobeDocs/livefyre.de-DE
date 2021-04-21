@@ -1,18 +1,14 @@
 ---
 description: Binden Sie Ihre Site-Besucher mit Funktionen ein, mit denen sie bei der Inhaltserkennung zu Ihrer Site zurückkehren können.
-seo-description: Binden Sie Ihre Site-Besucher mit Funktionen ein, mit denen sie bei der Inhaltserkennung zu Ihrer Site zurückkehren können.
-seo-title: Erweiterungsfunktionen
-solution: Experience Manager
 title: Erweiterungsfunktionen
-uuid: 5841a183-62c0-40ae-9cef-884bffb7c39b
+exl-id: 2e5554ad-42f8-445f-90f7-e12d320416d0
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '405'
 ht-degree: 2%
 
 ---
-
 
 # Erweiterungsfunktionen{#enagement-features}
 
@@ -90,11 +86,10 @@ Benutzerdefinierte Aktionsschaltflächen und die zugehörige Aktion können jede
 
 Ermöglicht Benutzern, E-Mail-Benachrichtigungen zu erhalten, wenn die Konversationen, die sie befolgen, geändert werden.
 
-Nach einer Unterhaltung können Benutzer E-Mail-Benachrichtigungen empfangen, die auf der Aktivität in der Unterhaltung basieren. Benutzer klicken auf die Schaltfläche **[!UICONTROL Follow]** / **[!UICONTROL Unfollow]**, um für Konversationen spezifische Voreinstellungen festzulegen, oder verwenden ihre **[!UICONTROL Profile Settings]**-Seite, um eine websiteweite Voreinstellung für Konversationen festzulegen.
+Nach einer Unterhaltung können Benutzer E-Mail-Benachrichtigungen empfangen, die auf der Aktivität in der Unterhaltung basieren. Benutzer klicken auf die Schaltfläche **[!UICONTROL Follow]** / **[!UICONTROL Unfollow]**, um für Konversationen spezifische Voreinstellungen festzulegen, oder verwenden ihre **[!UICONTROL Profile Settings]**-Seite, um eine Site-weite Voreinstellung für Konversationen festzulegen.
 
 (Die Funktion **[!UICONTROL Follow]** ist auf Mobilgeräten nicht verfügbar.)
 
 >[!NOTE]
 >
 >E-Mails werden nur für manuell veröffentlichte Inhalte gesendet, nicht für Inhalte, die über SocialSync oder Curate in den Stream gezogen werden.
-
