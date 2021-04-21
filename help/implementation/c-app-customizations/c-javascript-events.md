@@ -1,24 +1,20 @@
 ---
 description: Die verfügbaren Ereignisse, an die Sie JavaScript für Konversations-Apps binden können (z. B. Kommentare, Chat, Live-Blog, Bewertungen und Anmerkungen).
-seo-description: Die verfügbaren Ereignisse, an die Sie JavaScript für Konversations-Apps binden können (z. B. Kommentare, Chat, Live-Blog, Bewertungen und Anmerkungen).
-seo-title: JavaScript-Ereignisse - Definitionen und Beispiele
-solution: Experience Manager
 title: JavaScript-Ereignisse - Definitionen und Beispiele
-uuid: 61da2e2e-8fcd-482d-93df-c946f0475277
+exl-id: 5b865974-69aa-4d51-ac26-60f1d8a114fc
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '401'
-ht-degree: 15%
+source-wordcount: '375'
+ht-degree: 11%
 
 ---
-
 
 # Definitionen und Beispiele für JavaScript-Ereignis{#javascript-events-definitions-and-examples}
 
 Die verfügbaren Ereignisse, an die Sie JavaScript für Konversations-Apps binden können (z. B. Kommentare, Chat, Live-Blog, Bewertungen und Anmerkungen).
 
-Livefyre bietet JavaScript-Ereignisse zur Verfolgung der Aktivität von Benutzern in Ihren Livefyre-Apps. Beispielsweise können Sie die Seite aktualisieren, wenn Benutzer Inhalte auf Twitter oder Facebook teilen oder wenn neue Inhalte veröffentlicht werden.
+Livefyre bietet JavaScript-Ereignisse zur Verfolgung der Aktivität von Benutzern in Ihren Livefyre-Apps. Beispielsweise können Sie die Seite aktualisieren, wenn Benutzer Inhalte mit &quot;Gefällt mir&quot;oder &quot;Teilen&quot;für Twitter oder Facebook oder wenn neue Inhalte veröffentlicht werden.
 
 Mit Livefyre können Sie außerdem Ereignis zu Analytics-Integrationen von Drittanbietern (Adobe Analytics JS, Google Analytics, Dynamisches Tag-Management usw.) hinzufügen, um App-Ereignis zu verfolgen. Weitere Informationen erhalten Sie, wenn Sie mit Ihrem Integrationsmanager eines Drittanbieters die richtigen Ereignis bereitstellen.
 
@@ -182,4 +178,3 @@ data = {
    optOut: true 
 }
 ```
-
