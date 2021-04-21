@@ -1,18 +1,14 @@
 ---
 description: Sie können IP-Adressen verbieten, wenn ein böswilliger Benutzer mehrere Konten von derselben IP-Adresse erstellt.
-seo-description: Sie können IP-Adressen verbieten, wenn ein böswilliger Benutzer mehrere Konten von derselben IP-Adresse erstellt.
-seo-title: IP-Adressen verbieten
-solution: Experience Manager
 title: IP-Adressen verbieten
-uuid: 4d21b53e-4cf7-4da3-8910-9716709721f5
+exl-id: 1b5dde79-fea5-45f3-a832-8d5e4497c3cf
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
-
 
 # IP-Adressen verbieten{#ban-ip-addresses}
 
