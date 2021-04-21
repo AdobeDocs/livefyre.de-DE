@@ -1,18 +1,14 @@
 ---
 description: Versionshinweise für die Version vom 27. September 2018.
-seo-description: Versionshinweise für die Version vom 27. September 2018.
-seo-title: 27. September 2018
-solution: Experience Manager
 title: 27. September 2018
-uuid: 8d3b01fe-6d1f-4123-aaaf-3009e7c6599f
+exl-id: ea63c18e-7535-4e57-a569-efbbee376632
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '293'
 ht-degree: 7%
 
 ---
-
 
 # 27. September 2018{#september}
 
@@ -37,7 +33,7 @@ Die Probleme in den folgenden Tabellen wurden in der Produktionsversion dieser V
 | Fehler | Medienwall | Es wurde ein Problem behoben, durch das hochgeladene Videos auf einer Medienmanagerseite nicht wiedergegeben werden konnten, obwohl sie in der Asset-Bibliothek abspielbar waren. |
 | Fehler | Storify | Es wurde ein Problem behoben, bei dem &quot;Gefällt mir&quot;-Klicks für Storify 2 auf sicheren Domänen nicht funktionierten. |
 | Fehler | Streams | Es wurde ein Problem behoben, bei dem keine standardmäßigen NSFW-Filter hinzugefügt wurden, wenn die NSFW-Filterfunktion deaktiviert und die standardmäßigen NSFW-Filter hinzugefügt wurden, wenn die NSFW-Funktion aktiviert wurde. |
-| Geschichte | Streams | Folgende Aktualisierungen für Facebook-Seitenstreams wurden vorgenommen:  </br><ul><li>Die Zeit, die Apps schlafen, nachdem sie die API-Rate von einer Minute auf eine Stunde begrenzt haben, wurde verlängert. </li><li>Die Zeit, die Seiten und Beiträge zur Verarbeitung gesendet werden, wurde von 10 Minuten auf eine Stunde verlängert.</li></ul> |
+| Geschichte | Streams | Folgende Updates wurden für Facebook-Seitenstreams vorgenommen:  </br><ul><li>Die Zeit, die Apps schlafen, nachdem sie die API-Rate von einer Minute auf eine Stunde begrenzt haben, wurde verlängert. </li><li>Die Zeit, die Seiten und Beiträge zur Verarbeitung gesendet werden, wurde von 10 Minuten auf eine Stunde verlängert.</li></ul> |
 
 
 ## UAT-Version {#section_EE91B0C9313E45C5B4CBD59CFBCCFCFE}
@@ -48,4 +44,3 @@ Die Probleme in den folgenden Tabellen wurden in der UAT-Version dieser Version 
 |---|---|---|
 | Fehler | AEM | Es wurde ein Problem behoben, bei dem Tweets, die über Livefyre in AEM Assets importiert wurden, beschädigte Links aufwiesen. |
 | Verbesserung | Bibliothek | Es wurde die Möglichkeit hinzugefügt, Videos in der Bibliothek nach Video-Tags zu filtern. |
-
