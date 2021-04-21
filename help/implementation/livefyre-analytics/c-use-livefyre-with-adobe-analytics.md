@@ -1,16 +1,13 @@
 ---
 description: 'null '
-seo-description: 'null '
-seo-title: Verwenden Sie Livefyre mit Adobe Analytics und Dynamischem Tag-Manager (DTM) lk xavvn   vefyre mit Adobe Analytics und Dynamischer Tag-Manager (DTM)
-uuid: 9a1c25c0-c474-46ff-82ac-e89357007c7f
+exl-id: a866782d-fca6-48bf-9fb8-5080e396919b
 translation-type: tm+mt
-source-git-commit: 573e815799fbae2c2c4f1d98a01ea0ae04108a34
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1003'
 ht-degree: 1%
 
 ---
-
 
 # Verwenden Sie Livefyre mit Adobe Analytics und dem dynamischen Tag-Manager (DTM){#use-livefyre-with-adobe-analytics-and-dynamic-tag-manager-dtm}
 
@@ -67,7 +64,7 @@ Richten Sie eine Seitenladeregel ein, um alle Daten einzuziehen. Mit der Seitenl
 1. Klicken **[!UICONTROL Page Load Rules]**.
 1. Klicken Sie auf die Schaltfläche **[!UICONTROL Create New Rule]**.
 1. Öffnen Sie den Abschnitt **[!UICONTROL Conditions]**, indem Sie auf die Schaltfläche **[!UICONTROL Plus]** klicken.
-1. Regel auslösen. Wählen Sie die Auslösetypen **[!UICONTROL DOM Ready]** oder **[!UICONTROL Onload]** aus, wenn Sie die Regel asynchron verschieben oder implementieren möchten.
+1. Trigger der Regel. Wählen Sie &quot;**[!UICONTROL DOM Ready]**&quot;oder &quot;**[!UICONTROL Onload]**&quot;-Trigger, wenn Sie die Regel asynchron verschieben oder implementieren möchten.
 1. (Optional) Hinzufügen zusätzliche Parameter, um die Seiten zu beschränken, auf denen Livefyre-Apps angezeigt werden. Weitere Informationen zu zusätzlichen Konfigurationsoptionen finden Sie unter [DTM](https://docs.adobe.com/content/help/en/dtm/using/c-overview.html).
 1. Klicken Sie unter **[!UICONTROL Javascript/ Third Party Tags]** auf die Registerkarte **[!UICONTROL Non-sequential]** und dann auf **[!UICONTROL Add New Script]**.
 1. Wählen Sie **[!UICONTROL Sequential HTML]** als Skripttyp aus.
