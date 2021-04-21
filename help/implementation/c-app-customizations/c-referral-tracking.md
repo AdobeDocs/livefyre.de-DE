@@ -1,18 +1,14 @@
 ---
 description: Verfolgen Sie Klicks vom Verweisverkehr zurück zu Ihrer Seite.
-seo-description: Verfolgen Sie Klicks vom Verweisverkehr zurück zu Ihrer Seite.
-seo-title: Verweisverfolgung
-solution: Experience Manager
 title: Verweisverfolgung
-uuid: 5206cc16-9671-4b3d-a013-be1a3e8c029d
+exl-id: 9955d4a4-184d-421f-bcde-b19342b0b181
 translation-type: tm+mt
-source-git-commit: bd989c97ae5cf06a5ac3deec215f865b0fe95d16
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '227'
 ht-degree: 2%
 
 ---
-
 
 # Verweisverfolgung{#referral-tracking}
 
@@ -28,7 +24,7 @@ Livefyre-Verweisverkehr aus sozialen Netzwerken und E-Mails kann verfolgt werden
 
 ## Implementierungsbeispiel {#section_xvs_x44_xz}
 
-Wenn der Traffic aus einer StreamHub-basierten Benachrichtigung stammt, gibt es einen String-Parameter für die HubRefSrc-Abfrage mit dem Wert &quot;email&quot;, &quot;facebook&quot;, &quot;twitter&quot;, &quot;linkedin&quot;oder &quot;permalink&quot;. Der Parametername &quot;ubRefSrc&quot;kann auf Netzwerkebene von Ihrem Livefyre-Versand-Team konfiguriert werden.
+Wenn der Traffic aus einer StreamHub-basierten Benachrichtigung stammt, gibt es einen String-Parameter für die HubRefSrc-Abfrage mit dem Wert email, facebook, twitter, linkedin oder permalink. Der Parametername &quot;ubRefSrc&quot;kann auf Netzwerkebene von Ihrem Livefyre-Versand-Team konfiguriert werden.
 
 Zur Integration in eine Analytics-Plattform muss Ihre Seite beim Laden nach dem &quot;HubRefSrc&quot;suchen und den Traffic aufzeichnen, wenn dieser vorhanden ist.
 
