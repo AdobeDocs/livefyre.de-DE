@@ -1,18 +1,14 @@
 ---
 description: Um Inhalte mit benutzerdefinierten Stilen für Benutzergruppen zu erstellen, müssen Sie dem Konto zunächst ein Benutzer-Tag hinzufügen und dann den Inhalt mit CSS formatieren.
-seo-description: Um Inhalte mit benutzerdefinierten Stilen für Benutzergruppen zu erstellen, müssen Sie dem Konto zunächst ein Benutzer-Tag hinzufügen und dann den Inhalt mit CSS formatieren.
-seo-title: Anwenden benutzerdefinierter Stile
-solution: Experience Manager
 title: Anwenden benutzerdefinierter Stile
-uuid: 0556aa2f-4fcd-4bde-abb5-479ec682f573
+exl-id: 54692525-32ce-487a-b3c3-da1261b58da1
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
-
 
 # Anwenden benutzerdefinierter Stile{#applying-custom-styles}
 
@@ -82,4 +78,3 @@ Verwenden Sie die CSS-Klasse fyre-author-tag-***** oder fyre-tag-author-****&lt;
     padding-top: 4px; 
 }
 ```
-
