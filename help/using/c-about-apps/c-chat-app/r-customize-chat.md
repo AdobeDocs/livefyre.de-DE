@@ -1,18 +1,14 @@
 ---
 description: Passen Sie Chat-Apps an, um Inhalte als fortlaufenden Stream von nicht verketteten Chat anzuzeigen, sodass Ihre Audience in Echtzeit Gespräche über Live-Ereignisse oder Ankündigungen führen kann.
-seo-description: Passen Sie Chat-Apps an, um Inhalte als fortlaufenden Stream von nicht verketteten Chat anzuzeigen, sodass Ihre Audience in Echtzeit Gespräche über Live-Ereignisse oder Ankündigungen führen kann.
-seo-title: Chat-Anpassungen
-solution: Experience Manager
 title: Chat-Anpassungen
-uuid: eac7be2f-2dcd-4a6b-ac84-e5e650af82e0
+exl-id: da6a3d41-426a-4734-a3e7-951cbe9e9988
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
-
 
 # Chat-Anpassungen{#chat-customizations}
 
@@ -59,4 +55,3 @@ Sie können den Chat anpassen, indem Sie:
 * **[!UICONTROL Style]** und  **[!UICONTROL Config]** Optionen für alle Apps im  **[!UICONTROL App Designer]**. Weitere Informationen zu den Standardoptionen **[!UICONTROL Style]** und **[!UICONTROL Config]** für alle Apps in **[!UICONTROL App Designer]** finden Sie unter Anpassen von Apps.
 
 * Integrationstools. Weitere Informationen zum Anpassen von Chat mit Integrationstools finden Sie unter Chat.
-
