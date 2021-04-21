@@ -1,18 +1,14 @@
 ---
-description: 'null '
-seo-description: 'null '
-seo-title: Hinzufügen von Sidemarken zu einer Seite
-solution: Experience Manager
 title: Hinzufügen von Sidemarken zu einer Seite
-uuid: 6499c45a-3773-4adb-a6c7-22a628309afd
+description: Hinzufügen von Sidemarken zu einer Seite
+exl-id: 3ec089d0-3d51-4918-b510-d30ef645c9c2
 translation-type: tm+mt
-source-git-commit: bd989c97ae5cf06a5ac3deec215f865b0fe95d16
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '635'
+source-wordcount: '633'
 ht-degree: 0%
 
 ---
-
 
 # Hinzufügen von Sidemarken zu einer Seite {#adding-sidenotes-to-a-page}
 
