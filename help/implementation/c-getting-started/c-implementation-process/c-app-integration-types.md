@@ -1,18 +1,14 @@
 ---
 description: Wenn Sie Livefyre-Apps implementieren, hängt der Stil der Implementierung von Ihrem Anwendungsfall ab. Auf dieser Seite werden die Funktionen für die drei Möglichkeiten zum Erstellen einer App erläutert.
-seo-description: Wenn Sie Livefyre-Apps implementieren, hängt der Stil der Implementierung von Ihrem Anwendungsfall ab. Auf dieser Seite werden die Funktionen für die drei Möglichkeiten zum Erstellen einer App erläutert.
-seo-title: CMS-App-Integrationen
-solution: Experience Manager
 title: CMS-App-Integrationen
-uuid: 14fd7e36-0e50-4ae3-97f0-2de731c184f5
+exl-id: 7590e247-87cc-470e-bab6-e61a19221dbd
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 1%
+source-wordcount: '272'
+ht-degree: 2%
 
 ---
-
 
 # CMS-App-Integrationen{#cms-app-integrations}
 
