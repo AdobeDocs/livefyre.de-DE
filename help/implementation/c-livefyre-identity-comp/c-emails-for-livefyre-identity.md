@@ -1,18 +1,14 @@
 ---
-description: 'null '
-seo-description: 'null '
-seo-title: E-Mails für Livefyre-Identität
-solution: Experience Manager
 title: E-Mails für Livefyre-Identität
-uuid: 4e807803-687e-4df0-94d1-b18a48d024e8
+description: E-Mails für Livefyre-Identität
+exl-id: c8127eef-8fb8-4703-ba34-ef12453f1754
 translation-type: tm+mt
-source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '528'
+source-wordcount: '526'
 ht-degree: 1%
 
 ---
-
 
 # E-Mails für Livefyre-Identität{#emails-for-livefyre-identity}
 
@@ -106,7 +102,7 @@ Das *&quot;Kundenname&quot;* Team
 
 ## Begrüßungs-E-Mail an einen Benutzer {#section_kjp_c3s_p1b} senden
 
-Sie können eine Begrüßungs-E-Mail an einen Benutzer senden, nachdem dieser sich für ein Konto angemeldet hat. Studio sendet diese E-Mail, nachdem eine Verifizierungs-E-Mail gesendet wurde, wenn Sie eine Verifizierungs-E-Mail eingerichtet haben. So senden Sie eine Begrüßungs-E-Mail:
+Sie können eine Begrüßungs-E-Mail an einen Benutzer senden, nachdem er sich für ein Konto angemeldet hat. Studio sendet diese E-Mail, nachdem eine Verifizierungs-E-Mail gesendet wurde, wenn Sie eine Verifizierungs-E-Mail eingerichtet haben. So senden Sie eine Begrüßungs-E-Mail:
 
 1. Klicken Sie in Studio auf das Zahnradsymbol, um die Netzwerkeinstellungen zu ändern.
 1. Klicken **[!UICONTROL Integration Settings > Livefyre Identity]**
