@@ -1,18 +1,14 @@
 ---
 description: Verwenden Sie embed.ly, um mehrere Medienformate direkt in der App anzuzeigen.
-seo-description: Verwenden Sie embed.ly, um mehrere Medienformate direkt in der App anzuzeigen.
-seo-title: Embedly-Integration
-solution: Experience Manager
 title: Embedly-Integration
-uuid: 1f27e32c-c2c3-4f7c-93de-c9c7bf783d6a
+exl-id: 859fe306-367e-4207-b9f7-c730ba0cd24d
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '338'
-ht-degree: 14%
+source-wordcount: '325'
+ht-degree: 11%
 
 ---
-
 
 # Embedly-Integration {#embedly-integration}
 
@@ -32,7 +28,7 @@ Auf dieser Seite finden Sie Beispiele für beliebte eingebettete Medientypen und
 >
 >Für die Formatierung &quot;Einbetten&quot;ist ein vollständiger Permalink erforderlich. Kürzere Links funktionieren nicht.
 
-Nur öffentlich sichtbare Inhalte können eingebettet werden. Wenn Sie versuchen, einen Inhalt einzubetten, der nicht öffentlich ist, wird der Link zum Inhalt im Blog-Beitrag angezeigt und ein Platzhaltersymbol wird ihm beigefügt. Wenn Sie auf den Link klicken, wird der Leser zu einer Fehlermeldung des Dienstes geleitet, in dem der Inhalt gehostet wird, z. B. zu einer Facebook-Nachricht für ein Foto, das nur Freunde enthält. Wenden Sie sich an Ihren Kundenbetreuer, wenn Sie bemerken, dass Medien nicht wie erwartet erweitert werden.
+Nur öffentlich sichtbare Inhalte können eingebettet werden. Wenn Sie versuchen, einen Inhalt einzubetten, der nicht öffentlich ist, wird der Link zum Inhalt im Blog-Beitrag angezeigt und ein Platzhaltersymbol wird ihm beigefügt. Beim Klicken auf den Link erhält der Leser eine Fehlermeldung des Dienstes, in dem der Inhalt gehostet wird, z. B. eine Facebook-Meldung für ein Foto, das nur Freunde enthält. Wenden Sie sich an Ihren Kundenbetreuer, wenn Sie bemerken, dass Medien nicht wie erwartet erweitert werden.
 
 ## Beispiel für EinbettungsURLs
 
@@ -67,4 +63,3 @@ Apps, die diese Funktion verwenden:
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [Trends](/help/using/c-about-apps/c-trending-app/c-trending-app.md#c_trending_app)
 * [Hochladen-Schaltfläche](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
-
