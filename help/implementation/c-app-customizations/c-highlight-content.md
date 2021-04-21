@@ -1,18 +1,14 @@
 ---
 description: Verwenden Sie die Formatierung, um ausgewählte Inhalte oder Benutzergruppen hervorzuheben und zu bewerben.
-seo-description: Verwenden Sie die Formatierung, um ausgewählte Inhalte oder Benutzergruppen hervorzuheben und zu bewerben.
-seo-title: Inhalt hervorheben
-solution: Experience Manager
 title: Inhalt hervorheben
-uuid: 89876b89-3ee2-40cd-9431-377e43ea1e89
+exl-id: 2c287965-bce9-4d50-849a-f3ad9af39f87
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
-
 
 # Inhalt{#highlight-content} markieren
 
