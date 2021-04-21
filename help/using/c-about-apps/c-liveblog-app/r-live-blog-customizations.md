@@ -1,18 +1,14 @@
 ---
 description: Passen Sie den Stil und die Art und Weise an, wie Kommentare in Ihrem Live-Blog angezeigt werden.
-seo-description: Passen Sie den Stil und die Art und Weise an, wie Kommentare in Ihrem Live-Blog angezeigt werden.
-seo-title: Anpassung des Live-Blogs
-solution: Experience Manager
 title: Anpassung des Live-Blogs
-uuid: f07d4c33-4aef-4d69-b9dd-3fd3c27ffd6d
+exl-id: 388b700b-c7bc-47ef-a0f3-dac0b01fcb2b
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
-
 
 # Live-Blog-Anpassungen{#live-blog-customizations}
 
@@ -67,4 +63,3 @@ Sie können das Live-Blog anpassen, indem Sie:
 * **[!UICONTROL Style]** und  **[!UICONTROL Config]** Optionen für alle Apps im  **[!UICONTROL App Designer]**. Weitere Informationen zu den Standardoptionen **[!UICONTROL Style]** und **[!UICONTROL Config]** für alle Apps in **[!UICONTROL App Designer]** finden Sie unter Anpassen von Apps.
 
 * Integrationstools. Weitere Informationen zum Anpassen von Apps mit Integrationstools finden Sie im Live-Blog.
-
