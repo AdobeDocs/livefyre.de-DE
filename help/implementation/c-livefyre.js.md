@@ -1,18 +1,14 @@
 ---
 description: Die Core Livefyre-Bibliothek, die verwendet wird, um Livefyre auf Ihrer Site zu aktivieren.
-seo-description: Die Core Livefyre-Bibliothek, die verwendet wird, um Livefyre auf Ihrer Site zu aktivieren.
-seo-title: Livefyre.js
-solution: Experience Manager
 title: Livefyre.js
-uuid: 7b3eca57-d5e8-416d-badf-a9c51d10dadd
+exl-id: 82083dc0-3b4a-467c-bad7-dbf242ab5bbd
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '497'
 ht-degree: 0%
 
 ---
-
 
 # Livefyre.js {#livefyre-js}
 
