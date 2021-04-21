@@ -1,18 +1,14 @@
 ---
-description: 'null '
-seo-description: 'null '
-seo-title: Übersetzungsset auf eine Site anwenden
-solution: Experience Manager
 title: Übersetzungsset auf eine Site anwenden
-uuid: 750f4ca2-0350-40c9-9176-ce56581bf8ab
+description: Übersetzungsset auf eine Site anwenden
+exl-id: fd459e31-5feb-4807-ad51-eab55ed473da
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 3%
+source-wordcount: '56'
+ht-degree: 0%
 
 ---
-
 
 # Übersetzungsset auf eine Site{#apply-a-translation-set-to-a-site} anwenden
 
