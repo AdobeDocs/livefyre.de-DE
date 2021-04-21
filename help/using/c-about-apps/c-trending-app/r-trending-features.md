@@ -1,18 +1,14 @@
 ---
 description: Die Trend-App Angebot diese Funktionen für Ihre Site.
-seo-description: Die Trend-App Angebot diese Funktionen für Ihre Site.
-seo-title: Trendfunktionen
-solution: Experience Manager
 title: Trendfunktionen
-uuid: 7e7b1d05-2154-43d8-92e7-63152934c785
+exl-id: f8bd1cc9-716a-41d5-aa69-a3f1abae453c
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '40'
 ht-degree: 0%
 
 ---
-
 
 # Trendfunktionen{#trending-features}
 
@@ -22,4 +18,3 @@ Die Trend-App Angebot diese Funktionen für Ihre Site.
 
 * Der Trend zeigt Informationen in Echtzeit an, welche Sammlungen am aktivsten sind.
 * Unterhaltungen werden von den meisten bis zu den am wenigsten beliebten aufgelistet.
-
