@@ -1,29 +1,25 @@
 ---
-description: Sie können Livefyre Identity mit Twitter verwenden, um Benutzern die Nutzung ihrer Twitter-Anmeldungen zu ermöglichen, Apps auf Ihrer Site zu interagieren.
-seo-description: Sie können Livefyre Identity mit Twitter verwenden, um Benutzern die Nutzung ihrer Twitter-Anmeldungen zu ermöglichen, Apps auf Ihrer Site zu interagieren.
-seo-title: Erstellen einer Twitter-App zur Verwendung mit einer Livefyre-Identität
-solution: Experience Manager
-title: Erstellen einer Twitter-App zur Verwendung mit einer Livefyre-Identität
-uuid: 841cce7c-618d-4154-85a3-1de96d04bb69
+description: Sie können Livefyre Identity mit Twitter verwenden, um Benutzern zu ermöglichen, ihre Twitter-Anmeldungen zu verwenden, um mit Apps auf Ihrer Site zu interagieren.
+title: Twitter-App zur Verwendung mit Livefyre-Identität erstellen
+exl-id: 4f2b919f-fe5d-49a3-8432-04ffb3d68ce4
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
-
 # Erstellen einer Twitter-App zur Verwendung mit Livefyre-Identität{#create-a-twitter-app-for-use-with-livefyre-identity}
 
-Sie können Livefyre Identity mit Twitter verwenden, um Benutzern die Nutzung ihrer Twitter-Anmeldungen zu ermöglichen, Apps auf Ihrer Site zu interagieren.
+Sie können Livefyre Identity mit Twitter verwenden, um Benutzern zu ermöglichen, ihre Twitter-Anmeldungen zu verwenden, um mit Apps auf Ihrer Site zu interagieren.
 
-Zur Aktivierung der Twitter-Anmeldung benötigt Livefyre die folgenden Twitter-App-Informationen:
+Zum Aktivieren der Twitter-Anmeldung benötigt Livefyre die folgenden Twitter-App-Informationen:
 
 * Consumer key (API-Schlüssel)
 * Consumer secret (API-geheimer Schlüssel)
 
-So erstellen Sie eine Twitter-App zur Verwendung mit Livefyre-Identität:
+So erstellen Sie eine Twitter-App zur Verwendung mit Livefyre Identity:
 
 1. Wechseln Sie zu [https://apps.twitter.com/](https://apps.twitter.com/) und melden Sie sich bei Ihrem Twitter-Konto an, um eine neue App zu erstellen oder eine vorhandene App zur Verwendung mit Livefyre Identity auszuwählen.
 1. Auf der Seite &quot;Einstellungen&quot;für die App:
@@ -34,4 +30,4 @@ So erstellen Sie eine Twitter-App zur Verwendung mit Livefyre-Identität:
 
 1. Wählen Sie auf der Registerkarte **[!UICONTROL Permissions]** **[!UICONTROL Access: Read only]**.
 
-Nach Abschluss des Vorgangs wird auf der Seite &quot;Anwendungsverwaltung&quot;> &quot;Schlüssel und Zugriffstoken&quot;das Consumer key (API-Schlüssel) und die Consumer secret (API-geheimer Schlüssel) der App zur Verwendung auf der Seite &quot;Integrationseinstellungen&quot;von Studio Liste.
+Nach Abschluss des Vorgangs werden auf der Seite &quot;Anwendungsverwaltung&quot;> &quot;Schlüssel und Zugriffstoken&quot;die Consumer key (API-Schlüssel) und die Consumer secret (API-geheimer Schlüssel) der App zur Verwendung auf der Seite &quot;Integrationseinstellungen&quot;von Studio Liste.
