@@ -1,18 +1,14 @@
 ---
 description: Versionshinweise für die Version vom 1. November 2018.
-seo-description: Versionshinweise für die Version vom 1. November 2018.
-seo-title: 1. November 2018
-solution: Experience Manager
 title: 1. November 2018
-uuid: ed1a3bf1-b3f1-4746-8462-07283723ba62
+exl-id: b12b6a56-f14f-4447-9fde-25cb3acf6665
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '360'
-ht-degree: 5%
+source-wordcount: '353'
+ht-degree: 4%
 
 ---
-
 
 # 1. November 2018{#november}
 
@@ -35,9 +31,9 @@ Die folgenden neuen Funktionen wurden in der Produktionsversion dieser Version v
 
    Weitere Informationen finden Sie unter [Smart Tags](/help/using/c-features-livefyre/c-smart-tags/c-smart-tags.md#c_smart_tags)
 
-* Begrenzung der Instagram-Rate
+* Instagram-Gebührenbegrenzung
 
-   Instagram hat die Anzahl der Anfragen geändert, die eine beliebige Firma mit der Instagram API, einschließlich Livefyre, von 5.000 Anfragen pro Stunde und Token auf 200 Anfragen pro Token ausführen kann. Dies wird als *Ratenbegrenzung* bezeichnet. Weitere Informationen finden Sie unter [Instagram Rate Limiting](/help/using/c-streams/c-instagram-rate-limiting.md).
+   Instagram hat die Anzahl der Anfragen, die eine beliebige Firma mit der Instagram API, einschließlich Livefyre, ausführen kann, von 5.000 Anfragen pro Stunde pro Token auf 200 Anfragen pro Token geändert. Dies wird als *Ratenbegrenzung* bezeichnet. Weitere Informationen finden Sie unter [Instagram-Ratenbegrenzung](/help/using/c-streams/c-instagram-rate-limiting.md).
 
 * Audiodateien in der Bibliothek
 
@@ -62,5 +58,4 @@ Die Probleme in den folgenden Tabellen wurden in der UAT-Version dieser Version 
 | Verbesserung | GDPR | Alle Daten, die früheren Kunden in Analytics zugewiesen wurden, werden gelöscht. |
 | Fehler | Bibliothek | Es wurde ein Problem behoben, bei dem ein Video, das in die Bibliothek hochgeladen und dann im Detail angezeigt wurde, nicht korrekt angezeigt wurde. |
 | Fehler | Mosaik | Es wurde ein Problem behoben, bei dem ein Mosaic das letzte Inhaltselement eines Instagram-Karussells als Miniaturansicht anstatt als Karte anzeigte. |
-| Fehler | Social-Suche | Es wurde ein Problem behoben, bei dem die Suche in sozialen Instagram nicht wie erwartet funktionierte. |
-
+| Fehler | Social-Suche | Es wurde ein Problem behoben, bei dem die Social-Suche in Instagram nicht wie erwartet funktionierte. |
