@@ -1,18 +1,14 @@
 ---
 description: Versionshinweise für die Version vom 1. Februar 2018.
-seo-description: Versionshinweise für die Version vom 1. Februar 2018.
-seo-title: 1. Februar 2018
-solution: Experience Manager
 title: 1. Februar 2018
-uuid: c4776206-ccb7-4b5f-b85a-f9bef256ac6e
+exl-id: 39313b4d-342f-451b-8c15-471e604ba943
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '187'
 ht-degree: 10%
 
 ---
-
 
 # 1. Februar 2018 {#february}
 
@@ -36,4 +32,3 @@ Versionshinweise für die Version vom 1. Februar 2018.
 | Verbesserung | Apps | Es wurde ein neuer Designer-Umschalter hinzugefügt, um eine benutzerdefinierte Aktionsaufruf-Schaltfläche in Mosaic, Filmstreifen, Medienwall, Funktionskarte und Karussell zu aktivieren/deaktivieren. |
 | Verbesserung | Kommentare | Es wurde die Möglichkeit hinzugefügt, neue Audiodateiformate in Kommentare einzufügen und eine Schaltfläche zum Hochladen zu verwenden. |
 | Fehler | Streams | Es wurde ein Fehler behoben, der dazu führte, dass SAFE-Regeln-Kontrollkästchen nicht ordnungsgemäß markiert/deaktiviert wurden. |
-
