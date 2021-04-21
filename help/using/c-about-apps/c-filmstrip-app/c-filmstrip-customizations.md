@@ -1,18 +1,14 @@
 ---
-description: 'null '
-seo-description: 'null '
-seo-title: Filmstreifen-Anpassungen
-solution: Experience Manager
 title: Filmstreifen-Anpassungen
-uuid: 99f8b697-4aa3-4813-bcac-d0e0bdee252d
+description: Filmstreifen-Anpassungen
+exl-id: 2765699f-7adc-4b17-acfb-ef594ff65e89
 translation-type: tm+mt
-source-git-commit: bd989c97ae5cf06a5ac3deec215f865b0fe95d16
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
-
 
 # Filmstreifen-Anpassungen{#filmstrip-customizations}
 
@@ -54,4 +50,3 @@ Sie können den Filmstreifen mit den folgenden zusätzlichen Optionen im App-Des
    * **[!UICONTROL Show related content]**. Schalten Sie dies ein, um Inhalte anzuzeigen, die in der App veröffentlicht, aber mit einer anderen Produkt-ID versehen wurden. Nachdem der produktspezifische Inhalt für die App angezeigt wurde, zeigt Livefyre Inhalte für andere Produkte und Inhalte an, die nicht mit einem Produkt verknüpft sind. Livefyre priorisiert den Inhalt zunächst mit derselben Produkt-ID, dann mit Inhalten, die mit anderen Produkt-IDs in der App veröffentlicht wurden, und dann mit Inhalten, die ohne Produkt-IDs in der App veröffentlicht wurden.
 
 Weitere Informationen zum Anpassen eines Filmstreifens mit Livefyre.js finden Sie unter [Filmstreifenoptionen](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md).
-
