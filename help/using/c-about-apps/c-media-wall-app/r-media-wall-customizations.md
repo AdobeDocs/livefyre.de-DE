@@ -1,18 +1,14 @@
 ---
 description: Ändern Sie Größe, Breite und Interaktionsoptionen der Media Wall-App.
-seo-description: Ändern Sie Größe, Breite und Interaktionsoptionen der Media Wall-App.
-seo-title: Anpassung der Medienmauer
-solution: Experience Manager
 title: Anpassung der Medienmauer
-uuid: 79aecd92-3937-4bb4-a1a6-b090fb39afb0
+exl-id: bc34d8da-9e14-4226-b38d-128889bc31cc
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '718'
 ht-degree: 0%
 
 ---
-
 
 # Medienwall-Anpassungen{#media-wall-customizations}
 
@@ -82,4 +78,3 @@ Sie können Media Wall wie folgt anpassen:
 * **[!UICONTROL Style]** und  **[!UICONTROL Config]** Optionen für alle Apps im  **[!UICONTROL App Designer]**. Weitere Informationen zu den Standardoptionen **[!UICONTROL Style]** und **[!UICONTROL Config]** für alle Apps in **[!UICONTROL App Designer]** finden Sie unter Anpassen von Apps.
 
 * Integrationstools. Weitere Informationen zum Anpassen einer Medienmauer mit Integrationstools finden Sie unter [Media Wall Integration](/help/implementation/c-app-integrations/c-media-wall-integration.md).
-
