@@ -1,18 +1,14 @@
 ---
 description: Studio bietet einfachen Zugriff auf Ihre Apps, sodass Sie benutzerdefinierte Apps auf einer Seite suchen, bearbeiten und verwalten können.
-seo-description: Studio bietet einfachen Zugriff auf Ihre Apps, sodass Sie benutzerdefinierte Apps auf einer Seite suchen, bearbeiten und verwalten können.
-seo-title: Apps
-solution: Experience Manager
 title: Apps
-uuid: 672db3b6-722a-4eca-97e5-b877b926b5f6
+exl-id: 1f6df4a9-6d2e-4d62-9f1f-8d38f42e78f9
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '159'
 ht-degree: 1%
 
 ---
-
 
 # Apps{#apps}
 
