@@ -1,17 +1,14 @@
 ---
 description: Benutzerdefinierte Stile werden über ein Objekt angewendet, das in den Siegels-Konstruktor eingefügt wird.
-seo-description: Benutzerdefinierte Stile werden über ein Objekt angewendet, das in den Siegels-Konstruktor eingefügt wird.
-seo-title: Benutzerdefinierte Stile
 title: Benutzerdefinierte Stile
-uuid: 0f6d7ad6-1f6a-4ed2-b86a-0d03782e591e
+exl-id: 846605b7-a21e-4600-bf17-18841d2ed96d
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
-
 
 # Benutzerdefinierte Stile für Sidemarkierungen{#sidenotes-custom-styles}
 
@@ -57,4 +54,3 @@ new Livefyre.Sidenotes({
 | `streamPoweredBy` | &quot;backgroundColor&quot;, &quot;borderColor&quot;, &quot;lineHeight&quot; | Fußzeile &quot;Powered by&quot;im Popup-Fenster. |
 | `streamQueueButton` | &quot;backgroundColor&quot;, &quot;borderColor&quot;, &quot;borderWidth&quot;, &quot;fontColor&quot;, &quot;fontFamily&quot;, &quot;fontSize&quot;, &quot;fontWeight&quot;, &quot;lineHeight&quot; | Schaltfläche, die angibt, wann neue Notizen in ein geöffnetes Popup fließen. |
 | `userAvatar` | &quot;height&quot;, &quot;width&quot; | Avatarbild des authentifizierten Benutzers links neben dem Texteditor. |
-
