@@ -1,18 +1,14 @@
 ---
 description: Die Listener-Anzahl ist ein Zähler, der die Anzahl der Site-Besucher für eine App auf einer Seite verfolgt und diese Anzahl anzeigt.
-seo-description: Die Listener-Anzahl ist ein Zähler, der die Anzahl der Site-Besucher für eine App auf einer Seite verfolgt und diese Anzahl anzeigt.
-seo-title: Listener-Anzahl
-solution: Experience Manager
 title: Listener-Anzahl
-uuid: fdd7cfe4-ae69-4d31-baa2-8978368fc3e8
+exl-id: a07e83c2-7465-42ec-9d24-821aac5ab74b
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '292'
 ht-degree: 1%
 
 ---
-
 
 # Listener-Anzahl{#listener-count}
 
@@ -48,4 +44,3 @@ Apps, die diese Funktion verwenden:
 * [Kommentare](/help/using/c-about-apps/c-comments/c-comments.md)
 * [Reviews](../c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 * [Storify 2](../c-about-apps/c-storify2/c-storify2.md#c_storify2)
-
