@@ -1,18 +1,14 @@
 ---
 description: Versionshinweise für die Version vom 8. März 2018.
-seo-description: Versionshinweise für die Version vom 8. März 2018.
-seo-title: 8. März 2018
-solution: Experience Manager
 title: 8. März 2018
-uuid: 4ed67147-0837-4d5e-8e99-532a4278bcce
+exl-id: 46d4a425-17e0-48a2-a596-5cc7163f9edd
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '295'
 ht-degree: 5%
 
 ---
-
 
 # Samstag, 8. März 2018{#march}
 
@@ -40,7 +36,6 @@ Die Probleme in den folgenden Tabellen wurden in dieser Version behoben.
 | Art des Problems | Komponente | Versionshinweise |
 |--- |--- |--- |
 | Verbesserung | Filmstreifen | Die folgenden Barrierefreiheitsfunktionen für den Filmstreifen wurden aktualisiert: <br><ul><li>Links-/Rechts-Pfeile korrigiert von &lt;div> bis &lt;button> </li><li>Das Bild-Element der Vorschau wurde von einer weniger beschreibenden ARIA-Beschriftung &quot;Offenes angehängtes Foto&quot;zu einer Beschriftung geändert, die den Plattformnamen und den Beitragstext liest.</li></ul> |
-| Fehler | Medienwall | Es wurde ein Problem in Media Wall behoben, bei dem Tags nicht angeklickt werden konnten, wenn ein Instagram-Beitrag aus einer Stream-Regel hinzugefügt wurde. |
+| Fehler | Medienwall | Es wurde ein Problem in Media Pinnwand behoben, bei dem Tags nicht angeklickt werden konnten, wenn ein Instagram-Beitrag aus einer Stream-Regel hinzugefügt wurde. |
 | Verbesserung | Medienwall | Die Barrierefreiheit von Media Wall wurde wie folgt verbessert: <br><ul><li>Das Öffnen und Schließen von Modellen über Tastaturbefehle verschiebt den Fokus nicht mehr zurück zum Anfang der Seite. Der Fokus bleibt stattdessen auf das Element, das zuletzt vor dem modalen Popup fokussiert wurde.</li><li>Schaltfläche &quot;Mehr laden&quot;kann mit der Tabulatortaste geöffnet und über die Eingabetaste ausgelöst werden.</li></ul> |
-| Fehler | Rights Management | Es wurde ein Fehler behoben, durch den das Berechtigungsanforderungsmodal nach Erteilung der Rechte für ein Instagram-Asset nicht angezeigt wurde. |
-
+| Fehler | Rights Management | Es wurde ein Fehler behoben, durch den das Berechtigungsanforderungsmodell nach der Erteilung der Rechte für ein Instagram-Asset nicht angezeigt wurde. |
