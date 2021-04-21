@@ -1,18 +1,14 @@
 ---
 description: Passen Sie Kommentare an, um Echtzeit-Unterhaltungen auf Ihrer Site einzubetten.
-seo-description: Passen Sie Kommentare an, um Echtzeit-Unterhaltungen auf Ihrer Site einzubetten.
-seo-title: Kommentaranpassung
-solution: Experience Manager
 title: Kommentaranpassung
-uuid: 7ec08aaf-553f-49a2-b237-d4bdcb5714ff
+exl-id: 6a1de42c-4a0f-41c6-ba0d-8cdf0ebfbcea
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
-
 
 # Kommentaranpassungen{#comments-customizations}
 
@@ -20,7 +16,7 @@ Passen Sie Kommentare an, um Echtzeit-Unterhaltungen auf Ihrer Site einzubetten.
 
 
 
-Verwenden Sie verfügbare Optionen, damit Ihre Benutzer Inhalte über Twitter, Facebook und LinkedIn teilen und ihre Freunde in den Stream ziehen können.
+Verwenden Sie verfügbare Optionen, um Ihren Benutzern die Freigabe von Inhalten über Twitter, Facebook und LinkedIn hinweg zu ermöglichen und ihre Freunde in den Stream zu ziehen.
 
 * **[!UICONTROL Number of comments to load]**
 
@@ -79,4 +75,3 @@ Sie können Kommentare wie folgt anpassen:
 * **[!UICONTROL Style]** und  **[!UICONTROL Config]** Optionen für alle Apps im  **[!UICONTROL App Designer]**. Weitere Informationen zu den Standardoptionen **[!UICONTROL Style]** und **[!UICONTROL Config]** für alle Apps in **[!UICONTROL App Designer]** finden Sie unter Anpassen von Apps.
 
 * **[!UICONTROL Integration tools]**. Weitere Informationen zum Anpassen von Kommentaren mit Integrationstools finden Sie unter Kommentare.
-
