@@ -1,18 +1,14 @@
 ---
 description: Verwenden Sie Ping for Pull, um Livefyre mit Ihrem Benutzerverwaltungssystem synchron zu halten.
-seo-description: Verwenden Sie Ping for Pull, um Livefyre mit Ihrem Benutzerverwaltungssystem synchron zu halten.
-seo-title: Synchronisieren mit Livefyre mit Ping für Pull
-solution: Experience Manager
 title: Synchronisieren mit Livefyre mit Ping für Pull
-uuid: 7b059064-1cca-46d7-8055-dfe59f493ac1
+exl-id: 01b5851d-9dc0-44dc-9c0d-0c467502450d
 translation-type: tm+mt
-source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
-
 
 # Mit Livefyre mit Pull synchronisieren{#sync-with-livefyre-using-ping-for-pull}
 
