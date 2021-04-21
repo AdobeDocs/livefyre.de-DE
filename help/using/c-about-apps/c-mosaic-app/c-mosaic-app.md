@@ -1,18 +1,14 @@
 ---
 description: hinzufügen Sie mit einer Mosaic-App eine lebendige und dynamische Wand aus Farbe, Fotos und Videos auf Ihre Site.
-seo-description: hinzufügen Sie mit einer Mosaic-App eine lebendige und dynamische Wand aus Farbe, Fotos und Videos auf Ihre Site.
-seo-title: Mosaik
-solution: Experience Manager
 title: Mosaik
-uuid: 331c5f80-7440-4b91-8ac6-4f56a8a5befe
+exl-id: 79259c77-169d-4819-a7b0-39f64d92ea1e
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '808'
+source-wordcount: '789'
 ht-degree: 1%
 
 ---
-
 
 # Mosaic{#mosaic}
 
@@ -97,10 +93,9 @@ Sie können alle Apps in Livefyre Studio auf die gleiche Weise erstellen. Weiter
 
 ## Lokalisieren eines Mosaiks {#section_lnv_clj_yy}
 
-Lokale Anpassung ist für Mosaic verfügbar. Sie können:
+lokale Anpassung ist für Mosaic verfügbar. Sie können:
 
 * Verfügbare Zeichenfolgen für Mosaic ändern
 * Erstellen und Ändern eines Übersetzungssatzes für Mosaic
 * Übersetzungsset auf eine Site anwenden
 * Übersetzungsset auf ein Netzwerk anwenden
-
