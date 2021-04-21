@@ -1,18 +1,14 @@
 ---
 description: Veröffentlichen Sie einen Beitrag, um die Aufmerksamkeit auf bestimmte Inhalte zu lenken, wenn Sie zum ersten Mal auf einer Seite mit eingebettetem Storify 2 landen.
-seo-description: Veröffentlichen Sie einen Beitrag, um die Aufmerksamkeit auf bestimmte Inhalte zu lenken, wenn Sie zum ersten Mal auf einer Seite mit eingebettetem Storify 2 landen.
-seo-title: Beitrag zum Storisieren von 2 fixieren
-solution: Experience Manager
 title: Beitrag zum Storisieren von 2 fixieren
-uuid: c4043ea6-8763-4afb-bc1b-d69e1c8eca61
+exl-id: 09064707-1797-4f7b-891d-ef86880f94c0
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
-
 
 # Beitrag an Storify 2 {#pin-a-post-to-storify} anheften
 
