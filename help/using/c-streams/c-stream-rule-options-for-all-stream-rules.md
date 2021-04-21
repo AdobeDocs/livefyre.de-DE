@@ -1,18 +1,14 @@
 ---
 description: Diese Optionen gelten für alle Stream-Regeln aus allen sozialen Netzwerken oder Posting-Methoden.
-seo-description: Diese Optionen gelten für alle Stream-Regeln aus allen sozialen Netzwerken oder Posting-Methoden.
-seo-title: Stream-Regeloptionen für alle Stream-Regeln
-solution: Experience Manager
 title: Stream-Regeloptionen für alle Stream-Regeln
-uuid: 4072ee83-31e7-4de6-918c-134b8b8032e1
+exl-id: eff1a3cb-395f-4eb1-be93-f0f09bba95e2
 translation-type: tm+mt
-source-git-commit: 8bdb537b38d78dba033d6671b710c2a61934d6b2
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '412'
-ht-degree: 1%
+source-wordcount: '391'
+ht-degree: 2%
 
 ---
-
 
 # Stream-Regeloptionen für alle Stream-Regeln{#stream-rule-options-for-all-stream-rules}
 
@@ -31,7 +27,7 @@ Suchfunktionen für Text- und Suchbegriffsfelder:
 * **[!UICONTROL Media]**. Wählen Sie eine der folgenden Optionen:
 
    * **[!UICONTROL All Content.]** Zulassen von Inhalten
-   * **[!UICONTROL Media Required.]** Nur Inhalte mit Bildern und Videos zulassen (Für Instagram- und Facebook-Inhalte können Sie nur **[!UICONTROL Photos]** oder **[!UICONTROL Videos]** angeben.)
+   * **[!UICONTROL Media Required.]** Nur Inhalte mit Bildern und Videos zulassen (Bei Instagram- und Facebook-Inhalten können Sie nur **[!UICONTROL Photos]** oder **[!UICONTROL Videos]** angeben.)
 
 * **[!UICONTROL Language]**. Wählen Sie die Sprache, in der gesucht werden soll. Englisch ist die Standardsprache.
 * **[!UICONTROL Smart Tags]**. Wählen Sie die Tags aus, die zur Identifizierung des Inhalts verwendet werden sollen. Livefyre nutzt die Technologie zur Computervisualisierung, um Fotos und Videos mit bestimmten Smart-Tags zu identifizieren, um diese Suche präziser zu gestalten. Verwenden Sie den Modifikator **[!UICONTROL ANY]**, um Inhalte mit einem beliebigen Tag in den Stream zu filtern, oder den Modifikator **[!UICONTROL ALL]**, um Inhalte in den Stream zu filtern, der alle Tags verwendet. Verwenden Sie das Feld **[!UICONTROL Image contains none of these smart tags]**, um Tags für Fotos einzugeben, die Inhalte enthalten, die Sie nicht im Stream haben möchten. Diese Option funktioniert nicht für Textinhalte.
