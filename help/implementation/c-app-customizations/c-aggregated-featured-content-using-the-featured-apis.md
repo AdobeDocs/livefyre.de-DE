@@ -1,18 +1,14 @@
 ---
 description: Livefyre bietet vier spezielle APIs, mit denen Sie die 50 zuletzt hervorgehobenen Inhaltselemente für das Eingabenetzwerk, die Site oder die Sammlung oder die beiden Inhaltselemente, die oben in einer Eingabesammlung vorgestellt werden, abrufen können.
-seo-description: Livefyre bietet vier spezielle APIs, mit denen Sie die 50 zuletzt hervorgehobenen Inhaltselemente für das Eingabenetzwerk, die Site oder die Sammlung oder die beiden Inhaltselemente, die oben in einer Eingabesammlung vorgestellt werden, abrufen können.
-seo-title: Aggregierte spezielle Inhalte mit den speziellen APIs
-solution: Experience Manager
 title: Aggregierte spezielle Inhalte mit den speziellen APIs
-uuid: e9c9ff26-37b6-4328-af85-aa550e7ffdfd
+exl-id: 19f146bf-f406-4667-8ed9-7c7fb3672c05
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 1%
+source-wordcount: '200'
+ht-degree: 2%
 
 ---
-
 
 # Aggregierte spezielle Inhalte mithilfe der speziellen APIs{#aggregated-featured-content-using-the-featured-apis}
 
@@ -466,4 +462,3 @@ GET https://{networkName}.bootstrap.fyre.co/bs3/{network}/{siteId}/{b64articleId
    } 
 }
 ```
-
