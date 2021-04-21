@@ -1,18 +1,14 @@
 ---
 description: Was bei der Implementierung von Livefyre Studio zu erwarten ist.
-seo-description: Was bei der Implementierung von Livefyre Studio zu erwarten ist.
-seo-title: Implementierungsverfahren
-solution: Experience Manager
 title: Implementierungsverfahren
-uuid: 9a0f394e-3467-47d1-9816-45e2130db440
+exl-id: 82bf8c09-946a-4be8-97bf-5b9868a4e031
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '291'
 ht-degree: 3%
 
 ---
-
 
 # Implementierungsverfahren{#implementation-process}
 
@@ -49,4 +45,3 @@ Zur Integration von Livefyre gibt es drei Hauptschritte:
 * Anpassung
 
    Die Anpassung ist optional, aber die meisten Kunden passen Apps an ihre Marke an.
-
