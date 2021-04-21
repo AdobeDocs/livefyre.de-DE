@@ -1,18 +1,14 @@
 ---
 description: Auf der Registerkarte "Moderation"können Sie Vormoderationsregeln für eingehende Inhalte festlegen, einschließlich profanativer Listen, Flag-Regeln und verbotener IP-Adressen.
-seo-description: Auf der Registerkarte "Moderation"können Sie Vormoderationsregeln für eingehende Inhalte festlegen, einschließlich profanativer Listen, Flag-Regeln und verbotener IP-Adressen.
-seo-title: Einrichten der Moderation
-solution: Experience Manager
 title: Einrichten der Moderation
-uuid: 0ec53fdb-08c2-4058-88cb-2f6f4b56a95b
+exl-id: 09fc44c4-7ee1-47fd-ae68-885532a6f03f
 translation-type: tm+mt
-source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1299'
+source-wordcount: '1276'
 ht-degree: 0%
 
 ---
-
 
 # Einrichten der Moderation{#setting-up-moderation}
 
@@ -40,7 +36,7 @@ Sie können Inhalte auf folgende Weise automatisch vormoderieren:
 * Erstellen Sie eine Liste von Wörtern, die Sie in der Profanity-Liste unter **[!UICONTROL Settings > Moderation > Rules]** für Ihr Netzwerk oder Ihre Site als gewinnbringend betrachten.
 * Zulassen von Listenbenutzern (immer zulassen, dass Inhalte von diesen Benutzern angezeigt werden), indem Filter für bestimmte Streams, Sites oder Netzwerke verwendet oder deaktiviert werden.
 
-Nachdem Sie Ihre Profanity-Listen, SAFE-Filter und -Regeln eingerichtet haben, können Sie auswählen, ob Sie Inhalte vormoderieren möchten, und die SAFE-Filter in Streams anwenden. Weitere Informationen finden Sie unter [Stream-Regeloptionen für alle Stream-Regeln](/help/using/c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).
+Nachdem Sie Ihre Profanity-Listen, SAFE-Filter und -Regeln eingerichtet haben, können Sie entscheiden, ob Sie Inhalte vormoderieren möchten, und die SAFE-Filter in Streams anwenden. Weitere Informationen finden Sie unter [Stream-Regeloptionen für alle Stream-Regeln](/help/using/c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).
 
 Livefyre markiert Inhalt als **[!UICONTROL Approved]**, **[!UICONTROL Pending]**, **[!UICONTROL Junk]** usw. abhängig davon, woher der Inhalt stammt, wo er veröffentlicht wird und welche Regeln Sie in Ihrem System eingerichtet haben. Die folgende Tabelle beschreibt ausführlich die Aktionen, die Livefyre je nach diesen Faktoren ausführt.
 
