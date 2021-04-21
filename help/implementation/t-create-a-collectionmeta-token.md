@@ -1,18 +1,14 @@
 ---
 description: Erstellen Sie eine neue Sammlung, indem Sie ein collectionMeta-Token erstellen, das an Livefyre übergeben wird.
-seo-description: Erstellen Sie eine neue Sammlung, indem Sie ein collectionMeta-Token erstellen, das an Livefyre übergeben wird.
-seo-title: Erstellen einer Sammlung mit dem CollectionMeta-Token
-solution: Experience Manager
 title: Erstellen einer Sammlung mit dem CollectionMeta-Token
-uuid: 5a3e18e8-8568-45bb-9070-d0fa43dd819b
+exl-id: d2dafc90-de21-4998-8e85-83f970524329
 translation-type: tm+mt
-source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
-
 
 # Erstellen einer Sammlung mit dem CollectionMeta-Token{#create-a-collection-using-the-collectionmeta-token}
 
