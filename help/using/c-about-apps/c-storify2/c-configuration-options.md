@@ -1,18 +1,14 @@
 ---
 description: Wählen Sie in Livefyre Studio die Konfigurationsoptionen "Stil", "Anzeige"und "Benutzerinteraktion"für Storify 2.
-seo-description: Wählen Sie in Livefyre Studio die Konfigurationsoptionen "Stil", "Anzeige"und "Benutzerinteraktion"für Storify 2.
-seo-title: Konfigurationsoptionen
-solution: Experience Manager
 title: Konfigurationsoptionen
-uuid: 4a7f03b3-6d97-46e9-8832-81e665f06d3a
+exl-id: bdb5210e-860c-477f-95cd-37a1233469f1
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
-
 
 # Konfigurationsoptionen{#configuration-options}
 
@@ -64,13 +60,13 @@ Wählen Sie in Livefyre Studio die Konfigurationsoptionen &quot;Stil&quot;, &quo
 
 * **[!UICONTROL Load more posts]**
 
-   Legen Sie fest, ob Beiträge fortlaufend angezeigt werden, wenn ein Benutzer nach unten blättert, oder ob eine Schaltfläche &quot;Mehr anzeigen&quot;angezeigt werden soll.
+   Legen Sie fest, ob Beiträge fortlaufend angezeigt werden, während ein Benutzer nach unten blättert, oder ob eine Schaltfläche &quot;Mehr anzeigen&quot;angezeigt werden soll.
 
 **[!UICONTROL User Engagement]**
 
 * **[!UICONTROL Users may share posts]**
 
-   Wenn diese Option aktiviert ist, können Benutzer Ihre Geschichte für Twitter oder Facebook freigeben. Weitere Informationen zum Aktivieren der Freigabe finden Sie unter Einstellungen > Integrationseinstellungen > Social Sharing.
+   Wenn diese Option aktiviert ist, können Benutzer Ihre Artikel für Twitter oder Facebook freigeben. Weitere Informationen zum Aktivieren der Freigabe finden Sie unter Einstellungen > Integrationseinstellungen > Social Sharing.
 
 * **[!UICONTROL Users may add sidenotes]**
 
@@ -79,4 +75,3 @@ Wählen Sie in Livefyre Studio die Konfigurationsoptionen &quot;Stil&quot;, &quo
 * **[!UICONTROL Number of views]**
 
    Wenn diese Option aktiviert ist, wird angezeigt, wie oft der Artikel angezeigt wurde.
-
