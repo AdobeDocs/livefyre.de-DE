@@ -1,18 +1,14 @@
 ---
 description: Livefyre Identity and Apps enthalten Barrierefreiheitsfunktionen, mit denen alle Site-Besucher mit Inhalten interagieren können, einschließlich derer, die Bildschirmlesehilfen und andere Hilfsgeräte verwenden können.
-seo-description: Livefyre Identity and Apps enthalten Barrierefreiheitsfunktionen, mit denen alle Site-Besucher mit Inhalten interagieren können, einschließlich derer, die Bildschirmlesehilfen und andere Hilfsgeräte verwenden können.
-seo-title: Zugänglichkeitsfunktionen
-solution: Experience Manager
 title: Zugänglichkeitsfunktionen
-uuid: e04970d5-f45d-40e0-807e-ae88a9386ef7
+exl-id: c1f10835-06a8-459b-8d58-63ad61a3e0b7
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '325'
 ht-degree: 1%
 
 ---
-
 
 # Barrierefreiheitsmerkmale{#accessibility-features}
 
@@ -56,4 +52,3 @@ Auf Apps und Livefyre-Funktionen zugreifen:
 * [Mosaik](../c-about-apps/c-mosaic-app/c-mosaic-app.md#c_mosaic_app)
 * [Umfragen](../c-about-apps/c-polls-app/c-polls-app.md#c_polls_app)
 * [Sir](../c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
-
