@@ -1,18 +1,14 @@
 ---
 description: Im Bereich "Benutzerzusammenfassung"finden Sie Benutzerinformationen zur Moderation.
-seo-description: Im Bereich "Benutzerzusammenfassung"finden Sie Benutzerinformationen zur Moderation.
-seo-title: Benutzer moderieren
-solution: Experience Manager
 title: Benutzer moderieren
-uuid: b801cdfe-05ea-4c29-bb9b-0f6a33cb11d1
+exl-id: 6165ae9e-b210-46b8-87e6-6e7af3430b82
 translation-type: tm+mt
-source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
-
 
 # Moderieren von Benutzern{#moderate-users}
 
@@ -35,7 +31,7 @@ Die folgenden Informationen werden (sofern verfügbar) für jeden Ihrer registri
 * **[!UICONTROL Email]**: die aufgelistete E-Mail-Adresse.
 * **[!UICONTROL IP Address]**: ihre IP-Adresse, wie von Livefyre bestimmt.
 * **[!UICONTROL Bio]**: Beschreibung des Benutzers.
-* **[!UICONTROL Bans]**: listen-Sites, für die der Nutzer gesperrt wurde oder für die Bozo’d.
-* **[!UICONTROL Whitelists]**: listen-Sites, für die der Benutzer zugelassen wurde.
+* **[!UICONTROL Bans]**: Listen-Sites, für die der Nutzer gesperrt wurde oder für die Bozo’d.
+* **[!UICONTROL Whitelists]**: Listen-Sites, für die der Benutzer zugelassen wurde.
 
 Weitere Informationen zum Moderieren von Benutzern auf der Registerkarte &quot;App-Inhalt&quot;finden Sie unter [Moderieren mit App-Inhalt](/help/using/c-features-livefyre/c-about-moderation/c-moderate-content-using-app-content.md#c_moderate_content_using_app_content).
