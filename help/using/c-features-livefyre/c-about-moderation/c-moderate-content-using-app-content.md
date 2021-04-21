@@ -1,17 +1,14 @@
 ---
 description: Auf der Registerkarte "App-Inhalt"in Ihrer Bibliothek können Sie Inhalte moderieren, die in Ihren Apps veröffentlicht wurden.
-seo-description: Auf der Registerkarte "App-Inhalt"in Ihrer Bibliothek können Sie Inhalte moderieren, die in Ihren Apps veröffentlicht wurden.
-seo-title: Moderieren von Inhalten mit App-Inhalten
 title: Moderieren von Inhalten mit App-Inhalten
-uuid: 1c648128-e7ef-4836-afe5-eff52de30e7e
+exl-id: cbcea643-df5f-44d5-ad8c-b057495fd648
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '444'
 ht-degree: 0%
 
 ---
-
 
 # Moderieren von Inhalten mit App-Inhalten{#moderate-content-using-app-content}
 
@@ -50,7 +47,7 @@ In App-Inhalten können Sie:
 
 Das Arbeiten mit Simit Simit im Inhaltsbedienfeld unterscheidet sich in mehrfacher Hinsicht von dem Arbeiten mit anderen Inhaltstypen:
 
-* Die Registerkarten &quot;Mehr Info&quot;, &quot;Antworten&quot;, &quot;Flags und Berichte&quot;und &quot;Hinzufügen Notiz&quot;sind nicht verfügbar.
+* Die Registerkarten &quot;Mehr Info&quot;, &quot;Antworten&quot;, &quot;Flags und Berichte&quot;und &quot;Hinzufügen Notiz&quot;stehen nicht zur Verfügung.
 * Sie können keine Sidentifizierungen mit Tags versehen oder sie als &quot;Vorgestellt&quot;markieren.
 
 Er unterscheidet sich auch dadurch, dass er nicht nur den zu moderierenden Inhalt anzeigt. Es zeigt auch den Text an, der beim Hinzufügen des Sidenote ausgewählt wurde, sodass Sie den Inhalt im Kontext auswerten können.
