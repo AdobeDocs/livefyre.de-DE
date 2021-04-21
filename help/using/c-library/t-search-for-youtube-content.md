@@ -1,19 +1,16 @@
 ---
 description: Verwenden Sie die Social-Suche, um nach YouTube-Inhalten zu suchen, die in Ihre Asset-Bibliothek aufgenommen oder in Apps veröffentlicht werden sollen.
-seo-description: Verwenden Sie die Social-Suche, um nach YouTube-Inhalten zu suchen, die in Ihre Asset-Bibliothek aufgenommen oder in Apps veröffentlicht werden sollen.
-seo-title: Suchen nach YouTube-Inhalten
 title: Suchen nach YouTube-Inhalten
-uuid: a99c2c0d-4647-4432-8f67-8c2fc29fe245
+exl-id: a2e80157-ee75-4e5a-9be6-2e2347e71228
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
-
-# Suchen nach YouTube-Inhalten{#search-for-youtube-content}
+# Suchen nach YouTube Content{#search-for-youtube-content}
 
 Verwenden Sie die Social-Suche, um nach YouTube-Inhalten zu suchen, die in Ihre Asset-Bibliothek aufgenommen oder in Apps veröffentlicht werden sollen.
 
@@ -29,4 +26,3 @@ Verwenden Sie die Social-Suche, um nach YouTube-Inhalten zu suchen, die in Ihre 
    * **[!UICONTROL Duration:]**ermöglicht es Ihnen, zurückgegebene Videos zu beschränken, die eine Dauer von **[!UICONTROL <4 mins]**, **[!UICONTROL 4 mins- 20 mins]** oder **[!UICONTROL >20 mins]** haben.
 
    * **[!UICONTROL License:]**ermöglicht es Ihnen, zurückgegebene Videos auf Basis der **[!UICONTROL Any]**-Lizenz, **[!UICONTROL Creative Commons]** oder **[!UICONTROL YouTube Standard License]** einzuschränken.
-
