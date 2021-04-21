@@ -1,18 +1,14 @@
 ---
 description: Suchen Sie nach Assets nach verschiedenen Optionen und Filtern, um die richtigen Inhalte für eine App zu finden.
-seo-description: Suchen Sie nach Assets nach verschiedenen Optionen und Filtern, um die richtigen Inhalte für eine App zu finden.
-seo-title: Gespeicherte Assets in der Bibliothek suchen
-solution: Experience Manager
 title: Gespeicherte Assets in der Bibliothek suchen
-uuid: 2fee5ba4-fe69-487e-8d9c-0fd2af97179c
+exl-id: c33583e1-05c4-413b-b5ae-473817c07815
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
-
 
 # Gespeicherte Assets in der Bibliothek suchen{#search-saved-assets-in-the-library}
 
@@ -24,7 +20,7 @@ Die folgenden Optionen stehen in der Bibliothek zur Verfügung, um Sie beim Such
 * **[!UICONTROL Contains:]** Wählen Sie den Inhaltstyp aus, den Sie zurückgeben möchten:**  [!UICONTROL Photo]* oder  **[!UICONTROL Video]**.
 
 * **[!UICONTROL Rights:]** Wählen Sie den Anforderungsstatus für Rechte aus, um nach dem Anforderungsstatus der Rechte zu filtern.
-* **[!UICONTROL Source:]** Wählen Sie die Quelle aus, aus der der Inhalt aufgelistet werden soll. **[!UICONTROL Uploaded]** liste aller Assets, die von Ihrem lokalen Computer, Flickr, Dropbox oder einer der anderen verfügbaren Dateiauswahl-Optionen hinzugefügt wurden. **[!UICONTROL Livefyre]** listen, die vom Benutzer direkt im Stream gepostet wurden.
+* **[!UICONTROL Source:]** Wählen Sie die Quelle aus, aus der der Inhalt aufgelistet werden soll. **[!UICONTROL Uploaded]** Liste aller Assets, die von Ihrem lokalen Computer, Flickr, Dropbox oder einer der anderen verfügbaren Dateiauswahl-Optionen hinzugefügt wurden. **[!UICONTROL Livefyre]** Listen, die vom Benutzer direkt im Stream gepostet wurden.
 
 * **[!UICONTROL Sort By:]** Verwenden Sie diese Optionen, um zurückgegebene Inhalte nach  **[!UICONTROL Date Added]** (Ihrer Bibliothek),  **[!UICONTROL Date Created]** oder  **[!UICONTROL Relevance]** zu sortieren.
 
