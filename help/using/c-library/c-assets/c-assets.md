@@ -1,18 +1,14 @@
 ---
 description: Sie können ausgewählte Inhalte für Ihre Livefyre-Apps zusammenstellen, organisieren und verwalten.
-seo-description: Sie können ausgewählte Inhalte für Ihre Livefyre-Apps zusammenstellen, organisieren und verwalten.
-seo-title: Assets
-solution: Experience Manager
 title: Assets
-uuid: 21ab781a-3a05-4725-b77d-92decc2d2e1f
+exl-id: 95656df7-5176-4c7f-8971-7a1f1fadbdde
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 2%
+source-wordcount: '123'
+ht-degree: 1%
 
 ---
-
 
 # Assets{#assets}
 
