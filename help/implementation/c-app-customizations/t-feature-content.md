@@ -1,18 +1,14 @@
 ---
 description: Verwenden Sie benutzerdefinierte Stile, um speziellen Inhalt hervorzuheben.
-seo-description: Verwenden Sie benutzerdefinierte Stile, um speziellen Inhalt hervorzuheben.
-seo-title: Funktionsinhalt
-solution: Experience Manager
 title: Funktionsinhalt
-uuid: c45f594b-69de-4db4-820b-465015d74825
+exl-id: 9fc66560-0d7e-4c14-805c-9c2e212f4c16
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 2%
+source-wordcount: '161'
+ht-degree: 3%
 
 ---
-
 
 # Funktionsinhalt{#feature-content}
 
@@ -40,4 +36,3 @@ Mithilfe von Inhalten können Sie die Aufmerksamkeit auf ausgewählte Benutzerbe
    * [Vorgestellt (Site)](#c_aggregated_featured_content_using_the_featured_apis/section_lq5_ymw_xz)
    * [Vorgestellt (Sammlung)](#c_aggregated_featured_content_using_the_featured_apis/section_kgc_xmw_xz)
    * [Vorgestellt (Head)](#c_aggregated_featured_content_using_the_featured_apis/section_n4b_lmw_xz)
-
