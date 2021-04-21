@@ -1,17 +1,14 @@
 ---
 description: Versionshinweise für die Version vom 9. März 2017.
-seo-description: Versionshinweise für die Version vom 9. März 2017.
-seo-title: 9. März 2017
 title: 9. März 2017
-uuid: 14c770e7-ff6f-4c56-9c88-677e2bfb7362
+exl-id: 07723cc6-a912-4231-a745-3ea79c6d1788
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '281'
 ht-degree: 8%
 
 ---
-
 
 # 9. März 2017{#march}
 
@@ -35,9 +32,8 @@ Versionshinweise für die Version vom 9. März 2017.
 | Fehler | Medienwall | Es wurde ein Fehler behoben, der dazu führte, dass Media Walls nicht gerendert wurde, wenn bestimmte Fremdzeichen enthalten waren. |
 | Fehler | Social-Suche | Es wurde ein Fehler behoben, durch den in Social Search gespeicherte YouTube-Assets nicht veröffentlicht werden konnten. |
 | Fehler | Social-Suche | Es wurde ein Fehler behoben, der dazu führte, dass das Augensymbol &quot;Explizite Bilder beibehalten&quot;für Assets beim Bewegen des Mauszeigers außerhalb eines Assets verschoben wurde. |
-| Verbesserung | Storify 2 | Es wurde eine Verbesserung hinzugefügt, um die Meldung &quot;Keine Ergebnisse gefunden&quot;bei der Suche nach Facebook-Themen anzuzeigen, wenn keine Ergebnisse gefunden wurden. |
+| Verbesserung | Storify 2 | Es wurde eine Verbesserung hinzugefügt, um die Meldung &quot;Keine Ergebnisse gefunden&quot;bei der Facebook-Themensuche anzuzeigen, wenn keine Ergebnisse gefunden wurden. |
 | Verbesserung | Streams | Zusammenfassungsregeln für SAFE-Regeln wurden am Ende einer Twitter-Stream-Seite hinzugefügt. |
-| Fehler | Streams | Es wurde eine Verbesserung hinzugefügt, um das Kontrollkästchen &quot;verifizierter Benutzer&quot;in Twitter-Stream-Regeln sichtbar zu deaktivieren, wenn ausgeschlossene Autoren bereitgestellt werden. |
+| Fehler | Streams | Es wurde eine Verbesserung zur sichtbaren Deaktivierung des Kontrollkästchens &quot;Geprüfter Benutzer&quot;in den Twitter-Stream-Regeln hinzugefügt, wenn ausgeschlossene Autoren bereitgestellt werden. |
 | Fehler | Studio | Es wurde ein Fehler behoben, der verhinderte, dass das &quot;Feature-Tag&quot; bei Anwendung korrekt gespeichert wurde. |
 | Fehler | Benutzer | Es wurde ein Fehler behoben, der dazu führte, dass der Sortierfilter &quot;Zuletzt verwendete Aktivität&quot;in &quot;Benutzer&quot;nicht in der richtigen Reihenfolge angezeigt wurde. |
-
