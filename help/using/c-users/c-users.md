@@ -1,18 +1,14 @@
 ---
 description: hinzufügen und verwalten Sie Benutzer und Site-Besucher mit dem Studio- und Livefyre-Netzwerk.
-seo-description: hinzufügen und verwalten Sie Benutzer und Site-Besucher mit dem Studio- und Livefyre-Netzwerk.
-seo-title: Benutzer, die Studio- und Livefyre-Netzwerkbenutzer verwalten
-solution: Experience Manager
 title: Benutzer, die Studio- und Livefyre-Netzwerkbenutzer verwalten
-uuid: e9f5c0f3-4a10-4e81-9267-112541f7dd46
+exl-id: fbf9b8a7-ac94-477e-9ef2-01baa3856dfe
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
-
 
 # Benutzer: Verwalten von Studio- und Livefyre-Netzwerkbenutzern{#users-managing-studio-and-livefyre-network-users}
 
