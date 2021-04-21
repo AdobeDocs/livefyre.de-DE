@@ -1,26 +1,22 @@
 ---
 description: Beim Kuratieren von Inhalten aus Instagram müssen Sie die Richtlinien und Best Practices befolgen.
-seo-description: Beim Kuratieren von Inhalten aus Instagram müssen Sie die Richtlinien und Best Practices befolgen.
-seo-title: Richtlinien für Instagram-Inhalte
-solution: Experience Manager
-title: Richtlinien für Instagram-Inhalte
-uuid: 4c5ba96b-a242-407f-aa36-3a4e431832b8
+title: Instagram Content Guidelines
+exl-id: 74ef8556-8f65-4406-871c-5b9f1887ec9c
 translation-type: tm+mt
-source-git-commit: 6978f0f36b5698c9c599c1828edea67703423397
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
 
-
-# Inhaltsrichtlinien für Instagram{#instagram-content-guidelines}
+# Instagram Content Guidelines{#instagram-content-guidelines}
 
 Beim Kuratieren von Inhalten aus Instagram müssen Sie die Richtlinien und Best Practices befolgen.
 
-Sie müssen ein *Instagram-Geschäftskonto* konfigurieren, um Instagram-Streams von einem anderen bestimmten Instagram-Geschäftskonto aus zu erstellen, indem Sie das Feld **[!UICONTROL By Author]** verwenden. Das Benutzerkonto, das Sie im Feld **[!UICONTROL By Author]** angeben, muss ein Geschäftskonto sein.
+Sie müssen ein *Instagram-Geschäftskonto* konfigurieren, um Instagram-Streams aus einem anderen bestimmten Instagram-Geschäftskonto zu erstellen, indem Sie das Feld **[!UICONTROL By Author]** verwenden. Das Benutzerkonto, das Sie im Feld **[!UICONTROL By Author]** angeben, muss ein Geschäftskonto sein.
 
-Weitere Informationen zum Einrichten eines Instagram-Geschäftskontos in Livefyre finden Sie unter [Info zu Instagram-Konten](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts).
+Weitere Informationen zum Einrichten eines Instagram-Geschäftskontos in Livefyre finden Sie unter [Informationen zu Instagram-Konten](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts).
 
 Instagram erzwingt die folgenden Regeln zum Abrufen von Inhalten von der Plattform:
 
@@ -41,4 +37,4 @@ Instagram hat wie andere Marken auch Anforderungen an die Verwendung ihrer Marke
 * Stellen Sie eine Zuordnung zu Instagram und dem Eigentümer des Inhalts bereit.
 * Unterscheiden Sie sich deutlich von anderen Social-Media-Inhalten, wenn sie zusammen mit den Medien anderer Netzwerke angezeigt werden.
 
-Weitere Informationen finden Sie im Dokument zu Instagram: [Verwenden von Instagram-Markenelementen](https://help.instagram.com/304689166306603).
+Weitere Informationen finden Sie im Dokument von Instagram: [Verwenden von Instagram-Markenbezeichnungen](https://help.instagram.com/304689166306603).
