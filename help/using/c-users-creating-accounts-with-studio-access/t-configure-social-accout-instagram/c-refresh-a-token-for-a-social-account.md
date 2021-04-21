@@ -1,18 +1,14 @@
 ---
 description: Aktualisieren Sie ein Token für ein Social-Konto, wenn es abläuft.
-seo-description: Aktualisieren Sie ein Token für ein Social-Konto, wenn es abläuft.
-seo-title: Token für ein Social-Konto aktualisieren
-solution: Experience Manager
 title: Token für ein Social-Konto aktualisieren
-uuid: 8a25305c-aaa3-460f-b782-404a55b491cd
+exl-id: 46819456-1da1-44fe-a73c-a8a4800c4cd3
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
-
 
 # Token für ein Social-Konto aktualisieren{#refresh-a-token-for-a-social-account}
 
@@ -21,15 +17,15 @@ Aktualisieren Sie ein Token für ein Social-Konto, wenn es abläuft.
 Instagram-Token können ablaufen, oft mit wenig oder gar keiner Warnung. Bei den folgenden sozialen Netzwerken müssen Sie Token aktualisieren, um sicherzustellen, dass sie verwendet und aktiv sind:
 
 * Twitter
-* Instagram-persönliche Konten
+* Personalkonten von instagram
 * Instagram-Geschäftskonten
 
 Instagram-Geschäftskonten verwenden Facebook-Token, die ablaufen. Ihr Livefyre-Netzwerk benachrichtigt Sie, wenn 10 bis 5 Tage vor Ablauf der Token verbleiben, sodass Sie sie aktualisieren können.
 
 Wenn ein Token abläuft, benachrichtigt Livefyre Sie wie folgt:
 
-* Wenn Sie nach Instagram-Inhalten suchen, wird in einem Fenster unten links angezeigt, dass Ihr Instagram-Token abgelaufen ist. Wenn Sie andere Instagram-Konten einrichten, sucht Livefyre Instagram automatisch mit dem nächsten Instagram-Konto in Ihrer Liste.
-* Wenn Sie Rechte mit einem bestimmten, abgelaufenen Instagram-Konto anfordern, wird ein Fehler angezeigt. Sie müssen ein anderes Instagram-Konto auswählen oder das Token für das abgelaufene Konto aktualisieren und erneut auf Anforderungsrechte klicken.
+* Wenn Sie nach Instagram-Inhalten suchen, wird auf der linken unteren Seite ein Fenster angezeigt, in dem angegeben wird, dass Ihr Instagram-Token abgelaufen ist. Wenn Sie andere Instagram-Konten einrichten, durchsucht Livefyre automatisch Instagram mit dem nächsten Instagram-Konto in Ihrer Liste.
+* Wenn Sie Rechte mit einem bestimmten abgelaufenen Instagram-Konto anfordern, wird ein Fehler angezeigt. Sie müssen ein anderes Instagram-Konto auswählen oder das Token für das abgelaufene Konto aktualisieren und erneut auf Anforderungsrechte klicken.
 * Streams, die ein abgelaufenes Instagram-Konto verwenden, funktionieren nicht.
 * Konten mit abgelaufenen Token in **[!UICONTROL Network Settings]** > **[!UICONTROL Social Accounts]** zeigen ein Fehlerwarnsymbol ( ![](assets/warningError.png)
 
