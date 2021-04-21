@@ -1,18 +1,14 @@
 ---
 description: Mit Übersetzungssätzen können Sie eine andere Sprache für Apps festlegen.
-seo-description: Mit Übersetzungssätzen können Sie eine andere Sprache für Apps festlegen.
-seo-title: Übersetzungssätze
-solution: Experience Manager
 title: Übersetzungssätze
-uuid: 88b705e5-57c8-4065-8a41-a73546bd929a
+exl-id: 1de99602-b97e-42e9-8450-39abd4ba2f9b
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1347'
+source-wordcount: '1335'
 ht-degree: 7%
 
 ---
-
 
 # Übersetzungssätze{#translation-sets}
 
@@ -332,4 +328,3 @@ Für allgemeine Fehlermeldungen verfügbare Zeichenfolgen.
 |  | errorDuplicate | Ihre Notiz gefällt uns ebenfalls, aber Sie können sie nicht zweimal posten. |
 |  | errorGeneral | Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut. |
 |  | errorServer | Etwas ist mit unserem Server schiefgelaufen. Versuch das noch einmal? |
-
