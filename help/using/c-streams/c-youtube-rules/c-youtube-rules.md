@@ -1,26 +1,22 @@
 ---
 description: Sie können Stream-Regeln erstellen, die Inhalte aus YouTube-Regeln abrufen.
-seo-description: Sie können Stream-Regeln erstellen, die Inhalte aus YouTube-Regeln abrufen.
-seo-title: YouTube-Regeln
-solution: Experience Manager
 title: YouTube-Regeln
-uuid: ec6a3780-7119-45c3-8ab2-fb0f9803d161
+exl-id: 720a6fc6-d5de-4c78-a14e-51bced6e8dda
 translation-type: tm+mt
-source-git-commit: 30aa5cce5e7567208362cc35caeb7b7260c42f3b
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
 
-
-# YouTube-Regeln {#youtube-rules}
+# YouTube Rules {#youtube-rules}
 
 Sie können Stream-Regeln erstellen, die Inhalte aus YouTube-Regeln abrufen.
 
-Erstellen Sie YouTube-Regeln basierend auf User, Kanal oder Playlist.
+Erstellen Sie YouTube-Regeln basierend auf Benutzer, Kanal oder Playlist.
 
-Um YouTube-Regeln zu erstellen, mit denen Sie Inhalte aus YouTube in Ihre App oder Ihren Ordner ziehen können, können Sie nach folgenden Kriterien filtern:
+Um YouTube-Regeln zu erstellen, mit denen Inhalte aus YouTube in Ihre App oder Ihren Ordner gezogen werden, können Sie nach folgenden Kriterien filtern:
 
 * **[!UICONTROL User]**
    * Geben Sie die Vanity-Zeichenfolge für ein **[!UICONTROL User]** ein, um Videos vom Benutzer in den Stream einzuschließen.
