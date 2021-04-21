@@ -1,17 +1,14 @@
 ---
 description: Sie können Ihre Livefyre-Apps so gestalten, dass sie sich auf verschiedene Weise verhalten oder sie so gestalten, dass sie wie die restliche Kampagne Ihrer Marke aussehen und fühlen.
-seo-description: Sie können Ihre Livefyre-Apps so gestalten, dass sie sich auf verschiedene Weise verhalten oder sie so gestalten, dass sie wie die restliche Kampagne Ihrer Marke aussehen und fühlen.
-seo-title: Stilfunktionen
 title: Stilfunktionen
-uuid: 72a3843d-692a-43ff-b72b-6bd840de87d6
+exl-id: d2ba6865-566a-4258-9c5f-3b4c6780907f
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 7%
+source-wordcount: '112'
+ht-degree: 8%
 
 ---
-
 
 # Formatierungsfunktionen{#styling-features}
 
@@ -45,4 +42,3 @@ Apps, die diese Funktion verwenden:
 
 * [Chat](/help/using/c-about-apps/c-chat-app/c-chat-app.md#c_chat_app)
 * [Kommentare](/help/using/c-about-apps/c-comments/c-comments.md)
-
