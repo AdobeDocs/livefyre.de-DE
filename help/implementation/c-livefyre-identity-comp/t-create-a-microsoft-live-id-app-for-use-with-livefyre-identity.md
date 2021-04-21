@@ -1,22 +1,18 @@
 ---
-description: Sie können Livefyre Identity mit Microsoft Live Identity verwenden, um Benutzern zu ermöglichen, ihre Facebook-Anmeldungen zu verwenden, um Apps auf Ihrer Site zu interagieren.
-seo-description: Sie können Livefyre Identity mit Microsoft Live Identity verwenden, um Benutzern zu ermöglichen, ihre Facebook-Anmeldungen zu verwenden, um Apps auf Ihrer Site zu interagieren.
-seo-title: Erstellen einer Microsoft Live-Identitäts-App zur Verwendung mit Livefyre-Identität
-solution: Experience Manager
+description: Sie können Livefyre Identity mit Microsoft Live Identity verwenden, um Benutzern zu ermöglichen, ihre Facebook-Anmeldungen für die Interaktion mit Apps auf Ihrer Site zu verwenden.
 title: Erstellen einer Microsoft Live-Identitäts-App zur Verwendung mit Livefyre-Identität
-uuid: 0c13e1bc-817f-43ed-85d5-09c9e95b6234
+exl-id: 7702c956-ecb5-424a-9866-d6f73d4d4bc9
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
 
-
 # Erstellen einer Microsoft Live-Identitätsanwendung zur Verwendung mit Livefyre-Identität{#create-a-microsoft-live-identity-app-for-use-with-livefyre-identity}
 
-Sie können Livefyre Identity mit Microsoft Live Identity verwenden, um Benutzern zu ermöglichen, ihre Facebook-Anmeldungen zu verwenden, um Apps auf Ihrer Site zu interagieren.
+Sie können Livefyre Identity mit Microsoft Live Identity verwenden, um Benutzern zu ermöglichen, ihre Facebook-Anmeldungen für die Interaktion mit Apps auf Ihrer Site zu verwenden.
 
 Damit Benutzer sich mit ihren Microsoft Live-Identitätsberechtigungen anmelden können, benötigt Livefyre die folgenden Microsoft Live-Identitätsinformationen:
 
