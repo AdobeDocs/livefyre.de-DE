@@ -1,18 +1,14 @@
 ---
 description: Versionshinweise für die Livefyre-Version vom 14. März 2019.
-seo-description: Versionshinweise für die Livefyre-Version vom 14. März 2019.
-seo-title: Versionshinweise
-solution: Experience Manager
 title: Livefyre-Versionshinweise für den 14. März 2019
-uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
+exl-id: 16400d16-681f-47eb-9c6e-23ddf09752c6
 translation-type: tm+mt
-source-git-commit: 9246343b64915af07feb8952060c1e3af5aada56
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 9%
+source-wordcount: '156'
+ht-degree: 8%
 
 ---
-
 
 # Versionshinweise - 14. März 2019
 
@@ -22,14 +18,14 @@ ht-degree: 9%
 
 ## Verbesserungen
 
-* Implementierte Unterstützung für Aktionsaufruf und Commerce (Produkte) mit nativen Instagram-Einbettungen.
-* Um die durch Instagram vorgenommenen Veraltungen zu beheben, wurden Inhaltsdetails für Anwendungen geändert, um Instagram Native-Einbettung zu rendern.
+* Implementierung der Unterstützung für Aktionsaufruf und Commerce (Produkte) mit nativen Instagram-Betten.
+* Um die von Instagram vorgenommenen Veraltungen zu beheben, wurden die Inhaltsdetails für Anwendungen geändert, um Instagram-native Einbettungen zu erstellen.
 
 
 ## Fehlerkorrekturen
 
 * Es wurde ein Problem behoben, bei dem Konten für die Anforderung von deaktivierten Twitter-Rechten im erweiterten Modus ausgewählt werden konnten.
 * Es wurde ein Problem behoben, bei dem unter bestimmten Umständen ein nicht definiertes HTML-Tag in Media Wall vorlag.
-* Es wurde ein Problem behoben, bei dem in der Social-Suche von Instagram die Meldung &quot;Video/Bild nicht gefunden&quot;falsch angezeigt wurde.
+* Es wurde ein Problem behoben, bei dem in der Instagram-Social-Suche unter bestimmten Umständen die Meldung &quot;Video/Bild nicht gefunden&quot;falsch angezeigt wurde.
 * Es wurde ein Problem behoben, bei dem Instagram- und Facebook-Alben in Media Walls und Mosaics mehrmals dasselbe Bild anzeigten.
 Es wurde ein Problem behoben, bei dem nicht vorhandene Konten in der Dropdown-Liste &quot;Rights Request&quot;angezeigt wurden.
