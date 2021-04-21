@@ -1,18 +1,14 @@
 ---
 description: Versionshinweise für die Version vom 26. April 2018.
-seo-description: Versionshinweise für die Version vom 26. April 2018.
-seo-title: 26. April 2018
-solution: Experience Manager
 title: 26. April 2018
-uuid: a84ebe5c-40d5-43b5-a300-3e041ab22046
+exl-id: af0ee64d-d60c-4b21-a628-08848313781c
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '366'
 ht-degree: 4%
 
 ---
-
 
 # 26. April 2018{#april}
 
@@ -38,7 +34,7 @@ Die Probleme in den folgenden Tabellen wurden in dieser Version behoben.
 | **Art des Problems** | **Komponente** | **Versionshinweise** |
 |---|---|---|
 | Fehler | Rights Management | Es wurde ein Problem behoben, bei dem Berechtigungsanforderungen für Assets nach dem Auffinden in einer Social-Suche nicht funktionierten. |
-| Verbesserung | Streams | Der Streaming-Mechanismus wurde aktualisiert, mit dem Inhalte von Facebook gestreamt werden können, um einer von Facebook erstellten Back-End-Änderung zu entsprechen. |
+| Verbesserung | Streams | Der Streaming-Mechanismus wurde aktualisiert, mit dem Inhalte von Facebook gestreamt werden können, um eine von Facebook erstellte Back-End-Änderung zu erfüllen. |
 | Fehler | UGC Commerce | Es wurde ein Problem behoben, bei dem die CTA-Schaltfläche &quot;Shop&quot;nicht in einer Mosaic- oder Filmstreifen-App oder einem Produktmodal angezeigt wurde, wenn der Mauszeiger über eine Karte mit einem Produkt bewegt wurde, wenn die CTA-Schaltfläche aktiviert ist. |
 | Verbesserung | UGC Commerce | Es wurde ein Problem behoben, bei dem das UGC Commerce-Flag standardmäßig auf &quot;Aus&quot;anstatt auf &quot;Ein&quot;gesetzt wurde. |
 
@@ -48,4 +44,3 @@ Die Probleme in den folgenden Tabellen wurden in dieser Version behoben.
 |---|---|---|
 | Fehler | Bibliothek/Suche | Es wurde ein Problem behoben, durch das Videos nicht ordnungsgemäß hochgeladen wurden. |
 | Verbesserung | Studio | Es wurde die Möglichkeit hinzugefügt, vorgeschlagene Wörter bei der Eingabe von Tag-Namen anzuzeigen. |
-
