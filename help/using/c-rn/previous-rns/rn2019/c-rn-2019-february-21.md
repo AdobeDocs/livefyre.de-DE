@@ -1,18 +1,14 @@
 ---
 description: Versionshinweise für die Livefyre-Version vom 21. Februar 2019.
-seo-description: Versionshinweise für die Livefyre-Version vom 21. Februar 2019.
-seo-title: Versionshinweise
-solution: Experience Manager
 title: Versionshinweise
-uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
+exl-id: 5012483b-7c17-4505-b934-1c500761bc91
 translation-type: tm+mt
-source-git-commit: 4051e0d55c7fa1cf02d8b01c239d040c0a3baf14
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 77%
+source-wordcount: '94'
+ht-degree: 82%
 
 ---
-
 
 # Versionshinweise - 21. Februar 2019 {#rn022119}
 
