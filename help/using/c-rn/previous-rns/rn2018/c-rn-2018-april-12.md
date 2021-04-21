@@ -1,18 +1,14 @@
 ---
 description: Versionshinweise für die Version vom 12. April 2018.
-seo-description: Versionshinweise für die Version vom 12. April 2018.
-seo-title: 12. April 2018
-solution: Experience Manager
 title: 12. April 2018
-uuid: f6c3f1f1-d716-4da3-9ba9-3f3623d8d9f5
+exl-id: caa7a8e9-0648-4d5b-8623-390c904cf750
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: '534'
 ht-degree: 5%
 
 ---
-
 
 # 12. April 2018{#april}
 
@@ -40,9 +36,9 @@ Die Probleme in den folgenden Tabellen wurden in dieser Version behoben.
 | Fehler | Filmstreifen | Es wurde ein Problem im Filmstreifen behoben, bei dem auf die Schaltfläche &quot;Weiter&quot;geklickt werden konnte, obwohl keine Inhalte mehr geladen werden konnten. |
 | Fehler | Filmstreifen | Es wurde ein Problem behoben, bei dem Tweets ohne Bilder nicht in der Standard-Ansicht des Filmstreifens angezeigt wurden. |
 | Verbesserung | Filmstreifen | Einige Probleme wurden behoben, um den Zugriff auf den Filmstreifen zu erleichtern. |
-| Verbesserung | Bibliothek, Apps | Es wurde ein Problem behoben, bei dem Videos aus Instagram, die älter als drei Monate waren, in der Bibliothek und in Apps nicht korrekt dargestellt wurden. |
+| Verbesserung | Bibliothek, Apps | Es wurde ein Problem behoben, bei dem Videos aus Instagram, die älter als drei Monate waren, in der Bibliothek und den Apps nicht korrekt dargestellt wurden. |
 | Verbesserung | Medienwall | Die Barrierefreiheit von Media Wall wurde wie folgt verbessert: <br>Das Öffnen und Schließen von Modellen über Tastaturbefehle verschiebt den Fokus nicht mehr nach oben. <br> Der Fokus bleibt stattdessen auf das Element, das zuletzt vor dem modalen Popup fokussiert wurde.  <br>Schaltfläche &quot;Mehr laden&quot;kann mit der Tabulatortaste geöffnet und über die Eingabetaste ausgelöst werden. |
-| Verbesserung | Medienwall | Es wurde ein Problem behoben, bei dem Sie durch Klicken auf ein Twitter-, Instagram- oder Facebook-Symbol zur Homepage gelangen, in Bildschirmlesehilfen jedoch fälschlicherweise angegeben wurden, dass das Symbol Sie zu einem einzelnen Beitrag führt. Dieser Fehler wurde behoben, um zu erkennen, dass das Symbol Sie zur Homepage führt, nicht zum Beitrag. |
+| Verbesserung | Medienwall | Es wurde ein Problem behoben, bei dem Sie durch Klicken auf ein Symbol für Twitter, Instagram oder Facebook zur Homepage gelangen, in Bildschirmlesehilfen jedoch fälschlicherweise angegeben wurden, dass Sie mit dem Symbol zum jeweiligen Beitrag gelangen. Dieser Fehler wurde behoben, um zu erkennen, dass das Symbol Sie zur Homepage führt, nicht zum Beitrag. |
 | Fehler | Mosaik | Es wurde ein Problem behoben, bei dem eine Mosaic-App nicht die richtige Farbe aus dem App-Designer anzeigte. |
 | Fehler | Rights Management | Es wurde ein Problem behoben, bei dem Berechtigungsanforderungen für Assets nach dem Auffinden in einer Social-Suche nicht funktionierten. |
 | Verbesserung | Sir | Es wurde ein Problem mit der Barrierefreiheit in der Siegels-App behoben, bei dem die Rolle der Schaltfläche für Bildschirmlesehilfen nicht eindeutig dargestellt wurde. |
@@ -59,4 +55,3 @@ Die Probleme in den folgenden Tabellen wurden in dieser Version behoben.
 |---|---|---|
 | Verbesserung | UGC | Es wurde ein Problem behoben, bei dem das UGC Commerce-Flag standardmäßig auf &quot;Aus&quot;anstatt auf &quot;Ein&quot;gesetzt wurde. |
 | Verbesserung | Streams |  |
-
