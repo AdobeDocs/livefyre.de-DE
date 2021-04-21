@@ -1,18 +1,14 @@
 ---
 description: Versionshinweise für die Version vom 6. September 2018.
-seo-description: Versionshinweise für die Version vom 6. September 2018.
-seo-title: 6. September 2018
-solution: Experience Manager
 title: 6. September 2018
-uuid: 8dbe8be0-cc3c-4d96-af56-1808d8555af3
+exl-id: 61a4b43e-d40f-41bf-b9cc-0303b0232c6b
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '427'
 ht-degree: 4%
 
 ---
-
 
 # 6. September 2018{#september}
 
@@ -49,8 +45,8 @@ Die Probleme in den folgenden Tabellen wurden in der Produktionsversion dieser V
 | **Art des Problems** | **Komponente** | **Versionshinweise** |
 |---|---|---|
 | Fehler | Kommentare | Es wurde ein Problem behoben, bei dem Audiodateien in der Kommentaranwendung nicht ordnungsgemäß abgespielt wurden. |
-| Fehler | Bibliothek | Es wurde ein Problem behoben, bei dem beim Durchsuchen von Instagram mithilfe der URL-Suche der Bibliothek eine Schaltfläche zum Abspielen über der Miniaturansicht angezeigt wurde, wenn auf der Karte ein Bild und kein Video angezeigt wurde. |
-| Fehler | Bibliothek | Es wurde ein Problem behoben, bei dem beim Veröffentlichen von Inhalten in einer App, die bei der Durchführung einer Instagram-URL-Suche gewonnen wurden, keine Miniaturansicht angezeigt wurde. |
+| Fehler | Bibliothek | Es wurde ein Problem behoben, bei dem beim Durchsuchen von Instagram mit der Bibliotheks-URL-Suche eine Wiedergabeschaltfläche über der Miniaturansicht angezeigt wurde, wenn auf der Karte ein Bild und kein Video angezeigt wurde. |
+| Fehler | Bibliothek | Es wurde ein Problem behoben, bei dem beim Veröffentlichen von Inhalten in einer App, die durch die Durchführung einer Instagram-URL-Suche gewonnen wurden, keine Miniaturansicht angezeigt wurde. |
 | Fehler | Bibliothek | Es wurde ein Problem behoben, durch das nach dem Hinzufügen eines Produkts zu einem Asset, dem Öffnen der Details für dieses Asset und dem anschließenden Klicken auf die Registerkarte &quot;Konversion&quot;die Produkte für dieses Asset nicht angezeigt wurden. |
 
 ## UAT-Version {#section_EE91B0C9313E45C5B4CBD59CFBCCFCFE}
@@ -60,4 +56,3 @@ Die Probleme in den folgenden Tabellen wurden in der UAT-Version dieser Version 
 | **Art des Problems** | **Komponente** | **Versionshinweise** |
 |---|---|---|
 | Fehler | Soziale Komponente: Medien-Upload | Es wurde ein Problem behoben, bei dem Benutzer Medien nicht wie erwartet in den Filmstreifen hochladen konnten. |
-
