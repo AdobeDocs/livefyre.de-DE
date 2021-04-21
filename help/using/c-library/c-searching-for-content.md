@@ -1,18 +1,14 @@
 ---
 description: Suchen Sie nach Inhalt nach URL, der in Ihrer Asset-Bibliothek gespeichert werden soll.
-seo-description: Suchen Sie nach Inhalt nach URL, der in Ihrer Asset-Bibliothek gespeichert werden soll.
-seo-title: Suche nach URL
-solution: Experience Manager
 title: Suche nach URL
-uuid: 45be6a85-e615-46c6-9601-82df02839315
+exl-id: 24744ab8-6077-4595-a46d-7496ee0ca0b5
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
-
 
 # Suche nach URL{#search-by-url}
 
@@ -24,5 +20,4 @@ Die zurückgegebenen Informationen zeigen eine Kartenzusammenfassung der Seite, 
 
 >[!NOTE]
 >
->Bei Instagram-Suchvorgängen mit dem Feld &quot;URL&quot;wird der Autor als &quot;Instagram&quot;zurückgegeben.
-
+>Bei Instagram-Suchvorgängen mit dem URL-Feld wird der Autor als &quot;Instagram&quot;zurückgegeben.
