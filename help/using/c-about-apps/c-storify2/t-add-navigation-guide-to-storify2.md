@@ -1,18 +1,14 @@
 ---
 description: hinzufügen Sie einen Navigationshandbuch zu Ihrer Storify 2-Anwendung, um eine Liste mit permalinierten Beiträgen an einer prominenten Stelle neben Ihrer Geschichte zu erstellen.
-seo-description: hinzufügen Sie einen Navigationshandbuch zu Ihrer Storify 2-Anwendung, um eine Liste mit permalinierten Beiträgen an einer prominenten Stelle neben Ihrer Geschichte zu erstellen.
-seo-title: Navigationshandbuch zu Storify 2 Hinzufügen
-solution: Experience Manager
 title: Navigationshandbuch zu Storify 2 Hinzufügen
-uuid: 2db131b2-54b8-4409-a947-b86169656cad
+exl-id: 183a5035-4603-4c9d-a883-95966550accb
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
-
 
 # hinzufügen eines Navigationshandbuchs zu einem Storify 2{#add-a-navigation-guide-to-a-storify}
 
