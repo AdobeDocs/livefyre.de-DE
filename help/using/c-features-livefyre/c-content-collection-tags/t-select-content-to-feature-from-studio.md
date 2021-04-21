@@ -1,18 +1,14 @@
 ---
 description: Sie können Inhalte aus Studio anstelle einer App auswählen.
-seo-description: Sie können Inhalte aus Studio anstelle einer App auswählen.
-seo-title: Wählen Sie Inhalt aus Studio
-solution: Experience Manager
 title: Wählen Sie Inhalt aus Studio
-uuid: 50cb620c-ef45-4ccb-829f-f5b2e3c521dd
+exl-id: b17e3c4f-6ec6-4c9b-9db0-5169cdb0ffaa
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
-
 
 # Wählen Sie Inhalt aus Studio{#select-content-to-feature-from-studio}
 
