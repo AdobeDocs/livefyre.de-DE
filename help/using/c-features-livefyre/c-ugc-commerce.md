@@ -1,14 +1,10 @@
 ---
-description: Stellen Sie produktspezifische UGC an bestimmten Punkten der Customer Journey bereit, um die Kaufabsicht und die Konversion mithilfe der UGC Commerce-Funktion zu erhöhen.
-seo-description: Stellen Sie produktspezifische UGC an bestimmten Punkten der Customer Journey bereit, um die Kaufabsicht und die Konversion mithilfe der UGC Commerce-Funktion zu erhöhen.
-seo-title: UGC Commerce
-solution: Experience Manager
+description: Stellen Sie produktspezifische UGC an bestimmten Stellen der Journey bereit, um die Kaufabsicht und die Konversion mithilfe der UGC Commerce-Funktion zu erhöhen.
 title: UGC Commerce
-uuid: 71e64901-a2b6-4957-ba88-058e4eaca537
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '877'
+source-wordcount: '854'
 ht-degree: 2%
 
 ---
@@ -16,7 +12,7 @@ ht-degree: 2%
 
 # UGC Commerce{#ugc-commerce}
 
-Stellen Sie produktspezifische UGC an bestimmten Punkten der Customer Journey bereit, um die Kaufabsicht und die Konversion mithilfe der UGC Commerce-Funktion zu erhöhen.
+Stellen Sie produktspezifische UGC an bestimmten Stellen der Journey bereit, um die Kaufabsicht und die Konversion mithilfe der UGC Commerce-Funktion zu erhöhen.
 
 Verwenden Sie die UGC Commerce-Funktion, um die Kaufabsicht und Konversion auf Seiten mit UGC- und Produktdetails zu beeinflussen. Verkürzung der Time-to-Market durch nahtlose Verknüpfung von UGC mit dem Produktbestand. Steigern Sie die Markenloyalität, indem Sie mithilfe von UGC Community erstellen, um authentische Kundengeschichten hervorzuheben.
 
