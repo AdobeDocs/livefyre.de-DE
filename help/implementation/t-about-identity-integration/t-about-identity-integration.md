@@ -1,18 +1,14 @@
 ---
 description: Beschreibt Optionen zum Hinzufügen der Benutzerauthentifizierung zu Livefyre-Apps, einschließlich Janrain Capture oder Ihrem eigenen Identitätsdienst.
-seo-description: Beschreibt Optionen zum Hinzufügen der Benutzerauthentifizierung zu Livefyre-Apps, einschließlich Janrain Capture oder Ihrem eigenen Identitätsdienst.
-seo-title: Identitätsintegration
-solution: Experience Manager
 title: Identitätsintegration
-uuid: 079dc9c7-656a-49d0-920d-9e5a421a319c
+exl-id: a3b849fc-0182-4fed-94b5-6d7199fc4e44
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
-
 
 # Identitätsintegration{#identity-integration}
 
