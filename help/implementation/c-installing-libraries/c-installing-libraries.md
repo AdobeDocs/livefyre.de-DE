@@ -1,18 +1,14 @@
 ---
 description: Bibliotheken für serverseitige Livefyre-Aufgaben installieren
-seo-description: Bibliotheken für serverseitige Livefyre-Aufgaben installieren
-seo-title: Installation
-solution: Experience Manager
 title: Installation
-uuid: f60b4cc7-178f-4a16-ba75-f1d0d171c52f
+exl-id: d74f85be-14c0-4f6d-8f16-b688282c0eb0
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '309'
 ht-degree: 1%
 
 ---
-
 
 # Installation{#installation}
 
