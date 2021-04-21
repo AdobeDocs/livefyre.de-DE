@@ -1,18 +1,14 @@
 ---
 description: Erfahren Sie mehr über die Lebenszykluskonventionen und die Organisation von Inhalten in Livefyre.
-seo-description: Erfahren Sie mehr über die Lebenszykluskonventionen und die Organisation von Inhalten in Livefyre.
-seo-title: Architektur
-solution: Experience Manager
 title: Architektur
-uuid: 94358e6c-954a-4a52-9bb2-d800b2933130
+exl-id: d4fe12d1-117a-4aae-90ff-e9ebdd6c5bac
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
-
 
 # Architektur{#architecture}
 
@@ -60,4 +56,4 @@ Unabhängig davon, ob Sie benutzerdefinierte Funktionen mit Livefyre-bereitgeste
 
    Laden Sie Ihre Seite mit neuem Inhalt neu und wiederholen Sie den Vorgang unbegrenzt.
 
-1. Wenn Sie Benutzern erlauben, neue Inhalte zu posten, lösen Sie ein Ereignis aus, wenn neue Inhalte auf Ihrer Site veröffentlicht werden, um die Inhalte an Livefyre zu veröffentlichen. Livefyre gibt einen aktualisierten Stream zurück, den Sie zur Aktualisierung Ihrer Site verwenden können.
+1. Wenn Sie es Benutzern erlauben, neue Inhalte zu veröffentlichen, Trigger ein Ereignis, wenn neue Inhalte auf Ihrer Site veröffentlicht werden, um die Inhalte an Livefyre zu veröffentlichen. Livefyre gibt einen aktualisierten Stream zurück, den Sie zur Aktualisierung Ihrer Site verwenden können.
