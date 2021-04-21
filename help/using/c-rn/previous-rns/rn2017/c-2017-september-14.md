@@ -1,17 +1,14 @@
 ---
 description: Versionshinweise für die Version vom 14. September 2017.
-seo-description: Versionshinweise für die Version vom 14. September 2017.
-seo-title: 14. September 2017
 title: 14. September 2017
-uuid: 6d802e5c-b029-40ad-ada6-dc380f1bcfd5
+exl-id: 5667629a-1b65-454b-953c-2119d3d093db
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '114'
 ht-degree: 7%
 
 ---
-
 
 # 14. September 2017{#september}
 
@@ -29,4 +26,3 @@ Versionshinweise für die Version vom 14. September 2017.
 | **Art des Problems** | **Komponente** | **Versionshinweise** |
 |---|---|---|
 | Fehler | Mosaik | Produktionsfehler, durch den Mosaic graue Boxen in IE11 in UGC anzeigen konnte. Wir haben das repariert. -SP |
-
