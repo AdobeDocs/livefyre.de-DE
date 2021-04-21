@@ -1,17 +1,14 @@
 ---
 description: Wenn Sie UGC nach Produkt-ID filtern, können Sie die gleiche App auf mehreren Seiten einbetten und dabei für jede Seite eine andere produktspezifische UGC anzeigen.
-seo-description: Wenn Sie UGC nach Produkt-ID filtern, können Sie die gleiche App auf mehreren Seiten einbetten und dabei für jede Seite eine andere produktspezifische UGC anzeigen.
-seo-title: UGC nach Produkt-ID filtern
 title: UGC nach Produkt-ID filtern
-uuid: 98108ddb-5710-4331-891b-7e1bbb106059
+exl-id: c98ee899-fcac-45dd-a26a-f678814776fd
 translation-type: tm+mt
-source-git-commit: 76efa427b59a709009a3c2d3744ea65e0c959816
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
-
 
 # UGC nach Produkt-ID {#filter-ugc-product-id} filtern
 
