@@ -1,18 +1,14 @@
 ---
 description: Ändern Sie Größe, Breite und Interaktionsoptionen der Mosaic-App.
-seo-description: Ändern Sie Größe, Breite und Interaktionsoptionen der Mosaic-App.
-seo-title: Mosaikanpassungen
-solution: Experience Manager
 title: Mosaikanpassungen
-uuid: 4e226d68-f517-4922-bc25-655d524d7d52
+exl-id: 0223a64c-ec33-4e01-85d7-11845c9b8476
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '575'
 ht-degree: 0%
 
 ---
-
 
 # Mosaic-Anpassungen{#mosaic-customizations}
 
