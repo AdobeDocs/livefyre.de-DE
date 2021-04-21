@@ -1,18 +1,14 @@
 ---
 description: Informiert Livefyre, Benutzerinformationen von einer zuvor festgelegten URL für die Benutzersynchronisierung abzurufen. Gibt einen booleschen Wert zurück.
-seo-description: Informiert Livefyre, Benutzerinformationen von einer zuvor festgelegten URL für die Benutzersynchronisierung abzurufen. Gibt einen booleschen Wert zurück.
-seo-title: syncUser-Netzwerkmethode
-solution: Experience Manager
 title: syncUser-Netzwerkmethode
-uuid: 2affb03d-3907-4b01-9a64-02ba1b06da14
+exl-id: a21ff487-2ab1-4788-b455-84941f03a98f
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 4%
+source-wordcount: '84'
+ht-degree: 5%
 
 ---
-
 
 # syncUser Network Method{#syncuser-network-method}
 
