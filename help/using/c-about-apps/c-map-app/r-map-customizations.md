@@ -1,18 +1,14 @@
 ---
 description: Ändern Sie Größe, Breite und Interaktionsoptionen der Map-App.
-seo-description: Ändern Sie Größe, Breite und Interaktionsoptionen der Map-App.
-seo-title: Kartenanpassungen
-solution: Experience Manager
 title: Kartenanpassungen
-uuid: 3a3bffde-5d1b-41da-9aa8-d25b43d0df76
+exl-id: 71d3bb65-cd10-48c6-bf6b-8442b0fdb891
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
-
 
 # Map-Anpassungen{#map-customizations}
 
@@ -59,4 +55,3 @@ Sie können die Map-App wie folgt anpassen:
 * **[!UICONTROL Style]** und  **[!UICONTROL Config]** Optionen für alle Apps im  **[!UICONTROL App Designer]**. Weitere Informationen zu den Standardoptionen **[!UICONTROL Style]** und **[!UICONTROL Config]** für alle Apps in **[!UICONTROL App Designer]** finden Sie unter Anpassen von Apps.
 
 * Integrationstools. Weitere Informationen zum Anpassen von Apps mit Integrationstools finden Sie unter Map.
-
