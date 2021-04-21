@@ -1,18 +1,14 @@
 ---
 description: Ändern Sie Größe, Breite und Interaktionsoptionen der Umfrage-App.
-seo-description: Ändern Sie Größe, Breite und Interaktionsoptionen der Umfrage-App.
-seo-title: Umfrageanpassung
-solution: Experience Manager
 title: Umfrageanpassung
-uuid: 788a4fa7-aafb-4508-b9c0-cd54e4cd9b86
+exl-id: f82dce69-8ad0-48bd-a293-e5501374d5d6
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 0%
+source-wordcount: '199'
+ht-degree: 1%
 
 ---
-
 
 # Umfragen Anpassungen{#polls-customizations}
 
@@ -61,4 +57,3 @@ Sie können Umfragen wie folgt anpassen:
 * **[!UICONTROL Style]** und  **[!UICONTROL Config]** Optionen für alle Apps im  **[!UICONTROL App Designer]**. Weitere Informationen zu den Standardoptionen **[!UICONTROL Style]** und **[!UICONTROL Config]** für alle Apps in **[!UICONTROL App Designer]** finden Sie unter Anpassen von Apps.
 
 * Integrationstools. Weitere Informationen zum Anpassen von Apps mit Integrationstools finden Sie unter Umfragen.
-
