@@ -1,17 +1,14 @@
 ---
 description: Versionshinweise für die Version vom 12. Januar 2017.
-seo-description: Versionshinweise für die Version vom 12. Januar 2017.
-seo-title: 12. Januar 2017
 title: 12. Januar 2017
-uuid: fb92ea52-7184-4f08-814c-15e45d684371
+exl-id: a1578c9d-5ec0-4694-96b0-4952a02d8c58
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '433'
-ht-degree: 8%
+source-wordcount: '427'
+ht-degree: 7%
 
 ---
-
 
 # 12. Januar 2017{#january}
 
@@ -28,7 +25,7 @@ Versionshinweise für die Version vom 12. Januar 2017.
 | Verbesserung | Livefyre-Identität | Verbesserte Livefyre-Identität, um den Standards für Barrierefreiheit zu entsprechen, indem Bildschirmlesehilfen besser unterstützt werden und sichergestellt wird, dass alle interaktiven Elemente mit der reinen Navigation über die Tastatur erreicht werden können. |
 | Fehler | Umfragen | Verbesserte Umfragen zum Scharfzeichnen und Verbessern der Bildqualität beim Hochladen in Designer. |
 | Fehler | Reviews | Es wurde ein Fehler behoben, der verhinderte, dass Rating-Bearbeitungen korrekt angezeigt wurden. |
-| Verbesserung | Berechtigungsanfragen | Es wurde eine Verbesserung hinzugefügt, um die Verwendung von bit.ly-Links in den Kontoeinstellungen von Instagram Rights zu verhindern, damit Anforderungen nicht als Spam gekennzeichnet werden. |
+| Verbesserung | Berechtigungsanfragen | Es wurde eine Verbesserung hinzugefügt, um die Verwendung von bit.ly-Links in den Instagram Rights Account-Einstellungen zu verhindern, damit Anforderungen nicht als Spam gekennzeichnet werden. |
 | Fehler | Berechtigungsanfragen | Es wurde ein Fehler behoben, durch den das Berechtigungsmodal nach dem Senden einer Anforderung für ein Asset in der Bibliothek nicht geschlossen werden konnte. |
 | Fehler | SAFE | Es wurde ein Fehler behoben, der dazu führte, dass benutzerspezifische Profanity-Listen nicht zuverlässig aktualisiert werden konnten. |
 | Fehler | Einstellungen | Es wurde ein Fehler behoben, durch den Profil Pull-URLs nicht in den Studio-Einstellungen gespeichert werden konnten. |
@@ -46,6 +43,5 @@ Versionshinweise für die Version vom 12. Januar 2017.
 |--- |--- |--- |
 | Verbesserung | Kommentare, Attribute | Die Standardkommentare und Sidebar-Avatare und -Schaltflächen weisen jetzt einen höheren Farbkontrast auf, um die Barrierefreiheitsstandards zu erfüllen. |
 | Verbesserung | Livefyre-Identität | Verbesserte Livefyre-Identität, um die Tastaturnavigation zu unterstützen und die Barrierefreiheitsstandards zu erfüllen. |
-| Fehler | Streams | Verbesserte Facebook-Seitenregeln, um hochqualitative Facebook-Bilder zu erfassen, bei denen zuvor nur die Miniaturbilder aufgenommen wurden. |
+| Fehler | Streams | Die Facebook-Seitenregeln wurden verbessert, um Facebook-Bilder mit hoher Qualität zu erfassen, bei denen zuvor nur die Miniaturbilder aufgenommen wurden. |
 | Fehler | Studio | Die Asset-Suche in der Bibliothek wurde erweitert, um japanische Zeichen zu unterstützen. |
-
