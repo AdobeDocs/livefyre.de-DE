@@ -1,17 +1,14 @@
 ---
 description: Versionshinweise für die Version vom 30. März 2017.
-seo-description: Versionshinweise für die Version vom 30. März 2017.
-seo-title: 30. März 2017
 title: 30. März 2017
-uuid: 2adf04a9-6c52-4fa1-a0c9-b2d3886305e9
+exl-id: 44c73ff9-8bc1-49c9-b720-aff425e5cd28
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '426'
-ht-degree: 7%
+source-wordcount: '419'
+ht-degree: 6%
 
 ---
-
 
 # 30. März 2017{#march}
 
@@ -22,11 +19,11 @@ Versionshinweise für die Version vom 30. März 2017.
 | Art des Problems | Komponente | Versionshinweise |
 |---|---|---|
 | Fehler | Social-Suche | Es wurde ein Fehler behoben, durch den in Social Search gespeicherte YouTube-Assets nicht veröffentlicht werden konnten. |
-| Verbesserung | Social-Synchronisierung | Veraltete Twitter Social-Synchronisierung. |
-| Verbesserung | Storify 2 | Es wurde eine Verbesserung hinzugefügt, um die Meldung &quot;Keine Ergebnisse gefunden&quot;bei der Suche nach Facebook-Themen anzuzeigen, wenn keine Ergebnisse gefunden wurden. |
+| Verbesserung | Social-Synchronisierung | Die Twitter Social-Synchronisierung wurde eingestellt. |
+| Verbesserung | Storify 2 | Es wurde eine Verbesserung hinzugefügt, um die Meldung &quot;Keine Ergebnisse gefunden&quot;bei der Facebook-Themensuche anzuzeigen, wenn keine Ergebnisse gefunden wurden. |
 | Verbesserung | Streams | Zusammenfassungsregeln für SAFE-Regeln wurden am Ende einer Twitter-Stream-Seite hinzugefügt. |
-| Fehler | Streams | Es wurde eine Verbesserung hinzugefügt, um das Kontrollkästchen &quot;verifizierter Benutzer&quot;in Twitter-Stream-Regeln sichtbar zu deaktivieren, wenn ausgeschlossene Autoren bereitgestellt werden. |
-| Fehler | Streams | Es wurde ein Fehler behoben, durch den die Verwendung von UNDing-Suchbegriffen und ein Standortfilter in einer Twitter-Regel zugelassen wurden. |
+| Fehler | Streams | Es wurde eine Verbesserung zur sichtbaren Deaktivierung des Kontrollkästchens &quot;Geprüfter Benutzer&quot;in den Twitter-Stream-Regeln hinzugefügt, wenn ausgeschlossene Autoren bereitgestellt werden. |
+| Fehler | Streams | Es wurde ein Fehler behoben, durch den die Verwendung von ANDing-Suchbegriffen und ein Standortfilter in einer Twitter-Regel zugelassen werden konnte. |
 | Fehler | Studio | Es wurde ein Fehler behoben, der verhinderte, dass das &quot;Feature-Tag&quot; bei Anwendung korrekt gespeichert wurde. |
 
 ## UAT-Version
@@ -46,4 +43,3 @@ Versionshinweise für die Version vom 30. März 2017.
 | Verbesserung | Streams | Die Standardeinstellung neu erstellter Stream-Regeln wurde dahingehend geändert, dass SAFE-Regeln angewendet werden, wenn zutreffend. |
 | Verbesserung | Streams (früher &quot;Kuratieren von Regeln&quot;) | Die Option &quot;Nur Reben&quot;wurde aus den Twitter-Stream-/Kuratierungsregeln entfernt, da Reben jetzt als Twitter-Videos angezeigt werden. |
 | Fehler | Studio-Shell | Es wurde ein Fehler behoben, durch den Livefyre Studio geladen wird, wenn https:// explizit der URL vorangestellt wurde. |
-
