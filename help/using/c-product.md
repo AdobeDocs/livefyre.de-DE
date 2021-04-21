@@ -1,18 +1,14 @@
 ---
 description: Die führende Plattform für soziale Tiefe mit den Tools, die Sie benötigen, um Audiencen mit den Stimmen zu verbinden, denen sie am meisten vertrauen.
-seo-description: Die führende Plattform für soziale Tiefe mit den Tools, die Sie benötigen, um Audiencen mit den Stimmen zu verbinden, denen sie am meisten vertrauen.
-seo-title: Über Livefyre
-solution: Experience Manager
 title: Über Livefyre
-uuid: b864afe0-9ccb-4607-b735-69ce42cd8199
+exl-id: 37aa41c5-6fa7-4a0d-8f8e-4210ca8ade0c
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
-
 
 # Über Livefyre{#about-livefyre}
 
@@ -31,4 +27,3 @@ Mit Livefyre Studio haben Sie folgende Möglichkeiten:
 * [Moderieren von Inhalten zur Gewährleistung der Inhaltsqualität](c-features-livefyre/c-about-moderation/c-setting-up-moderation.md#c_setting_up_moderation)
 * [Förderung von Verkäufen und weiteren Aktionen von Site-Besuchern über Aktionsaufrufe in Inhaltskomponenten](c-features-livefyre/c-ugc-commerce.md#c_ugc_commerce)
 * [Verwalten von Benutzern, Rollen und Berechtigungen](c-about-apps/c-about-apps.md#c_about_apps)
-
