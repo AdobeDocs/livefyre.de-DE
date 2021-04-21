@@ -1,18 +1,14 @@
 ---
 description: Sie können Stream-Regeln erstellen, die Inhalte von Tumblr abrufen.
-seo-description: Sie können Stream-Regeln erstellen, die Inhalte von Tumblr abrufen.
-seo-title: Tumblr-Regeln
-solution: Experience Manager
 title: Tumblr-Regeln
-uuid: fe9601ab-aa5e-48c6-a5bf-5543c179cb90
+exl-id: 5d49b266-6d1f-4ec2-8891-5e98fcab14a2
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
-
 
 # Tumblr Rules{#tumblr-rules}
 
