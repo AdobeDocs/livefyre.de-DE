@@ -1,17 +1,14 @@
 ---
 description: Versionshinweise für die Version vom 2. November 2017.
-seo-description: Versionshinweise für die Version vom 2. November 2017.
-seo-title: 2. November 2017
 title: 2. November 2017
-uuid: 496fdc55-3386-48f2-a491-26dc2bc8aa72
+exl-id: bfc8fd65-550b-477e-be96-aa310bc64ea0
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '314'
 ht-degree: 7%
 
 ---
-
 
 # 2. November 2017{#november}
 
@@ -35,7 +32,6 @@ Versionshinweise für die Version vom 2. November 2017.
 | Verbesserung | Funktionskarte | Für die Feature Card App sind alle Commerce-Funktionen aktiviert. |
 | Verbesserung | Filmstreifen | Es wurden Größenanpassungsoptionen für den Filmstreifen hinzugefügt, damit der Benutzer mehr Kontrolle darüber haben kann, wie die Bilder in der App aussehen. |
 | Verbesserung | Bibliothek | Wenn ein Kunde ein Asset in der Bibliothek speichert, verwendet Livefyre die Adobe Sensei-Technologie für maschinelles Lernen, um Tags hinzuzufügen, die beschreiben, was sich automatisch im Bild des Assets befindet. Dadurch kann der Benutzer im System nach diesen Tags suchen. SP |
-| Verbesserung | Rights Management | Bei Anfragen mit offenen Rechten mit Instagram-Inhalten, die später als gelöscht oder als privat gekennzeichnet werden, wird im Berechtigungsstatus der Eintrag &quot;Abgelaufen&quot;und ein Eintrag im Aktivitäten-Verlauf angezeigt, der besagt, dass der Inhalt jetzt privat/gelöscht ist. |
+| Verbesserung | Rights Management | Bei Anfragen zu offenen Rechten mit Instagram-Inhalten, die später als gelöscht oder als privat gekennzeichnet werden, wird im Berechtigungsstatus der Eintrag &quot;Abgelaufen&quot;und ein Eintrag im Aktivitäten-Verlauf angezeigt, der besagt, dass der Inhalt jetzt privat/gelöscht ist. |
 | Verbesserung | Einstellungen | Die Kunden können nun unsere Datenschutzrichtlinien und die Servicebestimmungen der Adobe in einer Fußzeile in den Einstellungen aufrufen. |
 | Fehler | Studio | Livefyre kann jetzt Twitter-Assets mit 280 Zeichen in Studio und Apps vollständig rendern. |
-
