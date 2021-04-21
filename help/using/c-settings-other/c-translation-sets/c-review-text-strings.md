@@ -1,18 +1,14 @@
 ---
 description: Anpassen der Textzeichenfolgen für Livefyre-Reviews.
-seo-description: Anpassen der Textzeichenfolgen für Livefyre-Reviews.
-seo-title: Textzeichenfolgen überprüfen
-solution: Experience Manager
 title: Textzeichenfolgen überprüfen
-uuid: 86251e49-bc73-4eec-9f9b-b4b0a5b42099
+exl-id: 82ced091-d573-4514-9b91-3451a94ed5d3
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '710'
-ht-degree: 4%
+source-wordcount: '700'
+ht-degree: 5%
 
 ---
-
 
 # Überprüfen von Textzeichenfolgen{#review-text-strings}
 
@@ -163,4 +159,3 @@ Für allgemeine Fehlermeldungen verfügbare Zeichenfolgen.
 |  | errorShowMore | Beim Laden weiterer Überprüfungen ist ein Fehler aufgetreten. |
 |  | errorTitleMaxChars | Tut mir leid, dein Titel ist zu lang. Bearbeiten Sie die Datei und versuchen Sie es erneut. |
 |  | errorVoteOwnComment | Sie können nicht über Ihre eigene Überprüfung abstimmen |
-
