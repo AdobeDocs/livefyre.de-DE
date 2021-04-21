@@ -1,18 +1,14 @@
 ---
 description: Versionshinweise für die Version vom 15. Februar 2018.
-seo-description: Versionshinweise für die Version vom 15. Februar 2018.
-seo-title: 15. Februar 2018
-solution: Experience Manager
 title: 15. Februar 2018
-uuid: ee46f088-9fb7-49e2-a42c-e0d4b2f24a32
+exl-id: 7276de37-c8cd-4e85-bc92-90c272e5bf94
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '294'
 ht-degree: 5%
 
 ---
-
 
 # Donnerstag, 15. Februar 2018{#february}
 
@@ -54,4 +50,3 @@ Die Probleme in den folgenden Tabellen wurden in dieser Version behoben.
 | Verbesserung | Apps | Es wurde die Möglichkeit hinzugefügt, Apps aus Livefyre zu löschen. |
 | Fehler | Umfragen | Umfragen wurden geändert, um ausschließlich HTTPS zu verwenden. Bisher waren Umfragen weiterhin für HTTP zulässig. |
 | Fehler | UGC | Es wurde ein Problem behoben, bei dem UGC in einer Visualisierungs-App nicht erwartungsgemäß nach Produkt-ID gefiltert hat. |
-
