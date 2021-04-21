@@ -1,26 +1,22 @@
 ---
 description: Sie können Stream-Regeln erstellen, die Inhalte von Facebook-Seiten abrufen.
-seo-description: Sie können Stream-Regeln erstellen, die Inhalte von Facebook-Seiten abrufen.
-seo-title: Facebook-Seitenregeln
-solution: Experience Manager
 title: Facebook-Seitenregeln
-uuid: 2be63476-1a92-409d-a22f-e1ec66b6dcc8
+exl-id: 1dc728c6-81fa-4c6c-acba-d9a4aea71ed2
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '274'
 ht-degree: 1%
 
 ---
-
 
 # Facebook-Seitenregeln{#facebook-page-rules}
 
 Sie können Stream-Regeln erstellen, die Inhalte von Facebook-Seiten abrufen.
 
-Sie können Facebook-Seitenregeln verwenden, um öffentlich veröffentlichte Inhalte von Facebook-Seiten zu streamen. Der Inhalt wird in der gleichen Häufigkeit wie SocialSync in die App oder den Ordner gezogen, was sich je nach Traffic-Mustern auf der Facebook-Seite und im Post-Traffic ändert. Links innerhalb von Facebook-Seiten werden ebenfalls unterstützt und im Stream angezeigt.
+Sie können Facebook-Seitenregeln verwenden, um öffentlich veröffentlichte Inhalte von Facebook-Seiten zu streamen. Der Inhalt wird in der gleichen Häufigkeit wie SocialSync in die App oder den Ordner gezogen, was sich je nach Facebook-Seiten- und Post-Traffic-Mustern ändert. Links innerhalb von Facebook-Seiten werden ebenfalls unterstützt und im Stream angezeigt.
 
-Um Facebook-Seitenregeln zu erstellen, mit denen Sie Inhalte aus Facebook-Seiten in Ihre App oder Ihren Ordner ziehen können, können Sie nach Folgendem filtern:
+Um Facebook-Seitenregeln zu erstellen, mit denen Inhalte von Facebook-Seiten in Ihre App oder Ihren Ordner gezogen werden, können Sie nach Folgendem filtern:
 
 * **[!UICONTROL Facebook Page]**
 
@@ -33,13 +29,13 @@ Weitere Stream-Regeloptionen für alle Stream-Regeln finden Sie unter [Stream-Re
 
 >[!NOTE]
 >
->Livefyre ist auf Inhalte beschränkt, die von Facebook empfangen werden, und kann daher nicht garantieren, dass jeder Beitrag auf einer Facebook-Seite in Ihren Stream aufgenommen wird.
+>Livefyre ist auf Inhalte beschränkt, die von Facebook empfangen werden, und kann daher nicht garantieren, dass jeder Beitrag auf einer Facebook-Seite in Ihren Stream eingeschlossen wird.
 
 >[!NOTE]
 >
->Wenn Facebook SocialSync und eine Facebook-Seitenregel für eine bestimmte Facebook-Seite aktiviert sind und Benutzerkommentare für die Facebook-Seitenregel aktiviert sind, setzt die Stream-Regel SocialSync außer Kraft. Inhalte werden nur basierend auf der Facebook-Seitenkuratierungsregel in die App gestreamt, nicht jedoch mit SocialSync.
+>Wenn Facebook SocialSync und eine Facebook-Seitenregel für eine bestimmte Facebook-Seite aktiviert sind und Benutzerkommentare für die Facebook-Seitenregel aktiviert sind, setzt die Stream-Regel SocialSync außer Kraft. Inhalte werden nur auf Grundlage der Facebook-Seitenkuratierungsregel in die App gestreamt, nicht jedoch mit SocialSync.
 
-Folgende Inhaltstypen werden von Facebook-Seitenkurate unterstützt:
+Folgende Inhaltstypen werden von der Facebook-Seitenkurate unterstützt:
 
 * Seiteninhaber oder Administrator
 
@@ -47,7 +43,7 @@ Folgende Inhaltstypen werden von Facebook-Seitenkurate unterstützt:
    * Fotos
    * Videos als Links
 
-* Standard-Facebook-Benutzer
+* Facebook Standard-Benutzer
 
    * Status
    * Fotos
@@ -56,4 +52,3 @@ Folgende Inhaltstypen werden von Facebook-Seitenkurate unterstützt:
 * Dritte
 
    * Status
-
