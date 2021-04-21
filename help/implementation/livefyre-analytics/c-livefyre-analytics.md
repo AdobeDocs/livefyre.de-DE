@@ -1,18 +1,14 @@
 ---
-description: 'null '
-seo-description: 'null '
-seo-title: Verwenden von Livefyre mit anderen Analysetools
-solution: Experience Manager
 title: Verwenden von Livefyre mit anderen Analysetools
-uuid: 26c835f6-aced-41f7-aabe-418afce8a829
+description: Verwenden von Livefyre mit anderen Analysetools
+exl-id: da29e281-5095-4e99-a248-19390f2059a2
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
-
 
 # Verwenden Sie Livefyre mit dem anderen Analysetool{#use-livefyre-with-other-analytics-tool}
 
@@ -61,4 +57,3 @@ Sobald die Livefyre.analytics-Funktion auf der Seite verfügbar ist, implementie
 1. Der Analytics-Handler empfängt ein Array von Ereignissen, die einzeln oder als Batch durchlaufen und gesendet werden müssen, wenn der Anbieter dies unterstützt.
 1. Ordnen Sie die vom Handler empfangenen Ereignis-Daten einem Format zu, das vom Analytics-Anbieter benötigt wird.
 1. Senden Sie die Daten an Ihren Analytics-Anbieter.
-
