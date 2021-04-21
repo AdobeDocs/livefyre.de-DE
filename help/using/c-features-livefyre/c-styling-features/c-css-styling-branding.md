@@ -1,17 +1,14 @@
 ---
 description: Verwenden Sie CSS, um Elemente einer Livefyre-App zu gestalten und an Ihre Marke anzupassen.
-seo-description: Verwenden Sie CSS, um Elemente einer Livefyre-App zu gestalten und an Ihre Marke anzupassen.
-seo-title: CSS-Stil und Branding
 title: CSS-Stil und Branding
-uuid: 729a2780-f757-4c54-b446-ff832cecf620
+exl-id: 908c31a3-dc91-42a0-baf4-89237e9f1c7d
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '260'
 ht-degree: 2%
 
 ---
-
 
 # CSS-Stil und -Branding{#css-styling-and-branding}
 
@@ -42,4 +39,3 @@ Apps, die diese Funktion verwenden:
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [Trends](/help/using/c-about-apps/c-trending-app/c-trending-app.md#c_trending_app)
 * [Hochladen-Schaltfläche](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
-
