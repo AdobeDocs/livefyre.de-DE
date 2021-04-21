@@ -1,34 +1,30 @@
 ---
-description: Geben Sie Ihre Inhalte oder Inhalte von einem anderen Benutzer auf Facebook, Twitter oder LinkedIn frei.
-seo-description: Geben Sie Ihre Inhalte oder Inhalte von einem anderen Benutzer auf Facebook, Twitter oder LinkedIn frei.
-seo-title: Social Sharing
-solution: Experience Manager
+description: Geben Sie Ihre Inhalte oder Inhalte von einem anderen Benutzer an Facebook, Twitter oder LinkedIn frei.
 title: Social Sharing
-uuid: 3fd8a628-2414-45b5-b91c-2ad33aad2634
+exl-id: 3950fd0c-a121-450a-b9f2-07a0737c2d9b
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '638'
+source-wordcount: '623'
 ht-degree: 1%
 
 ---
 
-
 # Social Sharing{#social-sharing}
 
-Geben Sie Ihre Inhalte oder Inhalte von einem anderen Benutzer auf Facebook, Twitter oder LinkedIn frei.
+Geben Sie Ihre Inhalte oder Inhalte von einem anderen Benutzer an Facebook, Twitter oder LinkedIn frei.
 
-Social Sharing ermöglicht Ihrer Community, ihre Gedanken aus Ihrer App an Freunde in sozialen Netzwerken, einschließlich Facebook, Twitter und LinkedIn, weiterzugeben und Inhalte anderer Benutzer für Facebook und Twitter freizugeben. Wenn Sie Social Sharing aktivieren, kann Ihre Community die beste Antwort auf Ihren Inhalt verbreiten und mehr Traffic zu Ihrer Site bringen.
+Social Sharing ermöglicht es Ihrer Community, ihre Gedanken von Ihrer App an Freunde in sozialen Netzwerken wie Facebook, Twitter und LinkedIn weiterzugeben und Inhalte anderer Benutzer für Facebook und Twitter freizugeben. Wenn Sie Social Sharing aktivieren, kann Ihre Community die beste Antwort auf Ihren Inhalt verbreiten und mehr Traffic zu Ihrer Site bringen.
 
 ## Freigeben von Inhalten in sozialen Netzwerken {#section_t1q_mz2_wy}
 
-Sie können Ihr Netzwerk so konfigurieren, dass Benutzer Inhalte bei der Veröffentlichung in Ihren Livefyre-Apps an Twitter, Facebook oder LinkedIn weitergeben können. Die Standard-Livefyre **[!UICONTROL Share Modal]** enthält Links zu allen drei Sites. Sie können dieses Modal mit der API &quot;Posten an&quot;anpassen, um die Livefyre-Standardeinstellung zu überschreiben und Ihre eigenen zu implementieren. Weitere Informationen finden Sie unter Erweiterte Themen > Aktivieren der Weitergabe in sozialen Netzwerken.
+Sie können Ihr Netzwerk so konfigurieren, dass Benutzer Inhalte in Ihren Livefyre-Apps an Twitter, Facebook oder LinkedIn freigeben können. Die Standard-Livefyre **[!UICONTROL Share Modal]** enthält Links zu allen drei Sites. Sie können dieses Modal mit der API &quot;Posten an&quot;anpassen, um die Livefyre-Standardeinstellung zu überschreiben und Ihre eigenen zu implementieren. Weitere Informationen finden Sie unter Erweiterte Themen > Aktivieren der Weitergabe in sozialen Netzwerken.
 
-Wenn Benutzer auf **[!UICONTROL Share]** klicken, um ihren Kommentar in sozialen Netzwerken (Facebook, Twitter oder LinkedIn) zu veröffentlichen, werden sie aufgefordert, sich über die Social-App anzumelden. (Die Liste der verfügbaren Freigabeoptionen kann angepasst werden. Standardmäßig werden die Kontrollkästchen für Facebook- und Twitter-Freigabe in allen Apps angezeigt.) Bei benutzerdefinierten Netzwerken sollten die Social-Apps so konfiguriert sein, dass sie Ihre Social-Apps sind. Fügen Sie während des Integrationsprozesses Ihre App-Anmeldeinformationen über die Seite &quot;Integrationseinstellungen&quot;in Studio hinzu.
+Wenn Benutzer auf **[!UICONTROL Share]** klicken, um ihren Kommentar in sozialen Netzwerken (Facebook, Twitter oder LinkedIn) zu veröffentlichen, werden sie aufgefordert, sich über die Social-App anzumelden. (Die Liste der verfügbaren Freigabeoptionen kann angepasst werden. Standardmäßig werden in allen Apps die Kontrollkästchen für die Freigabe von Facebook und Twitter angezeigt.) Bei benutzerdefinierten Netzwerken sollten die Social-Apps so konfiguriert sein, dass sie Ihre Social-Apps sind. Fügen Sie während des Integrationsprozesses Ihre App-Anmeldeinformationen über die Seite &quot;Integrationseinstellungen&quot;in Studio hinzu.
 
 >[!NOTE]
 >
->LinkedIn ist standardmäßig in Livefyre-Community-Kommentaren enthalten. Benutzerdefinierte Netzwerke müssen beim Einbetten der App den &quot;li&quot;-Wert übergeben, um die Schaltfläche &quot;LinkedIn&quot;in der Kommentarsymbolleiste zu aktivieren. (Weitere Informationen finden Sie unter Social Sharing aktivieren in den Entwicklerdokumenten.)
+>linkedIn ist standardmäßig in Livefyre Community Comments enthalten. Benutzerdefinierte Netzwerke müssen beim Einbetten der App den &quot;li&quot;-Wert übergeben, um die Schaltfläche &quot;LinkedIn&quot;in der Kommentarsymbolleiste zu aktivieren. (Weitere Informationen finden Sie unter Social Sharing aktivieren in den Entwicklerdokumenten.)
 
 ## Freigeben von Inhalten anderer Benutzer in sozialen Netzwerken {#section_blw_vy2_wy}
 
@@ -37,7 +33,7 @@ Wenn Sie auf **[!UICONTROL Share]** in einem Beitrag eines anderen Benutzers kli
 Durch Klicken auf **[!UICONTROL Share]** für einen Beitrag:
 
 * Benutzer können über die Twitter- oder Facebook-Symbole eine Verbindung zu ihren sozialen Netzwerken herstellen.
-* Nachdem Sie die Seite autorisiert haben, in den sozialen Netzwerken des Benutzers zu posten, werden die Twitter- oder Facebook-Schaltflächen angezeigt, um dem Benutzer mitzuteilen, dass er aktiv ist.
+* Nachdem Sie die Seite autorisiert haben, Beiträge in den sozialen Netzwerken des Benutzers zu veröffentlichen, werden die Schaltflächen &quot;Twitter&quot;oder &quot;Facebook&quot;angezeigt, um dem Benutzer mitzuteilen, dass er aktiv ist.
 * Benutzer können den Inhalt im Feld &quot;Beitrag freigeben&quot;personalisieren.
 * Wenn Sie auf **[!UICONTROL Share]** klicken, werden Inhalte an die aktiven sozialen Netzwerke des Benutzers gesendet. Dazu wird ein Link hinzugefügt, über den andere Personen zu dem Beitrag gelangen, den der Benutzer freigeben möchte.
 * Benutzer können auch einen Link zu einem bestimmten Kommentar freigeben, indem sie den Permalink in eine E-Mail, einen Blog-Beitrag oder ein soziales Netzwerk einfügen.
@@ -51,7 +47,7 @@ Durch Klicken auf **[!UICONTROL Share]** in einem Beitrag eines anderen Benutzer
 Durch Klicken auf **[!UICONTROL Share]** für einen Beitrag:
 
 * Benutzer können über die Twitter- oder Facebook-Symbole eine Verbindung zu ihren sozialen Netzwerken herstellen.
-* Nachdem Sie die Seite autorisiert haben, in den sozialen Netzwerken des Benutzers zu posten, werden die Twitter- oder Facebook-Schaltflächen angezeigt, um dem Benutzer mitzuteilen, dass er aktiv ist.
+* Nachdem Sie die Seite autorisiert haben, Beiträge in den sozialen Netzwerken des Benutzers zu veröffentlichen, werden die Schaltflächen &quot;Twitter&quot;oder &quot;Facebook&quot;angezeigt, um dem Benutzer mitzuteilen, dass er aktiv ist.
 * Benutzer können den Inhalt im Feld &quot;Beitrag freigeben&quot;personalisieren.
 * Wenn Sie auf **[!UICONTROL Share]** klicken, werden Inhalte an die aktiven sozialen Netzwerke des Benutzers gesendet. Dazu wird ein Link hinzugefügt, über den andere Personen zu dem Beitrag gelangen, den der Benutzer freigeben möchte.
 * Benutzer können auch einen Link zu einem bestimmten Kommentar freigeben, indem sie den Permalink in eine E-Mail, einen Blog-Beitrag oder ein soziales Netzwerk einfügen.
@@ -76,4 +72,3 @@ Apps, die diese Funktion verwenden:
 * [Sir](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [Trends](/help/using/c-about-apps/c-trending-app/c-trending-app.md#c_trending_app)
-
