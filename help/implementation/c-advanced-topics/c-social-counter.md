@@ -1,18 +1,14 @@
 ---
 description: Zählen Sie die Anzahl der kuratierten sozialen Elemente.
-seo-description: Zählen Sie die Anzahl der kuratierten sozialen Elemente.
-seo-title: Social-Zähler
-solution: Experience Manager
 title: Social-Zähler
-uuid: fa9aa1a8-6a04-4bc1-9bfe-e42c1250fd48
+exl-id: def7fba4-1c2e-4c7b-84f7-f9ede592d675
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '233'
 ht-degree: 10%
 
 ---
-
 
 # Social-Zähler{#social-counter}
 
@@ -37,7 +33,7 @@ GET https://{networkName}.bootstrap.fyre.co/api/v3.0/stats.collections.curate/{q
 ```
 
 * **networkName:** Ihr Livefyre-Netzwerkname. Beispiel: *labs* in `labs.fyre.co`.
-* **abfrage:** Der url-sichere base64-kodierte Hash aller Seiten, Artikel-ID- und Regeltypen, für die Zählungsinformationen abgerufen werden sollen (vorkodiert)
+* **Abfrage:** Der url-sichere base64-kodierte Hash aller Seiten, Artikel-ID- und Regeltypen, für die Zählungsinformationen abgerufen werden sollen (vorkodiert)
 
    ```
    {site ID}:{article ID};{rule-type},  {article ID};{rule-type}|{site ID}:{article ID};{rule-type}
