@@ -1,18 +1,14 @@
 ---
 description: Jeder Benutzer, der beim Authentifizierungssystem Ihrer Site angemeldet ist, kann mithilfe dieses Verfahrens eine Überprüfung veröffentlichen.
-seo-description: Jeder Benutzer, der beim Authentifizierungssystem Ihrer Site angemeldet ist, kann mithilfe dieses Verfahrens eine Überprüfung veröffentlichen.
-seo-title: Review posten
-solution: Experience Manager
 title: Review posten
-uuid: b5744b06-9e6b-425b-9a49-a919d32dfe1d
+exl-id: b1edf142-8cb7-4bc6-974b-a749cb631709
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
-
 
 # Posten eines Reviews{#post-a-review}
 
