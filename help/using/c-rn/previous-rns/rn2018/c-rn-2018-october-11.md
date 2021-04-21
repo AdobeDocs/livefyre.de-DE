@@ -1,18 +1,14 @@
 ---
 description: Versionshinweise für die Version vom 11. Oktober 2018.
-seo-description: Versionshinweise für die Version vom 11. Oktober 2018.
-seo-title: 11. Oktober 2018
-solution: Experience Manager
 title: 11. Oktober 2018
-uuid: 8f08b2d1-295f-4b6a-82ef-74d21f15f784
+exl-id: f7f2ef09-78c2-4939-94c2-6c187c0c7092
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '206'
 ht-degree: 9%
 
 ---
-
 
 # Dienstag, 11. Oktober 2018{#october}
 
@@ -45,4 +41,3 @@ Die Probleme in den folgenden Tabellen wurden in der UAT-Version dieser Version 
 | **Art des Problems** | **Komponente** | **Versionshinweise** |
 |---|---|---|
 | Fehler | AEM | Es wurde ein Problem behoben, bei dem Tweets, die über Livefyre in AEM Assets importiert wurden, beschädigte Links aufwiesen. |
-
