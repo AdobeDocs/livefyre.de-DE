@@ -1,18 +1,14 @@
 ---
 description: Analysieren Sie die Aktivität von Benutzern, Inhalten und Moderatoren für Ihre Site.
-seo-description: Analysieren Sie die Aktivität von Benutzern, Inhalten und Moderatoren für Ihre Site.
-seo-title: Analytics
-solution: Experience Manager
 title: Analytics
-uuid: b022aa77-59b9-422a-8d9f-fb9d8a1b0478
+exl-id: dc0545ec-2294-44ab-87c4-67eb30c3f787
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '720'
 ht-degree: 1%
 
 ---
-
 
 # Analytics{#analytics}
 
@@ -114,4 +110,3 @@ Das Moderation Dashboard Listen Ereignis nach Moderator, sodass Sie ihre Aktivit
 Das Dashboard &quot;Benutzer&quot;zeigt die Site-Aktivität nach Benutzer an, sodass Sie analysieren können, wie einzelne Benutzer mit Ihrer Site interagieren. Verwenden Sie dieses Dashboard, um Ihre aktivsten Benutzer auf Ihrer Site zu finden und die beliebtesten Site-Aktivitäten zu bewerten.
 
 ![](assets/analytics-users.png)
-
