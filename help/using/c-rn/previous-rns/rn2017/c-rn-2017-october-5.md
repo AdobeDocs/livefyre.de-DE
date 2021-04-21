@@ -1,17 +1,14 @@
 ---
 description: Versionshinweise für die Version vom 5. Oktober 2017.
-seo-description: Versionshinweise für die Version vom 5. Oktober 2017.
-seo-title: 5. Oktober 2017
 title: 5. Oktober 2017
-uuid: 62e9e4ee-1644-4d22-9589-2e208a68aaeb
+exl-id: 6e39a86e-82dd-47ff-ad68-2b483f8b1921
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '516'
+source-wordcount: '509'
 ht-degree: 4%
 
 ---
-
 
 # 5. Oktober 2017{#october}
 
@@ -41,4 +38,3 @@ Versionshinweise für die Version vom 5. Oktober 2017.
 | Verbesserung | UGC Commerce | Kunden können nun einen Google-Produktkatalog manuell in das Livefyre-Studio hochladen, indem sie einen JSON-Dateiexport verwenden. Dadurch kann der Kunde UGC mit Produkten aus diesem Katalog verbinden und sie in unseren Commerce-fähigen Apps visualisieren. |
 | Verbesserung | UGC Commerce | Kunden können auswählen, welche Produktordner beim Filtern ihrer E-Commerce-App nach Produkt-ID verwendet werden sollen. Zum Beispiel möchte ich, dass mein neuer Filmstreifen auf den Produktseiten für Damen- und Damenschuhe erscheint. Daher werde ich nur die Produktordner &quot;Damenschuhe-Sammlung&quot;und &quot;Damenbeutel&quot;auswählen. |
 | Verbesserung | UGC Commerce | Livefyre-Kunden können nun die in ihren Apps veröffentlichten UGC nur dann filtern, wenn ihnen Rechte gewährt wurden. Beispielsweise kann ein Kunde eine Auswahl von Elementen kuratieren und veröffentlichen, aber diese Elemente werden nur dann in der App wiedergegeben, wenn der Autor ihnen Rechte erteilt hat. Dies ist besonders wichtig für E-Commerce-Nutzungsszenarien, in denen der UGC für kommerzielle Zwecke verwendet wird. |
-
