@@ -1,18 +1,14 @@
 ---
 description: In diesem Abschnitt wird beschrieben, wie Sie das UserAuth JSON-Objekt generieren, das das Benutzerauthentifizierungstoken erstellt, das zum Anmelden von Benutzern in Ihren Apps erforderlich ist.
-seo-description: In diesem Abschnitt wird beschrieben, wie Sie das UserAuth JSON-Objekt generieren, das das Benutzerauthentifizierungstoken erstellt, das zum Anmelden von Benutzern in Ihren Apps erforderlich ist.
-seo-title: Auth-Token des Benutzers
-solution: Experience Manager
 title: Auth-Token des Benutzers
-uuid: 6483debd-453c-4780-b19c-1d8041693617
+exl-id: 564144dd-6db4-447b-80ac-b743ecac833d
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '237'
 ht-degree: 2%
 
 ---
-
 
 # Benutzerautom.-Token{#user-auth-token}
 
@@ -64,4 +60,3 @@ network.build_user_auth_token(userId, displayName, expires)
 >[!NOTE]
 >
 >Netzwerkschlüssel werden für Livefyre-Demosite-Konten nicht freigegeben. Sie erhalten einen Netzwerkschlüssel, sobald Livefyre eine Umgebung für Sie bereitgestellt hat. Dieser Schlüssel sollte privat aufbewahrt werden.
-
