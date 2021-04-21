@@ -1,18 +1,14 @@
 ---
 description: Die verfügbaren Ereignisse, an die Sie JavaScript für Visualisierungs-Apps binden können (z. B. Media Wall).
-seo-description: Die verfügbaren Ereignisse, an die Sie JavaScript für Visualisierungs-Apps binden können (z. B. Media Wall).
-seo-title: JavaScript-Ereignisse für Visualisierungs-Apps
-solution: Experience Manager
 title: JavaScript-Ereignisse für Visualisierungs-Apps
-uuid: 0797c384-7e8e-44fc-9738-a10a48d490cc
+exl-id: 93406d36-881d-4f35-a9a6-b42805f47c85
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '533'
 ht-degree: 74%
 
 ---
-
 
 # JavaScript-Ereignis für Visualisierungs-Apps{#javascript-events-for-visualization-apps}
 
@@ -30,13 +26,13 @@ Die folgende Tabelle zeigt die App-Ereignis für Visualisierungs-Apps. Ein X bed
 | Posten |  | Keine | Keine | Keine | Keine |  | Keine |
 | Gepostet |  | Keine | Keine | Keine | Keine |  | Keine |
 | Twitter-Antwort | X | X |  | X | X | nicht angegeben | X |
-| Twitter wie | X | X |  | X | X | nicht angegeben | X |
+| Twitter like | X | X |  | X | X | nicht angegeben | X |
 | LF like | X |  | Keine | Keine | Keine | Keine | Keine |
 | LF Anders | X |  | Keine | Keine | Keine | Keine | Keine |
 | Auf Beitrag teilen | Keine |  | Keine | Keine | Keine | Keine | Keine |
 | Schaltfläche &quot;Freigeben&quot; | X | X |  | X | X | nicht angegeben | X |
-| Twitter teilen | X | X |  | X | X | nicht angegeben | X |
-| Facebook teilen | X | X |  | X | X | nicht angegeben | X |
+| Twitter freigeben | X | X |  | X | X | nicht angegeben | X |
+| Facebook freigeben | X | X |  | X | X | nicht angegeben | X |
 | URL freigeben | X | X |  | X | X | nicht angegeben | X |
 | ExpandReplies | Keine | Keine | Keine | Keine | Keine | Keine | Keine |
 | Antworten reduzieren | Keine | Keine | Keine | Keine | Keine | Keine | Keine |
@@ -47,7 +43,7 @@ Die folgende Tabelle zeigt die App-Ereignis für Visualisierungs-Apps. Ein X bed
 | Nicht | Keine | Keine | Keine | Keine | Keine | Keine | Keine |
 | RequestMore | X | Keine | Keine | Keine | Keine | Keine | Keine |
 | ModalView | X | X |  | X | X | nicht angegeben | X |
-| Twitter-Retweet | X |  |  | X | X | nicht angegeben | X |
+| Twitter Retweet | X |  |  | X | X | nicht angegeben | X |
 | Klicken auf die Schaltfläche Beitrag | X | Keine | Keine | Keine | Keine | X | nicht angegeben |
 | Anzahl der Kommentare aktualisiert | Keine |  | Keine | Keine | Keine | Keine | Keine |
 | Benutzer angemeldet |  |  | Keine | Keine | Keine |  | Keine |
