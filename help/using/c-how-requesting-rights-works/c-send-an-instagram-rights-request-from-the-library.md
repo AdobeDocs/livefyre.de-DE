@@ -1,29 +1,25 @@
 ---
-description: Sie können das Recht anfordern, ein Instagram-Asset, das Sie über eine Suche oder einen Stream nach Autor (Geschäftskonto) erhalten haben, wiederzuverwenden, indem Sie einen teilweise automatisierten Workflow verwenden.
-seo-description: Sie können das Recht anfordern, ein Instagram-Asset, das Sie über eine Suche oder einen Stream nach Autor (Geschäftskonto) erhalten haben, wiederzuverwenden, indem Sie einen teilweise automatisierten Workflow verwenden.
-seo-title: Teilweise automatisierte Instagram-Rechteanforderung senden
-solution: Experience Manager
-title: Teilweise automatisierte Instagram-Rechteanforderung senden
-uuid: 18cf88ab-af0d-4a40-93d2-adfbdbdd21d5
+description: Sie können das Recht anfordern, ein Instagram-Asset, das Sie aus einer Suche oder einem Stream nach Autor (Geschäftskonto) erhalten haben, wiederzuverwenden, indem Sie einen teilweise automatisierten Arbeitsablauf verwenden.
+title: Teilweise automatisierte Instagram-Rights-Anforderung senden
+exl-id: 2747784e-689a-4683-867d-0883b281d47b
 translation-type: tm+mt
-source-git-commit: e60a58bf949e6e4f6f4f8d2fad1bd8985a593677
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
 
+# Teilweise automatisierte Instagram-Rights-Anfragen senden{#send-a-partially-automated-instagram-rights-request}
 
-# Teilweise automatisierte Instagram-Rechteanforderung senden{#send-a-partially-automated-instagram-rights-request}
-
-Sie können das Recht anfordern, ein Instagram-Asset, das Sie über eine Suche oder einen Stream nach Autor (Geschäftskonto) erhalten haben, wiederzuverwenden, indem Sie einen teilweise automatisierten Workflow verwenden.
+Sie können das Recht anfordern, ein Instagram-Asset, das Sie aus einer Suche oder einem Stream nach Autor (Geschäftskonto) erhalten haben, wiederzuverwenden, indem Sie einen teilweise automatisierten Arbeitsablauf verwenden.
 
 Bevor Sie eine teilweise automatisierte Berechtigungsanfrage senden können, müssen Sie Folgendes tun:
 
-* hinzufügen eines Instagram-Geschäftskontos. Weitere Informationen zum Konfigurieren eines Instagram-Geschäftskontos finden Sie unter [Info zu Instagram-Konten](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts).
+* hinzufügen eines Instagram-Geschäftskontos. Weitere Informationen zum Konfigurieren eines Instagram-Geschäftskontos finden Sie unter [Informationen zu Instagram-Konten](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts).
 * Richten Sie Rights Management ein. Weitere Informationen zum Einrichten der Rights Management finden Sie unter [Anfordern von Rechten](../c-how-requesting-rights-works/c-how-requesting-rights-works.md#c_how_requesting_rights_works).
 
-So fordern Sie mithilfe eines teilweise automatisierten Workflows Rechte von Instagram für eine Suche oder einen Stream nach Geschäftskontoautor an:
+So fordern Sie von Instagram Rechte für eine Suche oder einen Stream nach Geschäftskontoautor mithilfe eines teilweise automatisierten Workflows an:
 
 1. Öffnen Sie das Fenster **[!UICONTROL Rights options]**.
 1. Wählen Sie das Konto aus, das zum Anfordern von Rechten verwendet werden soll. Das Konto muss ein Instagram-Geschäftskonto sein.
