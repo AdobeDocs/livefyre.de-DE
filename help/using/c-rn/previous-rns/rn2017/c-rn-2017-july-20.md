@@ -1,17 +1,14 @@
 ---
 description: Versionshinweise für die Version vom 20. Juli 2017.
-seo-description: Versionshinweise für die Version vom 20. Juli 2017.
-seo-title: 20. Juli 2017
 title: 20. Juli 2017
-uuid: 550815a9-a6e2-4e98-b5d6-7f4897373716
+exl-id: 1bf17703-0913-41f0-a897-ba8323992f71
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '354'
 ht-degree: 7%
 
 ---
-
 
 # 20. Juli 2017{#july}
 
@@ -43,8 +40,7 @@ In den folgenden Tabellen sind die Produktions- und UAT-Versionshinweise für di
 
 | **Art des Problems** | **Komponente** | **Versionshinweise** |
 |---|---|---|
-| Fehler | Karussell | Es wurde ein Fehler behoben, der dazu führte, dass Instagram-Karussell-Beiträge ohne Beschriftungen in Studio gezogen wurden. |
-| Verbesserung | Storify 2 | Die Suchoption &quot;Facebook-Kommentare nach ID&quot;in der Suche nach Storify Search wurde entfernt, da Facebook die Funktion nicht mehr unterstützt. |
+| Fehler | Karussell | Es wurde ein Fehler behoben, der dazu führte, dass Instagram Karussell-Beiträge ohne Beschriftungen in Studio gezogen wurden. |
+| Verbesserung | Storify 2 | Die Suchoption &quot;Facebook Comments by ID&quot;in der Storify Search wurde entfernt, da Facebook die Funktion nicht mehr unterstützt. |
 | Fehler | Storify 2 | Verbesserte Stabilität beim Abrufen von Facebook-Kommentaren nach URL-Ergebnissen in Storify 2. |
 | Fehler | Streams | Es wurde ein Fehler behoben, durch den Textpillen in den Textfeldern zur Stream-Regelkonfiguration beim Klicken entfernt wurden. |
-
