@@ -1,18 +1,14 @@
 ---
 description: Erstellen Sie eine Medienwall mit Content-Streaming in Echtzeit.
-seo-description: Erstellen Sie eine Medienwall mit Content-Streaming in Echtzeit.
-seo-title: Medienwall
-solution: Experience Manager
 title: Medienwall
-uuid: c6087c80-a35b-44d2-9dd4-ba9cd471172d
+exl-id: 597af7e1-9ada-4893-9071-e17c21ef0d04
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '753'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
-
 
 # Medienwall{#media-wall}
 
@@ -61,7 +57,7 @@ Du hast jetzt eine Mauer! Sehen Sie dies alles in Aktion in [diesem Beispiel](ht
 
 >[!NOTE]
 >
->Jede Stilanpassung von Tweets, die von Ihrer Media Wall App gerendert werden, muss gemäß den [Anzeigeanforderungen](https://dev.twitter.com/terms/display-requirements) von Twitter erfolgen.
+>Die Anpassung der Formatierung von Tweets, die von Ihrer Media Wall App gerendert werden, muss gemäß den Twitter-Anforderungen [Display Requirements](https://dev.twitter.com/terms/display-requirements) erfolgen.
 
 ## Konfigurationsoptionen {#section_ucv_qvb_c1b}
 
