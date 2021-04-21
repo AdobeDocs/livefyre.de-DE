@@ -1,18 +1,14 @@
 ---
 description: 'Erfahren Sie alles über die Filmstreifen-App mit unserem vollständigen Leitfaden. Die Visualisierungs-App zeigt Ihre Bilder in einem Streifen mit Retro-Kamerafilm an. Übergeordnet es mit unseren Tipps. '
-seo-description: Der Filmstreifen ist eine Visualisierungs-App, die benutzergenerierte Inhalte in einem dynamischen, horizontalen Fotostreifen darstellt, ähnlich wie ein Filmstreifen einer Kamera.
-seo-title: Filmstreifen
-solution: Experience Manager
 title: Handbuch zur Filmstreifen-App
-uuid: 2e3cb6f4-15db-4509-8a5b-a651511cdbd6
+exl-id: a96e5de0-bebb-42ee-ae10-813ad8b9e960
 translation-type: tm+mt
-source-git-commit: 2584041dd080c08ee769bd897e55157ec05ce8b6
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '821'
+source-wordcount: '794'
 ht-degree: 1%
 
 ---
-
 
 # Filmstreifen{#filmstrip}
 
