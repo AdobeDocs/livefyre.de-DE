@@ -1,26 +1,25 @@
 ---
-description: hinzufügen Sie Livefyre auf Ihre native iOS-App.
+description: Fügen Sie Livefyre zu Ihrer nativen iOS App hinzu.
 title: Livefyre iOS SDK
 exl-id: 961c41dc-fee8-480c-a189-a20a689e705f
-translation-type: tm+mt
-source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
+source-git-commit: 3091db9d7b9611e26ad65c1432856c9465694e92
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
 
 # Livefyre iOS SDK{#livefyre-ios-sdk}
 
-hinzufügen Sie Livefyre auf Ihre native iOS-App.
+Fügen Sie Livefyre zu Ihrer nativen iOS App hinzu.
 
 Verwenden Sie diese Open-Source-Bibliothek, um Livefyre-Dienste in Ihre native iOS-App zu integrieren. Das Livefyre StreamHub iOS SDK bietet eine dünne Schicht um unsere gemeinsamen API-Mechanismen, basierend auf der hervorragenden AFNetworking-Bibliothek.
 
-Livefyre bietet außerdem zwei iOS-Beispielanwendungen, die auf diesem SDK basieren: einen Kommentar-Stream und eine Reviews-Beispielanwendung.
+Livefyre bietet außerdem zwei iOS-Beispiel-Apps, die auf diesem SDK basieren: einen Kommentar-Stream und eine Beispiel-App &quot;Bewertungen&quot;.
 
-## Integrieren des SDK in Ihr Projekt als Cocoa Pod (empfohlen) {#section_qc5_h3v_zz}
+## Integrieren des SDK in Ihr Projekt als Kakao-Pod (empfohlen) {#section_qc5_h3v_zz}
 
-Die einfachste Möglichkeit, StreamHub-iOS SDK zu Ihrem Projekt hinzuzufügen, ist die Verwendung von CocoaPods. Wenn Sie nicht über CocoaPods verfügen, führen Sie Edelstein-Installations-Cocoapods und Pod-Setup aus. Hier ein Beispiel für eine Poddatei:
+Die einfachste Möglichkeit, StreamHub-iOS SDK zu Ihrem Projekt hinzuzufügen, besteht in der Verwendung von CocoaPods. Wenn Sie nicht über CocoaPods verfügen, führen Sie die Einrichtung von Edelstein-Installations-Cocoapods und -Pods durch. Im Folgenden finden Sie ein Beispiel für eine Podfile:
 
 ```
 source 'https://github.com/Livefyre/cocoapods.git' 
@@ -31,13 +30,13 @@ platform :ios, :deployment_target => '6.0'
 pod 'StreamHub-iOS-SDK', '~> 0.3.0'
 ```
 
-Sie müssen Ihrer CocoaPod-Installation auch ein SPECS-Repository hinzufügen (dies klont es in den Ordner `~/.cocoapods/repos`):
+Sie müssen außerdem ein SPECS-Repository zu Ihrer CocoaPod-Installation hinzufügen (dadurch wird es in das Verzeichnis `~/.cocoapods/repos` klont):
 
 ```
 pod repo add livefyre https://github.com/Livefyre/cocoapods.git
 ```
 
-Nachdem Sie die Poddatei im Stammordner Ihres App-Projekts erstellt und das Repository oben hinzugefügt haben, führen Sie Folgendes aus:
+Nachdem Sie Ihre Podfile im Stammverzeichnis Ihres App-Projekts erstellt und das oben hinzugefügte Repository hinzugefügt haben, führen Sie Folgendes aus:
 
 ```
 pod install
@@ -53,11 +52,11 @@ Alternativ können Sie das Repository klonen:
 git clone https://github.com/Livefyre/StreamHub-iOS-SDK.git 
 ```
 
-Als Nächstes fügen Sie Ihrer App das Xcode-Projekt (LFSClient.xcodeproj) als Teilprojekt hinzu (einfach durch Ziehen der Datei &quot;LFSClient.xcodeproj&quot;in den Bereich &quot;Project Navigator&quot;in Xcode).
+Fügen Sie anschließend das Xcode-Projekt (LFSClient.xcodeproj) als Unterprojekt zu Ihrer App hinzu (einfach durch Ziehen der Datei LFSClient.xcodeproj in den Bereich Projektnavigator in Xcode).
 
-Sie müssen dies auch bei allen Abhängigkeiten tun ([AFNetworking](https://github.com/AFNetworking/AFNetworking), [JSONKit](https://github.com/escherba/JSONKit)).
+Dasselbe müssen Sie auch mit allen Abhängigkeiten tun ([AFNetworking](https://github.com/AFNetworking/AFNetworking), [JSONKit](https://github.com/escherba/JSONKit)).
 
-## Laden Sie alles auf einmal herunter (nicht empfohlen) {#section_rpb_f3v_zz}
+## Alles gleichzeitig herunterladen (nicht empfohlen) {#section_rpb_f3v_zz}
 
 ```
 cd ~/dev 
@@ -80,7 +79,7 @@ Sie benötigen die Datei &quot;LFSTestConfig.plist&quot;aus Livefyre, die Livefy
 
 ## Xcode-Dokumentation {#section_arl_b3v_zz}
 
-Sie können die [documentation](https://livefyre.github.com/StreamHub-iOS-SDK/) durchsuchen oder die &quot;Documentation&quot;-Zielgruppe in Ihrem Xcode (erfordert die Installation von appledoc) auf Ihrem System erstellen.
+Sie können die [Dokumentation](https://github.com/Livefyre/StreamHub-iOS-SDK) durchsuchen oder das Ziel &quot;Dokumentation&quot;in Ihrem Xcode erstellen (es ist erforderlich, dass Appledoc installiert wird).
 
 ## Voraussetzungen {#section_m5l_13v_zz}
 
@@ -88,4 +87,4 @@ StreamHub iOS SDK-Versionen seit Version 0.2.0 erfordern iOS 6.0 oder höher.
 
 ## Anhang (JSON-Unterstützung) {#section_pcd_5hv_zz}
 
-Für diejenigen, die sich die StreamHub-iOS SDK-Internale ansehen, beachten Sie, dass wir eine modifizierte Version von [JSONKit](https://github.com/escherba/JSONKit) als Standard-JSON-Parser verwenden (anstelle der von Apple bereitgestellten NSJSONSerialisierung). Wir mussten dies tun, weil der von Apple bereitgestellte Parser keine Dekodierung von JSON-Dateien unterstützt, die Ganzzahlen oder Gleitkommazahlen enthalten, die größer sind als jene, die vom System dargestellt werden können. Unsere modifizierte Version von JSONKit schneidet sehr große Zahlen auf das entsprechende Systemmaximum ab, anstatt eine Ausnahme auszulösen.
+Für diejenigen, die sich die internen StreamHub-iOS SDK ansehen, beachten Sie bitte, dass wir eine modifizierte Version von [JSONKit](https://github.com/escherba/JSONKit) als standardmäßigen JSON-Parser verwenden (anstelle der von Apple bereitgestellten NSJSONSerialization). Wir mussten dies tun, da der von Apple bereitgestellte Parser die Dekodierung von JSON-Dateien, die Ganzzahlen oder Gleitkommazahlen enthalten, die größer sind als die, die vom System dargestellt werden können, nicht unterstützt. Unsere modifizierte Version von JSONKit schneidet sehr große Zahlen auf das entsprechende Systemmaximum ab, anstatt eine Ausnahme auszulösen.
